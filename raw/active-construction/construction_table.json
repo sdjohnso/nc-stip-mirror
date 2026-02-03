@@ -1,0 +1,1045 @@
+{
+  "layer": "HiCAMS Attributes Table (Layer 3)",
+  "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
+  "pull_timestamp": "2026-02-03T20:41:20.308597+00:00",
+  "feature_count": 61,
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 68,
+        "ContractNumber": "C204702",
+        "ContractType": "CMGC",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 76,
+        "LocationsDescription": "GREENSBORO RANDOLPH MEGASITE NORTH OF US-421 AND EAST OF JULIAN AIRPORT ROAD.",
+        "ContractNickname": "Megasite Grading",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 69.44,
+        "Route": "US-421",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1643100840000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 78,
+        "ContractNumber": "C204730",
+        "ContractType": "Other",
+        "TipReference": " C-5606C   , C-5703    ",
+        "TIP": "C-5606C   ",
+        "CountyNumber": 36,
+        "LocationsDescription": "GASTONIA CITYWIDE SIGNAL SYSTEM UPGRADE AND CCTV CAMERAS.",
+        "ContractNickname": "Gastonia Signal System - MB Haynes",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 47.52,
+        "Route": "SR-1",
+        "PhysicalDivisionNumber": 12,
+        "ContractActiveDate": 1665575340000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 153,
+        "ContractNumber": "C204951",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 26,
+        "LocationsDescription": "6 NON-SYSTEM ROADS.",
+        "ContractNickname": "2024 Hoke/Cumb FDR",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 94.65,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1723451400000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 176,
+        "ContractNumber": "C205011",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 11,
+        "LocationsDescription": "BRIDGE #100007 OVER FRENCH BROAD RIVER/NSRR ON SR-1620 (FLET CHER MARTIN RD).",
+        "ContractNickname": "Fletcher Martin Rd Bridge",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1620",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1770031620000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 225,
+        "ContractNumber": "C205112",
+        "ContractType": "Design Build",
+        "TipReference": " I-5719FC  ",
+        "TIP": "I-5719FC  ",
+        "CountyNumber": 23,
+        "LocationsDescription": "I-85 FROM US-74 TO THE SOUTH CAROLINA LINE AND I-85 FROM US- 74 TO US-321.",
+        "ContractNickname": "I-85 ITS - BBH",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "I-85",
+        "PhysicalDivisionNumber": 12,
+        "ContractActiveDate": 1765208040000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 230,
+        "ContractNumber": "C205126",
+        "ContractType": "Other",
+        "TipReference": " HE-0001B  ",
+        "TIP": "HE-0001B  ",
+        "CountyNumber": 11,
+        "LocationsDescription": "FUTURE CONNECTOR ROAD (EAST FREDERICK LAW OLMSTEAD WAY) FROM  I-26 INTERCHANGE TO ROUNDABOUT.",
+        "ContractNickname": "E.Frederick Law Omstead Way",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "I-26",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1769769180000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 231,
+        "ContractNumber": "C205150",
+        "ContractType": "Design Build",
+        "TipReference": " M-0572F   ",
+        "TIP": "M-0572F   ",
+        "CountyNumber": 100,
+        "LocationsDescription": "US-19W.",
+        "ContractNickname": "19W S EWP1-Bridge Deck Repairs 34/44/55",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-19",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1767880500000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 232,
+        "ContractNumber": "DA00551",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 15,
+        "LocationsDescription": "VAR. ROADS, PARKING LOTS, ETC. IN CAMDEN, CURRITUCK, DARE (O BX), GATES, HYDE (OCRACOKE ISLAND), PASQUOTANK & PERQUIMANS",
+        "ContractNickname": "On-Call Small Construction District 1",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 9.68,
+        "Route": "US-17",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1687178880000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 233,
+        "ContractNumber": "DA00553",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 8,
+        "LocationsDescription": "DIVISION 1 COUNTIES",
+        "ContractNickname": "Div Wide Guardrail Contract",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 66.97,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1659016620000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 234,
+        "ContractNumber": "DA00604",
+        "ContractType": "Other",
+        "TipReference": " BO-2401A  ",
+        "TIP": "BO-2401A  ",
+        "CountyNumber": 28,
+        "LocationsDescription": "RODANTHE, SALVO, BUXTON, HATTERAS, & OCRACOKE",
+        "ContractNickname": "Dare & Ocracoke ADA Ramps",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-12",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1732543020000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 237,
+        "ContractNumber": "DA00633",
+        "ContractType": "Other",
+        "TipReference": " ER-5600AE ",
+        "TIP": "ER-5600AE ",
+        "CountyNumber": 28,
+        "LocationsDescription": "KITTY HAWK, NC",
+        "ContractNickname": "Kitty Hawk Landscape Enhancement",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-158",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1742816880000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 239,
+        "ContractNumber": "DA00637",
+        "ContractType": "Other",
+        "TipReference": " BO-2401A  ",
+        "TIP": "BO-2401A  ",
+        "CountyNumber": 15,
+        "LocationsDescription": "SOUTH MILLS, GATESVILLE, ELIZABETH CITY, HERTFORD, MANTEO, W AVES & AVON",
+        "ContractNickname": "District 1 Various ADA Ramps",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-12",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1732544580000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 241,
+        "ContractNumber": "DA00639",
+        "ContractType": "Other",
+        "TipReference": " HS-2401C  , HS-2401E  , HS-2401G  , HS-2401K  , HS-2401O  , HS-5401D  ",
+        "TIP": "HS-2401C  ",
+        "CountyNumber": 15,
+        "LocationsDescription": "28 SECTIONS OF PRIMARY ROADS",
+        "ContractNickname": "Division Wide Sinusoidal Rumble Strips",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-11",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1752052980000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 242,
+        "ContractNumber": "DA00641",
+        "ContractType": "Other",
+        "TipReference": " HS-2401   , HS-2401L  ",
+        "TIP": "HS-2401   ",
+        "CountyNumber": 27,
+        "LocationsDescription": "DIVISION 1 COUNTIES",
+        "ContractNickname": "Signal IDIQ",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 13.62,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1742227680000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 243,
+        "ContractNumber": "DA00642",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 28,
+        "LocationsDescription": "MANTEO",
+        "ContractNickname": "Manteo Multi-Use Path",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 87.98,
+        "Route": "US-64",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1742816400000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 244,
+        "ContractNumber": "DA00643",
+        "ContractType": "Other",
+        "TipReference": " HS-2401I  , HS-2401J  , HS-2401L  , HS-2401M  ",
+        "TIP": "HS-2401I  ",
+        "CountyNumber": 27,
+        "LocationsDescription": "ELIZABETH CITY, GRANDY, KITTY HAWK, KILL DEVILS HILL",
+        "ContractNickname": "Pedestrian Accommodations Project",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 50.49,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1758099600000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 245,
+        "ContractNumber": "DA00644",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 48,
+        "LocationsDescription": "NC-12 OCRACOKE ISLAND",
+        "ContractNickname": "Ocracoke Dune - 2025",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 93.45,
+        "Route": "NC-12",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1752050940000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 247,
+        "ContractNumber": "DA00649",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 28,
+        "LocationsDescription": "NCDOT - FERRY DIVISION",
+        "ContractNickname": "Sea Level CDD",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 71.24,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1755165660000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 248,
+        "ContractNumber": "DA00650",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 27,
+        "LocationsDescription": "NC-615 KNOTTS ISLAND CAUSEWAY",
+        "ContractNickname": "NC-615 Marsh Causeway",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-615",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1758100140000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 249,
+        "ContractNumber": "DA00672",
+        "ContractType": "Other",
+        "TipReference": " ER-5600AC ",
+        "TIP": "ER-5600AC ",
+        "CountyNumber": 58,
+        "LocationsDescription": "TOWN OF WILLIAMSTON",
+        "ContractNickname": "Martin Landscaping",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 48.1,
+        "Route": "US-64 A",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1760105040000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 251,
+        "ContractNumber": "DA00678",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 28,
+        "LocationsDescription": "NC-12 (HATTERAS ISLAND) AT PEA ISLAND",
+        "ContractNickname": "Pea Island & Canal Zone",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 91.17,
+        "Route": "NC-12",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1762326540000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 252,
+        "ContractNumber": "DA00679",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 28,
+        "LocationsDescription": "NC-12 (HATTERAS ISLAND) AT SANDY BAY",
+        "ContractNickname": "Emergency Hauling - Hatteras",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 94.66,
+        "Route": "NC-12",
+        "PhysicalDivisionNumber": 1,
+        "ContractActiveDate": 1764662400000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 272,
+        "ContractNumber": "DD00483",
+        "ContractType": "Other",
+        "TipReference": " HS-2004Y  ",
+        "TIP": "HS-2004Y  ",
+        "CountyNumber": 42,
+        "LocationsDescription": "DIVISION WIDE PRIMARY AND INTERSTATE RAMPS",
+        "ContractNickname": "WRONG WAY PVMT MARKINGS",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 41.31,
+        "Route": "I-587",
+        "PhysicalDivisionNumber": 4,
+        "ContractActiveDate": 1736426340000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 277,
+        "ContractNumber": "DE00366",
+        "ContractType": "Other",
+        "TipReference": " U-6023    ",
+        "TIP": "U-6023    ",
+        "CountyNumber": 92,
+        "LocationsDescription": "WAKE FOREST",
+        "ContractNickname": "Wake Forest Signal System/ITS",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 85.46,
+        "Route": "US-VARI",
+        "PhysicalDivisionNumber": 5,
+        "ContractActiveDate": 1691499300000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 281,
+        "ContractNumber": "DE00397",
+        "ContractType": "Other",
+        "TipReference": " HS-2005G  , HS-2005K  , HS-2005Q  ",
+        "TIP": "HS-2005G  ",
+        "CountyNumber": 92,
+        "LocationsDescription": "VARIOUS LOCATIONS IN WAKE COUNTY",
+        "ContractNickname": "SIGNAL IMPROVEMENTS",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 90.5,
+        "Route": "SR-1142",
+        "PhysicalDivisionNumber": 5,
+        "ContractActiveDate": 1741186680000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 282,
+        "ContractNumber": "DE00400",
+        "ContractType": "Other",
+        "TipReference": " HL-0031   , HS-2005I  , HS-2005J  ",
+        "TIP": "HL-0031   ",
+        "CountyNumber": 92,
+        "LocationsDescription": "VARIOUS LOCATIONS IN WAKE COUNTY",
+        "ContractNickname": "S.T. Wooten Intersection Widening",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 78.79,
+        "Route": "SR-VARI",
+        "PhysicalDivisionNumber": 5,
+        "ContractActiveDate": 1743517740000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 283,
+        "ContractNumber": "DE00403",
+        "ContractType": "Other",
+        "TipReference": " HS-2405B  , HS-2405C  ",
+        "TIP": "HS-2405B  ",
+        "CountyNumber": 32,
+        "LocationsDescription": "VARIOUS PRIMARY AND SECONDARY ROUTES IN DIVISION 5",
+        "ContractNickname": "Division 5 Wide Edgelines",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-VARI",
+        "PhysicalDivisionNumber": 5,
+        "ContractActiveDate": 1748376660000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 290,
+        "ContractNumber": "DF00441",
+        "ContractType": "Other",
+        "TipReference": " R-5786IA  , R-5786IB  , R-5786IC  ",
+        "TIP": "R-5786IA  ",
+        "CountyNumber": 9,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "DF00441 - Division TAP Concrete",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 82.19,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 6,
+        "ContractActiveDate": 1698855000000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 295,
+        "ContractNumber": "DF00470",
+        "ContractType": "Other",
+        "TipReference": " HS-2006H  , HS-2006M  , HS-2006W  , HS-2006Y  , SS-6006BE , SS-6206AH ",
+        "TIP": "HS-2006H  ",
+        "CountyNumber": 9,
+        "LocationsDescription": "VARIOUS ROUTES",
+        "ContractNickname": "Divisionwide Thermo/Sinusoidal",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 92.47,
+        "Route": "NC-24",
+        "PhysicalDivisionNumber": 6,
+        "ContractActiveDate": 1718101920000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 299,
+        "ContractNumber": "DF00493",
+        "ContractType": "Other",
+        "TipReference": " BO-2406A  ",
+        "TIP": "BO-2406A  ",
+        "CountyNumber": 9,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "ADA Concrete Installations",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 48.93,
+        "Route": "NC-130",
+        "PhysicalDivisionNumber": 6,
+        "ContractActiveDate": 1744197360000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 301,
+        "ContractNumber": "DF00501",
+        "ContractType": "Other",
+        "TipReference": " HS-2046J  , HS-2406A  , HS-2406G  , HS-2406L  ",
+        "TIP": "HS-2046J  ",
+        "CountyNumber": 9,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "Rumble Stripes & Pavement Markings",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 49.34,
+        "Route": "NC-130",
+        "PhysicalDivisionNumber": 6,
+        "ContractActiveDate": 1744187520000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 305,
+        "ContractNumber": "DF00514",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 26,
+        "LocationsDescription": "ROCK MERRITT AVE FROM NORTH OF BUTNER RD TO NORTH OF BOXCAR ST",
+        "ContractNickname": "Rock Merritt Ft Bragg",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 6,
+        "ContractActiveDate": 1767109080000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 312,
+        "ContractNumber": "DF00524",
+        "ContractType": "Other",
+        "TipReference": " HS-2406C  , HS-2406D  , HS-2406E  , HS-2406F  , HS-2406O  , HS-2406P  , HS-2406Q  ",
+        "TIP": "HS-2406C  ",
+        "CountyNumber": 9,
+        "LocationsDescription": "US 401, US 701 & NC 410",
+        "ContractNickname": null,
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 30.79,
+        "Route": "US-401",
+        "PhysicalDivisionNumber": 6,
+        "ContractActiveDate": 1757604600000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 313,
+        "ContractNumber": "DF00525",
+        "ContractType": "Other",
+        "TipReference": " HS-2406I  ",
+        "TIP": "HS-2406I  ",
+        "CountyNumber": 9,
+        "LocationsDescription": "VARIOUS LOCATIONS ON I-95, US 74, US 301, US 401, NC 24, NC 87 & SR 1007",
+        "ContractNickname": "Division Wide Guardrail",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-74",
+        "PhysicalDivisionNumber": 6,
+        "ContractActiveDate": 1763454720000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 319,
+        "ContractNumber": "DG00660",
+        "ContractType": "Other",
+        "TipReference": " BO-2407A  ",
+        "TIP": "BO-2407A  ",
+        "CountyNumber": 17,
+        "LocationsDescription": "VARIOUS LOCATIONS IN DIVISION 7 WITH POPULATIONS UNDER 5K",
+        "ContractNickname": "LMB Sidewalks & Ramps (ADA)",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 77.25,
+        "Route": "SR-1163",
+        "PhysicalDivisionNumber": 7,
+        "ContractActiveDate": 1755507420000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 322,
+        "ContractNumber": "DG00663",
+        "ContractType": "Other",
+        "TipReference": " BP7-C001  ",
+        "TIP": "BP7-C001  ",
+        "CountyNumber": 79,
+        "LocationsDescription": "EXISTING CULVERT ON SR 1785(CHURCH ST)",
+        "ContractNickname": "Culvert Church St. Eden - ACCI",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 24.46,
+        "Route": "SR-1785",
+        "PhysicalDivisionNumber": 7,
+        "ContractActiveDate": 1754986800000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 324,
+        "ContractNumber": "DG00677",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 41,
+        "LocationsDescription": "SKEET CLUB ROAD (SR 1820)",
+        "ContractNickname": "Champion Landscaping",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1820",
+        "PhysicalDivisionNumber": 7,
+        "ContractActiveDate": 1769620920000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 327,
+        "ContractNumber": "DH00571",
+        "ContractType": "Other",
+        "TipReference": " BO-2408A  ",
+        "TIP": "BO-2408A  ",
+        "CountyNumber": 76,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "DH00556 RANDOLPH ADA RAMPS",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 90.83,
+        "Route": "NC-42",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1740049440000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 328,
+        "ContractNumber": "DH00572",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 63,
+        "LocationsDescription": "VARIOUS SECONDARY ROUTES",
+        "ContractNickname": "2025 Moore Co. AST",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1744817400000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 332,
+        "ContractNumber": "DH00584",
+        "ContractType": "Other",
+        "TipReference": " BO-2408D  ",
+        "TIP": "BO-2408D  ",
+        "CountyNumber": 62,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "ADA RAMPS",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 87.55,
+        "Route": "NC-134",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1751020260000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 333,
+        "ContractNumber": "DH00585",
+        "ContractType": "Other",
+        "TipReference": " BO-2408E  ",
+        "TIP": "BO-2408E  ",
+        "CountyNumber": 62,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "ADA RAMPS",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-109",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1751021100000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 334,
+        "ContractNumber": "DH00586",
+        "ContractType": "Other",
+        "TipReference": " BO-2408F  ",
+        "TIP": "BO-2408F  ",
+        "CountyNumber": 62,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "ADA Ramps",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1753348620000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 335,
+        "ContractNumber": "DH00587",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 19,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "Waugh Chatham and Lee",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 36.94,
+        "Route": "SR-1380",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1750324440000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 337,
+        "ContractNumber": "DH00596",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 77,
+        "LocationsDescription": "VARIOUS SECONDARY ROUTES",
+        "ContractNickname": "2026 Richmond AST",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NONE-",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1763456640000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 338,
+        "ContractNumber": "DH00597",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 19,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "Fred Smith-Chatham AST 2026",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-751",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1768465860000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 354,
+        "ContractNumber": "DJ00555",
+        "ContractType": "Other",
+        "TipReference": " BO-2410B  ",
+        "TIP": "BO-2410B  ",
+        "CountyNumber": 84,
+        "LocationsDescription": "VARIOUS LOCATIONS",
+        "ContractNickname": "Stanly - Construct/Retro. Curb Ramps",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 38.55,
+        "Route": "NC-138",
+        "PhysicalDivisionNumber": 10,
+        "ContractActiveDate": 1743695700000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 355,
+        "ContractNumber": "DJ00556",
+        "ContractType": "Other",
+        "TipReference": " BO-2410C  ",
+        "TIP": "BO-2410C  ",
+        "CountyNumber": 4,
+        "LocationsDescription": "VARIOUS",
+        "ContractNickname": "Concrete Curb Ramps - Anson/Union",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 35.75,
+        "Route": "US-52",
+        "PhysicalDivisionNumber": 10,
+        "ContractActiveDate": 1744639080000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 393,
+        "ContractNumber": "DK00459",
+        "ContractType": "Other",
+        "TipReference": " HS-2411C  ",
+        "TIP": "HS-2411C  ",
+        "CountyNumber": 95,
+        "LocationsDescription": "US 421 IN WILKES AND WATAUGA COUNTY",
+        "ContractNickname": "US 421 Rumble Strips",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-421",
+        "PhysicalDivisionNumber": 11,
+        "ContractActiveDate": 1764843780000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 413,
+        "ContractNumber": "DM00455",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 12,
+        "LocationsDescription": "VARIOUS PRIMARY AND SECONDARY ROUTES",
+        "ContractNickname": "LONG LIFE PAVEMENT MARKINGS 2024",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 6.56,
+        "Route": "NC-108",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1737562260000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 422,
+        "ContractNumber": "DN00780",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 20,
+        "LocationsDescription": "VARIOUS LOCATIONS THROUGHOUT CHEROKEE COUNTY",
+        "ContractNickname": "2022 Cherokee Cty Secondary Resurfing",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 73.03,
+        "Route": "US-19",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1660232880000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 424,
+        "ContractNumber": "DN01034",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 88,
+        "LocationsDescription": "ALONG VARIOUS ROUTES THROUGHOUT TRANSYLVANIA COUNTY",
+        "ContractNickname": "Transylvania-Resurfacing, Curb Ramps",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 90.87,
+        "Route": "US-VARI",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1702552140000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 433,
+        "ContractNumber": "DN01075",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 45,
+        "LocationsDescription": "AT VARIOUS LOCATIONS ALONG US-176 IN HENDERSON COUNTY",
+        "ContractNickname": "Emergency Repair-Drainage,Erosion,Grade,",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 51.19,
+        "Route": "US-176",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1744801020000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 437,
+        "ContractNumber": "DN01089",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 88,
+        "LocationsDescription": "ALONG VARIOUS SECONDARY ROUTES THROUGHOUT TRANSYLVANIA COUNT Y",
+        "ContractNickname": "Emergency:Everett Rd,Hart Rd,Cascade Lak",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 72.88,
+        "Route": "SR-VARI",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1743440460000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 439,
+        "ContractNumber": "DN01091",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 45,
+        "LocationsDescription": "ALONG ONE ROUTE IN HENDERSON CO AND ALONG VARIOUS ROUTES IN TRANSYLVANIA CO",
+        "ContractNickname": "Helene:Grade,Drainage,Pave,Slope Stabil.",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 52.37,
+        "Route": "SR-1201",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1747319700000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 440,
+        "ContractNumber": "DN01092",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 88,
+        "LocationsDescription": "ALONG VARIOUS ROUTES THROUGHOUT TRANSYLVANIA COUNTY",
+        "ContractNickname": "Emergency: Grading,Drainage,Paving,Patch",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 81.04,
+        "Route": "US-276",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1747228620000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 442,
+        "ContractNumber": "DN01096",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 45,
+        "LocationsDescription": "AT VARIOUS LOCATIONS ALONG SR-1602 (GRANT MOUNTAIN RD)",
+        "ContractNickname": "Grant Mountain",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 74.34,
+        "Route": "SR-1602",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1748425080000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 447,
+        "ContractNumber": "DN01116",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 88,
+        "LocationsDescription": "ALONG U.S.-64 AND ALONG N.C.-215 IN TRANSYLVANIA COUNTY",
+        "ContractNickname": "Grade, Drain, Patch, Slope STB, Debris",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 62.63,
+        "Route": "US-64",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1753281000000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 448,
+        "ContractNumber": "DN01119",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 75,
+        "LocationsDescription": "BRIDGE 740112 OVER PACOLET RIVER ON SR 1179 (EDNEY ROAD)",
+        "ContractNickname": "Bridge 112 - Edney Rd.",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1179",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1770045000000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 453,
+        "ContractNumber": "DN01128",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 45,
+        "LocationsDescription": "VARIOUS SITES ALONG SR 1710 (BALD ROCK ROAD)",
+        "ContractNickname": "BALD ROCK ROAD",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 7.7,
+        "Route": "SR-1170",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1761039360000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 455,
+        "ContractNumber": "DN01130",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 75,
+        "LocationsDescription": "AT BRIDGE #740009 ON SR 1102 (PEARSON FALLS ROAD) OVER NORTH  PACOLET RIVER",
+        "ContractNickname": "Pearson Falls Bridge 9",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1102",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1770044880000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 456,
+        "ContractNumber": "DN01132",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 44,
+        "LocationsDescription": "ALONG VARIOUS SECONDARY ROUTES THROUGHOUT HAYWOOD, JACKSON, AND SWAIN COUNTIES",
+        "ContractNickname": "2026 AST",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1947",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1768210200000
+      }
+    }
+  ]
+}

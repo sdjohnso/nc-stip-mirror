@@ -1,0 +1,74 @@
+# NC STIP Mirror
+
+> Mirror of North Carolina Department of Transportation (NCDOT) transportation project data
+
+This repository contains all transportation projects from NCDOT's State Transportation Improvement Program (STIP) for all 100 North Carolina counties.
+
+## What This Contains
+
+- 2,356 transportation projects
+- All 100 NC counties
+- Project details: location, status, funding, timeline, contractor info
+- Daily construction updates, weekly planning updates
+
+## Navigation
+
+### Find Projects by County
+Path: `counties/{county-name}/index.md`
+Example: `counties/wake/index.md`, `counties/mecklenburg/index.md`
+
+County names are lowercase, spaces replaced with spaces (e.g., "new hanover" not "new-hanover").
+
+### Find a Specific Project by TIP Number
+Path: `counties/{county-name}/{TIP}.md`
+Example: `counties/pitt/U-5606.md`, `counties/wake/U-6066.md`
+
+TIP numbers are the unique identifier for each project (e.g., U-5606, I-5999, B-6012).
+
+### Statewide Overview
+Path: `index.md`
+Contains: Project counts by county, status summary, all county links
+
+### Mirror Status
+Path: `LAST_UPDATED.md`
+Contains: Last update time, data counts, error status, run history
+
+### Raw Data (JSON)
+Path: `raw/stip/stip_lines_full.json` - Full STIP dataset (line geometry)
+Path: `raw/stip/stip_points_full.json` - STIP points (bridges, intersections)
+Path: `raw/active-construction/construction_lines.json` - Construction status
+Path: `raw/progloc/progress_reports.json` - Progress/contractor data
+
+## Data Structure
+
+Each project file contains:
+- **TIP**: Project identifier
+- **Description**: What the project is
+- **Status**: Planned, Under Construction, Right-of-Way, Completed
+- **Location**: County, route, coordinates (WGS84)
+- **Funding**: Total cost, funding breakdown by year
+- **Timeline**: Start date, completion date
+- **Contractor**: (if in construction) Company name, contract amount, completion %
+
+## Data Freshness
+
+- Construction status: Updated daily at 6 AM EST
+- Project data: Updated weekly on Sundays
+- Check LAST_UPDATED.md for exact timestamps
+
+## Example Queries an AI Could Answer
+
+- "What transportation projects are planned for Wake County?"
+- "Show me the status of TIP U-5606"
+- "Which counties have the most active construction?"
+- "What is the total funding for Mecklenburg County projects?"
+- "Find all bridge projects in eastern NC"
+
+## Source Attribution
+
+All data from North Carolina Department of Transportation (NCDOT).
+Official STIP: https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx
+
+## License
+
+CC0 - Public Domain. Use freely without restriction.

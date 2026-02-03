@@ -1,0 +1,1126 @@
+{
+  "durham": [
+    {
+      "tip": "EB-4707A",
+      "primary_county": "orange",
+      "description": "US 15 / US 501 in Orange County to SR 1113 (Pope Road) in Durham County. Construct bicycle, pedestrian, and transit improvements and construct roundabout.",
+      "route": "SR 1838 (Old Durham) / SR 2220 (Old Chapel Hill Road)"
+    },
+    {
+      "tip": "HI-0001",
+      "primary_county": "granville",
+      "description": "North of SR 1637 (Redwood Road) in Durham County to south of US 15 / SR 1100 (Gate One Road) in Granville County. Rehabilitate pavement.",
+      "route": "I-85 / US 15"
+    },
+    {
+      "tip": "HP-0006",
+      "primary_county": "orange",
+      "description": "Chapel Hill Carrboro. Implement an improved signal system for the Town of Chapel Hill and Town of Carrboro.",
+      "route": "Various"
+    },
+    {
+      "tip": "I-0305A",
+      "primary_county": "orange",
+      "description": "West of SR 1006 (Orange Grove Road) in Orange County to west of SR 1400 (Sparger Road) in Durham County. Add lanes.",
+      "route": "I-85"
+    },
+    {
+      "tip": "I-5995",
+      "primary_county": "wake",
+      "description": "East of NC 147 to SR 1728 (Wade Avenue). Rehabilitate pavement.",
+      "route": "I-40"
+    },
+    {
+      "tip": "I-5998",
+      "primary_county": "wake",
+      "description": "I-40 in Durham to US 70 in Raleigh. Rehabilitate pavement.",
+      "route": "I-540"
+    },
+    {
+      "tip": "I-6000",
+      "primary_county": "wake",
+      "description": "I-40 in Durham to US 1 in Raleigh. Rehabilitate pavement and bridge preservation.",
+      "route": "I-540"
+    },
+    {
+      "tip": "U-5304F",
+      "primary_county": "orange",
+      "description": "SR 1742 (Ephesus Church Road) to I-40. Construct corridor capacity improvements.",
+      "route": "US 15 / US 501"
+    },
+    {
+      "tip": "U-5518",
+      "primary_county": "wake",
+      "description": "West of SR 3067 (T.W. Alexander Drive) to I-540 in Raleigh. . Upgrade roadway to improve capacity, safety and traffic operations including interchanges at various locations.",
+      "route": "US 70 (Glenwood Avenue)"
+    },
+    {
+      "tip": "U-5774B",
+      "primary_county": "orange",
+      "description": "West of US 15 / US 501 in Orange County to east of SR 1110 (Barbee Chapel Road) in Durham County. Upgrade roadway corridor.",
+      "route": "NC 54"
+    }
+  ],
+  "nash": [
+    {
+      "tip": "EB-5763",
+      "primary_county": "edgecombe",
+      "description": "River Drive to Monk Street in Rocky Mount. Upgrade abandoned railroad to multi-use path.",
+      "route": "US 301 Business (Church Street)"
+    },
+    {
+      "tip": "HB-0001A",
+      "primary_county": "martin",
+      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "route": "US 64 (Future I-87)"
+    },
+    {
+      "tip": "I-5986C",
+      "primary_county": "robeson",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "route": "I-95"
+    },
+    {
+      "tip": "I-6046",
+      "primary_county": "edgecombe",
+      "description": "SR 1603 (Old Carriage Road) to SR 1225 (Kingsboro Road). Rehabilitate bridge.",
+      "route": "US 64 (Future I-87)"
+    },
+    {
+      "tip": "P-5711C",
+      "primary_county": "edgecombe",
+      "description": "National Gateway Corridor. Construct highway improvements",
+      "route": "CSX A Line"
+    }
+  ],
+  "transylvania": [
+    {
+      "tip": "EB-6037B",
+      "primary_county": "henderson",
+      "description": "Brevard Bike Path in Brevard to Kangua Road in Hendersonville. Construct multi-use path.",
+      "route": "Ecusta Trail"
+    }
+  ],
+  "hyde": [
+    {
+      "tip": "F-5700",
+      "primary_county": "dare",
+      "description": "Hatteras to Ocracoke Ferry. Purchase river class ferry.",
+      "route": "Hatteras Ferry"
+    },
+    {
+      "tip": "F-5702C",
+      "primary_county": "dare",
+      "description": "Hatteras to Ocracoke Ferry. Construct two passenger ferries.",
+      "route": "Hatteras to Ocracoke Ferry"
+    },
+    {
+      "tip": "F-5704",
+      "primary_county": "carteret",
+      "description": "Cedar Island to Ocracoke Ferry. Replace M/V Silver Lake Sound Class Ferry.",
+      "route": "Cedar Island to Ocracoke Ferry"
+    }
+  ],
+  "halifax": [
+    {
+      "tip": "F-5702E",
+      "primary_county": "dare",
+      "description": "Hatteras and Ocracoke terminals. Construct dock improvements.",
+      "route": "Hatteras to Ocracoke Ferry"
+    },
+    {
+      "tip": "HS-2004R",
+      "primary_county": "edgecombe",
+      "description": "Pitt County line to US 64 in Edgecombe County, and Princeville to SR 1102 (Mullin Road) in Halifax County. Install pavement markings and rumble stripes.",
+      "route": "US 258"
+    },
+    {
+      "tip": "HS-2004X",
+      "primary_county": "nash",
+      "description": "North of SR 1425 (Castalia Road) in Nash County to NC 561 in Halifax County. Install rumble stripes.",
+      "route": "NC 43 "
+    },
+    {
+      "tip": "I-5986C",
+      "primary_county": "robeson",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "route": "I-95"
+    }
+  ],
+  "new hanover": [
+    {
+      "tip": "F-5707",
+      "primary_county": "brunswick",
+      "description": "South Port Ferry Terminal . Construct mooring facilities.",
+      "route": "South Port to Fort Fisher Ferry"
+    },
+    {
+      "tip": "R-2633D",
+      "primary_county": "brunswick",
+      "description": "US 17 south of NC 87 in Brunswick County to I-40 in New Hanover County. Implementation of Intelligent Transportation Systems (ITS).",
+      "route": "I-140/US 17 (Wilmington Bypass)."
+    },
+    {
+      "tip": "R-3300A",
+      "primary_county": "pender",
+      "description": "US 17 Bypass south of Hampstead to NC 210. Construct freeway on new location.",
+      "route": "US 17"
+    }
+  ],
+  "edgecombe": [
+    {
+      "tip": "HB-0001A",
+      "primary_county": "martin",
+      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "route": "US 64 (Future I-87)"
+    },
+    {
+      "tip": "HS-2002S",
+      "primary_county": "pitt",
+      "description": "NC 118 in Craven County to SR 1730 (Herman Garris Road) in Pitt County, and SR 1205 (Rock Spring Road) to southern limits of Falkland, and northern limits of Falkland in Pitt County to NC 42 in Edgecombe County. Install rumble stripes and pavement markings.",
+      "route": "NC 43"
+    }
+  ],
+  "washington": [
+    {
+      "tip": "HB-0001A",
+      "primary_county": "martin",
+      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "route": "US 64 (Future I-87)"
+    }
+  ],
+  "dare": [
+    {
+      "tip": "HB-0001A",
+      "primary_county": "martin",
+      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "route": "US 64 (Future I-87)"
+    }
+  ],
+  "tyrrell": [
+    {
+      "tip": "HB-0001A",
+      "primary_county": "martin",
+      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "route": "US 64 (Future I-87)"
+    }
+  ],
+  "lee": [
+    {
+      "tip": "HB-0034",
+      "primary_county": "chatham",
+      "description": "Bridge 180169 over Deep River. Replace bridge.",
+      "route": "SR 1007 (Plank Road)"
+    }
+  ],
+  "swain": [
+    {
+      "tip": "HF-0007",
+      "primary_county": "graham",
+      "description": "NC 28 to End of Maintenance. Resurface and repair corridor.",
+      "route": "SR 1286 / SR 1383 (Tsali Road)"
+    }
+  ],
+  "davidson": [
+    {
+      "tip": "HI-0002",
+      "primary_county": "randolph",
+      "description": "NC 109 in Thomasville to SR 1009 (South Main Street) in Archdale. Pavement rehabilitation.",
+      "route": "I-85"
+    },
+    {
+      "tip": "HI-0005",
+      "primary_county": "forsyth",
+      "description": "SR 4205 (S. Main Street) in Forsyth County to SR 3010 (Old US 52) in Davidson County. Rehabilitate pavement.",
+      "route": "I-285 / US 52 (Future I-74) / NC 8"
+    }
+  ],
+  "wake": [
+    {
+      "tip": "HI-0013",
+      "primary_county": "nash",
+      "description": "The US 64 / US 264 split to the Wilson County line. Rehabilitate pavement.",
+      "route": "US 264 (Future I-587)"
+    },
+    {
+      "tip": "R-2814C",
+      "primary_county": "franklin",
+      "description": "NC 96 to SR 1103 (Flat Rock Church Road / Clifton Pond Road). Widen to four-lane median divided facility.",
+      "route": "US 401"
+    },
+    {
+      "tip": "R-5777D",
+      "primary_county": "craven",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "route": "US 70 (Future I-42)"
+    },
+    {
+      "tip": "TO-6166D",
+      "primary_county": "johnston",
+      "description": "Various locations. Construct infrastructure, purchase vehicles and establish service for bus rapid transit from Garner to Clayton",
+      "route": "Various"
+    }
+  ],
+  "johnston": [
+    {
+      "tip": "HI-0013",
+      "primary_county": "nash",
+      "description": "The US 64 / US 264 split to the Wilson County line. Rehabilitate pavement.",
+      "route": "US 264 (Future I-587)"
+    },
+    {
+      "tip": "I-5111",
+      "primary_county": "wake",
+      "description": "I-440 / US 64 (Exit 301) to NC 42 (Exit 312). . Add two general purpose lanes in each direction.",
+      "route": "I-40"
+    },
+    {
+      "tip": "I-5986B",
+      "primary_county": "harnett",
+      "description": "SR 1002 (Long Branch Road) (Exit 71) to I-40 (Exit 81). Widen to eight lanes.",
+      "route": "I-95"
+    },
+    {
+      "tip": "I-5986BA",
+      "primary_county": "harnett",
+      "description": "SR 1001 (Long Branch Road) (Exit 71) to I-40 (Exit 81). Clear for utilities.",
+      "route": "I-95"
+    },
+    {
+      "tip": "I-5986C",
+      "primary_county": "robeson",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "route": "I-95"
+    },
+    {
+      "tip": "R-2828",
+      "primary_county": "wake",
+      "description": "Southern Wake Freeway / Triangle Expressway Southeast Extension (Raleigh Outer Loop), east of US 401 to I-40. This is a toll project. Construct freeway on new location.",
+      "route": "New Route (Future NC 540)"
+    },
+    {
+      "tip": "R-5777D",
+      "primary_county": "craven",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "route": "US 70 (Future I-42)"
+    },
+    {
+      "tip": "R-5829A",
+      "primary_county": "wayne",
+      "description": "US 70 Bypass to west of SR 2372 (Edwards Road / North Pearl Street). Upgrade roadway to freeway standards.",
+      "route": "US 70"
+    },
+    {
+      "tip": "TO-6166",
+      "primary_county": "wake",
+      "description": "Various locations. Construct Infrastructure for rapid bus transit from Research Triangle Park to Clayton",
+      "route": "GoRaleigh"
+    }
+  ],
+  "robeson": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002B",
+      "primary_county": "anson",
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002C",
+      "primary_county": "columbus",
+      "description": "I-95 in Lumberton to I-140 in Wilmington. Install broadband.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002D",
+      "primary_county": "columbus",
+      "description": "Eastern end of Monroe Bypass to I-140 in Wilmington. Install flood gates and flood monitoring.",
+      "route": "US 74"
+    },
+    {
+      "tip": "I-6011",
+      "primary_county": "columbus",
+      "description": "Near Lumberton to US 76 near Chadbourn. Upgrade US 74 to interstate standards.",
+      "route": "US 74 (Future I-74)"
+    },
+    {
+      "tip": "U-2519F",
+      "primary_county": "cumberland",
+      "description": "Fayetteville outer loop. Install ITS for Fayetteville outer loop.",
+      "route": "I-295 (Fayetteville Outer Loop)"
+    }
+  ],
+  "cleveland": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "I-5719FD",
+      "primary_county": "gaston",
+      "description": "South Carolina state line to NC 273. . Implement Intelligent Transportation System (ITS) Statewide Resilience, connected vehicle technology, and traveler information.",
+      "route": "I-85"
+    }
+  ],
+  "anson": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002D",
+      "primary_county": "columbus",
+      "description": "Eastern end of Monroe Bypass to I-140 in Wilmington. Install flood gates and flood monitoring.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HS-2010C",
+      "primary_county": "union",
+      "description": "US 74 in Anson County to US 601 in Union County, and from Mill Grove Road in Union County to I-485 in Mecklenburg County. Install milled rumble stripes.",
+      "route": "NC 218"
+    }
+  ],
+  "gaston": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002A",
+      "primary_county": "cleveland",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "route": "U 74"
+    },
+    {
+      "tip": "I-5719FC",
+      "primary_county": "cleveland",
+      "description": "South Carolina state line to US 74. . Install broadband.",
+      "route": "I-85"
+    },
+    {
+      "tip": "W-5712U",
+      "primary_county": "cleveland",
+      "description": "Mile marker 19.3 to Gaston County line and from the Cleveland County line to mile marker 1.2. Construct safety improvements.",
+      "route": "NC 150"
+    }
+  ],
+  "polk": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002A",
+      "primary_county": "cleveland",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "route": "U 74"
+    }
+  ],
+  "scotland": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002B",
+      "primary_county": "anson",
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002D",
+      "primary_county": "columbus",
+      "description": "Eastern end of Monroe Bypass to I-140 in Wilmington. Install flood gates and flood monitoring.",
+      "route": "US 74"
+    }
+  ],
+  "henderson": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002A",
+      "primary_county": "cleveland",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "route": "U 74"
+    },
+    {
+      "tip": "I-4700",
+      "primary_county": "buncombe",
+      "description": "NC 280 (Exit 40) to I-40 at Asheville. . Construct additional lanes.",
+      "route": "I-26"
+    }
+  ],
+  "richmond": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002B",
+      "primary_county": "anson",
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002D",
+      "primary_county": "columbus",
+      "description": "Eastern end of Monroe Bypass to I-140 in Wilmington. Install flood gates and flood monitoring.",
+      "route": "US 74"
+    },
+    {
+      "tip": "I-6055",
+      "primary_county": "scotland",
+      "description": "US 74 Business east of Hamlet to US 74 Business west of Laurinburg. Upgrade corridor to interstate standards.",
+      "route": "US 74 / Future I-74"
+    }
+  ],
+  "rutherford": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002A",
+      "primary_county": "cleveland",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "route": "U 74"
+    },
+    {
+      "tip": "W-5813J",
+      "primary_county": "mcdowell",
+      "description": "US 64 in Rutherford County to the McDowell County line; Rutherford County line to I-40. Install sinusoidal centerline rumble stripes and long life pavement markings.",
+      "route": "US 221"
+    }
+  ],
+  "mecklenburg": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002A",
+      "primary_county": "cleveland",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "route": "U 74"
+    },
+    {
+      "tip": "HS-2010C",
+      "primary_county": "union",
+      "description": "US 74 in Anson County to US 601 in Union County, and from Mill Grove Road in Union County to I-485 in Mecklenburg County. Install milled rumble stripes.",
+      "route": "NC 218"
+    },
+    {
+      "tip": "I-4750AA",
+      "primary_county": "iredell",
+      "description": "SR 5544 (West Catawba Avenue) to NC 150. Construct high occupancy/toll (hot) lanes.",
+      "route": "I-77"
+    },
+    {
+      "tip": "R-5721A",
+      "primary_county": "lincoln",
+      "description": "NC 16 to Vance Road Extension / Beatties Ford Road in Huntersville. Widen to multi-lanes.",
+      "route": "NC 73"
+    },
+    {
+      "tip": "U-4714AC",
+      "primary_county": "union",
+      "description": "East of I-485 to west of Morningside Meadow Lane. Widen to multi-lanes.",
+      "route": "SR 1009 (John Street / Old Monroe Road)"
+    },
+    {
+      "tip": "U-4913",
+      "primary_county": "union",
+      "description": "SR 3175 (Stallings Road) to SR 1524 (Stevens Mill Road). Widen roadway.",
+      "route": "SR 3174 / SR 1501 (Idlewild Road)"
+    },
+    {
+      "tip": "U-4913B",
+      "primary_county": "union",
+      "description": "I-485 to SR 1524 (Stevens Mill Road). Widen to six lanes.",
+      "route": "SR 3174 / SR 1501 (Idlewild Road)"
+    }
+  ],
+  "brunswick": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002C",
+      "primary_county": "columbus",
+      "description": "I-95 in Lumberton to I-140 in Wilmington. Install broadband.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002D",
+      "primary_county": "columbus",
+      "description": "Eastern end of Monroe Bypass to I-140 in Wilmington. Install flood gates and flood monitoring.",
+      "route": "US 74"
+    },
+    {
+      "tip": "P-5740",
+      "primary_county": "new hanover",
+      "description": "Wilmington. Construct Wilmington Beltline Speed Improvements",
+      "route": "CSX Southeast Line"
+    },
+    {
+      "tip": "P-5740A",
+      "primary_county": "new hanover",
+      "description": "Wilmington. Rehabilitate ties and curves, realign curve, upgrade bridges.",
+      "route": "CSX SE Line"
+    },
+    {
+      "tip": "P-5740C",
+      "primary_county": "new hanover",
+      "description": "Wilmington. Install railroad grade crossing signals and gates at various at-grade crossings.",
+      "route": "CSX SE Line"
+    }
+  ],
+  "buncombe": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002A",
+      "primary_county": "cleveland",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "route": "U 74"
+    },
+    {
+      "tip": "I-4400C",
+      "primary_county": "henderson",
+      "description": "US 25 Business to NC 280. Widen to add additional lanes.",
+      "route": "I-26"
+    },
+    {
+      "tip": "U-6048",
+      "primary_county": "haywood",
+      "description": "SR 1836 (Chestnut Mountain Road) to SR 1200 (Wiggins Road). Upgrade roadway.",
+      "route": "US 19 / US 23"
+    }
+  ],
+  "union": [
+    {
+      "tip": "HO-0002",
+      "primary_county": "columbus",
+      "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002B",
+      "primary_county": "anson",
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS.",
+      "route": "US 74"
+    },
+    {
+      "tip": "HO-0002D",
+      "primary_county": "columbus",
+      "description": "Eastern end of Monroe Bypass to I-140 in Wilmington. Install flood gates and flood monitoring.",
+      "route": "US 74"
+    }
+  ],
+  "harnett": [
+    {
+      "tip": "HP-0020",
+      "primary_county": "cumberland",
+      "description": "SR 1117 (Nursery Road) to SR 1451 (Manchester Road). Widen roadway.",
+      "route": "NC 24 / NC 87"
+    },
+    {
+      "tip": "I-5986A",
+      "primary_county": "cumberland",
+      "description": "I-95 Business / US 301 (Exit 56) to SR 1001 (Long Branch Road) (Exit 81). Widen to eight lanes.",
+      "route": "I-95"
+    },
+    {
+      "tip": "I-5986C",
+      "primary_county": "robeson",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "route": "I-95"
+    },
+    {
+      "tip": "R-5705B",
+      "primary_county": "wake",
+      "description": "NC 210 to SR 4809 (Jicarilla Lane).  Widen to multi-lanes, partially on new location.",
+      "route": "NC 55"
+    }
+  ],
+  "hertford": [
+    {
+      "tip": "HS-2001G",
+      "primary_county": "bertie",
+      "description": "SR 1302 (Lea Lumber Company Road) in Bertie County to north of SR 1418 (Arrow Road) in Hertford County, and SR 1212 (Shortcut Road) in Hertford County to US 158 in Gates County; 450 feet south of SR 1130 (Modlin Road) to US 13. Install rumble stripes and pavement markings.",
+      "route": "US 13; NC 11 / SR 1212 (Shortcut Road)"
+    }
+  ],
+  "gates": [
+    {
+      "tip": "HS-2001G",
+      "primary_county": "bertie",
+      "description": "SR 1302 (Lea Lumber Company Road) in Bertie County to north of SR 1418 (Arrow Road) in Hertford County, and SR 1212 (Shortcut Road) in Hertford County to US 158 in Gates County; 450 feet south of SR 1130 (Modlin Road) to US 13. Install rumble stripes and pavement markings.",
+      "route": "US 13; NC 11 / SR 1212 (Shortcut Road)"
+    }
+  ],
+  "wayne": [
+    {
+      "tip": "HS-2002AD",
+      "primary_county": "lenoir",
+      "description": "West of NC 903 to NC 11. Install rumble stripes.",
+      "route": "NC 55 "
+    },
+    {
+      "tip": "R-5777D",
+      "primary_county": "craven",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "route": "US 70 (Future I-42)"
+    }
+  ],
+  "onslow": [
+    {
+      "tip": "HS-2002Q",
+      "primary_county": "lenoir",
+      "description": "NC 24 to US 70 in Kinston. Install rumble stripes.",
+      "route": "US 258"
+    }
+  ],
+  "jones": [
+    {
+      "tip": "HS-2002Q",
+      "primary_county": "lenoir",
+      "description": "NC 24 to US 70 in Kinston. Install rumble stripes.",
+      "route": "US 258"
+    },
+    {
+      "tip": "R-2514B",
+      "primary_county": "onslow",
+      "description": "South of Belgrade to north of Maysville. Widen to multi-lanes with bypasses of Belgrade, Maysville and Pollocksville on new location.",
+      "route": "US 17"
+    }
+  ],
+  "craven": [
+    {
+      "tip": "HS-2002S",
+      "primary_county": "pitt",
+      "description": "NC 118 in Craven County to SR 1730 (Herman Garris Road) in Pitt County, and SR 1205 (Rock Spring Road) to southern limits of Falkland, and northern limits of Falkland in Pitt County to NC 42 in Edgecombe County. Install rumble stripes and pavement markings.",
+      "route": "NC 43"
+    }
+  ],
+  "greene": [
+    {
+      "tip": "HS-2002T",
+      "primary_county": "pitt",
+      "description": "Wilson County line to SR 1128 (Davenport Farm Road) / SR 1206 (Bell Arthur Road) in Pitt County. Install rumble stripes.",
+      "route": "US 264"
+    },
+    {
+      "tip": "R-5814",
+      "primary_county": "lenoir",
+      "description": "SR 1101 (Browntown Road) to SR 2010 (C.F. Harvey parkway). Widen to multi-lanes.",
+      "route": "US 258"
+    }
+  ],
+  "sampson": [
+    {
+      "tip": "HS-2003AH",
+      "primary_county": "duplin",
+      "description": "I-40 in Sampson County to Wayne County line. Install guardrail.",
+      "route": "US 117 (Future I-785)"
+    },
+    {
+      "tip": "U-3125A",
+      "primary_county": "duplin",
+      "description": "I-40 to SR 1006 (West Trade Road). Upgrade roadway to interstate standards, partially on new location.",
+      "route": "US 117 (Future I-795)"
+    }
+  ],
+  "forsyth": [
+    {
+      "tip": "HS-2009F",
+      "primary_county": "davidson",
+      "description": "Mile marker 0.256 in Forsyth County to mile marker 38.367 in Davidson County. . Install centerline and edgeline sinusoidal rumble stripes.",
+      "route": "NC 109"
+    },
+    {
+      "tip": "I-0911A",
+      "primary_county": "davie",
+      "description": "West of NC 801 in Davie County to SR 1101 (Harper Road) in Forsyth County. Add lanes.",
+      "route": "I-40"
+    },
+    {
+      "tip": "I-5981C",
+      "primary_county": "guilford",
+      "description": "NC 66 to US 421 / I-40 Business. Widen to six lanes.",
+      "route": "I-40"
+    }
+  ],
+  "jackson": [
+    {
+      "tip": "HS-2014E",
+      "primary_county": "haywood",
+      "description": "SR 1392 (Barkers Creek Road) to east of SR 1388 (Dicks Creek Road) and from Jackson County line to Bridges 050107 and 050110. Improve pavement.",
+      "route": "US 74"
+    }
+  ],
+  "burke": [
+    {
+      "tip": "HS-2413A",
+      "primary_county": "rutherford",
+      "description": "SR 1008 (Bills Creek Road) to Rutherfordton western municipal limit. Install long life pavement markings.",
+      "route": "US 64 / NC 18; US 64 / US 74"
+    },
+    {
+      "tip": "HS-2413B",
+      "primary_county": "rutherford",
+      "description": "Rutherfordton Northeast Municipal Limit to Morganton Southwest Municipal Limit. Install long life pavement markings.",
+      "route": "US 64"
+    },
+    {
+      "tip": "U-4700A",
+      "primary_county": "catawba",
+      "description": "North of US 70 in Hickory to US 321A. Widen to six lanes.",
+      "route": "US 321"
+    }
+  ],
+  "mcdowell": [
+    {
+      "tip": "HS-2413B",
+      "primary_county": "rutherford",
+      "description": "Rutherfordton Northeast Municipal Limit to Morganton Southwest Municipal Limit. Install long life pavement markings.",
+      "route": "US 64"
+    }
+  ],
+  "warren": [
+    {
+      "tip": "I-0914BA",
+      "primary_county": "vance",
+      "description": "South of US 158 in Vance County to North of SR 1237 (Manson Drewry Road) in Warren County. Rehabilitate pavement and upgrade signs.",
+      "route": "I-85"
+    }
+  ],
+  "rowan": [
+    {
+      "tip": "I-3802A",
+      "primary_county": "cabarrus",
+      "description": "NC 73 intersection in Cabarrus County (Exit 55) to SR 2180 (Lane Street) in Cabarrus County. Widen to eight lanes.",
+      "route": "I-85"
+    }
+  ],
+  "surry": [
+    {
+      "tip": "I-5912",
+      "primary_county": "yadkin",
+      "description": "US 21 in Yadkin County (Exit 79) to mile marker 83.4 in Surry County. Rehabilitate pavement.",
+      "route": "I-77"
+    },
+    {
+      "tip": "R-5913",
+      "primary_county": "yadkin",
+      "description": "Commerce Street in Elkin to North Bridge Street in Jonesville; Bridge 850021 over Yadkin River. Widen roadway. Construct roundabouts at West Main Street and Elm Street and Elm Street and North Bridge Street. Improve bicycle and pedestrian connections; Rehabilitate bridge and widen sidewalks.",
+      "route": "NC 67; US 21 Business"
+    }
+  ],
+  "catawba": [
+    {
+      "tip": "I-5915A",
+      "primary_county": "iredell",
+      "description": "Mile marker 130.7 to mile marker 150.2. Rehabilitate pavement.",
+      "route": "I-40"
+    },
+    {
+      "tip": "I-5915B",
+      "primary_county": "iredell",
+      "description": "Mile marker 130.7 to mile marker 150.2. Rehabilitate bridge.",
+      "route": "I-40"
+    },
+    {
+      "tip": "R-2307B",
+      "primary_county": "iredell",
+      "description": "SR 1840 (Greenwood Road) in Catawba County to west of SR 1303 / SR 1180 (Perth Road / Doolie Road) in Iredell County; SR 1383 / SR 1180 to US 21 in Iredell County. Widen to four lanes; Widen to six lanes.",
+      "route": "NC 150"
+    },
+    {
+      "tip": "R-3603A",
+      "primary_county": "alexander",
+      "description": "SR 1400 (Cloninger Mill Road) to SR 1156 (Richey Road). Upgrade two lanes and construct multi-lane curb and gutter. Construct right turn lane on NC 127 at SR 1146 (Bethlehem School Road).",
+      "route": "NC 127"
+    }
+  ],
+  "pender": [
+    {
+      "tip": "I-5940",
+      "primary_county": "duplin",
+      "description": "Duplin County line (mile marker 360) to west of US 117 (mile marker 390). . Rehabilitate bridge and pavement.",
+      "route": "I-40"
+    },
+    {
+      "tip": "I-6039",
+      "primary_county": "new hanover",
+      "description": "End I-40 (mile marker 420) to NC 210 (mile marker 408). Rehabilitate pavement.",
+      "route": "I-40"
+    }
+  ],
+  "cumberland": [
+    {
+      "tip": "I-5986C",
+      "primary_county": "robeson",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "route": "I-95"
+    },
+    {
+      "tip": "R-2303B",
+      "primary_county": "sampson",
+      "description": "SR 1853 (John Nunnery Road) in Cumberland County to SR 1404 (Dowdy Road) in Sampson County. Construct four lane divide freeway, partially on new location.",
+      "route": "NC 24"
+    },
+    {
+      "tip": "U-2519AA",
+      "primary_county": "robeson",
+      "description": "I-95 in Robeson County to south of SR 1118 (Parkton Road) in Cumberland County. Construct freeway on new location.",
+      "route": "I-295 (Fayetteville Outer Loop)"
+    }
+  ],
+  "wilson": [
+    {
+      "tip": "I-5986C",
+      "primary_county": "robeson",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "route": "I-95"
+    }
+  ],
+  "northampton": [
+    {
+      "tip": "I-5986C",
+      "primary_county": "robeson",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "route": "I-95"
+    }
+  ],
+  "iredell": [
+    {
+      "tip": "I-5992",
+      "primary_county": "mecklenburg",
+      "description": "Mile marker 11.0 to mile marker 20.0 and mile marker 24.5 to mile marker 37. Rehabilitate pavement.",
+      "route": "I-77"
+    },
+    {
+      "tip": "I-6065",
+      "primary_county": "mecklenburg",
+      "description": "I-485 to NC 150. Construct peak period shoulder use lanes.",
+      "route": "I-77"
+    }
+  ],
+  "franklin": [
+    {
+      "tip": "I-6001",
+      "primary_county": "wake",
+      "description": "SR 1003 (Rolesville Road) to Nash County line. Rehabilitate pavement.",
+      "route": "I-87 / US 64 (Future I-87) / US 264 (Future I-587)"
+    },
+    {
+      "tip": "P-5753BA",
+      "primary_county": "wake",
+      "description": "NC 98 to Franklinton. Improve rail-line.",
+      "route": "CXS S Line"
+    }
+  ],
+  "duplin": [
+    {
+      "tip": "R-2303F",
+      "primary_county": "sampson",
+      "description": "SR 1935 (Cecil Odie Road) in Sampson County to I-40 in Duplin County. Construct four lane divide freeway, partially on new location.",
+      "route": "NC 24"
+    },
+    {
+      "tip": "U-3125B",
+      "primary_county": "wayne",
+      "description": "SR 1006 (West Trade Street) to north of SR 1135 (Country Club Road). Upgrade roadway to interstate standards, partially on new location.",
+      "route": "US 117 (Future I-795)"
+    }
+  ],
+  "lincoln": [
+    {
+      "tip": "R-2307A",
+      "primary_county": "catawba",
+      "description": "Relocated NC 16 (STIP Project R-2206) to east of SR 1840 (Greenwood Road). Widen to four lanes with a bypass of the Terrell Historic District.",
+      "route": "NC 150"
+    }
+  ],
+  "beaufort": [
+    {
+      "tip": "R-2511",
+      "primary_county": "martin",
+      "description": "Washington Bypass north of NC 171 to multi-lanes south of Williamston. Widen to four lanes.",
+      "route": "US 17"
+    }
+  ],
+  "cabarrus": [
+    {
+      "tip": "R-5706A",
+      "primary_county": "mecklenburg",
+      "description": "East of SR 2693 (Davidson-Concord Road) to east of SR 1394 (Popular Tent Road) in Mecklenburg County. Widen to multi-lanes.",
+      "route": "NC 73 (Davidson Highway)"
+    },
+    {
+      "tip": "R-5860",
+      "primary_county": "rowan",
+      "description": "Proposed Misenheimer Bypass to Granite Quarry Bypass. Widen to three lane roadway.",
+      "route": "US 52"
+    },
+    {
+      "tip": "R-5860A",
+      "primary_county": "rowan",
+      "description": "Proposed Misenheimer Bypass to proposed Rockwell Bypass. Widen to three lane roadway.",
+      "route": "US 52"
+    },
+    {
+      "tip": "U-6032",
+      "primary_county": "mecklenburg",
+      "description": "I-485 to SR 2894 (Concord Mills Boulevard). Widen to six lanes.",
+      "route": "SR 2467 (Mallard Creek Road) / SR 1445 (Derita Road)"
+    }
+  ],
+  "moore": [
+    {
+      "tip": "R-5709",
+      "primary_county": "hoke",
+      "description": "US 15 / US 501 in Aberdeen to east of SR 1244 (West Palmer Street) / SR 1311 (Mockingbird Hill Road) in Raeford. . Widen to a four lane divided facility.",
+      "route": "NC 211"
+    },
+    {
+      "tip": "R-5709A",
+      "primary_county": "hoke",
+      "description": "US 15 / US 501 in Aberdeen to east of SR 1244 (West Palmer Street) / SR 1311 (Mockingbird Hill Road) in Raeford. Clearing, grubbing, and erosion control.",
+      "route": "NC 211"
+    },
+    {
+      "tip": "R-5709B",
+      "primary_county": "hoke",
+      "description": "US 15 / US 501 in Aberdeen to 0.40 miles north of SR 1225 (Ashemont Road). Widen to multi-lanes.",
+      "route": "NC 211"
+    }
+  ],
+  "currituck": [
+    {
+      "tip": "R-5717",
+      "primary_county": "camden",
+      "description": "NC 343 in Camden County to NC 168 in Currituck County. Widen existing lanes and shoulders, and construct intersection improvement.",
+      "route": "SR 1227 / SR 1208 (South Mills Road); SR 1224 / SR 1223 (Old Swamp Road)"
+    }
+  ],
+  "lenoir": [
+    {
+      "tip": "R-5777D",
+      "primary_county": "craven",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "route": "US 70 (Future I-42)"
+    }
+  ],
+  "carteret": [
+    {
+      "tip": "R-5777D",
+      "primary_county": "craven",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "route": "US 70 (Future I-42)"
+    }
+  ],
+  "pasquotank": [
+    {
+      "tip": "R-5808",
+      "primary_county": "gates",
+      "description": "SR 1002 (Acorn Hill Road) to Pasquotank County line. Modernize roadway.",
+      "route": "US 158"
+    }
+  ],
+  "guilford": [
+    {
+      "tip": "R-5823",
+      "primary_county": "rockingham",
+      "description": "US 158 in Stokesdale in Guilford County to I-73 / US 220 in Rockingham County. Construct multiple intersection improvements along corridor.",
+      "route": "NC 65 / NC 68"
+    },
+    {
+      "tip": "R-5889",
+      "primary_county": "rockingham",
+      "description": "North of I-785 in Greensboro to US 158 / NC 14 in Reidsville. Upgrade corridor to interstate standards.",
+      "route": "US 29 (Future I-785)"
+    },
+    {
+      "tip": "R-5889B",
+      "primary_county": "rockingham",
+      "description": "NC 150 to US 158 / NC 14 in Reidsville. Upgrade corridor to interstate standards.",
+      "route": "US 29 (Future I-785)"
+    },
+    {
+      "tip": "U-3400",
+      "primary_county": "randolph",
+      "description": "US 311 (Main Street) to east of Springwood Lane in Archdale. Widen to multi-lanes.",
+      "route": "SR 1577 / SR 1004 (Archdale Road)"
+    },
+    {
+      "tip": "U-5864",
+      "primary_county": "randolph",
+      "description": "I-85 in Trinity to SR 1300 (West Fairfield Road) in High Point.  . Widen to multi-lanes.",
+      "route": "SR 1595 / SR 4053 (Surrett Drive)"
+    }
+  ],
+  "chowan": [
+    {
+      "tip": "R-5938",
+      "primary_county": "gates",
+      "description": "NC 37 (Gliden Road) to Virginia State line. Modernize roadway.",
+      "route": "NC 32"
+    }
+  ],
+  "caldwell": [
+    {
+      "tip": "U-4700A",
+      "primary_county": "catawba",
+      "description": "North of US 70 in Hickory to US 321A. Widen to six lanes.",
+      "route": "US 321"
+    },
+    {
+      "tip": "U-4700AA",
+      "primary_county": "burke",
+      "description": "Bridge 130367 over Lake Hickory. Construct interim structure improvements.",
+      "route": "US 321"
+    }
+  ],
+  "hoke": [
+    {
+      "tip": "U-5798B",
+      "primary_county": "cumberland",
+      "description": "SR 1418 (Lindsay Road) to north of SR 1112 (Stoney Point Road). . Widen to four lanes.",
+      "route": "SR 1102 (Gillis Hill Road)"
+    }
+  ]
+}

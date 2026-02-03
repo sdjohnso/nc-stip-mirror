@@ -1,0 +1,9 @@
+# NCDOT Transportation Mirror Dependencies
+# Keep lightweight for GitHub Actions
+
+# API calls
+requests>=2.31.0
+
+# Excel file reading and processing (for ProgLoc)
+pandas>=2.0.0
+openpyxl>=3.1.0
