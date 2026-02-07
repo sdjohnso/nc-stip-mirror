@@ -10,9 +10,9 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 90 |
-| 🚧 Under Construction | 601 |
-| 📋 Right-of-Way | 290 |
+| 🏗️ Active Construction | 97 |
+| 🚧 Under Construction | 598 |
+| 📋 Right-of-Way | 286 |
 | 📅 Planned | 1,237 |
 | ✅ Completed | 138 |
 
@@ -30,14 +30,14 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Bertie](counties/bertie/index.md) | 7 | 0 | 4 |
 | [Bladen](counties/bladen/index.md) | 7 | 2 | 2 |
 | [Brunswick](counties/brunswick/index.md) | 25 (+6) | 0 | 9 |
-| [Buncombe](counties/buncombe/index.md) | 73 (+4) | 1 | 37 |
-| [Burke](counties/burke/index.md) | 19 (+3) | 0 | 8 |
+| [Buncombe](counties/buncombe/index.md) | 73 (+4) | 0 | 38 |
+| [Burke](counties/burke/index.md) | 19 (+3) | 1 | 8 |
 | [Cabarrus](counties/cabarrus/index.md) | 31 (+4) | 0 | 12 |
-| [Caldwell](counties/caldwell/index.md) | 23 (+2) | 0 | 13 |
+| [Caldwell](counties/caldwell/index.md) | 23 (+2) | 3 | 13 |
 | [Camden](counties/camden/index.md) | 5 | 1 | 1 |
 | [Carteret](counties/carteret/index.md) | 24 (+1) | 0 | 12 |
 | [Caswell](counties/caswell/index.md) | 2 | 0 | 2 |
-| [Catawba](counties/catawba/index.md) | 30 (+4) | 0 | 14 |
+| [Catawba](counties/catawba/index.md) | 30 (+4) | 1 | 14 |
 | [Chatham](counties/chatham/index.md) | 24 | 0 | 18 |
 | [Cherokee](counties/cherokee/index.md) | 8 | 0 | 6 |
 | [Chowan](counties/chowan/index.md) | 1 (+1) | 0 | 1 |
@@ -53,7 +53,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Duplin](counties/duplin/index.md) | 13 (+2) | 0 | 6 |
 | [Durham](counties/durham/index.md) | 52 (+10) | 9 | 25 |
 | [Edgecombe](counties/edgecombe/index.md) | 25 (+2) | 2 | 6 |
-| [Forsyth](counties/forsyth/index.md) | 87 (+3) | 0 | 50 |
+| [Forsyth](counties/forsyth/index.md) | 87 (+3) | 1 | 49 |
 | [Franklin](counties/franklin/index.md) | 14 (+2) | 0 | 12 |
 | [Gaston](counties/gaston/index.md) | 48 (+4) | 13 | 21 |
 | [Gates](counties/gates/index.md) | 2 (+1) | 0 | 1 |
@@ -69,7 +69,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Hoke](counties/hoke/index.md) | 7 (+1) | 0 | 3 |
 | [Hyde](counties/hyde/index.md) | 2 (+3) | 0 | 0 |
 | [Iredell](counties/iredell/index.md) | 52 (+2) | 0 | 29 |
-| [Jackson](counties/jackson/index.md) | 17 (+1) | 0 | 8 |
+| [Jackson](counties/jackson/index.md) | 17 (+1) | 1 | 8 |
 | [Johnston](counties/johnston/index.md) | 53 (+9) | 5 | 30 |
 | [Jones](counties/jones/index.md) | 4 (+2) | 0 | 2 |
 | [Lee](counties/lee/index.md) | 15 (+1) | 0 | 8 |
@@ -105,7 +105,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Scotland](counties/scotland/index.md) | 10 (+3) | 0 | 6 |
 | [Stanly](counties/stanly/index.md) | 11 | 0 | 5 |
 | [Stokes](counties/stokes/index.md) | 2 | 0 | 0 |
-| [Surry](counties/surry/index.md) | 16 (+2) | 0 | 8 |
+| [Surry](counties/surry/index.md) | 16 (+2) | 1 | 8 |
 | [Swain](counties/swain/index.md) | 5 (+1) | 0 | 4 |
 | [Transylvania](counties/transylvania/index.md) | 15 (+1) | 0 | 8 |
 | [Tyrrell](counties/tyrrell/index.md) | 3 (+1) | 0 | 2 |
@@ -138,5 +138,5 @@ researchers, and AI assistants.
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-02-03*  
-*Mirror Updated: 2026-02-03*
+*Last NCDOT Update: 2026-02-07*  
+*Mirror Updated: 2026-02-07*

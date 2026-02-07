@@ -6,8 +6,9 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 4 |
-| 📋 Right-of-Way | 3 |
+| 📋 Right-of-Way | 2 |
 | 📅 Planned | 8 |
 | ✅ Completed | 1 |
 
@@ -16,7 +17,7 @@
 | TIP | Description | Route | Status |
 |-----|-------------|-------|--------|
 | [AV-5859](AV-5859.md) | Mount Airy-Surry County Airport. Construct gene... | MWK | ✅ Completed |
-| [B-5831](B-5831.md) | Bridge 850006 over NC 268, Norfolk Southern Rai... | I-77 Northbound | 📋 Right-of-Way |
+| [B-5831](B-5831.md) | Bridge 850006 over NC 268, Norfolk Southern Rai... | I-77 Northbound | 🏗️ Active Construction (0%) |
 | [B-5832](B-5832.md) | Bridge 850152 over Ararat River. Replace bridge. | SR 2080 (Quaker Church... | 📅 Planned |
 | [BR-0210](BR-0210.md) | Bridge 850153 over Hogan Creek. Replace bridge. | SR 2081 (Hardy Road) | 📅 Planned |
 | [EB-5845](EB-5845.md) | S. South Street from SR 1371 (Worth Street) to ... | Various | 📅 Planned |
@@ -44,5 +45,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-02-03*  
-*Mirror Updated: 2026-02-03*
+*Last NCDOT Update: 2026-02-07*  
+*Mirror Updated: 2026-02-07*

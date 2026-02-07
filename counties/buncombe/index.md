@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 22 |
 | 📋 Right-of-Way | 6 |
-| 📅 Planned | 37 |
+| 📅 Planned | 38 |
 | ✅ Completed | 7 |
 
 ## All Projects
@@ -29,7 +28,7 @@
 | [EB-5947](EB-5947.md) | Beverly Road to SR 2034 (Bell Road) in Ashevill... | SR 2032 (New Haw Creek... | 📅 Planned |
 | [EB-5948](EB-5948.md) | Lincoln Avenue to Raleigh Road in Asheville. Co... | SR 3075 (Onteora Boule... | 🚧 Under Construction |
 | [EB-5965](EB-5965.md) | US 19 / US 23 / US 74A (Patton Avenue) to Westm... | Deaverview Road | 📅 Planned |
-| [HE-0001](HE-0001.md) | SR 3865 (Frederick Law Olmstead Way East) inter... | I-26 | 🏗️ Active Construction (0%) |
+| [HE-0001](HE-0001.md) | SR 3865 (Frederick Law Olmstead Way East) inter... | I-26 | 📅 Planned |
 | [HL-0013](HL-0013.md) | Bridge 100522 over Tomahawk Branch in Black Mou... | 9th Street | 📅 Planned |
 | [HL-0014](HL-0014.md) | White Fawn Drive intersection in Asheville. Ins... | SR 3214 (Biltmore Avenue) | 📅 Planned |
 | [HS-2013K](HS-2013K.md) | SR 2106 (Parker Cove Road) to SR 2114 (Sugar Co... | SR 1003 (Reems Creek R... | 📅 Planned |
@@ -104,5 +103,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-02-03*  
-*Mirror Updated: 2026-02-03*
+*Last NCDOT Update: 2026-02-07*  
+*Mirror Updated: 2026-02-07*

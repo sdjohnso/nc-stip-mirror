@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-03T20:41:20.308597+00:00",
-  "feature_count": 164,
+  "pull_timestamp": "2026-02-07T00:31:38.913197+00:00",
+  "feature_count": 165,
   "features": [
     {
       "attributes": {
@@ -9363,7 +9363,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1598 (DICKINSON AVE) FROM NC-11 TO SR-1610 (READE CR).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Dickinson Ave",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.41,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1598",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1652716500000
@@ -13654,7 +13654,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM MILE MARKER 153.20 (NC-148) TO MILE MARKER 167.00.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I95-Rehab-Halifax County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.53,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1638369540000
@@ -46811,7 +46811,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE I-74 (WINSTON-SALEM NORTHERN BELTWAY) FROM US-311 TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "AA BELTWAY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1669027080000
@@ -46854,7 +46854,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1142 (PRISON CAMP RD) FROM NC-903 TO SR-1182 (EAST COLLEG E RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "PRISON CAMP RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1142",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1663162200000
@@ -53083,7 +53083,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 FROM SOUTH OF SR-1532 (OAK GROVE CHURCH RD) TO NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Barnhill R-5705A / Angier Bypass A phase",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1697634900000
@@ -53337,7 +53337,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1009 (JOHN STREET/OLD MONROE ROAD) FROM EAST OF I-485 INT ERCHANGE TO SR 1377 (WESLEY CHAPEL-STOUTS ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1009",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698852660000
@@ -59527,7 +59527,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1137 (JUSTUS RD) FROM END OF PAVEMENT TO END OF MAINTENAN CE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Justus Road, Grade, Drain & Base",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1137",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1658997660000
@@ -62756,7 +62756,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/129 FROM GEORGIA STATE LINE TO US-64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 129, Cherokee County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1707132300000
@@ -94367,7 +94367,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1541  (PAYNE BRANCH ROAD) FROM SR 1547 0.81 MILES",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DK00423: Payne Branch Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1541",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744898340000
@@ -96652,7 +96652,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-45 FROM WASHINGTON COUNTY LINE TO US-17.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 45",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-45",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748614980000
@@ -107376,7 +107376,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-65 (BETHANIA-RURAL HALL RD) FROM US-52 TO SR-3983 (NORTHR IDGE PARK DR).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BETHANIA RURAL HALL",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.17,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-65",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755702540000
@@ -108520,7 +108520,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1441 (CHALYBEATE SPRINGS RD) BETWEEN NC 55 AND US 401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chalybeate Springs Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1441",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757322840000
@@ -122938,7 +122938,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 126 ON SR 1723 (TURLINGTON ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Structrure #126 Over Stewart Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1723",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755250860000
@@ -122969,7 +122969,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-46 FROM THE VIRGINIA STATE LINE TO NC-48.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 46 Fred Smith",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-46",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765785300000
@@ -124112,7 +124112,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1203 (ALLEN RD) FROM SR-1467 (STANTONSBURG RD) TO US-13 ( DICKINSON AVE EXT).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Allen Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.23,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1203",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765795020000
@@ -127269,6 +127269,57 @@
             [
               -79.05745221119315,
               35.89347701128429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 100261,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C205126",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HE-0001B  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HE-0001B  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE CONNECTOR ROAD (EAST FREDERICK LAW OLMSTEAD WAY) FROM  I-26 INTERCHANGE TO ROUNDABOUT.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "E.Frederick Law Omstead Way",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769769180000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -82.5811048903932,
+              35.50239880895329
+            ],
+            [
+              -82.58021585704141,
+              35.50227845726783
+            ],
+            [
+              -82.57876552105968,
+              35.50277266703214
+            ],
+            [
+              -82.57710959110247,
+              35.50347355373723
+            ],
+            [
+              -82.57518651711844,
+              35.50368070311031
+            ],
+            [
+              -82.57326453651514,
+              35.503912868599706
+            ],
+            [
+              -82.57143713850193,
+              35.504412224995995
             ]
           ]
         ]

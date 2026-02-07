@@ -6,7 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🚧 Under Construction | 6 |
+| 🏗️ Active Construction | 1 |
+| 🚧 Under Construction | 5 |
 | 📋 Right-of-Way | 1 |
 | 📅 Planned | 8 |
 | ✅ Completed | 4 |
@@ -32,7 +33,7 @@
 | [R-3430B](R-3430B.md) | Bridge 110010 over Catawba River. Replace bridge. | SR 1001 (Connelly Spri... | 📋 Right-of-Way |
 | [R-5967](R-5967.md) | Industrial Park. Improve access road. | SR 1687 (Goat Farm Road) | 🚧 Under Construction |
 | [RX-2013C](RX-2013C.md) | Norfolk Southern Crossing 729506G in Morganton.... | Hogan Street | 📅 Planned |
-| [U-4700AA](U-4700AA.md) | 🗺️ Bridge 130367 over Lake Hickory. Construct inte... | US 321 | 🚧 Under Construction |
+| [U-4700AA](U-4700AA.md) | 🗺️ Bridge 130367 over Lake Hickory. Construct inte... | US 321 | 🏗️ Active Construction (0%) |
 | [U-5836](U-5836.md) | SR 1414 (St Mary's Church Road) to Morganton ET... | NC 181 | 📅 Planned |
 
 ## Projects Spanning This County
@@ -48,5 +49,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-02-03*  
-*Mirror Updated: 2026-02-03*
+*Last NCDOT Update: 2026-02-07*  
+*Mirror Updated: 2026-02-07*

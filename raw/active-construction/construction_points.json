@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-03T20:41:20.308597+00:00",
+  "pull_timestamp": "2026-02-07T00:31:38.913197+00:00",
   "feature_count": 234,
   "features": [
     {
@@ -560,7 +560,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT SR-1168 (N ACADEMY ST/LATTIMORE RD) AND BRIDGES 220 048 AND 220049 ON US-74 OVER SANDY RUN CREEK.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 over Sandy Run Creek -Design Build",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1699359780000
@@ -639,7 +639,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS ON NCSU CAMPUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NCSU CAMPUS CONNECTED VEHICLE INFR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1012",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690386300000
@@ -803,31 +803,6 @@
           [
             -78.79526677541276,
             35.588214010432836
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 33650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204176",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " P-5705A   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "P-5705A   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 60,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CHARLOTTE GATEWAY STATION - RAIL (STI); WYE CONNECTION TRACK  AT CHARLOTTE JUNCTION.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.81,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1701426060000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.90875939866122,
-            35.221736616277944
           ]
         ]
       }
@@ -1001,7 +976,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #32 OVER SAVANNAH CREEK ON NC-116.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 116 Rhinehart Straight",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-116",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708602240000
@@ -1180,7 +1155,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 21 BUSINESS (NORTH BRIDGE STREET) & NC 26 8 (CC CAMP ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "North Bridge Street",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1713448260000
@@ -1481,31 +1456,6 @@
           [
             -75.6887577041983,
             35.21824155892651
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 70450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204929",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BR-0093   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BR-0093   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 79,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780035 OVER MAYO RIVER ON NC-770 AND SR- 1395 (JANET  ROAD) FROM US-220 TO NC-770.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 770 MAYO BRIDGE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.46,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-770",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723032060000
-      },
-      "geometry": {
-        "points": [
-          [
-            -79.95066899844497,
-            36.471030393376786
           ]
         ]
       }
@@ -1858,7 +1808,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 40 OVER RICHLAND SWAMP",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Red Springs Road Culvert & Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1303",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1732187580000
@@ -3834,31 +3784,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 116050,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DB00623",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BP2-R004  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BP2-R004  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 74,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "PITT COUNTY",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pitt 6 JC Galloway",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.82,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1756",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1751884800000
-      },
-      "geometry": {
-        "points": [
-          [
-            -77.22520888814526,
-            35.5338908750384
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 116850,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205061",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -3868,7 +3793,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #400224 OVER SOUTH BUFFALO CREEK ON SR-3000 (MCCONNEL L RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MCCONNELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3000",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1752141780000
@@ -4218,7 +4143,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 552 OVER BIG LAUREL CREEK ON SR-1460 (ACCESS RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "SR-1460 (ACCESS RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1460",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754315520000
@@ -4372,7 +4297,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF NC 180 & SR 2202",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 180 and Joe's Lake Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-180",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755506160000
@@ -4451,7 +4376,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 440036 ON SR 1586 (SOUTH MILLS GAP ROAD) OVER CLE AR CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "South Mills Gap",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1586",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756386120000
@@ -4538,7 +4463,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #500608 OVER NEUSE RIVER ON SR-1923 AND BRIDGE #50004 2 OVER I-95 ON US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #608 and #042 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.89,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1923",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757512920000
@@ -5054,7 +4979,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 980147 ON SR 1581 (DAL ROAD) OVER UT OF L OGAN CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Yadkin Bridge #147 on Dal Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1581",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760692860000
@@ -5104,7 +5029,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1148 (GRASSY ISLAND ROAD) OVER COLEMAN'S CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Richmond Co Brdg 91 Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1148",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761042600000
@@ -5354,7 +5279,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 48 OVER LANIER SWAMP SR-1510 (MILL RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #48",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1510",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762959300000
@@ -5861,7 +5786,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40/US-311 AT NC-109 INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-109 at I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768218360000
@@ -6154,6 +6079,81 @@
           [
             -79.011673691029,
             36.25531413167966
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 148850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205011",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100007 OVER FRENCH BROAD RIVER/NSRR ON SR-1620 (FLET CHER MARTIN RD).",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Fletcher Martin Rd Bridge",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1620",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770031620000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.62214908755608,
+            35.70863304315056
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 148851,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN01130",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT BRIDGE #740009 ON SR 1102 (PEARSON FALLS ROAD) OVER NORTH  PACOLET RIVER",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pearson Falls Bridge 9",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770044880000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.32203915064756,
+            35.22030836969026
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 149250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN01119",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 740112 OVER PACOLET RIVER ON SR 1179 (EDNEY ROAD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 112 - Edney Rd.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1179",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770045000000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.27072846794496,
+            35.2240605140623
           ]
         ]
       }

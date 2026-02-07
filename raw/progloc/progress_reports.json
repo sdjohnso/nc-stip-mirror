@@ -1,10 +1,10 @@
 {
   "source": "NCDOT ProgLoc (Construction Progress Report)",
   "source_url": "https://apps.ncdot.gov/traffictravel/progloc/ExportProgLocToExcel.aspx",
-  "pull_timestamp": "2026-02-03T20:40:41.368053+00:00",
-  "total_contracts": 774,
-  "contracts_with_tip": 348,
-  "unique_tips": 406,
+  "pull_timestamp": "2026-02-07T00:31:44.361042+00:00",
+  "total_contracts": 772,
+  "contracts_with_tip": 346,
+  "unique_tips": 404,
   "contracts": [
     {
       "Contract Number": "C203567",
@@ -15,7 +15,7 @@
       "Route": "NC-55",
       "Location Description": "NC-55 (ALSTON AVE) FROM NC-147 (BUCK DEAN FREEWAY) TO NORTH OF US-70BUS/NC-98 (HOLLOWAY ST).",
       "Contract Amount": 39756916.81,
-      "Estimate Number": 108,
+      "Estimate Number": 109,
       "Length": "1.134 miles",
       "Contractor": "ZACHRY CONSTRUCTION CORPORATION",
       "Federal Aid Number": "STP-55(20)",
@@ -25,10 +25,10 @@
       "Work Began Date": "2016-10-05 00:00:00",
       "Completion Date": "2020-03-30 00:00:00",
       "Revised Completion Date": "2024-09-30 00:00:00",
-      "Construction Progress": 0.9467,
-      "Completion Percent": 0.9467,
-      "Latest Payment Thru": "2025-12-15 00:00:00",
-      "Latest Payment Date": "2025-12-30 08:10:00"
+      "Construction Progress": 0.9462,
+      "Completion Percent": 0.9462,
+      "Latest Payment Thru": "2026-01-15 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204027",
@@ -63,7 +63,7 @@
       "Route": "SR-1598",
       "Location Description": "SR-1598 (DICKINSON AVE) FROM NC-11 TO SR-1610 (READE CR).",
       "Contract Amount": 15747596.21,
-      "Estimate Number": 40,
+      "Estimate Number": 41,
       "Length": "1.344 miles",
       "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
       "Federal Aid Number": "STP-1598(3)",
@@ -73,10 +73,10 @@
       "Work Began Date": "2022-06-02 00:00:00",
       "Completion Date": "2027-03-03 00:00:00",
       "Revised Completion Date": "2027-10-16 00:00:00",
-      "Construction Progress": 0.8522,
-      "Completion Percent": 0.8522,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-13 09:10:00"
+      "Construction Progress": 0.8641,
+      "Completion Percent": 0.8641,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "C204110",
@@ -279,7 +279,7 @@
       "Route": "US-158",
       "Location Description": "US-158/NC-46 FROM I-95/NC-46 IN ROANOKE RAPIDS TO SR-1312 (ST JOHN CHURCH ST).",
       "Contract Amount": 81907374.49,
-      "Estimate Number": 75,
+      "Estimate Number": 76,
       "Length": "8.197 miles",
       "Contractor": "THALLE CONSTRUCTION CO INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -289,10 +289,10 @@
       "Work Began Date": "2019-09-23 00:00:00",
       "Completion Date": "2024-03-13 00:00:00",
       "Revised Completion Date": "2027-01-27 00:00:00",
-      "Construction Progress": 0.8638,
-      "Completion Percent": 0.8638,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-07 09:10:00"
+      "Construction Progress": 0.8661,
+      "Completion Percent": 0.8661,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C204225",
@@ -423,7 +423,7 @@
       "Route": "US-17",
       "Location Description": "US-17 BUS (MARKET ST) FROM SR-1403 TO SR-2734 IN WILMINGTON.",
       "Contract Amount": 24654091.3,
-      "Estimate Number": 83,
+      "Estimate Number": 84,
       "Length": "1.67 miles",
       "Contractor": "SEALAND CONTRACTORS CORP",
       "Federal Aid Number": "STATE FUNDED",
@@ -433,10 +433,10 @@
       "Work Began Date": "2019-04-04 00:00:00",
       "Completion Date": "2022-11-11 00:00:00",
       "Revised Completion Date": "2024-03-21 00:00:00",
-      "Construction Progress": 0.8605,
-      "Completion Percent": 0.8605,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-13 09:10:00"
+      "Construction Progress": 0.9203,
+      "Completion Percent": 0.9203,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204339",
@@ -471,7 +471,7 @@
       "Route": "SR-1625",
       "Location Description": "GRADE SEPARATION AT SR-1625 (ROGERS LAKE RD) OVER NS/NCRR AN D CLOSURE OF AT-GRADE CROSSING #724408Y IN KANNAPOLIS.",
       "Contract Amount": 16278563.65,
-      "Estimate Number": 31,
+      "Estimate Number": 32,
       "Length": "0.73 miles",
       "Contractor": "NJR GROUP INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -481,10 +481,10 @@
       "Work Began Date": "2023-05-25 00:00:00",
       "Completion Date": "2026-12-12 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.6819,
-      "Completion Percent": 0.6819,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2025-12-30 08:10:00"
+      "Construction Progress": 0.698,
+      "Completion Percent": 0.698,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204348",
@@ -519,7 +519,7 @@
       "Route": "NC-105",
       "Location Description": "BRIDGE OVER WATAUGA RIVER AND LEFT TURN LANE AT SR-1112 (BROADSTONE RD) ON NC-105 WITHIN R-2566B LIMITS.",
       "Contract Amount": 20238196.05,
-      "Estimate Number": 46,
+      "Estimate Number": 47,
       "Length": "0.429 miles",
       "Contractor": "WRIGHT BROTHERS CONSTRUCTION COMPANY INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -529,10 +529,10 @@
       "Work Began Date": "2022-02-02 00:00:00",
       "Completion Date": "2025-05-15 00:00:00",
       "Revised Completion Date": "2026-02-02 00:00:00",
-      "Construction Progress": 0.6994,
-      "Completion Percent": 0.6994,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-12 09:10:00"
+      "Construction Progress": 0.7041,
+      "Completion Percent": 0.7041,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204356",
@@ -591,7 +591,7 @@
       "Route": "I-95",
       "Location Description": "I-95 FROM MILE MARKER 153.20 (NC-148) TO MILE MARKER 167.00.",
       "Contract Amount": 12575000,
-      "Estimate Number": 30,
+      "Estimate Number": 31,
       "Length": "13.8 miles",
       "Contractor": "FSC II LLC DBA ROSE BROTHERS PAVING COMPANY",
       "Federal Aid Number": "NHPIM-0095(060)",
@@ -601,10 +601,10 @@
       "Work Began Date": "2021-12-01 00:00:00",
       "Completion Date": "2023-09-01 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.8448,
-      "Completion Percent": 0.8448,
-      "Latest Payment Thru": "2025-11-30 00:00:00",
-      "Latest Payment Date": "2025-12-09 09:10:00"
+      "Construction Progress": 0.8653,
+      "Completion Percent": 0.8653,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "C204369",
@@ -711,7 +711,7 @@
       "Route": "SR-1706",
       "Location Description": "BRIDGE #120109 OVER US-29 (NORTH CANNON BLVD) ON SR-1706 (MA RTIN LUTHER KING JR AVENUE).",
       "Contract Amount": 5729282.16,
-      "Estimate Number": 4,
+      "Estimate Number": 5,
       "Length": "0.224 miles",
       "Contractor": "NJR GROUP INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -721,10 +721,10 @@
       "Work Began Date": "2025-03-10 00:00:00",
       "Completion Date": "2027-03-30 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.1378,
-      "Completion Percent": 0.1378,
-      "Latest Payment Thru": "2025-06-30 00:00:00",
-      "Latest Payment Date": "2025-07-08 09:10:00"
+      "Construction Progress": 0.2166,
+      "Completion Percent": 0.2166,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204389",
@@ -1167,7 +1167,7 @@
       "Route": "SR-2316",
       "Location Description": "SR-2316 (NORTHCROSS DR) FROM NORTH OF NC-73 (SAM FURR RD) TO  SR-2147 (WESTMORELAND RD).",
       "Contract Amount": 20860000,
-      "Estimate Number": 17,
+      "Estimate Number": 18,
       "Length": "1.79 miles",
       "Contractor": "SEALAND CONTRACTORS CORP",
       "Federal Aid Number": "STBGDA-1001(093)",
@@ -1177,10 +1177,10 @@
       "Work Began Date": "2024-09-04 00:00:00",
       "Completion Date": "2027-03-14 00:00:00",
       "Revised Completion Date": "2027-05-28 00:00:00",
-      "Construction Progress": 0.4483,
-      "Completion Percent": 0.4483,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-08 09:10:00"
+      "Construction Progress": 0.4867,
+      "Completion Percent": 0.4867,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204505",
@@ -1335,7 +1335,7 @@
       "Route": "NC-194",
       "Location Description": "BRIDGES #040032 ON NC-194, #040507 ON SR-1644, #040478 ON SR -1514, AND #040019 ON NC-194.",
       "Contract Amount": 5750777,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "0.277 miles",
       "Contractor": "SAFFO CONTRACTORS INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -1345,10 +1345,10 @@
       "Work Began Date": "2025-10-01 00:00:00",
       "Completion Date": "2026-10-31 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.2508,
-      "Completion Percent": 0.2508,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-09 10:10:00"
+      "Construction Progress": 0.2669,
+      "Completion Percent": 0.2669,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C204568",
@@ -1551,7 +1551,7 @@
       "Route": "I-440",
       "Location Description": "I-440 FROM WEST OF LAKE BOONE TRAIL TO EAST OF SR-2000 (WAKE  FOREST RD) IN RALEIGH.",
       "Contract Amount": 26387244.89,
-      "Estimate Number": 35,
+      "Estimate Number": 36,
       "Length": "5.15 miles",
       "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
       "Federal Aid Number": "0440024",
@@ -1563,8 +1563,8 @@
       "Revised Completion Date": "2025-01-29 00:00:00",
       "Construction Progress": 0.935,
       "Completion Percent": 0.935,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-09 10:10:00"
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204657",
@@ -1639,30 +1639,6 @@
       "Latest Payment Date": "2026-01-23 08:10:00"
     },
     {
-      "Contract Number": "C204702",
-      "Division": 8,
-      "County": "Randolph",
-      "TIP#": null,
-      "Tier": "Statewide",
-      "Route": "US-421",
-      "Location Description": "GREENSBORO RANDOLPH MEGASITE NORTH OF US-421 AND EAST OF JULIAN AIRPORT ROAD.",
-      "Contract Amount": 17265284.5,
-      "Estimate Number": 65,
-      "Length": "0 miles",
-      "Contractor": "AMES CONSTRUCTION INC",
-      "Federal Aid Number": "STATE FUNDED",
-      "NCDOT Contact": "Justin T. Richardson",
-      "NCDOT Contact No": 9107738000,
-      "Letting Date": "2022-01-05 00:00:00",
-      "Work Began Date": "2022-01-20 00:00:00",
-      "Completion Date": "2023-08-01 00:00:00",
-      "Revised Completion Date": "2024-08-14 00:00:00",
-      "Construction Progress": 0.6944,
-      "Completion Percent": 0.6944,
-      "Latest Payment Thru": "2025-11-17 00:00:00",
-      "Latest Payment Date": "2025-11-25 08:10:00"
-    },
-    {
       "Contract Number": "C204711",
       "Division": 2,
       "County": "Beaufort",
@@ -1671,7 +1647,7 @@
       "Route": "SR-1112",
       "Location Description": "BRIDGE #060009 OVER BLOUNTS CREEK ON SR-1112 (MOUTH OF THE C REEK ROAD).",
       "Contract Amount": 11018000,
-      "Estimate Number": 1,
+      "Estimate Number": 2,
       "Length": "0.398 miles",
       "Contractor": "SANFORD CONTRACTORS INC",
       "Federal Aid Number": "1112019",
@@ -1681,10 +1657,10 @@
       "Work Began Date": "2025-12-01 00:00:00",
       "Completion Date": "2028-10-28 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0311,
-      "Completion Percent": 0.0311,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2025-12-30 08:10:00"
+      "Construction Progress": 0.0594,
+      "Completion Percent": 0.0594,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204715",
@@ -1719,7 +1695,7 @@
       "Route": "US-64",
       "Location Description": "BRIDGE #99 OVER NORFOLK SOUTHERN RAILROAD ON US-64/US-70 IN MORGANTON.",
       "Contract Amount": 22957187.28,
-      "Estimate Number": 32,
+      "Estimate Number": 33,
       "Length": "0.496 miles",
       "Contractor": "MOUNTAIN CREEK CONTRACTORS INC",
       "Federal Aid Number": "NHPP-0064(180)",
@@ -1729,10 +1705,10 @@
       "Work Began Date": "2023-07-05 00:00:00",
       "Completion Date": "2027-02-08 00:00:00",
       "Revised Completion Date": "2027-03-29 00:00:00",
-      "Construction Progress": 0.7698,
-      "Completion Percent": 0.7698,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-13 09:10:00"
+      "Construction Progress": 0.78,
+      "Completion Percent": 0.78,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C204721",
@@ -2199,7 +2175,7 @@
       "Route": "NC-68",
       "Location Description": "NC-68 AT SR-2129 (FOGLEMAN RD) TO NC-150 IN OAK RIDGE.",
       "Contract Amount": 10497020.93,
-      "Estimate Number": 11,
+      "Estimate Number": 12,
       "Length": "0.742 miles",
       "Contractor": "YATES CONSTRUCTION CO INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -2209,10 +2185,10 @@
       "Work Began Date": "2024-03-15 00:00:00",
       "Completion Date": "2026-03-14 00:00:00",
       "Revised Completion Date": "2027-03-19 00:00:00",
-      "Construction Progress": 0.2686,
-      "Completion Percent": 0.2686,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-12 09:10:00"
+      "Construction Progress": 0.2834,
+      "Completion Percent": 0.2834,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204772",
@@ -2284,7 +2260,7 @@
       "Construction Progress": 0.3624,
       "Completion Percent": 0.3624,
       "Latest Payment Thru": "2026-01-15 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "C204786",
@@ -2651,11 +2627,11 @@
       "Division": 7,
       "County": "Rockingham",
       "TIP#": "B-5716",
-      "Tier": null,
+      "Tier": "Subregional",
       "Route": "SR-1138",
       "Location Description": "BRIDGE #780140 OVER DAN RIVER ON SR-1138.",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 12940823.6,
+      "Estimate Number": 1,
       "Length": "0.426 miles",
       "Contractor": "BLYTHE CONSTRUCTION INC",
       "Federal Aid Number": "BRZ-1138(021)",
@@ -2665,9 +2641,9 @@
       "Work Began Date": "2025-11-20 00:00:00",
       "Completion Date": "2028-12-12 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
+      "Construction Progress": 0.0335,
+      "Completion Percent": 0.0335,
+      "Latest Payment Thru": "2025-12-31 00:00:00",
       "Latest Payment Date": null
     },
     {
@@ -2703,7 +2679,7 @@
       "Route": "NC-45",
       "Location Description": "NC-45 FROM WASHINGTON COUNTY LINE TO US-17.",
       "Contract Amount": 11778894,
-      "Estimate Number": 7,
+      "Estimate Number": 8,
       "Length": "8.096 miles",
       "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
       "Federal Aid Number": "4697601",
@@ -2713,10 +2689,10 @@
       "Work Began Date": "2025-06-03 00:00:00",
       "Completion Date": "2027-11-11 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.2783,
-      "Completion Percent": 0.2783,
-      "Latest Payment Thru": "2025-12-19 00:00:00",
-      "Latest Payment Date": "2025-12-23 08:10:00"
+      "Construction Progress": 0.3492,
+      "Completion Percent": 0.3492,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "C204836",
@@ -2760,7 +2736,7 @@
       "Letting Date": "2023-06-20 00:00:00",
       "Work Began Date": "2023-08-24 00:00:00",
       "Completion Date": "2027-03-14 00:00:00",
-      "Revised Completion Date": "2027-06-12 00:00:00",
+      "Revised Completion Date": "2027-06-17 00:00:00",
       "Construction Progress": 0.4672,
       "Completion Percent": 0.4672,
       "Latest Payment Thru": "2025-12-31 00:00:00",
@@ -2943,7 +2919,7 @@
       "Route": "US-158",
       "Location Description": "US-158 FROM SR-1002 (ACORN HILL ROAD) TO EAST OF PASQUOTANK COUNTY LINE.",
       "Contract Amount": 20776667.76,
-      "Estimate Number": 10,
+      "Estimate Number": 11,
       "Length": "4.106 miles",
       "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
       "Federal Aid Number": "0158076",
@@ -2953,10 +2929,10 @@
       "Work Began Date": "2025-03-17 00:00:00",
       "Completion Date": "2028-02-28 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.3707,
-      "Completion Percent": 0.3707,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-08 09:10:00"
+      "Construction Progress": 0.4008,
+      "Completion Percent": 0.4008,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204860",
@@ -3015,7 +2991,7 @@
       "Route": "SR-1929",
       "Location Description": "BRIDGE #780178 OVER US-29 ON SR-1929.",
       "Contract Amount": 3977080.25,
-      "Estimate Number": 14,
+      "Estimate Number": 15,
       "Length": "0.483 miles",
       "Contractor": "SMITH-ROWE, LLC",
       "Federal Aid Number": "STATE FUNDED",
@@ -3025,10 +3001,10 @@
       "Work Began Date": "2024-10-14 00:00:00",
       "Completion Date": "2026-10-28 00:00:00",
       "Revised Completion Date": "2026-11-03 00:00:00",
-      "Construction Progress": 0.8396,
-      "Completion Percent": 0.8396,
-      "Latest Payment Thru": "2025-11-30 00:00:00",
-      "Latest Payment Date": "2025-12-05 08:10:00"
+      "Construction Progress": 0.9012,
+      "Completion Percent": 0.9012,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204865",
@@ -3063,7 +3039,7 @@
       "Route": "I-140",
       "Location Description": "I-140 FROM US-17 TO NORTH OF US-74.",
       "Contract Amount": 9551459.22,
-      "Estimate Number": 4,
+      "Estimate Number": 5,
       "Length": "4.94 miles",
       "Contractor": "HIGHLAND PAVING CO LLC",
       "Federal Aid Number": "0140003",
@@ -3073,10 +3049,10 @@
       "Work Began Date": "2024-06-24 00:00:00",
       "Completion Date": "2025-06-15 00:00:00",
       "Revised Completion Date": "2026-04-22 00:00:00",
-      "Construction Progress": 0.3601,
-      "Completion Percent": 0.3601,
-      "Latest Payment Thru": "2025-11-30 00:00:00",
-      "Latest Payment Date": "2025-12-09 09:10:00"
+      "Construction Progress": 0.3615,
+      "Completion Percent": 0.3615,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C204872",
@@ -3207,7 +3183,7 @@
       "Route": "NC-226",
       "Location Description": "BRIDGE #800040 OVER NORTH FORK FIRST BROAD CREEK ON NC-226.",
       "Contract Amount": 5593807.55,
-      "Estimate Number": 9,
+      "Estimate Number": 10,
       "Length": "0.21 miles",
       "Contractor": "KEMP SIGMON CONSTRUCTION CO INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -3217,10 +3193,10 @@
       "Work Began Date": "2025-03-24 00:00:00",
       "Completion Date": "2027-03-30 00:00:00",
       "Revised Completion Date": "2027-05-14 00:00:00",
-      "Construction Progress": 0.7858,
-      "Completion Percent": 0.7858,
-      "Latest Payment Thru": "2025-12-23 00:00:00",
-      "Latest Payment Date": "2025-12-31 08:10:00"
+      "Construction Progress": 0.8399,
+      "Completion Percent": 0.8399,
+      "Latest Payment Thru": "2026-01-22 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204884",
@@ -3255,7 +3231,7 @@
       "Route": "US-19",
       "Location Description": "US-19/129 FROM GEORGIA STATE LINE TO US-64.",
       "Contract Amount": 67160518.63,
-      "Estimate Number": 22,
+      "Estimate Number": 23,
       "Length": "3.773 miles",
       "Contractor": "WRIGHT BROTHERS CONSTRUCTION COMPANY INC",
       "Federal Aid Number": "4742701",
@@ -3265,10 +3241,10 @@
       "Work Began Date": "2024-02-05 00:00:00",
       "Completion Date": "2029-06-01 00:00:00",
       "Revised Completion Date": "2029-06-02 00:00:00",
-      "Construction Progress": 0.3907,
-      "Completion Percent": 0.3907,
-      "Latest Payment Thru": "2025-12-22 00:00:00",
-      "Latest Payment Date": "2025-12-31 08:10:00"
+      "Construction Progress": 0.4142,
+      "Completion Percent": 0.4142,
+      "Latest Payment Thru": "2026-01-22 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "C204892",
@@ -3292,7 +3268,7 @@
       "Construction Progress": 0.9307,
       "Completion Percent": 0.9307,
       "Latest Payment Thru": "2026-01-22 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "C204896",
@@ -3351,7 +3327,7 @@
       "Route": "US-64",
       "Location Description": "INTERSECTIONS OF US-64 / US-276 (HENDERSONVILLE HWY), AND US -64 / NC-280 (ASHEVILLE HWY).",
       "Contract Amount": 20388187.21,
-      "Estimate Number": 24,
+      "Estimate Number": 25,
       "Length": "0.461 miles",
       "Contractor": "MOUNTAIN CREEK CONTRACTORS INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -3361,10 +3337,10 @@
       "Work Began Date": "2024-01-08 00:00:00",
       "Completion Date": "2027-05-14 00:00:00",
       "Revised Completion Date": "2027-06-08 00:00:00",
-      "Construction Progress": 0.4155,
-      "Completion Percent": 0.4155,
-      "Latest Payment Thru": "2025-11-30 00:00:00",
-      "Latest Payment Date": "2025-12-16 08:10:00"
+      "Construction Progress": 0.4183,
+      "Completion Percent": 0.4183,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C204908",
@@ -3447,7 +3423,7 @@
       "Route": "NC-134",
       "Location Description": "1 SECTION EACH OF NC-134, NC-109 BUS, NC-109, US-220 ALT, AN D 4 SECTIONS OF SECONDARY ROADS.",
       "Contract Amount": 2368423.25,
-      "Estimate Number": 1,
+      "Estimate Number": 2,
       "Length": "13.47 miles",
       "Contractor": "NJR GROUP INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -3457,10 +3433,10 @@
       "Work Began Date": "2025-07-07 00:00:00",
       "Completion Date": "2025-10-01 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.2947,
-      "Completion Percent": 0.2947,
-      "Latest Payment Thru": "2025-07-31 00:00:00",
-      "Latest Payment Date": "2025-08-12 09:10:00"
+      "Construction Progress": 0.3285,
+      "Completion Percent": 0.3285,
+      "Latest Payment Thru": "2025-08-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "C204925",
@@ -3471,7 +3447,7 @@
       "Route": "US-74",
       "Location Description": "BRIDGE #430095 OVER SOUTHERN RAILROAD ON US-74.",
       "Contract Amount": 17679950.74,
-      "Estimate Number": 15,
+      "Estimate Number": 16,
       "Length": "0.313 miles",
       "Contractor": "NHM CONSTRUCTORS INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -3481,34 +3457,10 @@
       "Work Began Date": "2024-10-21 00:00:00",
       "Completion Date": "2028-02-11 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.3745,
-      "Completion Percent": 0.3745,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-08 09:10:00"
-    },
-    {
-      "Contract Number": "C204929",
-      "Division": 7,
-      "County": "Rockingham",
-      "TIP#": "BR-0093",
-      "Tier": "Regional",
-      "Route": "NC-770",
-      "Location Description": "BRIDGE #780035 OVER MAYO RIVER ON NC-770 AND SR- 1395 (JANET  ROAD) FROM US-220 TO NC-770.",
-      "Contract Amount": 4901614.24,
-      "Estimate Number": 11,
-      "Length": "2.921 miles",
-      "Contractor": "SMITH-ROWE, LLC",
-      "Federal Aid Number": "STATE FUNDED",
-      "NCDOT Contact": "Jacob B. Harris, PE",
-      "NCDOT Contact No": 3365206060,
-      "Letting Date": "2024-06-18 00:00:00",
-      "Work Began Date": "2024-08-14 00:00:00",
-      "Completion Date": "2026-05-14 00:00:00",
-      "Revised Completion Date": "2026-05-18 00:00:00",
-      "Construction Progress": 0.9446,
-      "Completion Percent": 0.9446,
-      "Latest Payment Thru": "2025-10-31 00:00:00",
-      "Latest Payment Date": "2025-11-13 09:10:00"
+      "Construction Progress": 0.3938,
+      "Completion Percent": 0.3938,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C204933",
@@ -3672,7 +3624,7 @@
       "Letting Date": "2024-11-19 00:00:00",
       "Work Began Date": "2025-03-13 00:00:00",
       "Completion Date": "2029-12-12 00:00:00",
-      "Revised Completion Date": null,
+      "Revised Completion Date": "2029-12-17 00:00:00",
       "Construction Progress": 0.1867,
       "Completion Percent": 0.1867,
       "Latest Payment Thru": "2025-12-31 00:00:00",
@@ -3783,7 +3735,7 @@
       "Route": "US-52",
       "Location Description": "BRIDGE #030014 OVER S FORK JONES CREEK ON US-52.",
       "Contract Amount": 5435975,
-      "Estimate Number": 15,
+      "Estimate Number": 16,
       "Length": "0.24 miles",
       "Contractor": "ANSON CONTRACTORS INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -3793,10 +3745,10 @@
       "Work Began Date": "2024-10-14 00:00:00",
       "Completion Date": "2027-03-14 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.83,
-      "Completion Percent": 0.83,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-08 09:10:00"
+      "Construction Progress": 0.8358,
+      "Completion Percent": 0.8358,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C204951",
@@ -4091,11 +4043,11 @@
       "Division": 9,
       "County": "Forsyth",
       "TIP#": "I-5880",
-      "Tier": null,
+      "Tier": "Statewide",
       "Route": "I-40",
       "Location Description": "I-40/US-311 AT NC-109 INTERCHANGE.",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 38891435.19,
+      "Estimate Number": 1,
       "Length": "0.819 miles",
       "Contractor": "BLYTHE CONSTRUCTION INC",
       "Federal Aid Number": "5308001",
@@ -4105,10 +4057,10 @@
       "Work Began Date": "2026-01-05 00:00:00",
       "Completion Date": "2030-01-11 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
-      "Latest Payment Date": null
+      "Construction Progress": 0.0318,
+      "Completion Percent": 0.0318,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "C204977",
@@ -4167,7 +4119,7 @@
       "Route": "SR-1436",
       "Location Description": "BRIDGE #290076 OVER I-40 ON SR-1436 (PINEBROOK SCHOOL RD).",
       "Contract Amount": 4230585.11,
-      "Estimate Number": 7,
+      "Estimate Number": 8,
       "Length": "0.189 miles",
       "Contractor": "SMITH-ROWE, LLC",
       "Federal Aid Number": "5160001",
@@ -4177,10 +4129,10 @@
       "Work Began Date": "2025-06-12 00:00:00",
       "Completion Date": "2027-01-28 00:00:00",
       "Revised Completion Date": "2027-02-02 00:00:00",
-      "Construction Progress": 0.5047,
-      "Completion Percent": 0.5047,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-21 08:10:00"
+      "Construction Progress": 0.5676,
+      "Completion Percent": 0.5676,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C204980",
@@ -4403,23 +4355,23 @@
       "Division": 10,
       "County": "Mecklenburg",
       "TIP#": "BP10-R013",
-      "Tier": null,
-      "Route": "-",
+      "Tier": "Subregional",
+      "Route": "SR-5469",
       "Location Description": "BRIDGE #590165 OVER COFFEY CREEK ON SR-5469 (SHOPTON RD).",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 6807682,
+      "Estimate Number": 1,
       "Length": "0.315 miles",
       "Contractor": "BLYTHE DEVELOPMENT LLC",
       "Federal Aid Number": "STATE FUNDED",
-      "NCDOT Contact": null,
-      "NCDOT Contact No": 0,
+      "NCDOT Contact": "Brian D. Davis, PE",
+      "NCDOT Contact No": 7048475006,
       "Letting Date": "2025-08-19 00:00:00",
       "Work Began Date": "2026-01-06 00:00:00",
       "Completion Date": "2028-01-11 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
+      "Construction Progress": 0.0331,
+      "Completion Percent": 0.0331,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
       "Latest Payment Date": null
     },
     {
@@ -4575,7 +4527,7 @@
       "Route": "US-64",
       "Location Description": "BRIDGE #880007 OVER THE ALLIGATOR RIVER ON US-64.",
       "Contract Amount": 449777300,
-      "Estimate Number": 12,
+      "Estimate Number": 13,
       "Length": "0 miles",
       "Contractor": "SKANSKA USA CIVIL SOUTHEAST INC",
       "Federal Aid Number": "0001156",
@@ -4585,10 +4537,10 @@
       "Work Began Date": "2025-01-22 00:00:00",
       "Completion Date": "2030-04-19 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.3477,
-      "Completion Percent": 0.3477,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-12 09:10:00"
+      "Construction Progress": 0.3642,
+      "Completion Percent": 0.3642,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C205000",
@@ -4900,7 +4852,7 @@
       "Construction Progress": 0.1789,
       "Completion Percent": 0.1789,
       "Latest Payment Thru": "2026-01-31 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "C205015",
@@ -5016,7 +4968,7 @@
       "Letting Date": "2024-12-19 00:00:00",
       "Work Began Date": "2025-01-27 00:00:00",
       "Completion Date": "2026-10-01 00:00:00",
-      "Revised Completion Date": "2026-10-11 00:00:00",
+      "Revised Completion Date": "2026-12-04 00:00:00",
       "Construction Progress": 0.723,
       "Completion Percent": 0.723,
       "Latest Payment Thru": "2025-12-31 00:00:00",
@@ -5175,7 +5127,7 @@
       "Route": "-",
       "Location Description": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
       "Contract Amount": 7561270,
-      "Estimate Number": 5,
+      "Estimate Number": 6,
       "Length": "0 miles",
       "Contractor": "NHM CONSTRUCTORS INC",
       "Federal Aid Number": "HELENE",
@@ -5185,10 +5137,10 @@
       "Work Began Date": "2025-03-13 00:00:00",
       "Completion Date": "2026-10-01 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.2391,
-      "Completion Percent": 0.2391,
-      "Latest Payment Thru": "2025-10-31 00:00:00",
-      "Latest Payment Date": "2025-11-13 09:10:00"
+      "Construction Progress": 0.2382,
+      "Completion Percent": 0.2382,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C205027",
@@ -5199,7 +5151,7 @@
       "Route": "NC-197",
       "Location Description": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
       "Contract Amount": 7477000,
-      "Estimate Number": 7,
+      "Estimate Number": 8,
       "Length": "0 miles",
       "Contractor": "LEE CONSTRUCTION CO OF THE CAROLINAS IN",
       "Federal Aid Number": "HELENE",
@@ -5209,10 +5161,10 @@
       "Work Began Date": "2025-04-01 00:00:00",
       "Completion Date": "2026-10-01 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.2257,
-      "Completion Percent": 0.2257,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-13 09:10:00"
+      "Construction Progress": 0.3069,
+      "Completion Percent": 0.3069,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C205028",
@@ -5271,7 +5223,7 @@
       "Route": "-",
       "Location Description": "BRIDGE #990173 OVER MIDDLE CREEK ON SR-1159, AND BRIDGE #990 156 OVER COLBERT CREEK ON SR-1158.",
       "Contract Amount": 3046805,
-      "Estimate Number": 9,
+      "Estimate Number": 10,
       "Length": "0 miles",
       "Contractor": "R E BURNS & SONS CO INC",
       "Federal Aid Number": "HELENE",
@@ -5281,10 +5233,10 @@
       "Work Began Date": "2025-04-09 00:00:00",
       "Completion Date": "2026-11-01 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.1936,
-      "Completion Percent": 0.1936,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-13 09:10:00"
+      "Construction Progress": 0.1971,
+      "Completion Percent": 0.1971,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C205031",
@@ -5343,7 +5295,7 @@
       "Route": "NC-11",
       "Location Description": "BRIDGE #070024 OVER CASHIE RIVER ON NC-11.",
       "Contract Amount": 4295107.09,
-      "Estimate Number": 1,
+      "Estimate Number": 2,
       "Length": "0.455 miles",
       "Contractor": "S T WOOTEN CORPORATION",
       "Federal Aid Number": "5183101",
@@ -5353,10 +5305,10 @@
       "Work Began Date": "2025-11-20 00:00:00",
       "Completion Date": "2027-11-03 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0411,
-      "Completion Percent": 0.0411,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-08 09:10:00"
+      "Construction Progress": 0.111,
+      "Completion Percent": 0.111,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C205034",
@@ -5380,7 +5332,7 @@
       "Construction Progress": 0.0803,
       "Completion Percent": 0.0803,
       "Latest Payment Thru": "2026-01-31 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "C205037",
@@ -5415,7 +5367,7 @@
       "Route": "SR-3174",
       "Location Description": "SR-3174 (IDLEWILD RD) FROM SR-3175 (STALLINGS RD) TO I-485.",
       "Contract Amount": 8676763.3,
-      "Estimate Number": 2,
+      "Estimate Number": 3,
       "Length": "0.531 miles",
       "Contractor": "J T RUSSELL & SONS INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -5425,10 +5377,10 @@
       "Work Began Date": "2025-10-15 00:00:00",
       "Completion Date": "2027-03-29 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0619,
-      "Completion Percent": 0.0619,
-      "Latest Payment Thru": "2025-11-30 00:00:00",
-      "Latest Payment Date": "2025-12-11 08:10:00"
+      "Construction Progress": 0.0678,
+      "Completion Percent": 0.0678,
+      "Latest Payment Thru": "2025-12-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C205040",
@@ -5487,7 +5439,7 @@
       "Route": "NC-24",
       "Location Description": "NC-24/NC-27 FROM WEST OF NC-22 (MCNEILL ST) TO US-15/US-501.",
       "Contract Amount": 4955597,
-      "Estimate Number": 2,
+      "Estimate Number": 3,
       "Length": "1.028 miles",
       "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
       "Federal Aid Number": "4467201",
@@ -5497,10 +5449,10 @@
       "Work Began Date": "2025-11-20 00:00:00",
       "Completion Date": "2027-05-14 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.061,
-      "Completion Percent": 0.061,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-07 09:10:00"
+      "Construction Progress": 0.0745,
+      "Completion Percent": 0.0745,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C205043",
@@ -5607,7 +5559,7 @@
       "Route": "-",
       "Location Description": "BRIDGE #100115 ON SR-2789, BRIDGE #100308 ON SR-2419, AND BR IDGE #100380 ON SR-2432.",
       "Contract Amount": 6151245,
-      "Estimate Number": 9,
+      "Estimate Number": 10,
       "Length": "0 miles",
       "Contractor": "R E BURNS & SONS CO INC",
       "Federal Aid Number": "HELENE",
@@ -5617,10 +5569,10 @@
       "Work Began Date": "2025-04-09 00:00:00",
       "Completion Date": "2026-11-01 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.1806,
-      "Completion Percent": 0.1806,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-13 09:10:00"
+      "Construction Progress": 0.1873,
+      "Completion Percent": 0.1873,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C205048",
@@ -6135,7 +6087,7 @@
       "Route": "US-17 B",
       "Location Description": "INTERSECTIONS AT US-17 AND US-17 BUSINESS NORTH AND SOUTH OF  SHALLOTTE.",
       "Contract Amount": 25693279.23,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "0.91 miles",
       "Contractor": "HIGHLAND PAVING CO LLC",
       "Federal Aid Number": "STATE FUNDED",
@@ -6145,10 +6097,10 @@
       "Work Began Date": "2025-10-06 00:00:00",
       "Completion Date": "2028-03-29 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0816,
-      "Completion Percent": 0.0816,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-09 10:10:00"
+      "Construction Progress": 0.1054,
+      "Completion Percent": 0.1054,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C205074",
@@ -6159,7 +6111,7 @@
       "Route": "NC-65",
       "Location Description": "NC-65 (BETHANIA-RURAL HALL RD) FROM US-52 TO SR-3983 (NORTHR IDGE PARK DR).",
       "Contract Amount": 12385000,
-      "Estimate Number": 4,
+      "Estimate Number": 5,
       "Length": "0.933 miles",
       "Contractor": "BRANCH CIVIL INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -6169,10 +6121,10 @@
       "Work Began Date": "2025-09-13 00:00:00",
       "Completion Date": "2028-03-13 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0891,
-      "Completion Percent": 0.0891,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-21 08:10:00"
+      "Construction Progress": 0.1217,
+      "Completion Percent": 0.1217,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "C205075",
@@ -6183,7 +6135,7 @@
       "Route": "NC-101",
       "Location Description": "NC-101 FROM S OF SR-1170 (W BEAUFORT RD) TO N OF US-70 AND S R-1493 (LIVE OAK STREET) AT NC-101.",
       "Contract Amount": 8090393.12,
-      "Estimate Number": 1,
+      "Estimate Number": 2,
       "Length": "0.272 miles",
       "Contractor": "BARNHILL CONTRACTING CO",
       "Federal Aid Number": "4748201",
@@ -6193,10 +6145,10 @@
       "Work Began Date": "2025-09-29 00:00:00",
       "Completion Date": "2027-10-28 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0322,
-      "Completion Percent": 0.0322,
-      "Latest Payment Thru": "2025-10-31 00:00:00",
-      "Latest Payment Date": "2025-11-07 09:10:00"
+      "Construction Progress": 0.0844,
+      "Completion Percent": 0.0844,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C205076",
@@ -6255,7 +6207,7 @@
       "Route": "US-74A",
       "Location Description": "US-74A FROM BEARWALLOW MOUNTAIN RD TO US-64/US-47A/NC-9. (CM GC - GERTON)",
       "Contract Amount": 19136216.21,
-      "Estimate Number": 5,
+      "Estimate Number": 6,
       "Length": "4.8 miles",
       "Contractor": "WRIGHT BROTHERS CONSTRUCTION COMPANY INC",
       "Federal Aid Number": "HELENE",
@@ -6265,10 +6217,10 @@
       "Work Began Date": "2025-07-23 00:00:00",
       "Completion Date": "2027-12-31 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.268,
-      "Completion Percent": 0.268,
-      "Latest Payment Thru": "2025-12-15 00:00:00",
-      "Latest Payment Date": "2025-12-23 08:10:00"
+      "Construction Progress": 0.2812,
+      "Completion Percent": 0.2812,
+      "Latest Payment Thru": "2026-01-15 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C205079",
@@ -6327,7 +6279,7 @@
       "Route": "US-74",
       "Location Description": "US-74 FROM 1 MILE EAST OF NC-41 TO 0.26 MILES EAST OF COLUMB US CO LINE AND FROM SCOTLAND CO LINE TO I-74/US-74 BUSINESS.",
       "Contract Amount": 18703602.78,
-      "Estimate Number": 4,
+      "Estimate Number": 5,
       "Length": "13.001 miles",
       "Contractor": "BARNHILL CONTRACTING CO",
       "Federal Aid Number": "0074244",
@@ -6337,10 +6289,10 @@
       "Work Began Date": "2025-09-10 00:00:00",
       "Completion Date": "2027-06-30 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.1971,
-      "Completion Percent": 0.1971,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-14 09:10:00"
+      "Construction Progress": 0.2722,
+      "Completion Percent": 0.2722,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C205083",
@@ -6422,8 +6374,8 @@
       "Tier": null,
       "Route": "SR-1564",
       "Location Description": "13 SECTIONS OF SECONDARY ROADS.",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 3662144.2,
+      "Estimate Number": 1,
       "Length": "20.198 miles",
       "Contractor": "APAC ATLANTIC INC THOMPSON ARTHUR DIVISION",
       "Federal Aid Number": "STATE FUNDED",
@@ -6433,9 +6385,9 @@
       "Work Began Date": "2026-01-14 00:00:00",
       "Completion Date": "2026-10-15 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
+      "Construction Progress": 0.0456,
+      "Completion Percent": 0.0456,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
       "Latest Payment Date": null
     },
     {
@@ -6491,11 +6443,11 @@
       "Division": 2,
       "County": "Pitt",
       "TIP#": "U-5875",
-      "Tier": null,
-      "Route": "-",
+      "Tier": "Subregional",
+      "Route": "SR-1203",
       "Location Description": "SR-1203 (ALLEN RD) FROM SR-1467 (STANTONSBURG RD) TO US-13 ( DICKINSON AVE EXT).",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 47191560.83,
+      "Estimate Number": 1,
       "Length": "2.406 miles",
       "Contractor": "BARNHILL CONTRACTING CO",
       "Federal Aid Number": "STATE FUNDED",
@@ -6505,10 +6457,10 @@
       "Work Began Date": "2026-01-19 00:00:00",
       "Completion Date": "2029-12-12 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
-      "Latest Payment Date": null
+      "Construction Progress": 0.0423,
+      "Completion Percent": 0.0423,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "C205093",
@@ -6519,7 +6471,7 @@
       "Route": "SR-1630",
       "Location Description": "NEW ROUTE FROM SR-1630 (BALTIMORE RD) TO I-40.",
       "Contract Amount": 32185000,
-      "Estimate Number": 1,
+      "Estimate Number": 2,
       "Length": "1.184 miles",
       "Contractor": "BRANCH CIVIL INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -6529,10 +6481,10 @@
       "Work Began Date": "2025-12-01 00:00:00",
       "Completion Date": "2029-12-12 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0339,
-      "Completion Percent": 0.0339,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-07 09:10:00"
+      "Construction Progress": 0.0948,
+      "Completion Percent": 0.0948,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "C205094",
@@ -6639,7 +6591,7 @@
       "Route": "SR-1002, SR-1216, US-421",
       "Location Description": "1 SECTION OF US-421, AND 2 SECTIONS OF SECONDARY ROADS.",
       "Contract Amount": 4612279.74,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "18.69 miles",
       "Contractor": "S T WOOTEN CORPORATION",
       "Federal Aid Number": "STATE FUNDED",
@@ -6649,10 +6601,10 @@
       "Work Began Date": "2025-07-28 00:00:00",
       "Completion Date": "2026-11-15 00:00:00",
       "Revised Completion Date": "2026-12-15 00:00:00",
-      "Construction Progress": 0.2526,
-      "Completion Percent": 0.2526,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-09 10:10:00"
+      "Construction Progress": 0.3104,
+      "Completion Percent": 0.3104,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "C205102",
@@ -6931,10 +6883,10 @@
       "Length": "0.286 miles",
       "Contractor": "TRUEROCK CONSTRUCTION LLC",
       "Federal Aid Number": "HSIP-2042(002)",
-      "NCDOT Contact": null,
-      "NCDOT Contact No": 0,
+      "NCDOT Contact": "Brian D. Davis, PE",
+      "NCDOT Contact No": 7048475006,
       "Letting Date": "2025-11-18 00:00:00",
-      "Work Began Date": null,
+      "Work Began Date": "2026-02-06 00:00:00",
       "Completion Date": "2028-01-11 00:00:00",
       "Revised Completion Date": null,
       "Construction Progress": 0,
@@ -7260,7 +7212,7 @@
       "County": "Cleveland",
       "TIP#": null,
       "Tier": null,
-      "Route": "-, NC-18, SR-1162, SR-1188, SR-1377, SR-1654, SR-2016",
+      "Route": "-, NC-18, SR-1162, SR-1188, SR-1377, SR-1654",
       "Location Description": "1 SECTION OF NC-18, 1 SECTION OF NC-161, AND 8 SECTIONS OF S ECONDARY ROADS.",
       "Contract Amount": 0,
       "Estimate Number": null,
@@ -7647,7 +7599,7 @@
       "Route": "NC-11",
       "Location Description": "2 SECTIONS OF NC-11 & 1 SECTION OF NC-903",
       "Contract Amount": 3450222.73,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "15.169 miles",
       "Contractor": "BARNHILL CONTRACTING CO",
       "Federal Aid Number": "STATE FUNDED",
@@ -7657,10 +7609,10 @@
       "Work Began Date": "2025-10-21 00:00:00",
       "Completion Date": "2026-11-20 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.6145,
-      "Completion Percent": 0.6145,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-20 09:10:00"
+      "Construction Progress": 0.6255,
+      "Completion Percent": 0.6255,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DA00618",
@@ -7982,8 +7934,8 @@
       "Tier": null,
       "Route": "NC-12",
       "Location Description": "SOUTH MILLS, GATESVILLE, ELIZABETH CITY, HERTFORD, MANTEO, W AVES & AVON",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 359090,
+      "Estimate Number": 1,
       "Length": "0 miles",
       "Contractor": "EASTERN EARTHSCAPES & CONSTRUCTION LLC",
       "Federal Aid Number": "5093003",
@@ -7993,10 +7945,10 @@
       "Work Began Date": "2025-04-01 00:00:00",
       "Completion Date": "2026-05-01 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
-      "Latest Payment Date": null
+      "Construction Progress": 0.6166,
+      "Completion Percent": 0.6166,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DA00638",
@@ -8044,7 +7996,7 @@
       "Construction Progress": 0.284,
       "Completion Percent": 0.284,
       "Latest Payment Thru": "2026-01-31 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "DA00641",
@@ -8063,7 +8015,7 @@
       "NCDOT Contact No": 2524821857,
       "Letting Date": "2025-01-29 00:00:00",
       "Work Began Date": "2025-03-01 00:00:00",
-      "Completion Date": "2026-01-31 00:00:00",
+      "Completion Date": "2027-01-31 00:00:00",
       "Revised Completion Date": null,
       "Construction Progress": 0.1362,
       "Completion Percent": 0.1362,
@@ -8236,7 +8188,7 @@
       "Construction Progress": 0.4801,
       "Completion Percent": 0.4801,
       "Latest Payment Thru": "2026-01-31 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "DA00653",
@@ -8268,7 +8220,7 @@
       "County": "Northampton",
       "TIP#": null,
       "Tier": null,
-      "Route": "-",
+      "Route": "NC-35",
       "Location Description": "2 SECTIONS OF NC-35 & 6 SECTIONS OF SECONDARY ROADS",
       "Contract Amount": 0,
       "Estimate Number": null,
@@ -8278,7 +8230,7 @@
       "NCDOT Contact": "Edwin W. Rose",
       "NCDOT Contact No": 2525136030,
       "Letting Date": "2025-12-17 00:00:00",
-      "Work Began Date": null,
+      "Work Began Date": "2026-03-16 00:00:00",
       "Completion Date": "2027-07-30 00:00:00",
       "Revised Completion Date": null,
       "Construction Progress": 0,
@@ -8302,7 +8254,7 @@
       "NCDOT Contact": "Brandon J. Tatum",
       "NCDOT Contact No": 2526216400,
       "Letting Date": "2025-12-17 00:00:00",
-      "Work Began Date": null,
+      "Work Began Date": "2026-02-16 00:00:00",
       "Completion Date": "2026-12-15 00:00:00",
       "Revised Completion Date": null,
       "Construction Progress": 0,
@@ -8326,7 +8278,7 @@
       "NCDOT Contact": "Edwin W. Rose",
       "NCDOT Contact No": 2525136030,
       "Letting Date": "2025-12-03 00:00:00",
-      "Work Began Date": null,
+      "Work Began Date": "2026-03-16 00:00:00",
       "Completion Date": "2027-07-09 00:00:00",
       "Revised Completion Date": null,
       "Construction Progress": 0,
@@ -8414,8 +8366,8 @@
       "Tier": null,
       "Route": "US-64",
       "Location Description": "DARE COUNTY REST AREA ON US-64 IN MANTEO, NC",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 1423952,
+      "Estimate Number": 1,
       "Length": "0 miles",
       "Contractor": "A R CHESSON CONSTRUCTION CO INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -8425,10 +8377,10 @@
       "Work Began Date": "2026-01-05 00:00:00",
       "Completion Date": "2026-05-15 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
-      "Latest Payment Date": null
+      "Construction Progress": 0.0837,
+      "Completion Percent": 0.0837,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DA00678",
@@ -8535,7 +8487,7 @@
       "Route": "SR-1109",
       "Location Description": "PITT COUNTY",
       "Contract Amount": 3898403,
-      "Estimate Number": 6,
+      "Estimate Number": 7,
       "Length": "14.23 miles",
       "Contractor": "BARNHILL CONTRACTING CO",
       "Federal Aid Number": "STATE FUNDED",
@@ -8545,10 +8497,10 @@
       "Work Began Date": "2025-05-29 00:00:00",
       "Completion Date": "2026-03-15 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.8742,
-      "Completion Percent": 0.8742,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2025-12-30 08:10:00"
+      "Construction Progress": 0.8982,
+      "Completion Percent": 0.8982,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DB00588",
@@ -8815,30 +8767,6 @@
       "Latest Payment Date": "2026-01-08 09:10:00"
     },
     {
-      "Contract Number": "DB00608",
-      "Division": 2,
-      "County": "Pitt",
-      "TIP#": "HS-2402D",
-      "Tier": "Subregional",
-      "Route": "SR-1598",
-      "Location Description": "SR 1598 AT ANDERSON STREET IN GREENVILLE",
-      "Contract Amount": 170041,
-      "Estimate Number": 4,
-      "Length": "0.1 miles",
-      "Contractor": "T & H ELECTRICAL CORPORATION",
-      "Federal Aid Number": "5097404",
-      "NCDOT Contact": "Jason B. Beasley",
-      "NCDOT Contact No": 2528303495,
-      "Letting Date": "2025-01-29 00:00:00",
-      "Work Began Date": "2025-03-19 00:00:00",
-      "Completion Date": "2026-03-31 00:00:00",
-      "Revised Completion Date": null,
-      "Construction Progress": 0.9203,
-      "Completion Percent": 0.9203,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2025-12-30 08:10:00"
-    },
-    {
       "Contract Number": "DB00609",
       "Division": 2,
       "County": "Lenoir",
@@ -8964,7 +8892,7 @@
       "County": "Pitt",
       "TIP#": null,
       "Tier": null,
-      "Route": "-, SR-1108, SR-1216, SR-1217, SR-1351",
+      "Route": "-, SR-1108, SR-1216, SR-1217, SR-1258, SR-1351",
       "Location Description": "PITT COUNTY",
       "Contract Amount": 0,
       "Estimate Number": null,
@@ -9207,7 +9135,7 @@
       "Route": "SR-1230, SR-1251, SR-1273, SR-1439, SR-1501, SR-1653, SR-1715, SR-1732, SR-1930, SR-1931, SR-1932, SR-1986, SR-1987, SR-2389",
       "Location Description": "VARIOUS ROUTES IN ONSLOW COUNTY",
       "Contract Amount": 3991131.48,
-      "Estimate Number": 5,
+      "Estimate Number": 6,
       "Length": "19.41 miles",
       "Contractor": "S T WOOTEN CORPORATION",
       "Federal Aid Number": "STATE FUNDED",
@@ -9217,10 +9145,10 @@
       "Work Began Date": "2025-08-04 00:00:00",
       "Completion Date": "2026-08-28 00:00:00",
       "Revised Completion Date": "2026-08-30 00:00:00",
-      "Construction Progress": 0.3908,
-      "Completion Percent": 0.3908,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-08 09:10:00"
+      "Construction Progress": 0.4221,
+      "Completion Percent": 0.4221,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DC00482",
@@ -9735,7 +9663,7 @@
       "Route": "I-587, I-795, I-95, US-117, US-264, US-301, US-64, US-70",
       "Location Description": "DIVISION WIDE PRIMARY AND INTERSTATE RAMPS",
       "Contract Amount": 1329562.4,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "0 miles",
       "Contractor": "TMI SERVICES INC",
       "Federal Aid Number": "4930620",
@@ -9745,10 +9673,10 @@
       "Work Began Date": "2025-09-08 00:00:00",
       "Completion Date": "2026-11-20 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.4131,
-      "Completion Percent": 0.4131,
-      "Latest Payment Thru": "2025-12-15 00:00:00",
-      "Latest Payment Date": "2025-12-30 08:10:00"
+      "Construction Progress": 0.4441,
+      "Completion Percent": 0.4441,
+      "Latest Payment Thru": "2026-01-15 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DD00484",
@@ -10407,7 +10335,7 @@
       "Route": "SR-VARI",
       "Location Description": "VARIOUS LOCATIONS IN WAKE COUNTY",
       "Contract Amount": 2450061.75,
-      "Estimate Number": 7,
+      "Estimate Number": 8,
       "Length": "0.467 miles",
       "Contractor": "S T WOOTEN CORPORATION",
       "Federal Aid Number": "1645004",
@@ -10417,10 +10345,10 @@
       "Work Began Date": "2025-06-02 00:00:00",
       "Completion Date": "2026-11-15 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.7879,
-      "Completion Percent": 0.7879,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-12 09:10:00"
+      "Construction Progress": 0.8379,
+      "Completion Percent": 0.8379,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DE00403",
@@ -11247,7 +11175,7 @@
       "Route": "SR-1723",
       "Location Description": "STRUCTURE 126 ON SR 1723 (TURLINGTON ROAD)",
       "Contract Amount": 582165.05,
-      "Estimate Number": 4,
+      "Estimate Number": 5,
       "Length": "0.204 miles",
       "Contractor": "APAC ATLANTIC INC THOMPSON ARTHUR DIVISION",
       "Federal Aid Number": "STATE FUNDED",
@@ -11257,10 +11185,10 @@
       "Work Began Date": "2025-08-19 00:00:00",
       "Completion Date": "2026-10-16 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.6991,
-      "Completion Percent": 0.6991,
-      "Latest Payment Thru": "2025-12-15 00:00:00",
-      "Latest Payment Date": "2026-01-07 09:10:00"
+      "Construction Progress": 0.7818,
+      "Completion Percent": 0.7818,
+      "Latest Payment Thru": "2026-01-15 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "DF00504",
@@ -11268,10 +11196,10 @@
       "County": "Columbus",
       "TIP#": null,
       "Tier": null,
-      "Route": "-, SR-1112, SR-1115, SR-1943",
+      "Route": "SR-1104, SR-1112, SR-1115, SR-1943",
       "Location Description": "VARIOUS",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 1883752.5,
+      "Estimate Number": 1,
       "Length": "0 miles",
       "Contractor": "S T WOOTEN CORPORATION",
       "Federal Aid Number": "STATE FUNDED",
@@ -11281,10 +11209,10 @@
       "Work Began Date": "2026-01-16 00:00:00",
       "Completion Date": "2026-08-14 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
-      "Latest Payment Date": null
+      "Construction Progress": 0.084,
+      "Completion Percent": 0.084,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "DF00505",
@@ -11535,7 +11463,7 @@
       "Route": "SR-1441",
       "Location Description": "SR 1441 (CHALYBEATE SPRINGS RD) BETWEEN NC 55 AND US 401",
       "Contract Amount": 692317.01,
-      "Estimate Number": 1,
+      "Estimate Number": 2,
       "Length": "0.216 miles",
       "Contractor": "HIGHLAND PAVING CO LLC",
       "Federal Aid Number": "HSIP-1441(005)",
@@ -11545,10 +11473,10 @@
       "Work Began Date": "2025-09-26 00:00:00",
       "Completion Date": "2026-06-05 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.3378,
-      "Completion Percent": 0.3378,
-      "Latest Payment Thru": "2025-12-03 00:00:00",
-      "Latest Payment Date": "2025-12-11 08:10:00"
+      "Construction Progress": 0.7004,
+      "Completion Percent": 0.7004,
+      "Latest Payment Thru": "2026-01-28 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "DF00520",
@@ -12303,7 +12231,7 @@
       "Route": "SR-1169",
       "Location Description": "BRIDGE NO. 277 OVER BIG BEAVER CREEK ISLAND ON SR 1169 (ISLA ND DRIVE)",
       "Contract Amount": 1966459.99,
-      "Estimate Number": 5,
+      "Estimate Number": 6,
       "Length": "0 miles",
       "Contractor": "SMITH-ROWE, LLC",
       "Federal Aid Number": "BRZ-1169(003)",
@@ -12313,10 +12241,10 @@
       "Work Began Date": "2025-08-08 00:00:00",
       "Completion Date": "2026-06-15 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.8657,
-      "Completion Percent": 0.8657,
-      "Latest Payment Thru": "2025-12-15 00:00:00",
-      "Latest Payment Date": "2025-12-22 08:10:00"
+      "Construction Progress": 0.9426,
+      "Completion Percent": 0.9426,
+      "Latest Payment Thru": "2026-01-15 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DG00660",
@@ -12399,7 +12327,7 @@
       "Route": "SR-1785",
       "Location Description": "EXISTING CULVERT ON SR 1785(CHURCH ST)",
       "Contract Amount": 2279670.5,
-      "Estimate Number": 4,
+      "Estimate Number": 5,
       "Length": "0 miles",
       "Contractor": "ATLANTIC CONTRACTING COMPANY INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -12409,10 +12337,10 @@
       "Work Began Date": "2025-08-14 00:00:00",
       "Completion Date": "2026-05-04 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.2446,
-      "Completion Percent": 0.2446,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-12 09:10:00"
+      "Construction Progress": 0.3215,
+      "Completion Percent": 0.3215,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DG00665",
@@ -12515,11 +12443,11 @@
       "Division": 7,
       "County": "Rockingham",
       "TIP#": null,
-      "Tier": null,
-      "Route": "-",
+      "Tier": "Subregional",
+      "Route": "SR-2670",
       "Location Description": "BRIDGE NO 280 OVER LITTLE TROUBLESOME CREEK ON SR 2670(SOUTH  SCALES STR)",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 2236409.09,
+      "Estimate Number": 1,
       "Length": "0.005 miles",
       "Contractor": "MOUNTAIN CREEK CONTRACTORS INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -12529,10 +12457,10 @@
       "Work Began Date": "2026-01-05 00:00:00",
       "Completion Date": "2026-12-18 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
-      "Latest Payment Date": null
+      "Construction Progress": 0.0825,
+      "Completion Percent": 0.0825,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DG00676",
@@ -12591,7 +12519,7 @@
       "Route": "SR-1148",
       "Location Description": "SR 1148 (GRASSY ISLAND ROAD) OVER COLEMAN'S CREEK",
       "Contract Amount": 652344.22,
-      "Estimate Number": 2,
+      "Estimate Number": 3,
       "Length": "0 miles",
       "Contractor": "SMITH-ROWE, LLC",
       "Federal Aid Number": "STATE FUNDED",
@@ -12601,10 +12529,10 @@
       "Work Began Date": "2025-11-05 00:00:00",
       "Completion Date": "2026-10-30 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.392,
-      "Completion Percent": 0.392,
-      "Latest Payment Thru": "2025-12-22 00:00:00",
-      "Latest Payment Date": "2026-01-02 09:10:00"
+      "Construction Progress": 0.7596,
+      "Completion Percent": 0.7596,
+      "Latest Payment Thru": "2026-01-22 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "DH00566",
@@ -12662,8 +12590,8 @@
       "Tier": null,
       "Route": "-",
       "Location Description": "VARIOUS SECONDARY ROUTES",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 995007.11,
+      "Estimate Number": 1,
       "Length": "22.97 miles",
       "Contractor": "WAUGH ASPHALT INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -12673,10 +12601,10 @@
       "Work Began Date": "2026-01-20 00:00:00",
       "Completion Date": "2026-06-30 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
-      "Latest Payment Date": null
+      "Construction Progress": 0.1379,
+      "Completion Percent": 0.1379,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "DH00573",
@@ -12783,7 +12711,7 @@
       "Route": "NC-134, NC-24BUS, SR-1005, SR-1333, SR-1383, SR-1403",
       "Location Description": "VARIOUS",
       "Contract Amount": 524720,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "0 miles",
       "Contractor": "EASTERN EARTHSCAPES & CONSTRUCTION LLC",
       "Federal Aid Number": "BO-2408D",
@@ -12793,10 +12721,10 @@
       "Work Began Date": "2025-10-21 00:00:00",
       "Completion Date": "2026-06-30 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.8755,
-      "Completion Percent": 0.8755,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-07 09:10:00"
+      "Construction Progress": 0.8978,
+      "Completion Percent": 0.8978,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DH00585",
@@ -13047,7 +12975,7 @@
       "Route": "NC-153",
       "Location Description": "NC 153(RICE ST) AT SR 1197(CANNON FARM RD/MOUNT MORIAH CH RD ) IN CHINA GROVE",
       "Contract Amount": 2542800.86,
-      "Estimate Number": 8,
+      "Estimate Number": 9,
       "Length": "0.128 miles",
       "Contractor": "NJR GROUP INC",
       "Federal Aid Number": "HSIP-0153(007)",
@@ -13057,10 +12985,10 @@
       "Work Began Date": "2025-03-28 00:00:00",
       "Completion Date": "2026-05-21 00:00:00",
       "Revised Completion Date": "2026-08-23 00:00:00",
-      "Construction Progress": 0.5777,
-      "Completion Percent": 0.5777,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-15 09:10:00"
+      "Construction Progress": 0.5994,
+      "Completion Percent": 0.5994,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DI00352",
@@ -13263,7 +13191,7 @@
       "Route": "SR-1004",
       "Location Description": "REPLACE BRIDGE #108 ON SR 1004 (STOKES FERRY RD) OVER TUCKER TOWN RESERVOIR",
       "Contract Amount": 4105055.24,
-      "Estimate Number": 1,
+      "Estimate Number": 2,
       "Length": "0.173 miles",
       "Contractor": "SMITH-ROWE, LLC",
       "Federal Aid Number": "STATE FUNDED",
@@ -13273,10 +13201,10 @@
       "Work Began Date": "2025-12-01 00:00:00",
       "Completion Date": "2027-04-27 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0332,
-      "Completion Percent": 0.0332,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-12 09:10:00"
+      "Construction Progress": 0.1923,
+      "Completion Percent": 0.1923,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DI00373",
@@ -13294,7 +13222,7 @@
       "NCDOT Contact": null,
       "NCDOT Contact No": 0,
       "Letting Date": "2025-09-24 00:00:00",
-      "Work Began Date": null,
+      "Work Began Date": "2025-11-24 00:00:00",
       "Completion Date": "2026-04-30 00:00:00",
       "Revised Completion Date": null,
       "Construction Progress": 0,
@@ -13492,7 +13420,7 @@
       "Construction Progress": 0.596,
       "Completion Percent": 0.596,
       "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "DJ00496",
@@ -13863,7 +13791,7 @@
       "Route": "SR-2102",
       "Location Description": "BRIDGE #890146 OVER LITTLE RICHARDSON CREEK ON SR 2102 (MEDL IN ROAD)",
       "Contract Amount": 1080932.75,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "0.122 miles",
       "Contractor": "NJR GROUP INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -13873,10 +13801,10 @@
       "Work Began Date": "2025-11-03 00:00:00",
       "Completion Date": "2026-10-09 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.1045,
-      "Completion Percent": 0.1045,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-15 09:10:00"
+      "Construction Progress": 0.1655,
+      "Completion Percent": 0.1655,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DJ00549",
@@ -13884,10 +13812,10 @@
       "County": "Stanly",
       "TIP#": null,
       "Tier": null,
-      "Route": "-, US-52",
+      "Route": "SR-1258, US-52",
       "Location Description": "3 SECTIONS OF US 52 AND 1 SECTION OF NEWT RD (SR 1258)",
-      "Contract Amount": 0,
-      "Estimate Number": null,
+      "Contract Amount": 1798603.42,
+      "Estimate Number": 1,
       "Length": "3.73 miles",
       "Contractor": "J T RUSSELL & SONS INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -13897,10 +13825,10 @@
       "Work Began Date": "2026-01-07 00:00:00",
       "Completion Date": "2026-10-07 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0,
-      "Completion Percent": 0,
-      "Latest Payment Thru": null,
-      "Latest Payment Date": null
+      "Construction Progress": 0.0811,
+      "Completion Percent": 0.0811,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DJ00553",
@@ -13959,7 +13887,7 @@
       "Route": "NC-138, NC-205, NC-24",
       "Location Description": "VARIOUS LOCATIONS",
       "Contract Amount": 423900,
-      "Estimate Number": 2,
+      "Estimate Number": 3,
       "Length": "0 miles",
       "Contractor": "EASTERN EARTHSCAPES & CONSTRUCTION LLC",
       "Federal Aid Number": "5093904",
@@ -13969,10 +13897,10 @@
       "Work Began Date": "2025-11-06 00:00:00",
       "Completion Date": "2026-04-26 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.3855,
-      "Completion Percent": 0.3855,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-08 09:10:00"
+      "Construction Progress": 0.7162,
+      "Completion Percent": 0.7162,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DJ00556",
@@ -13983,7 +13911,7 @@
       "Route": "US-52",
       "Location Description": "VARIOUS",
       "Contract Amount": 431010,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "0 miles",
       "Contractor": "EAST CONSTRUCTION COMPANY LLC",
       "Federal Aid Number": "5093905",
@@ -13993,10 +13921,10 @@
       "Work Began Date": "2025-05-14 00:00:00",
       "Completion Date": "2026-03-09 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.3575,
-      "Completion Percent": 0.3575,
-      "Latest Payment Thru": "2025-10-31 00:00:00",
-      "Latest Payment Date": "2025-11-12 09:10:00"
+      "Construction Progress": 0.5195,
+      "Completion Percent": 0.5195,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "DJ00557",
@@ -14596,7 +14524,7 @@
       "Construction Progress": 0.9135,
       "Completion Percent": 0.9135,
       "Latest Payment Thru": "2026-01-31 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "DK00345",
@@ -14847,7 +14775,7 @@
       "Route": "US-21",
       "Location Description": "INTERSECTION OF US 21 BUSINESS (NORTH BRIDGE STREET) & NC 26 8 (CC CAMP ROAD)",
       "Contract Amount": 1973823.62,
-      "Estimate Number": 10,
+      "Estimate Number": 11,
       "Length": "145.145 miles",
       "Contractor": "SMITH-ROWE, LLC",
       "Federal Aid Number": "0021036",
@@ -14857,10 +14785,10 @@
       "Work Began Date": "2025-02-14 00:00:00",
       "Completion Date": "2025-10-11 00:00:00",
       "Revised Completion Date": "2026-10-16 00:00:00",
-      "Construction Progress": 0.8714,
-      "Completion Percent": 0.8714,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-14 09:10:00"
+      "Construction Progress": 0.8838,
+      "Completion Percent": 0.8838,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "DK00394",
@@ -15351,7 +15279,7 @@
       "Route": "SR-1541",
       "Location Description": "SR 1541  (PAYNE BRANCH ROAD) FROM SR 1547 0.81 MILES",
       "Contract Amount": 3496628.02,
-      "Estimate Number": 9,
+      "Estimate Number": 10,
       "Length": "0.81 miles",
       "Contractor": "JAMES R VANNOY & SONS CONSTRUCTION COMPANY INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -15361,10 +15289,10 @@
       "Work Began Date": "2025-03-26 00:00:00",
       "Completion Date": "2027-03-25 00:00:00",
       "Revised Completion Date": "2027-03-27 00:00:00",
-      "Construction Progress": 0.7238,
-      "Completion Percent": 0.7238,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-07 09:10:00"
+      "Construction Progress": 0.7605,
+      "Completion Percent": 0.7605,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": "2026-02-05 08:10:00"
     },
     {
       "Contract Number": "DK00424",
@@ -15519,7 +15447,7 @@
       "Route": "SR-1139",
       "Location Description": "BRIDGE #940058 OVER BEECH CREEK ON SR 1139 (KELLERSVILLE ROA D)",
       "Contract Amount": 2188031.6,
-      "Estimate Number": 1,
+      "Estimate Number": 2,
       "Length": "0.045 miles",
       "Contractor": "IKECO CONSTRUCTION INC",
       "Federal Aid Number": null,
@@ -15529,10 +15457,34 @@
       "Work Began Date": "2025-10-02 00:00:00",
       "Completion Date": "2027-03-30 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.0652,
-      "Completion Percent": 0.0652,
-      "Latest Payment Thru": "2025-11-30 00:00:00",
-      "Latest Payment Date": "2025-12-12 09:10:00"
+      "Construction Progress": 0.1164,
+      "Completion Percent": 0.1164,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
+    },
+    {
+      "Contract Number": "DK00436",
+      "Division": 11,
+      "County": "Caldwell",
+      "TIP#": null,
+      "Tier": null,
+      "Route": "-",
+      "Location Description": "REPLACE BRIDGE NO. 161 ON SR 1358 (EDGEMONT CHURCH PL) OVER WILSON CREEK",
+      "Contract Amount": 0,
+      "Estimate Number": null,
+      "Length": "0.11 miles",
+      "Contractor": "JAMES R VANNOY & SONS CONSTRUCTION COMPANY INC",
+      "Federal Aid Number": null,
+      "NCDOT Contact": "Travis W. Chrisawn",
+      "NCDOT Contact No": 8282686022,
+      "Letting Date": "2025-12-18 00:00:00",
+      "Work Began Date": null,
+      "Completion Date": "2027-04-05 00:00:00",
+      "Revised Completion Date": null,
+      "Construction Progress": 0,
+      "Completion Percent": 0,
+      "Latest Payment Thru": null,
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DK00437",
@@ -15703,6 +15655,54 @@
       "Latest Payment Date": null
     },
     {
+      "Contract Number": "DK00448",
+      "Division": 11,
+      "County": "Yadkin",
+      "TIP#": null,
+      "Tier": null,
+      "Route": "US-421",
+      "Location Description": "2 SECTIONS OF US 421, 4 SECTIONS OF US 421 RAMPS, AND 2 SECT IONS OF SECONDARY ROUTES IN YADKIN COUNTY",
+      "Contract Amount": 0,
+      "Estimate Number": null,
+      "Length": "26.8 miles",
+      "Contractor": "MAYMEAD INC",
+      "Federal Aid Number": "STATE FUNDED",
+      "NCDOT Contact": "Benjamin D. Whitaker",
+      "NCDOT Contact No": 3368354241,
+      "Letting Date": "2025-11-20 00:00:00",
+      "Work Began Date": null,
+      "Completion Date": "2027-05-20 00:00:00",
+      "Revised Completion Date": null,
+      "Construction Progress": 0,
+      "Completion Percent": 0,
+      "Latest Payment Thru": null,
+      "Latest Payment Date": null
+    },
+    {
+      "Contract Number": "DK00449",
+      "Division": 11,
+      "County": "Alleghany",
+      "TIP#": null,
+      "Tier": null,
+      "Route": "NC-18",
+      "Location Description": "1 SECTION OF PRIMARY ROUTE AND 3 SECTIONS OF SECONDARY ROUTE S IN ALLEGHANY COUNTY",
+      "Contract Amount": 0,
+      "Estimate Number": null,
+      "Length": "5.38 miles",
+      "Contractor": "MAYMEAD INC",
+      "Federal Aid Number": "STATE FUNDED",
+      "NCDOT Contact": "Benjamin D. Whitaker",
+      "NCDOT Contact No": 3368354241,
+      "Letting Date": "2025-11-20 00:00:00",
+      "Work Began Date": null,
+      "Completion Date": "2027-05-20 00:00:00",
+      "Revised Completion Date": null,
+      "Construction Progress": 0,
+      "Completion Percent": 0,
+      "Latest Payment Thru": null,
+      "Latest Payment Date": null
+    },
+    {
       "Contract Number": "DK00451",
       "Division": 11,
       "County": "Yadkin",
@@ -15724,7 +15724,7 @@
       "Construction Progress": 0.6504,
       "Completion Percent": 0.6504,
       "Latest Payment Thru": "2026-01-31 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "DK00459",
@@ -16023,7 +16023,7 @@
       "Route": "NC-150",
       "Location Description": "Intersection of NC 150 and SR 2399 Wiggins Rd, U-5780 and In tersection of NC 150 & NC 152, W-5601U",
       "Contract Amount": 3896135.33,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "0.2 miles",
       "Contractor": "NJR GROUP INC",
       "Federal Aid Number": "HSIP-150(38)",
@@ -16033,10 +16033,10 @@
       "Work Began Date": "2025-07-01 00:00:00",
       "Completion Date": "2026-12-14 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.3991,
-      "Completion Percent": 0.3991,
-      "Latest Payment Thru": "2025-09-30 00:00:00",
-      "Latest Payment Date": "2025-10-09 09:10:00"
+      "Construction Progress": 0.4092,
+      "Completion Percent": 0.4092,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DL00349",
@@ -16119,7 +16119,7 @@
       "Route": "SR-1512",
       "Location Description": "BRIDGE 254 ON SR 1512",
       "Contract Amount": 1506516.1,
-      "Estimate Number": 5,
+      "Estimate Number": 6,
       "Length": "0.092 miles",
       "Contractor": "R E BURNS & SONS CO INC",
       "Federal Aid Number": "STATE FUNDED",
@@ -16129,10 +16129,10 @@
       "Work Began Date": "2025-08-25 00:00:00",
       "Completion Date": "2027-03-01 00:00:00",
       "Revised Completion Date": null,
-      "Construction Progress": 0.4102,
-      "Completion Percent": 0.4102,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-07 09:10:00"
+      "Construction Progress": 0.4814,
+      "Completion Percent": 0.4814,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DL00354",
@@ -16476,7 +16476,7 @@
       "County": "Cleveland",
       "TIP#": null,
       "Tier": null,
-      "Route": "SR-2017",
+      "Route": "-",
       "Location Description": "CULVERT NO 220043 CARRYING LITTLE PERSIMMON CREEK UNDER SR 2 017",
       "Contract Amount": 0,
       "Estimate Number": null,
@@ -16551,7 +16551,7 @@
       "Route": "-",
       "Location Description": "NEW ACCESS ROAD INTO BURKE INDUSTRIAL PARK",
       "Contract Amount": 1741687.7,
-      "Estimate Number": 3,
+      "Estimate Number": 4,
       "Length": "0 miles",
       "Contractor": "CRW LAND SERVICES LLC",
       "Federal Aid Number": "1311019",
@@ -16561,10 +16561,10 @@
       "Work Began Date": "2025-10-21 00:00:00",
       "Completion Date": "2026-06-30 00:00:00",
       "Revised Completion Date": "2026-07-30 00:00:00",
-      "Construction Progress": 0.282,
-      "Completion Percent": 0.282,
-      "Latest Payment Thru": "2025-12-22 00:00:00",
-      "Latest Payment Date": "2026-01-13 09:10:00"
+      "Construction Progress": 0.367,
+      "Completion Percent": 0.367,
+      "Latest Payment Thru": "2026-01-22 00:00:00",
+      "Latest Payment Date": "2026-02-06 09:10:00"
     },
     {
       "Contract Number": "DM00391",
@@ -16588,7 +16588,7 @@
       "Construction Progress": 0.6829,
       "Completion Percent": 0.6829,
       "Latest Payment Thru": "2026-01-31 00:00:00",
-      "Latest Payment Date": null
+      "Latest Payment Date": "2026-02-04 08:10:00"
     },
     {
       "Contract Number": "DM00403",
@@ -16783,54 +16783,6 @@
       "Latest Payment Date": "2025-09-17 08:10:00"
     },
     {
-      "Contract Number": "DM00440",
-      "Division": 13,
-      "County": "Burke",
-      "TIP#": null,
-      "Tier": null,
-      "Route": "NC-18",
-      "Location Description": "VARIOUS PRIMARY AND SECONDARY ROUTES",
-      "Contract Amount": 3594438.8,
-      "Estimate Number": 8,
-      "Length": "13.62 miles",
-      "Contractor": "MAYMEAD INC",
-      "Federal Aid Number": "STATE FUNDED",
-      "NCDOT Contact": "Travis R. Jordan",
-      "NCDOT Contact No": 7047482400,
-      "Letting Date": "2024-06-19 00:00:00",
-      "Work Began Date": "2024-12-05 00:00:00",
-      "Completion Date": "2025-10-15 00:00:00",
-      "Revised Completion Date": "2025-11-05 00:00:00",
-      "Construction Progress": 0.9263,
-      "Completion Percent": 0.9263,
-      "Latest Payment Thru": "2025-11-30 00:00:00",
-      "Latest Payment Date": "2025-12-12 09:10:00"
-    },
-    {
-      "Contract Number": "DM00441",
-      "Division": 13,
-      "County": "Burke",
-      "TIP#": null,
-      "Tier": null,
-      "Route": "-",
-      "Location Description": "VARIOUS SECONDARY ROUTES",
-      "Contract Amount": 3382476.25,
-      "Estimate Number": 8,
-      "Length": "0 miles",
-      "Contractor": "MAYMEAD INC",
-      "Federal Aid Number": "STATE FUNDED",
-      "NCDOT Contact": "Travis R. Jordan",
-      "NCDOT Contact No": 7047482400,
-      "Letting Date": "2024-02-07 00:00:00",
-      "Work Began Date": "2024-06-28 00:00:00",
-      "Completion Date": "2025-09-12 00:00:00",
-      "Revised Completion Date": "2025-10-03 00:00:00",
-      "Construction Progress": 0.7818,
-      "Completion Percent": 0.7818,
-      "Latest Payment Thru": "2025-11-07 00:00:00",
-      "Latest Payment Date": "2025-11-19 09:10:00"
-    },
-    {
       "Contract Number": "DM00442",
       "Division": 13,
       "County": "Burke, Rutherford",
@@ -17016,7 +16968,7 @@
       "Letting Date": "2024-09-04 00:00:00",
       "Work Began Date": null,
       "Completion Date": "2026-03-17 00:00:00",
-      "Revised Completion Date": null,
+      "Revised Completion Date": "2027-05-28 00:00:00",
       "Construction Progress": 0,
       "Completion Percent": 0,
       "Latest Payment Thru": null,
@@ -17182,7 +17134,7 @@
       "NCDOT Contact": "Thomas R. Veazey",
       "NCDOT Contact No": 8282980080,
       "Letting Date": "2025-12-17 00:00:00",
-      "Work Began Date": null,
+      "Work Began Date": "2026-01-22 00:00:00",
       "Completion Date": "2026-05-08 00:00:00",
       "Revised Completion Date": null,
       "Construction Progress": 0,
@@ -17631,7 +17583,7 @@
       "Route": "SR-1140",
       "Location Description": "BRIDGE NO. 63 OVER BLAIR CREEK AND BRIDGE NO. 88 OVER HYATT MILL CREEK ON SR 1140 (MYERS CHAPEL ROAD",
       "Contract Amount": 3590980.67,
-      "Estimate Number": 10,
+      "Estimate Number": 11,
       "Length": "0.274 miles",
       "Contractor": "IKECO CONSTRUCTION INC",
       "Federal Aid Number": "1140018",
@@ -17641,10 +17593,10 @@
       "Work Began Date": "2025-03-24 00:00:00",
       "Completion Date": "2027-03-30 00:00:00",
       "Revised Completion Date": "2027-04-01 00:00:00",
-      "Construction Progress": 0.6735,
-      "Completion Percent": 0.6735,
-      "Latest Payment Thru": "2025-12-31 00:00:00",
-      "Latest Payment Date": "2026-01-15 09:10:00"
+      "Construction Progress": 0.6983,
+      "Completion Percent": 0.6983,
+      "Latest Payment Thru": "2026-01-31 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DN01071",
@@ -17895,7 +17847,7 @@
       "Route": "SR-1201",
       "Location Description": "ALONG ONE ROUTE IN HENDERSON CO AND ALONG VARIOUS ROUTES IN TRANSYLVANIA CO",
       "Contract Amount": 3497428.42,
-      "Estimate Number": 5,
+      "Estimate Number": 6,
       "Length": "0.39 miles",
       "Contractor": "ADAMS CONTRACTING CO INC",
       "Federal Aid Number": "HELENE",
@@ -17905,10 +17857,10 @@
       "Work Began Date": "2025-05-29 00:00:00",
       "Completion Date": "2026-05-07 00:00:00",
       "Revised Completion Date": "2026-08-25 00:00:00",
-      "Construction Progress": 0.5237,
-      "Completion Percent": 0.5237,
-      "Latest Payment Thru": "2025-10-15 00:00:00",
-      "Latest Payment Date": "2025-10-28 09:10:00"
+      "Construction Progress": 0.5654,
+      "Completion Percent": 0.5654,
+      "Latest Payment Thru": "2026-01-15 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DN01092",
@@ -17919,7 +17871,7 @@
       "Route": "US-276",
       "Location Description": "ALONG VARIOUS ROUTES THROUGHOUT TRANSYLVANIA COUNTY",
       "Contract Amount": 1949741,
-      "Estimate Number": 4,
+      "Estimate Number": 5,
       "Length": "0.22 miles",
       "Contractor": "MCCALLS GRADING & CONSTRUCTION INC",
       "Federal Aid Number": "HELENE",
@@ -17929,10 +17881,10 @@
       "Work Began Date": "2025-07-10 00:00:00",
       "Completion Date": "2026-10-23 00:00:00",
       "Revised Completion Date": "2026-12-25 00:00:00",
-      "Construction Progress": 0.8104,
-      "Completion Percent": 0.8104,
-      "Latest Payment Thru": "2025-12-22 00:00:00",
-      "Latest Payment Date": "2025-12-29 09:10:00"
+      "Construction Progress": 0.8149,
+      "Completion Percent": 0.8149,
+      "Latest Payment Thru": "2026-01-22 00:00:00",
+      "Latest Payment Date": null
     },
     {
       "Contract Number": "DN01095",
@@ -18594,7 +18546,7 @@
         "Route": "NC-55",
         "Location Description": "NC-55 (ALSTON AVE) FROM NC-147 (BUCK DEAN FREEWAY) TO NORTH OF US-70BUS/NC-98 (HOLLOWAY ST).",
         "Contract Amount": 39756916.81,
-        "Estimate Number": 108,
+        "Estimate Number": 109,
         "Length": "1.134 miles",
         "Contractor": "ZACHRY CONSTRUCTION CORPORATION",
         "Federal Aid Number": "STP-55(20)",
@@ -18604,10 +18556,10 @@
         "Work Began Date": "2016-10-05 00:00:00",
         "Completion Date": "2020-03-30 00:00:00",
         "Revised Completion Date": "2024-09-30 00:00:00",
-        "Construction Progress": 0.9467,
-        "Completion Percent": 0.9467,
-        "Latest Payment Thru": "2025-12-15 00:00:00",
-        "Latest Payment Date": "2025-12-30 08:10:00"
+        "Construction Progress": 0.9462,
+        "Completion Percent": 0.9462,
+        "Latest Payment Thru": "2026-01-15 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "I-5746C": [
@@ -18646,7 +18598,7 @@
         "Route": "SR-1598",
         "Location Description": "SR-1598 (DICKINSON AVE) FROM NC-11 TO SR-1610 (READE CR).",
         "Contract Amount": 15747596.21,
-        "Estimate Number": 40,
+        "Estimate Number": 41,
         "Length": "1.344 miles",
         "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
         "Federal Aid Number": "STP-1598(3)",
@@ -18656,10 +18608,10 @@
         "Work Began Date": "2022-06-02 00:00:00",
         "Completion Date": "2027-03-03 00:00:00",
         "Revised Completion Date": "2027-10-16 00:00:00",
-        "Construction Progress": 0.8522,
-        "Completion Percent": 0.8522,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.8641,
+        "Completion Percent": 0.8641,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "U-2519BA": [
@@ -18932,7 +18884,7 @@
         "Route": "US-158",
         "Location Description": "US-158/NC-46 FROM I-95/NC-46 IN ROANOKE RAPIDS TO SR-1312 (ST JOHN CHURCH ST).",
         "Contract Amount": 81907374.49,
-        "Estimate Number": 75,
+        "Estimate Number": 76,
         "Length": "8.197 miles",
         "Contractor": "THALLE CONSTRUCTION CO INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -18942,10 +18894,10 @@
         "Work Began Date": "2019-09-23 00:00:00",
         "Completion Date": "2024-03-13 00:00:00",
         "Revised Completion Date": "2027-01-27 00:00:00",
-        "Construction Progress": 0.8638,
-        "Completion Percent": 0.8638,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-07 09:10:00"
+        "Construction Progress": 0.8661,
+        "Completion Percent": 0.8661,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "R-5777A": [
@@ -19292,7 +19244,7 @@
         "Route": "US-17",
         "Location Description": "US-17 BUS (MARKET ST) FROM SR-1403 TO SR-2734 IN WILMINGTON.",
         "Contract Amount": 24654091.3,
-        "Estimate Number": 83,
+        "Estimate Number": 84,
         "Length": "1.67 miles",
         "Contractor": "SEALAND CONTRACTORS CORP",
         "Federal Aid Number": "STATE FUNDED",
@@ -19302,10 +19254,10 @@
         "Work Began Date": "2019-04-04 00:00:00",
         "Completion Date": "2022-11-11 00:00:00",
         "Revised Completion Date": "2024-03-21 00:00:00",
-        "Construction Progress": 0.8605,
-        "Completion Percent": 0.8605,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.9203,
+        "Completion Percent": 0.9203,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "P-5715": [
@@ -19344,7 +19296,7 @@
         "Route": "SR-1625",
         "Location Description": "GRADE SEPARATION AT SR-1625 (ROGERS LAKE RD) OVER NS/NCRR AN D CLOSURE OF AT-GRADE CROSSING #724408Y IN KANNAPOLIS.",
         "Contract Amount": 16278563.65,
-        "Estimate Number": 31,
+        "Estimate Number": 32,
         "Length": "0.73 miles",
         "Contractor": "NJR GROUP INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -19354,10 +19306,10 @@
         "Work Began Date": "2023-05-25 00:00:00",
         "Completion Date": "2026-12-12 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.6819,
-        "Completion Percent": 0.6819,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2025-12-30 08:10:00"
+        "Construction Progress": 0.698,
+        "Completion Percent": 0.698,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "R-2307B": [
@@ -19396,7 +19348,7 @@
         "Route": "NC-105",
         "Location Description": "BRIDGE OVER WATAUGA RIVER AND LEFT TURN LANE AT SR-1112 (BROADSTONE RD) ON NC-105 WITHIN R-2566B LIMITS.",
         "Contract Amount": 20238196.05,
-        "Estimate Number": 46,
+        "Estimate Number": 47,
         "Length": "0.429 miles",
         "Contractor": "WRIGHT BROTHERS CONSTRUCTION COMPANY INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -19406,10 +19358,10 @@
         "Work Began Date": "2022-02-02 00:00:00",
         "Completion Date": "2025-05-15 00:00:00",
         "Revised Completion Date": "2026-02-02 00:00:00",
-        "Construction Progress": 0.6994,
-        "Completion Percent": 0.6994,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-12 09:10:00"
+        "Construction Progress": 0.7041,
+        "Completion Percent": 0.7041,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "R-2915E": [
@@ -19474,7 +19426,7 @@
         "Route": "I-95",
         "Location Description": "I-95 FROM MILE MARKER 153.20 (NC-148) TO MILE MARKER 167.00.",
         "Contract Amount": 12575000,
-        "Estimate Number": 30,
+        "Estimate Number": 31,
         "Length": "13.8 miles",
         "Contractor": "FSC II LLC DBA ROSE BROTHERS PAVING COMPANY",
         "Federal Aid Number": "NHPIM-0095(060)",
@@ -19484,10 +19436,10 @@
         "Work Began Date": "2021-12-01 00:00:00",
         "Completion Date": "2023-09-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.8448,
-        "Completion Percent": 0.8448,
-        "Latest Payment Thru": "2025-11-30 00:00:00",
-        "Latest Payment Date": "2025-12-09 09:10:00"
+        "Construction Progress": 0.8653,
+        "Completion Percent": 0.8653,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "I-5932B": [
@@ -19500,7 +19452,7 @@
         "Route": "I-95",
         "Location Description": "I-95 FROM MILE MARKER 153.20 (NC-148) TO MILE MARKER 167.00.",
         "Contract Amount": 12575000,
-        "Estimate Number": 30,
+        "Estimate Number": 31,
         "Length": "13.8 miles",
         "Contractor": "FSC II LLC DBA ROSE BROTHERS PAVING COMPANY",
         "Federal Aid Number": "NHPIM-0095(060)",
@@ -19510,10 +19462,10 @@
         "Work Began Date": "2021-12-01 00:00:00",
         "Completion Date": "2023-09-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.8448,
-        "Completion Percent": 0.8448,
-        "Latest Payment Thru": "2025-11-30 00:00:00",
-        "Latest Payment Date": "2025-12-09 09:10:00"
+        "Construction Progress": 0.8653,
+        "Completion Percent": 0.8653,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "R-3830": [
@@ -19682,7 +19634,7 @@
         "Route": "SR-1706",
         "Location Description": "BRIDGE #120109 OVER US-29 (NORTH CANNON BLVD) ON SR-1706 (MA RTIN LUTHER KING JR AVENUE).",
         "Contract Amount": 5729282.16,
-        "Estimate Number": 4,
+        "Estimate Number": 5,
         "Length": "0.224 miles",
         "Contractor": "NJR GROUP INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -19692,10 +19644,10 @@
         "Work Began Date": "2025-03-10 00:00:00",
         "Completion Date": "2027-03-30 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1378,
-        "Completion Percent": 0.1378,
-        "Latest Payment Thru": "2025-06-30 00:00:00",
-        "Latest Payment Date": "2025-07-08 09:10:00"
+        "Construction Progress": 0.2166,
+        "Completion Percent": 0.2166,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "BR-0029": [
@@ -20046,7 +19998,7 @@
         "Route": "SR-2316",
         "Location Description": "SR-2316 (NORTHCROSS DR) FROM NORTH OF NC-73 (SAM FURR RD) TO  SR-2147 (WESTMORELAND RD).",
         "Contract Amount": 20860000,
-        "Estimate Number": 17,
+        "Estimate Number": 18,
         "Length": "1.79 miles",
         "Contractor": "SEALAND CONTRACTORS CORP",
         "Federal Aid Number": "STBGDA-1001(093)",
@@ -20056,10 +20008,10 @@
         "Work Began Date": "2024-09-04 00:00:00",
         "Completion Date": "2027-03-14 00:00:00",
         "Revised Completion Date": "2027-05-28 00:00:00",
-        "Construction Progress": 0.4483,
-        "Completion Percent": 0.4483,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-08 09:10:00"
+        "Construction Progress": 0.4867,
+        "Completion Percent": 0.4867,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "U-5906": [
@@ -20748,7 +20700,7 @@
         "Route": "I-440",
         "Location Description": "I-440 FROM WEST OF LAKE BOONE TRAIL TO EAST OF SR-2000 (WAKE  FOREST RD) IN RALEIGH.",
         "Contract Amount": 26387244.89,
-        "Estimate Number": 35,
+        "Estimate Number": 36,
         "Length": "5.15 miles",
         "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
         "Federal Aid Number": "0440024",
@@ -20760,8 +20712,8 @@
         "Revised Completion Date": "2025-01-29 00:00:00",
         "Construction Progress": 0.935,
         "Completion Percent": 0.935,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-09 10:10:00"
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "B-3186": [
@@ -20852,7 +20804,7 @@
         "Route": "SR-1112",
         "Location Description": "BRIDGE #060009 OVER BLOUNTS CREEK ON SR-1112 (MOUTH OF THE C REEK ROAD).",
         "Contract Amount": 11018000,
-        "Estimate Number": 1,
+        "Estimate Number": 2,
         "Length": "0.398 miles",
         "Contractor": "SANFORD CONTRACTORS INC",
         "Federal Aid Number": "1112019",
@@ -20862,10 +20814,10 @@
         "Work Began Date": "2025-12-01 00:00:00",
         "Completion Date": "2028-10-28 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.0311,
-        "Completion Percent": 0.0311,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2025-12-30 08:10:00"
+        "Construction Progress": 0.0594,
+        "Completion Percent": 0.0594,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "B-5869": [
@@ -20878,7 +20830,7 @@
         "Route": "US-64",
         "Location Description": "BRIDGE #99 OVER NORFOLK SOUTHERN RAILROAD ON US-64/US-70 IN MORGANTON.",
         "Contract Amount": 22957187.28,
-        "Estimate Number": 32,
+        "Estimate Number": 33,
         "Length": "0.496 miles",
         "Contractor": "MOUNTAIN CREEK CONTRACTORS INC",
         "Federal Aid Number": "NHPP-0064(180)",
@@ -20888,10 +20840,10 @@
         "Work Began Date": "2023-07-05 00:00:00",
         "Completion Date": "2027-02-08 00:00:00",
         "Revised Completion Date": "2027-03-29 00:00:00",
-        "Construction Progress": 0.7698,
-        "Completion Percent": 0.7698,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.78,
+        "Completion Percent": 0.78,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "R-4705": [
@@ -21476,7 +21428,7 @@
         "Route": "NC-68",
         "Location Description": "NC-68 AT SR-2129 (FOGLEMAN RD) TO NC-150 IN OAK RIDGE.",
         "Contract Amount": 10497020.93,
-        "Estimate Number": 11,
+        "Estimate Number": 12,
         "Length": "0.742 miles",
         "Contractor": "YATES CONSTRUCTION CO INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -21486,10 +21438,10 @@
         "Work Began Date": "2024-03-15 00:00:00",
         "Completion Date": "2026-03-14 00:00:00",
         "Revised Completion Date": "2027-03-19 00:00:00",
-        "Construction Progress": 0.2686,
-        "Completion Percent": 0.2686,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-12 09:10:00"
+        "Construction Progress": 0.2834,
+        "Completion Percent": 0.2834,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "R-5751": [
@@ -21567,7 +21519,7 @@
         "Construction Progress": 0.3624,
         "Completion Percent": 0.3624,
         "Latest Payment Thru": "2026-01-15 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "U-5748": [
@@ -21992,11 +21944,11 @@
         "Division": 7,
         "County": "Rockingham",
         "TIP#": "B-5716",
-        "Tier": null,
+        "Tier": "Subregional",
         "Route": "SR-1138",
         "Location Description": "BRIDGE #780140 OVER DAN RIVER ON SR-1138.",
-        "Contract Amount": 0,
-        "Estimate Number": null,
+        "Contract Amount": 12940823.6,
+        "Estimate Number": 1,
         "Length": "0.426 miles",
         "Contractor": "BLYTHE CONSTRUCTION INC",
         "Federal Aid Number": "BRZ-1138(021)",
@@ -22006,9 +21958,9 @@
         "Work Began Date": "2025-11-20 00:00:00",
         "Completion Date": "2028-12-12 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0,
-        "Completion Percent": 0,
-        "Latest Payment Thru": null,
+        "Construction Progress": 0.0335,
+        "Completion Percent": 0.0335,
+        "Latest Payment Thru": "2025-12-31 00:00:00",
         "Latest Payment Date": null
       }
     ],
@@ -22048,7 +22000,7 @@
         "Route": "NC-45",
         "Location Description": "NC-45 FROM WASHINGTON COUNTY LINE TO US-17.",
         "Contract Amount": 11778894,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "8.096 miles",
         "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
         "Federal Aid Number": "4697601",
@@ -22058,10 +22010,10 @@
         "Work Began Date": "2025-06-03 00:00:00",
         "Completion Date": "2027-11-11 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2783,
-        "Completion Percent": 0.2783,
-        "Latest Payment Thru": "2025-12-19 00:00:00",
-        "Latest Payment Date": "2025-12-23 08:10:00"
+        "Construction Progress": 0.3492,
+        "Completion Percent": 0.3492,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "R-5863": [
@@ -22109,7 +22061,7 @@
         "Letting Date": "2023-06-20 00:00:00",
         "Work Began Date": "2023-08-24 00:00:00",
         "Completion Date": "2027-03-14 00:00:00",
-        "Revised Completion Date": "2027-06-12 00:00:00",
+        "Revised Completion Date": "2027-06-17 00:00:00",
         "Construction Progress": 0.4672,
         "Completion Percent": 0.4672,
         "Latest Payment Thru": "2025-12-31 00:00:00",
@@ -22334,7 +22286,7 @@
         "Route": "US-158",
         "Location Description": "US-158 FROM SR-1002 (ACORN HILL ROAD) TO EAST OF PASQUOTANK COUNTY LINE.",
         "Contract Amount": 20776667.76,
-        "Estimate Number": 10,
+        "Estimate Number": 11,
         "Length": "4.106 miles",
         "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
         "Federal Aid Number": "0158076",
@@ -22344,10 +22296,10 @@
         "Work Began Date": "2025-03-17 00:00:00",
         "Completion Date": "2028-02-28 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.3707,
-        "Completion Percent": 0.3707,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-08 09:10:00"
+        "Construction Progress": 0.4008,
+        "Completion Percent": 0.4008,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "BR-0012": [
@@ -22438,7 +22390,7 @@
         "Route": "SR-1929",
         "Location Description": "BRIDGE #780178 OVER US-29 ON SR-1929.",
         "Contract Amount": 3977080.25,
-        "Estimate Number": 14,
+        "Estimate Number": 15,
         "Length": "0.483 miles",
         "Contractor": "SMITH-ROWE, LLC",
         "Federal Aid Number": "STATE FUNDED",
@@ -22448,10 +22400,10 @@
         "Work Began Date": "2024-10-14 00:00:00",
         "Completion Date": "2026-10-28 00:00:00",
         "Revised Completion Date": "2026-11-03 00:00:00",
-        "Construction Progress": 0.8396,
-        "Completion Percent": 0.8396,
-        "Latest Payment Thru": "2025-11-30 00:00:00",
-        "Latest Payment Date": "2025-12-05 08:10:00"
+        "Construction Progress": 0.9012,
+        "Completion Percent": 0.9012,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "HB-0004": [
@@ -22490,7 +22442,7 @@
         "Route": "I-140",
         "Location Description": "I-140 FROM US-17 TO NORTH OF US-74.",
         "Contract Amount": 9551459.22,
-        "Estimate Number": 4,
+        "Estimate Number": 5,
         "Length": "4.94 miles",
         "Contractor": "HIGHLAND PAVING CO LLC",
         "Federal Aid Number": "0140003",
@@ -22500,10 +22452,10 @@
         "Work Began Date": "2024-06-24 00:00:00",
         "Completion Date": "2025-06-15 00:00:00",
         "Revised Completion Date": "2026-04-22 00:00:00",
-        "Construction Progress": 0.3601,
-        "Completion Percent": 0.3601,
-        "Latest Payment Thru": "2025-11-30 00:00:00",
-        "Latest Payment Date": "2025-12-09 09:10:00"
+        "Construction Progress": 0.3615,
+        "Completion Percent": 0.3615,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "R-5930A": [
@@ -22672,7 +22624,7 @@
         "Route": "NC-226",
         "Location Description": "BRIDGE #800040 OVER NORTH FORK FIRST BROAD CREEK ON NC-226.",
         "Contract Amount": 5593807.55,
-        "Estimate Number": 9,
+        "Estimate Number": 10,
         "Length": "0.21 miles",
         "Contractor": "KEMP SIGMON CONSTRUCTION CO INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -22682,10 +22634,10 @@
         "Work Began Date": "2025-03-24 00:00:00",
         "Completion Date": "2027-03-30 00:00:00",
         "Revised Completion Date": "2027-05-14 00:00:00",
-        "Construction Progress": 0.7858,
-        "Completion Percent": 0.7858,
-        "Latest Payment Thru": "2025-12-23 00:00:00",
-        "Latest Payment Date": "2025-12-31 08:10:00"
+        "Construction Progress": 0.8399,
+        "Completion Percent": 0.8399,
+        "Latest Payment Thru": "2026-01-22 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "HB-0003": [
@@ -22724,7 +22676,7 @@
         "Route": "US-19",
         "Location Description": "US-19/129 FROM GEORGIA STATE LINE TO US-64.",
         "Contract Amount": 67160518.63,
-        "Estimate Number": 22,
+        "Estimate Number": 23,
         "Length": "3.773 miles",
         "Contractor": "WRIGHT BROTHERS CONSTRUCTION COMPANY INC",
         "Federal Aid Number": "4742701",
@@ -22734,10 +22686,10 @@
         "Work Began Date": "2024-02-05 00:00:00",
         "Completion Date": "2029-06-01 00:00:00",
         "Revised Completion Date": "2029-06-02 00:00:00",
-        "Construction Progress": 0.3907,
-        "Completion Percent": 0.3907,
-        "Latest Payment Thru": "2025-12-22 00:00:00",
-        "Latest Payment Date": "2025-12-31 08:10:00"
+        "Construction Progress": 0.4142,
+        "Completion Percent": 0.4142,
+        "Latest Payment Thru": "2026-01-22 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "HO-0001AA": [
@@ -22763,7 +22715,7 @@
         "Construction Progress": 0.9307,
         "Completion Percent": 0.9307,
         "Latest Payment Thru": "2026-01-22 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "HE-0002": [
@@ -22802,7 +22754,7 @@
         "Route": "US-64",
         "Location Description": "INTERSECTIONS OF US-64 / US-276 (HENDERSONVILLE HWY), AND US -64 / NC-280 (ASHEVILLE HWY).",
         "Contract Amount": 20388187.21,
-        "Estimate Number": 24,
+        "Estimate Number": 25,
         "Length": "0.461 miles",
         "Contractor": "MOUNTAIN CREEK CONTRACTORS INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -22812,10 +22764,10 @@
         "Work Began Date": "2024-01-08 00:00:00",
         "Completion Date": "2027-05-14 00:00:00",
         "Revised Completion Date": "2027-06-08 00:00:00",
-        "Construction Progress": 0.4155,
-        "Completion Percent": 0.4155,
-        "Latest Payment Thru": "2025-11-30 00:00:00",
-        "Latest Payment Date": "2025-12-16 08:10:00"
+        "Construction Progress": 0.4183,
+        "Completion Percent": 0.4183,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "Y-4807B": [
@@ -22880,7 +22832,7 @@
         "Route": "US-74",
         "Location Description": "BRIDGE #430095 OVER SOUTHERN RAILROAD ON US-74.",
         "Contract Amount": 17679950.74,
-        "Estimate Number": 15,
+        "Estimate Number": 16,
         "Length": "0.313 miles",
         "Contractor": "NHM CONSTRUCTORS INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -22890,36 +22842,10 @@
         "Work Began Date": "2024-10-21 00:00:00",
         "Completion Date": "2028-02-11 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.3745,
-        "Completion Percent": 0.3745,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-08 09:10:00"
-      }
-    ],
-    "BR-0093": [
-      {
-        "Contract Number": "C204929",
-        "Division": 7,
-        "County": "Rockingham",
-        "TIP#": "BR-0093",
-        "Tier": "Regional",
-        "Route": "NC-770",
-        "Location Description": "BRIDGE #780035 OVER MAYO RIVER ON NC-770 AND SR- 1395 (JANET  ROAD) FROM US-220 TO NC-770.",
-        "Contract Amount": 4901614.24,
-        "Estimate Number": 11,
-        "Length": "2.921 miles",
-        "Contractor": "SMITH-ROWE, LLC",
-        "Federal Aid Number": "STATE FUNDED",
-        "NCDOT Contact": "Jacob B. Harris, PE",
-        "NCDOT Contact No": 3365206060,
-        "Letting Date": "2024-06-18 00:00:00",
-        "Work Began Date": "2024-08-14 00:00:00",
-        "Completion Date": "2026-05-14 00:00:00",
-        "Revised Completion Date": "2026-05-18 00:00:00",
-        "Construction Progress": 0.9446,
-        "Completion Percent": 0.9446,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-13 09:10:00"
+        "Construction Progress": 0.3938,
+        "Completion Percent": 0.3938,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "R-5930B": [
@@ -23097,7 +23023,7 @@
         "Letting Date": "2024-11-19 00:00:00",
         "Work Began Date": "2025-03-13 00:00:00",
         "Completion Date": "2029-12-12 00:00:00",
-        "Revised Completion Date": null,
+        "Revised Completion Date": "2029-12-17 00:00:00",
         "Construction Progress": 0.1867,
         "Completion Percent": 0.1867,
         "Latest Payment Thru": "2025-12-31 00:00:00",
@@ -23218,7 +23144,7 @@
         "Route": "US-52",
         "Location Description": "BRIDGE #030014 OVER S FORK JONES CREEK ON US-52.",
         "Contract Amount": 5435975,
-        "Estimate Number": 15,
+        "Estimate Number": 16,
         "Length": "0.24 miles",
         "Contractor": "ANSON CONTRACTORS INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -23228,10 +23154,10 @@
         "Work Began Date": "2024-10-14 00:00:00",
         "Completion Date": "2027-03-14 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.83,
-        "Completion Percent": 0.83,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-08 09:10:00"
+        "Construction Progress": 0.8358,
+        "Completion Percent": 0.8358,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "I-2513B": [
@@ -23448,11 +23374,11 @@
         "Division": 9,
         "County": "Forsyth",
         "TIP#": "I-5880",
-        "Tier": null,
+        "Tier": "Statewide",
         "Route": "I-40",
         "Location Description": "I-40/US-311 AT NC-109 INTERCHANGE.",
-        "Contract Amount": 0,
-        "Estimate Number": null,
+        "Contract Amount": 38891435.19,
+        "Estimate Number": 1,
         "Length": "0.819 miles",
         "Contractor": "BLYTHE CONSTRUCTION INC",
         "Federal Aid Number": "5308001",
@@ -23462,10 +23388,10 @@
         "Work Began Date": "2026-01-05 00:00:00",
         "Completion Date": "2030-01-11 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0,
-        "Completion Percent": 0,
-        "Latest Payment Thru": null,
-        "Latest Payment Date": null
+        "Construction Progress": 0.0318,
+        "Completion Percent": 0.0318,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "B-5766": [
@@ -23504,7 +23430,7 @@
         "Route": "SR-1436",
         "Location Description": "BRIDGE #290076 OVER I-40 ON SR-1436 (PINEBROOK SCHOOL RD).",
         "Contract Amount": 4230585.11,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0.189 miles",
         "Contractor": "SMITH-ROWE, LLC",
         "Federal Aid Number": "5160001",
@@ -23514,10 +23440,10 @@
         "Work Began Date": "2025-06-12 00:00:00",
         "Completion Date": "2027-01-28 00:00:00",
         "Revised Completion Date": "2027-02-02 00:00:00",
-        "Construction Progress": 0.5047,
-        "Completion Percent": 0.5047,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-21 08:10:00"
+        "Construction Progress": 0.5676,
+        "Completion Percent": 0.5676,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "U-5536": [
@@ -23630,23 +23556,23 @@
         "Division": 10,
         "County": "Mecklenburg",
         "TIP#": "BP10-R013",
-        "Tier": null,
-        "Route": "-",
+        "Tier": "Subregional",
+        "Route": "SR-5469",
         "Location Description": "BRIDGE #590165 OVER COFFEY CREEK ON SR-5469 (SHOPTON RD).",
-        "Contract Amount": 0,
-        "Estimate Number": null,
+        "Contract Amount": 6807682,
+        "Estimate Number": 1,
         "Length": "0.315 miles",
         "Contractor": "BLYTHE DEVELOPMENT LLC",
         "Federal Aid Number": "STATE FUNDED",
-        "NCDOT Contact": null,
-        "NCDOT Contact No": 0,
+        "NCDOT Contact": "Brian D. Davis, PE",
+        "NCDOT Contact No": 7048475006,
         "Letting Date": "2025-08-19 00:00:00",
         "Work Began Date": "2026-01-06 00:00:00",
         "Completion Date": "2028-01-11 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0,
-        "Completion Percent": 0,
-        "Latest Payment Thru": null,
+        "Construction Progress": 0.0331,
+        "Completion Percent": 0.0331,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
         "Latest Payment Date": null
       }
     ],
@@ -23712,7 +23638,7 @@
         "Route": "US-64",
         "Location Description": "BRIDGE #880007 OVER THE ALLIGATOR RIVER ON US-64.",
         "Contract Amount": 449777300,
-        "Estimate Number": 12,
+        "Estimate Number": 13,
         "Length": "0 miles",
         "Contractor": "SKANSKA USA CIVIL SOUTHEAST INC",
         "Federal Aid Number": "0001156",
@@ -23722,10 +23648,10 @@
         "Work Began Date": "2025-01-22 00:00:00",
         "Completion Date": "2030-04-19 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.3477,
-        "Completion Percent": 0.3477,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-12 09:10:00"
+        "Construction Progress": 0.3642,
+        "Completion Percent": 0.3642,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "I-5719B": [
@@ -23903,7 +23829,7 @@
         "Letting Date": "2024-12-19 00:00:00",
         "Work Began Date": "2025-01-27 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
-        "Revised Completion Date": "2026-10-11 00:00:00",
+        "Revised Completion Date": "2026-12-04 00:00:00",
         "Construction Progress": 0.723,
         "Completion Percent": 0.723,
         "Latest Payment Thru": "2025-12-31 00:00:00",
@@ -23918,7 +23844,7 @@
         "Route": "-",
         "Location Description": "BRIDGE #990173 OVER MIDDLE CREEK ON SR-1159, AND BRIDGE #990 156 OVER COLBERT CREEK ON SR-1158.",
         "Contract Amount": 3046805,
-        "Estimate Number": 9,
+        "Estimate Number": 10,
         "Length": "0 miles",
         "Contractor": "R E BURNS & SONS CO INC",
         "Federal Aid Number": "HELENE",
@@ -23928,10 +23854,10 @@
         "Work Began Date": "2025-04-09 00:00:00",
         "Completion Date": "2026-11-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1936,
-        "Completion Percent": 0.1936,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.1971,
+        "Completion Percent": 0.1971,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205047",
@@ -23942,7 +23868,7 @@
         "Route": "-",
         "Location Description": "BRIDGE #100115 ON SR-2789, BRIDGE #100308 ON SR-2419, AND BR IDGE #100380 ON SR-2432.",
         "Contract Amount": 6151245,
-        "Estimate Number": 9,
+        "Estimate Number": 10,
         "Length": "0 miles",
         "Contractor": "R E BURNS & SONS CO INC",
         "Federal Aid Number": "HELENE",
@@ -23952,10 +23878,10 @@
         "Work Began Date": "2025-04-09 00:00:00",
         "Completion Date": "2026-11-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1806,
-        "Completion Percent": 0.1806,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.1873,
+        "Completion Percent": 0.1873,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205065",
@@ -24143,7 +24069,7 @@
         "Letting Date": "2024-09-04 00:00:00",
         "Work Began Date": null,
         "Completion Date": "2026-03-17 00:00:00",
-        "Revised Completion Date": null,
+        "Revised Completion Date": "2027-05-28 00:00:00",
         "Construction Progress": 0,
         "Completion Percent": 0,
         "Latest Payment Thru": null,
@@ -24217,7 +24143,7 @@
         "Letting Date": "2024-12-19 00:00:00",
         "Work Began Date": "2025-01-27 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
-        "Revised Completion Date": "2026-10-11 00:00:00",
+        "Revised Completion Date": "2026-12-04 00:00:00",
         "Construction Progress": 0.723,
         "Completion Percent": 0.723,
         "Latest Payment Thru": "2025-12-31 00:00:00",
@@ -24352,7 +24278,7 @@
         "Route": "-",
         "Location Description": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "Contract Amount": 7561270,
-        "Estimate Number": 5,
+        "Estimate Number": 6,
         "Length": "0 miles",
         "Contractor": "NHM CONSTRUCTORS INC",
         "Federal Aid Number": "HELENE",
@@ -24362,10 +24288,10 @@
         "Work Began Date": "2025-03-13 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2391,
-        "Completion Percent": 0.2391,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-13 09:10:00"
+        "Construction Progress": 0.2382,
+        "Completion Percent": 0.2382,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205027",
@@ -24376,7 +24302,7 @@
         "Route": "NC-197",
         "Location Description": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "Contract Amount": 7477000,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0 miles",
         "Contractor": "LEE CONSTRUCTION CO OF THE CAROLINAS IN",
         "Federal Aid Number": "HELENE",
@@ -24386,10 +24312,10 @@
         "Work Began Date": "2025-04-01 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2257,
-        "Completion Percent": 0.2257,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.3069,
+        "Completion Percent": 0.3069,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       },
       {
         "Contract Number": "C205028",
@@ -24448,7 +24374,7 @@
         "Route": "-",
         "Location Description": "BRIDGE #990173 OVER MIDDLE CREEK ON SR-1159, AND BRIDGE #990 156 OVER COLBERT CREEK ON SR-1158.",
         "Contract Amount": 3046805,
-        "Estimate Number": 9,
+        "Estimate Number": 10,
         "Length": "0 miles",
         "Contractor": "R E BURNS & SONS CO INC",
         "Federal Aid Number": "HELENE",
@@ -24458,10 +24384,10 @@
         "Work Began Date": "2025-04-09 00:00:00",
         "Completion Date": "2026-11-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1936,
-        "Completion Percent": 0.1936,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.1971,
+        "Completion Percent": 0.1971,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205031",
@@ -24496,7 +24422,7 @@
         "Route": "-",
         "Location Description": "BRIDGE #100115 ON SR-2789, BRIDGE #100308 ON SR-2419, AND BR IDGE #100380 ON SR-2432.",
         "Contract Amount": 6151245,
-        "Estimate Number": 9,
+        "Estimate Number": 10,
         "Length": "0 miles",
         "Contractor": "R E BURNS & SONS CO INC",
         "Federal Aid Number": "HELENE",
@@ -24506,10 +24432,10 @@
         "Work Began Date": "2025-04-09 00:00:00",
         "Completion Date": "2026-11-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1806,
-        "Completion Percent": 0.1806,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.1873,
+        "Completion Percent": 0.1873,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205065",
@@ -24697,7 +24623,7 @@
         "Letting Date": "2024-09-04 00:00:00",
         "Work Began Date": null,
         "Completion Date": "2026-03-17 00:00:00",
-        "Revised Completion Date": null,
+        "Revised Completion Date": "2027-05-28 00:00:00",
         "Construction Progress": 0,
         "Completion Percent": 0,
         "Latest Payment Thru": null,
@@ -24747,7 +24673,7 @@
         "Letting Date": "2024-12-19 00:00:00",
         "Work Began Date": "2025-01-27 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
-        "Revised Completion Date": "2026-10-11 00:00:00",
+        "Revised Completion Date": "2026-12-04 00:00:00",
         "Construction Progress": 0.723,
         "Completion Percent": 0.723,
         "Latest Payment Thru": "2025-12-31 00:00:00",
@@ -24810,7 +24736,7 @@
         "Route": "-",
         "Location Description": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "Contract Amount": 7561270,
-        "Estimate Number": 5,
+        "Estimate Number": 6,
         "Length": "0 miles",
         "Contractor": "NHM CONSTRUCTORS INC",
         "Federal Aid Number": "HELENE",
@@ -24820,10 +24746,10 @@
         "Work Began Date": "2025-03-13 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2391,
-        "Completion Percent": 0.2391,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-13 09:10:00"
+        "Construction Progress": 0.2382,
+        "Completion Percent": 0.2382,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205027",
@@ -24834,7 +24760,7 @@
         "Route": "NC-197",
         "Location Description": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "Contract Amount": 7477000,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0 miles",
         "Contractor": "LEE CONSTRUCTION CO OF THE CAROLINAS IN",
         "Federal Aid Number": "HELENE",
@@ -24844,10 +24770,10 @@
         "Work Began Date": "2025-04-01 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2257,
-        "Completion Percent": 0.2257,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.3069,
+        "Completion Percent": 0.3069,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       },
       {
         "Contract Number": "C205047",
@@ -24858,7 +24784,7 @@
         "Route": "-",
         "Location Description": "BRIDGE #100115 ON SR-2789, BRIDGE #100308 ON SR-2419, AND BR IDGE #100380 ON SR-2432.",
         "Contract Amount": 6151245,
-        "Estimate Number": 9,
+        "Estimate Number": 10,
         "Length": "0 miles",
         "Contractor": "R E BURNS & SONS CO INC",
         "Federal Aid Number": "HELENE",
@@ -24868,10 +24794,10 @@
         "Work Began Date": "2025-04-09 00:00:00",
         "Completion Date": "2026-11-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1806,
-        "Completion Percent": 0.1806,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.1873,
+        "Completion Percent": 0.1873,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205065",
@@ -25340,7 +25266,7 @@
         "Route": "-",
         "Location Description": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "Contract Amount": 7561270,
-        "Estimate Number": 5,
+        "Estimate Number": 6,
         "Length": "0 miles",
         "Contractor": "NHM CONSTRUCTORS INC",
         "Federal Aid Number": "HELENE",
@@ -25350,10 +25276,10 @@
         "Work Began Date": "2025-03-13 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2391,
-        "Completion Percent": 0.2391,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-13 09:10:00"
+        "Construction Progress": 0.2382,
+        "Completion Percent": 0.2382,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205026",
@@ -25364,7 +25290,7 @@
         "Route": "-",
         "Location Description": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "Contract Amount": 7561270,
-        "Estimate Number": 5,
+        "Estimate Number": 6,
         "Length": "0 miles",
         "Contractor": "NHM CONSTRUCTORS INC",
         "Federal Aid Number": "HELENE",
@@ -25374,10 +25300,10 @@
         "Work Began Date": "2025-03-13 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2391,
-        "Completion Percent": 0.2391,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-13 09:10:00"
+        "Construction Progress": 0.2382,
+        "Completion Percent": 0.2382,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205026",
@@ -25388,7 +25314,7 @@
         "Route": "-",
         "Location Description": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "Contract Amount": 7561270,
-        "Estimate Number": 5,
+        "Estimate Number": 6,
         "Length": "0 miles",
         "Contractor": "NHM CONSTRUCTORS INC",
         "Federal Aid Number": "HELENE",
@@ -25398,10 +25324,10 @@
         "Work Began Date": "2025-03-13 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2391,
-        "Completion Percent": 0.2391,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-13 09:10:00"
+        "Construction Progress": 0.2382,
+        "Completion Percent": 0.2382,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205026",
@@ -25412,7 +25338,7 @@
         "Route": "-",
         "Location Description": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "Contract Amount": 7561270,
-        "Estimate Number": 5,
+        "Estimate Number": 6,
         "Length": "0 miles",
         "Contractor": "NHM CONSTRUCTORS INC",
         "Federal Aid Number": "HELENE",
@@ -25422,10 +25348,10 @@
         "Work Began Date": "2025-03-13 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2391,
-        "Completion Percent": 0.2391,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-13 09:10:00"
+        "Construction Progress": 0.2382,
+        "Completion Percent": 0.2382,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205027",
@@ -25436,7 +25362,7 @@
         "Route": "NC-197",
         "Location Description": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "Contract Amount": 7477000,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0 miles",
         "Contractor": "LEE CONSTRUCTION CO OF THE CAROLINAS IN",
         "Federal Aid Number": "HELENE",
@@ -25446,10 +25372,10 @@
         "Work Began Date": "2025-04-01 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2257,
-        "Completion Percent": 0.2257,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.3069,
+        "Completion Percent": 0.3069,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       },
       {
         "Contract Number": "C205027",
@@ -25460,7 +25386,7 @@
         "Route": "NC-197",
         "Location Description": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "Contract Amount": 7477000,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0 miles",
         "Contractor": "LEE CONSTRUCTION CO OF THE CAROLINAS IN",
         "Federal Aid Number": "HELENE",
@@ -25470,10 +25396,10 @@
         "Work Began Date": "2025-04-01 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2257,
-        "Completion Percent": 0.2257,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.3069,
+        "Completion Percent": 0.3069,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       },
       {
         "Contract Number": "C205027",
@@ -25484,7 +25410,7 @@
         "Route": "NC-197",
         "Location Description": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "Contract Amount": 7477000,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0 miles",
         "Contractor": "LEE CONSTRUCTION CO OF THE CAROLINAS IN",
         "Federal Aid Number": "HELENE",
@@ -25494,10 +25420,10 @@
         "Work Began Date": "2025-04-01 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2257,
-        "Completion Percent": 0.2257,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.3069,
+        "Completion Percent": 0.3069,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       },
       {
         "Contract Number": "C205027",
@@ -25508,7 +25434,7 @@
         "Route": "NC-197",
         "Location Description": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "Contract Amount": 7477000,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0 miles",
         "Contractor": "LEE CONSTRUCTION CO OF THE CAROLINAS IN",
         "Federal Aid Number": "HELENE",
@@ -25518,10 +25444,10 @@
         "Work Began Date": "2025-04-01 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2257,
-        "Completion Percent": 0.2257,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.3069,
+        "Completion Percent": 0.3069,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       },
       {
         "Contract Number": "C205028",
@@ -25942,7 +25868,7 @@
         "Route": "-",
         "Location Description": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "Contract Amount": 7561270,
-        "Estimate Number": 5,
+        "Estimate Number": 6,
         "Length": "0 miles",
         "Contractor": "NHM CONSTRUCTORS INC",
         "Federal Aid Number": "HELENE",
@@ -25952,10 +25878,10 @@
         "Work Began Date": "2025-03-13 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2391,
-        "Completion Percent": 0.2391,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-13 09:10:00"
+        "Construction Progress": 0.2382,
+        "Completion Percent": 0.2382,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       },
       {
         "Contract Number": "C205027",
@@ -25966,7 +25892,7 @@
         "Route": "NC-197",
         "Location Description": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "Contract Amount": 7477000,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0 miles",
         "Contractor": "LEE CONSTRUCTION CO OF THE CAROLINAS IN",
         "Federal Aid Number": "HELENE",
@@ -25976,10 +25902,10 @@
         "Work Began Date": "2025-04-01 00:00:00",
         "Completion Date": "2026-10-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2257,
-        "Completion Percent": 0.2257,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.3069,
+        "Completion Percent": 0.3069,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       },
       {
         "Contract Number": "C205065",
@@ -26116,7 +26042,7 @@
         "Route": "NC-11",
         "Location Description": "BRIDGE #070024 OVER CASHIE RIVER ON NC-11.",
         "Contract Amount": 4295107.09,
-        "Estimate Number": 1,
+        "Estimate Number": 2,
         "Length": "0.455 miles",
         "Contractor": "S T WOOTEN CORPORATION",
         "Federal Aid Number": "5183101",
@@ -26126,10 +26052,10 @@
         "Work Began Date": "2025-11-20 00:00:00",
         "Completion Date": "2027-11-03 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.0411,
-        "Completion Percent": 0.0411,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-08 09:10:00"
+        "Construction Progress": 0.111,
+        "Completion Percent": 0.111,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "R-5739": [
@@ -26155,7 +26081,7 @@
         "Construction Progress": 0.0803,
         "Completion Percent": 0.0803,
         "Latest Payment Thru": "2026-01-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "BR-0015": [
@@ -26194,7 +26120,7 @@
         "Route": "SR-3174",
         "Location Description": "SR-3174 (IDLEWILD RD) FROM SR-3175 (STALLINGS RD) TO I-485.",
         "Contract Amount": 8676763.3,
-        "Estimate Number": 2,
+        "Estimate Number": 3,
         "Length": "0.531 miles",
         "Contractor": "J T RUSSELL & SONS INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -26204,10 +26130,10 @@
         "Work Began Date": "2025-10-15 00:00:00",
         "Completion Date": "2027-03-29 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.0619,
-        "Completion Percent": 0.0619,
-        "Latest Payment Thru": "2025-11-30 00:00:00",
-        "Latest Payment Date": "2025-12-11 08:10:00"
+        "Construction Progress": 0.0678,
+        "Completion Percent": 0.0678,
+        "Latest Payment Thru": "2025-12-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "U-5789": [
@@ -26272,7 +26198,7 @@
         "Route": "NC-24",
         "Location Description": "NC-24/NC-27 FROM WEST OF NC-22 (MCNEILL ST) TO US-15/US-501.",
         "Contract Amount": 4955597,
-        "Estimate Number": 2,
+        "Estimate Number": 3,
         "Length": "1.028 miles",
         "Contractor": "FSC II LLC DBA FRED SMITH COMPANY",
         "Federal Aid Number": "4467201",
@@ -26282,10 +26208,10 @@
         "Work Began Date": "2025-11-20 00:00:00",
         "Completion Date": "2027-05-14 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.061,
-        "Completion Percent": 0.061,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-07 09:10:00"
+        "Construction Progress": 0.0745,
+        "Completion Percent": 0.0745,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "U-5777": [
@@ -26480,7 +26406,7 @@
         "Route": "US-17 B",
         "Location Description": "INTERSECTIONS AT US-17 AND US-17 BUSINESS NORTH AND SOUTH OF  SHALLOTTE.",
         "Contract Amount": 25693279.23,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "0.91 miles",
         "Contractor": "HIGHLAND PAVING CO LLC",
         "Federal Aid Number": "STATE FUNDED",
@@ -26490,10 +26416,10 @@
         "Work Began Date": "2025-10-06 00:00:00",
         "Completion Date": "2028-03-29 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.0816,
-        "Completion Percent": 0.0816,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-09 10:10:00"
+        "Construction Progress": 0.1054,
+        "Completion Percent": 0.1054,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "U-6005": [
@@ -26506,7 +26432,7 @@
         "Route": "NC-65",
         "Location Description": "NC-65 (BETHANIA-RURAL HALL RD) FROM US-52 TO SR-3983 (NORTHR IDGE PARK DR).",
         "Contract Amount": 12385000,
-        "Estimate Number": 4,
+        "Estimate Number": 5,
         "Length": "0.933 miles",
         "Contractor": "BRANCH CIVIL INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -26516,10 +26442,10 @@
         "Work Began Date": "2025-09-13 00:00:00",
         "Completion Date": "2028-03-13 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.0891,
-        "Completion Percent": 0.0891,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-21 08:10:00"
+        "Construction Progress": 0.1217,
+        "Completion Percent": 0.1217,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "U-6058": [
@@ -26532,7 +26458,7 @@
         "Route": "NC-101",
         "Location Description": "NC-101 FROM S OF SR-1170 (W BEAUFORT RD) TO N OF US-70 AND S R-1493 (LIVE OAK STREET) AT NC-101.",
         "Contract Amount": 8090393.12,
-        "Estimate Number": 1,
+        "Estimate Number": 2,
         "Length": "0.272 miles",
         "Contractor": "BARNHILL CONTRACTING CO",
         "Federal Aid Number": "4748201",
@@ -26542,10 +26468,10 @@
         "Work Began Date": "2025-09-29 00:00:00",
         "Completion Date": "2027-10-28 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.0322,
-        "Completion Percent": 0.0322,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-07 09:10:00"
+        "Construction Progress": 0.0844,
+        "Completion Percent": 0.0844,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "U-5798B": [
@@ -26636,7 +26562,7 @@
         "Route": "US-74",
         "Location Description": "US-74 FROM 1 MILE EAST OF NC-41 TO 0.26 MILES EAST OF COLUMB US CO LINE AND FROM SCOTLAND CO LINE TO I-74/US-74 BUSINESS.",
         "Contract Amount": 18703602.78,
-        "Estimate Number": 4,
+        "Estimate Number": 5,
         "Length": "13.001 miles",
         "Contractor": "BARNHILL CONTRACTING CO",
         "Federal Aid Number": "0074244",
@@ -26646,10 +26572,10 @@
         "Work Began Date": "2025-09-10 00:00:00",
         "Completion Date": "2027-06-30 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1971,
-        "Completion Percent": 0.1971,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-14 09:10:00"
+        "Construction Progress": 0.2722,
+        "Completion Percent": 0.2722,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "HI-0017": [
@@ -26662,7 +26588,7 @@
         "Route": "US-74",
         "Location Description": "US-74 FROM 1 MILE EAST OF NC-41 TO 0.26 MILES EAST OF COLUMB US CO LINE AND FROM SCOTLAND CO LINE TO I-74/US-74 BUSINESS.",
         "Contract Amount": 18703602.78,
-        "Estimate Number": 4,
+        "Estimate Number": 5,
         "Length": "13.001 miles",
         "Contractor": "BARNHILL CONTRACTING CO",
         "Federal Aid Number": "0074244",
@@ -26672,10 +26598,10 @@
         "Work Began Date": "2025-09-10 00:00:00",
         "Completion Date": "2027-06-30 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1971,
-        "Completion Percent": 0.1971,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-14 09:10:00"
+        "Construction Progress": 0.2722,
+        "Completion Percent": 0.2722,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "R-5600": [
@@ -26710,11 +26636,11 @@
         "Division": 2,
         "County": "Pitt",
         "TIP#": "U-5875",
-        "Tier": null,
-        "Route": "-",
+        "Tier": "Subregional",
+        "Route": "SR-1203",
         "Location Description": "SR-1203 (ALLEN RD) FROM SR-1467 (STANTONSBURG RD) TO US-13 ( DICKINSON AVE EXT).",
-        "Contract Amount": 0,
-        "Estimate Number": null,
+        "Contract Amount": 47191560.83,
+        "Estimate Number": 1,
         "Length": "2.406 miles",
         "Contractor": "BARNHILL CONTRACTING CO",
         "Federal Aid Number": "STATE FUNDED",
@@ -26724,10 +26650,10 @@
         "Work Began Date": "2026-01-19 00:00:00",
         "Completion Date": "2029-12-12 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0,
-        "Completion Percent": 0,
-        "Latest Payment Thru": null,
-        "Latest Payment Date": null
+        "Construction Progress": 0.0423,
+        "Completion Percent": 0.0423,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "U-6187": [
@@ -26740,7 +26666,7 @@
         "Route": "SR-1630",
         "Location Description": "NEW ROUTE FROM SR-1630 (BALTIMORE RD) TO I-40.",
         "Contract Amount": 32185000,
-        "Estimate Number": 1,
+        "Estimate Number": 2,
         "Length": "1.184 miles",
         "Contractor": "BRANCH CIVIL INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -26750,10 +26676,10 @@
         "Work Began Date": "2025-12-01 00:00:00",
         "Completion Date": "2029-12-12 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.0339,
-        "Completion Percent": 0.0339,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-07 09:10:00"
+        "Construction Progress": 0.0948,
+        "Completion Percent": 0.0948,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "R-5901": [
@@ -26792,7 +26718,7 @@
         "Route": "SR-1002, SR-1216, US-421",
         "Location Description": "1 SECTION OF US-421, AND 2 SECTIONS OF SECONDARY ROADS.",
         "Contract Amount": 4612279.74,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "18.69 miles",
         "Contractor": "S T WOOTEN CORPORATION",
         "Federal Aid Number": "STATE FUNDED",
@@ -26802,10 +26728,10 @@
         "Work Began Date": "2025-07-28 00:00:00",
         "Completion Date": "2026-11-15 00:00:00",
         "Revised Completion Date": "2026-12-15 00:00:00",
-        "Construction Progress": 0.2526,
-        "Completion Percent": 0.2526,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-09 10:10:00"
+        "Construction Progress": 0.3104,
+        "Completion Percent": 0.3104,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "SS-6213AD": [
@@ -26900,10 +26826,10 @@
         "Length": "0.286 miles",
         "Contractor": "TRUEROCK CONSTRUCTION LLC",
         "Federal Aid Number": "HSIP-2042(002)",
-        "NCDOT Contact": null,
-        "NCDOT Contact No": 0,
+        "NCDOT Contact": "Brian D. Davis, PE",
+        "NCDOT Contact No": 7048475006,
         "Letting Date": "2025-11-18 00:00:00",
-        "Work Began Date": null,
+        "Work Began Date": "2026-02-06 00:00:00",
         "Completion Date": "2028-01-11 00:00:00",
         "Revised Completion Date": null,
         "Construction Progress": 0,
@@ -26997,8 +26923,8 @@
         "Tier": null,
         "Route": "NC-12",
         "Location Description": "SOUTH MILLS, GATESVILLE, ELIZABETH CITY, HERTFORD, MANTEO, W AVES & AVON",
-        "Contract Amount": 0,
-        "Estimate Number": null,
+        "Contract Amount": 359090,
+        "Estimate Number": 1,
         "Length": "0 miles",
         "Contractor": "EASTERN EARTHSCAPES & CONSTRUCTION LLC",
         "Federal Aid Number": "5093003",
@@ -27008,10 +26934,10 @@
         "Work Began Date": "2025-04-01 00:00:00",
         "Completion Date": "2026-05-01 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0,
-        "Completion Percent": 0,
-        "Latest Payment Thru": null,
-        "Latest Payment Date": null
+        "Construction Progress": 0.6166,
+        "Completion Percent": 0.6166,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "W-5701C": [
@@ -27141,7 +27067,7 @@
         "Construction Progress": 0.284,
         "Completion Percent": 0.284,
         "Latest Payment Thru": "2026-01-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "HS-2401E": [
@@ -27167,7 +27093,7 @@
         "Construction Progress": 0.284,
         "Completion Percent": 0.284,
         "Latest Payment Thru": "2026-01-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "HS-2401G": [
@@ -27193,7 +27119,7 @@
         "Construction Progress": 0.284,
         "Completion Percent": 0.284,
         "Latest Payment Thru": "2026-01-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "HS-2401K": [
@@ -27219,7 +27145,7 @@
         "Construction Progress": 0.284,
         "Completion Percent": 0.284,
         "Latest Payment Thru": "2026-01-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "HS-2401O": [
@@ -27245,7 +27171,7 @@
         "Construction Progress": 0.284,
         "Completion Percent": 0.284,
         "Latest Payment Thru": "2026-01-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "HS-5401D": [
@@ -27271,7 +27197,7 @@
         "Construction Progress": 0.284,
         "Completion Percent": 0.284,
         "Latest Payment Thru": "2026-01-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "HS-2401": [
@@ -27292,7 +27218,7 @@
         "NCDOT Contact No": 2524821857,
         "Letting Date": "2025-01-29 00:00:00",
         "Work Began Date": "2025-03-01 00:00:00",
-        "Completion Date": "2026-01-31 00:00:00",
+        "Completion Date": "2027-01-31 00:00:00",
         "Revised Completion Date": null,
         "Construction Progress": 0.1362,
         "Completion Percent": 0.1362,
@@ -27318,7 +27244,7 @@
         "NCDOT Contact No": 2524821857,
         "Letting Date": "2025-01-29 00:00:00",
         "Work Began Date": "2025-03-01 00:00:00",
-        "Completion Date": "2026-01-31 00:00:00",
+        "Completion Date": "2027-01-31 00:00:00",
         "Revised Completion Date": null,
         "Construction Progress": 0.1362,
         "Completion Percent": 0.1362,
@@ -27558,32 +27484,6 @@
         "Latest Payment Date": "2026-01-07 09:10:00"
       }
     ],
-    "HS-2402D": [
-      {
-        "Contract Number": "DB00608",
-        "Division": 2,
-        "County": "Pitt",
-        "TIP#": "HS-2402D",
-        "Tier": "Subregional",
-        "Route": "SR-1598",
-        "Location Description": "SR 1598 AT ANDERSON STREET IN GREENVILLE",
-        "Contract Amount": 170041,
-        "Estimate Number": 4,
-        "Length": "0.1 miles",
-        "Contractor": "T & H ELECTRICAL CORPORATION",
-        "Federal Aid Number": "5097404",
-        "NCDOT Contact": "Jason B. Beasley",
-        "NCDOT Contact No": 2528303495,
-        "Letting Date": "2025-01-29 00:00:00",
-        "Work Began Date": "2025-03-19 00:00:00",
-        "Completion Date": "2026-03-31 00:00:00",
-        "Revised Completion Date": null,
-        "Construction Progress": 0.9203,
-        "Completion Percent": 0.9203,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2025-12-30 08:10:00"
-      }
-    ],
     "BP2-R027": [
       {
         "Contract Number": "DB00609",
@@ -27802,7 +27702,7 @@
         "Route": "I-587, I-795, I-95, US-117, US-264, US-301, US-64, US-70",
         "Location Description": "DIVISION WIDE PRIMARY AND INTERSTATE RAMPS",
         "Contract Amount": 1329562.4,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "0 miles",
         "Contractor": "TMI SERVICES INC",
         "Federal Aid Number": "4930620",
@@ -27812,10 +27712,10 @@
         "Work Began Date": "2025-09-08 00:00:00",
         "Completion Date": "2026-11-20 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.4131,
-        "Completion Percent": 0.4131,
-        "Latest Payment Thru": "2025-12-15 00:00:00",
-        "Latest Payment Date": "2025-12-30 08:10:00"
+        "Construction Progress": 0.4441,
+        "Completion Percent": 0.4441,
+        "Latest Payment Thru": "2026-01-15 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "U-5947(L)": [
@@ -28166,7 +28066,7 @@
         "Route": "SR-VARI",
         "Location Description": "VARIOUS LOCATIONS IN WAKE COUNTY",
         "Contract Amount": 2450061.75,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0.467 miles",
         "Contractor": "S T WOOTEN CORPORATION",
         "Federal Aid Number": "1645004",
@@ -28176,10 +28076,10 @@
         "Work Began Date": "2025-06-02 00:00:00",
         "Completion Date": "2026-11-15 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.7879,
-        "Completion Percent": 0.7879,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-12 09:10:00"
+        "Construction Progress": 0.8379,
+        "Completion Percent": 0.8379,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "HS-2005I": [
@@ -28192,7 +28092,7 @@
         "Route": "SR-VARI",
         "Location Description": "VARIOUS LOCATIONS IN WAKE COUNTY",
         "Contract Amount": 2450061.75,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0.467 miles",
         "Contractor": "S T WOOTEN CORPORATION",
         "Federal Aid Number": "1645004",
@@ -28202,10 +28102,10 @@
         "Work Began Date": "2025-06-02 00:00:00",
         "Completion Date": "2026-11-15 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.7879,
-        "Completion Percent": 0.7879,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-12 09:10:00"
+        "Construction Progress": 0.8379,
+        "Completion Percent": 0.8379,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "HS-2005J": [
@@ -28218,7 +28118,7 @@
         "Route": "SR-VARI",
         "Location Description": "VARIOUS LOCATIONS IN WAKE COUNTY",
         "Contract Amount": 2450061.75,
-        "Estimate Number": 7,
+        "Estimate Number": 8,
         "Length": "0.467 miles",
         "Contractor": "S T WOOTEN CORPORATION",
         "Federal Aid Number": "1645004",
@@ -28228,10 +28128,10 @@
         "Work Began Date": "2025-06-02 00:00:00",
         "Completion Date": "2026-11-15 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.7879,
-        "Completion Percent": 0.7879,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-12 09:10:00"
+        "Construction Progress": 0.8379,
+        "Completion Percent": 0.8379,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "HS-2405B": [
@@ -28920,7 +28820,7 @@
         "Route": "SR-1441",
         "Location Description": "SR 1441 (CHALYBEATE SPRINGS RD) BETWEEN NC 55 AND US 401",
         "Contract Amount": 692317.01,
-        "Estimate Number": 1,
+        "Estimate Number": 2,
         "Length": "0.216 miles",
         "Contractor": "HIGHLAND PAVING CO LLC",
         "Federal Aid Number": "HSIP-1441(005)",
@@ -28930,10 +28830,10 @@
         "Work Began Date": "2025-09-26 00:00:00",
         "Completion Date": "2026-06-05 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.3378,
-        "Completion Percent": 0.3378,
-        "Latest Payment Thru": "2025-12-03 00:00:00",
-        "Latest Payment Date": "2025-12-11 08:10:00"
+        "Construction Progress": 0.7004,
+        "Completion Percent": 0.7004,
+        "Latest Payment Thru": "2026-01-28 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "HN-0025": [
@@ -29362,7 +29262,7 @@
         "Route": "SR-1169",
         "Location Description": "BRIDGE NO. 277 OVER BIG BEAVER CREEK ISLAND ON SR 1169 (ISLA ND DRIVE)",
         "Contract Amount": 1966459.99,
-        "Estimate Number": 5,
+        "Estimate Number": 6,
         "Length": "0 miles",
         "Contractor": "SMITH-ROWE, LLC",
         "Federal Aid Number": "BRZ-1169(003)",
@@ -29372,10 +29272,10 @@
         "Work Began Date": "2025-08-08 00:00:00",
         "Completion Date": "2026-06-15 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.8657,
-        "Completion Percent": 0.8657,
-        "Latest Payment Thru": "2025-12-15 00:00:00",
-        "Latest Payment Date": "2025-12-22 08:10:00"
+        "Construction Progress": 0.9426,
+        "Completion Percent": 0.9426,
+        "Latest Payment Thru": "2026-01-15 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "BO-2407A": [
@@ -29414,7 +29314,7 @@
         "Route": "SR-1785",
         "Location Description": "EXISTING CULVERT ON SR 1785(CHURCH ST)",
         "Contract Amount": 2279670.5,
-        "Estimate Number": 4,
+        "Estimate Number": 5,
         "Length": "0 miles",
         "Contractor": "ATLANTIC CONTRACTING COMPANY INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -29424,10 +29324,10 @@
         "Work Began Date": "2025-08-14 00:00:00",
         "Completion Date": "2026-05-04 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.2446,
-        "Completion Percent": 0.2446,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-12 09:10:00"
+        "Construction Progress": 0.3215,
+        "Completion Percent": 0.3215,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "BO-2408A": [
@@ -29492,7 +29392,7 @@
         "Route": "NC-134, NC-24BUS, SR-1005, SR-1333, SR-1383, SR-1403",
         "Location Description": "VARIOUS",
         "Contract Amount": 524720,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "0 miles",
         "Contractor": "EASTERN EARTHSCAPES & CONSTRUCTION LLC",
         "Federal Aid Number": "BO-2408D",
@@ -29502,10 +29402,10 @@
         "Work Began Date": "2025-10-21 00:00:00",
         "Completion Date": "2026-06-30 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.8755,
-        "Completion Percent": 0.8755,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-07 09:10:00"
+        "Construction Progress": 0.8978,
+        "Completion Percent": 0.8978,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "BO-2408E": [
@@ -29648,7 +29548,7 @@
         "Route": "NC-153",
         "Location Description": "NC 153(RICE ST) AT SR 1197(CANNON FARM RD/MOUNT MORIAH CH RD ) IN CHINA GROVE",
         "Contract Amount": 2542800.86,
-        "Estimate Number": 8,
+        "Estimate Number": 9,
         "Length": "0.128 miles",
         "Contractor": "NJR GROUP INC",
         "Federal Aid Number": "HSIP-0153(007)",
@@ -29658,10 +29558,10 @@
         "Work Began Date": "2025-03-28 00:00:00",
         "Completion Date": "2026-05-21 00:00:00",
         "Revised Completion Date": "2026-08-23 00:00:00",
-        "Construction Progress": 0.5777,
-        "Completion Percent": 0.5777,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-15 09:10:00"
+        "Construction Progress": 0.5994,
+        "Completion Percent": 0.5994,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "U-2579B(L)": [
@@ -29804,7 +29704,7 @@
         "Route": "SR-1004",
         "Location Description": "REPLACE BRIDGE #108 ON SR 1004 (STOKES FERRY RD) OVER TUCKER TOWN RESERVOIR",
         "Contract Amount": 4105055.24,
-        "Estimate Number": 1,
+        "Estimate Number": 2,
         "Length": "0.173 miles",
         "Contractor": "SMITH-ROWE, LLC",
         "Federal Aid Number": "STATE FUNDED",
@@ -29814,10 +29714,10 @@
         "Work Began Date": "2025-12-01 00:00:00",
         "Completion Date": "2027-04-27 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.0332,
-        "Completion Percent": 0.0332,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-12 09:10:00"
+        "Construction Progress": 0.1923,
+        "Completion Percent": 0.1923,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "HS-2409C": [
@@ -29837,7 +29737,7 @@
         "NCDOT Contact": null,
         "NCDOT Contact No": 0,
         "Letting Date": "2025-09-24 00:00:00",
-        "Work Began Date": null,
+        "Work Began Date": "2025-11-24 00:00:00",
         "Completion Date": "2026-04-30 00:00:00",
         "Revised Completion Date": null,
         "Construction Progress": 0,
@@ -29895,7 +29795,7 @@
         "Construction Progress": 0.596,
         "Completion Percent": 0.596,
         "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "U-4714B": [
@@ -29921,7 +29821,7 @@
         "Construction Progress": 0.596,
         "Completion Percent": 0.596,
         "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": null
+        "Latest Payment Date": "2026-02-04 08:10:00"
       }
     ],
     "U-6092": [
@@ -29960,7 +29860,7 @@
         "Route": "SR-2102",
         "Location Description": "BRIDGE #890146 OVER LITTLE RICHARDSON CREEK ON SR 2102 (MEDL IN ROAD)",
         "Contract Amount": 1080932.75,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "0.122 miles",
         "Contractor": "NJR GROUP INC",
         "Federal Aid Number": "STATE FUNDED",
@@ -29970,10 +29870,10 @@
         "Work Began Date": "2025-11-03 00:00:00",
         "Completion Date": "2026-10-09 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.1045,
-        "Completion Percent": 0.1045,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-15 09:10:00"
+        "Construction Progress": 0.1655,
+        "Completion Percent": 0.1655,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "BO-2410B": [
@@ -29986,7 +29886,7 @@
         "Route": "NC-138, NC-205, NC-24",
         "Location Description": "VARIOUS LOCATIONS",
         "Contract Amount": 423900,
-        "Estimate Number": 2,
+        "Estimate Number": 3,
         "Length": "0 miles",
         "Contractor": "EASTERN EARTHSCAPES & CONSTRUCTION LLC",
         "Federal Aid Number": "5093904",
@@ -29996,10 +29896,10 @@
         "Work Began Date": "2025-11-06 00:00:00",
         "Completion Date": "2026-04-26 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.3855,
-        "Completion Percent": 0.3855,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-08 09:10:00"
+        "Construction Progress": 0.7162,
+        "Completion Percent": 0.7162,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "BO-2410C": [
@@ -30012,7 +29912,7 @@
         "Route": "US-52",
         "Location Description": "VARIOUS",
         "Contract Amount": 431010,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "0 miles",
         "Contractor": "EAST CONSTRUCTION COMPANY LLC",
         "Federal Aid Number": "5093905",
@@ -30022,10 +29922,10 @@
         "Work Began Date": "2025-05-14 00:00:00",
         "Completion Date": "2026-03-09 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.3575,
-        "Completion Percent": 0.3575,
-        "Latest Payment Thru": "2025-10-31 00:00:00",
-        "Latest Payment Date": "2025-11-12 09:10:00"
+        "Construction Progress": 0.5195,
+        "Completion Percent": 0.5195,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "HL-0157": [
@@ -30324,7 +30224,7 @@
         "Route": "US-21",
         "Location Description": "INTERSECTION OF US 21 BUSINESS (NORTH BRIDGE STREET) & NC 26 8 (CC CAMP ROAD)",
         "Contract Amount": 1973823.62,
-        "Estimate Number": 10,
+        "Estimate Number": 11,
         "Length": "145.145 miles",
         "Contractor": "SMITH-ROWE, LLC",
         "Federal Aid Number": "0021036",
@@ -30334,10 +30234,10 @@
         "Work Began Date": "2025-02-14 00:00:00",
         "Completion Date": "2025-10-11 00:00:00",
         "Revised Completion Date": "2026-10-16 00:00:00",
-        "Construction Progress": 0.8714,
-        "Completion Percent": 0.8714,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-14 09:10:00"
+        "Construction Progress": 0.8838,
+        "Completion Percent": 0.8838,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": "2026-02-05 08:10:00"
       }
     ],
     "B-5835": [
@@ -30480,7 +30380,7 @@
         "Route": "NC-150",
         "Location Description": "Intersection of NC 150 and SR 2399 Wiggins Rd, U-5780 and In tersection of NC 150 & NC 152, W-5601U",
         "Contract Amount": 3896135.33,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "0.2 miles",
         "Contractor": "NJR GROUP INC",
         "Federal Aid Number": "HSIP-150(38)",
@@ -30490,10 +30390,10 @@
         "Work Began Date": "2025-07-01 00:00:00",
         "Completion Date": "2026-12-14 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.3991,
-        "Completion Percent": 0.3991,
-        "Latest Payment Thru": "2025-09-30 00:00:00",
-        "Latest Payment Date": "2025-10-09 09:10:00"
+        "Construction Progress": 0.4092,
+        "Completion Percent": 0.4092,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "W-5601U": [
@@ -30506,7 +30406,7 @@
         "Route": "NC-150",
         "Location Description": "Intersection of NC 150 and SR 2399 Wiggins Rd, U-5780 and In tersection of NC 150 & NC 152, W-5601U",
         "Contract Amount": 3896135.33,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "0.2 miles",
         "Contractor": "NJR GROUP INC",
         "Federal Aid Number": "HSIP-150(38)",
@@ -30516,10 +30416,10 @@
         "Work Began Date": "2025-07-01 00:00:00",
         "Completion Date": "2026-12-14 00:00:00",
         "Revised Completion Date": null,
-        "Construction Progress": 0.3991,
-        "Completion Percent": 0.3991,
-        "Latest Payment Thru": "2025-09-30 00:00:00",
-        "Latest Payment Date": "2025-10-09 09:10:00"
+        "Construction Progress": 0.4092,
+        "Completion Percent": 0.4092,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "R-5712": [
@@ -30636,7 +30536,7 @@
         "Route": "-",
         "Location Description": "NEW ACCESS ROAD INTO BURKE INDUSTRIAL PARK",
         "Contract Amount": 1741687.7,
-        "Estimate Number": 3,
+        "Estimate Number": 4,
         "Length": "0 miles",
         "Contractor": "CRW LAND SERVICES LLC",
         "Federal Aid Number": "1311019",
@@ -30646,10 +30546,10 @@
         "Work Began Date": "2025-10-21 00:00:00",
         "Completion Date": "2026-06-30 00:00:00",
         "Revised Completion Date": "2026-07-30 00:00:00",
-        "Construction Progress": 0.282,
-        "Completion Percent": 0.282,
-        "Latest Payment Thru": "2025-12-22 00:00:00",
-        "Latest Payment Date": "2026-01-13 09:10:00"
+        "Construction Progress": 0.367,
+        "Completion Percent": 0.367,
+        "Latest Payment Thru": "2026-01-22 00:00:00",
+        "Latest Payment Date": "2026-02-06 09:10:00"
       }
     ],
     "U-3301WM": [
@@ -31000,7 +30900,7 @@
         "Route": "SR-1140",
         "Location Description": "BRIDGE NO. 63 OVER BLAIR CREEK AND BRIDGE NO. 88 OVER HYATT MILL CREEK ON SR 1140 (MYERS CHAPEL ROAD",
         "Contract Amount": 3590980.67,
-        "Estimate Number": 10,
+        "Estimate Number": 11,
         "Length": "0.274 miles",
         "Contractor": "IKECO CONSTRUCTION INC",
         "Federal Aid Number": "1140018",
@@ -31010,10 +30910,10 @@
         "Work Began Date": "2025-03-24 00:00:00",
         "Completion Date": "2027-03-30 00:00:00",
         "Revised Completion Date": "2027-04-01 00:00:00",
-        "Construction Progress": 0.6735,
-        "Completion Percent": 0.6735,
-        "Latest Payment Thru": "2025-12-31 00:00:00",
-        "Latest Payment Date": "2026-01-15 09:10:00"
+        "Construction Progress": 0.6983,
+        "Completion Percent": 0.6983,
+        "Latest Payment Thru": "2026-01-31 00:00:00",
+        "Latest Payment Date": null
       }
     ],
     "HF-0007": [
