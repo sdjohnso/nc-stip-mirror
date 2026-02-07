@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-07T00:31:38.913197+00:00",
-  "feature_count": 234,
+  "pull_timestamp": "2026-02-07T11:12:53.220389+00:00",
+  "feature_count": 236,
   "features": [
     {
       "attributes": {
@@ -202,7 +202,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GRADE SEPARATION AT SR-1625 (ROGERS LAKE RD) OVER NS/NCRR AN D CLOSURE OF AT-GRADE CROSSING #724408Y IN KANNAPOLIS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rogers Lake Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1625",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1674052980000
@@ -227,7 +227,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE OVER WATAUGA RIVER AND LEFT TURN LANE AT SR-1112 (BROADSTONE RD) ON NC-105 WITHIN R-2566B LIMITS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 105 - New Bridge Over Watauga River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.94,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.41,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-105",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1642781160000
@@ -743,7 +743,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-68 AT SR-2129 (FOGLEMAN RD) TO NC-150 IN OAK RIDGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 68 and NC 150 Roundabouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-68",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1694434140000
@@ -843,7 +843,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-64 / US-276 (HENDERSONVILLE HWY), AND US -64 / NC-280 (ASHEVILLE HWY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Transylvania Culvert & Roadway",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.55,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703853000000
@@ -1633,7 +1633,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780178 OVER US-29 ON SR-1929.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 29 BRIDGE ROCKINGHAM",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1929",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1727791380000
@@ -2062,7 +2062,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #120109 OVER US-29 (NORTH CANNON BLVD) ON SR-1706 (MA RTIN LUTHER KING JR AVENUE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 120109 over US-29 on MLK Jr Blvd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1706",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738681380000
@@ -2097,31 +2097,6 @@
           [
             -78.91409177335949,
             35.05023536096226
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 91250,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DB00608",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2402D  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2402D  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 74,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1598 AT ANDERSON STREET IN GREENVILLE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Hawks Signal",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.03,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1598",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738921020000
-      },
-      "geometry": {
-        "points": [
-          [
-            -77.36770223299432,
-            35.60487447585594
           ]
         ]
       }
@@ -2436,7 +2411,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #800040 OVER NORTH FORK FIRST BROAD CREEK ON NC-226.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 40 over North Fork NC 226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742836620000
@@ -3142,7 +3117,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-197",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747662480000
@@ -4401,7 +4376,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-101 FROM S OF SR-1170 (W BEAUFORT RD) TO N OF US-70 AND S R-1493 (LIVE OAK STREET) AT NC-101.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Beaufort Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-101",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756305600000
@@ -5154,7 +5129,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #070024 OVER CASHIE RIVER ON NC-11.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bertie Bridge 11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762175340000
@@ -5379,7 +5354,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #060009 OVER BLOUNTS CREEK ON SR-1112 (MOUTH OF THE C REEK ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Blounts Creek Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1112",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763742480000
@@ -5582,7 +5557,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DARE COUNTY REST AREA ON US-64 IN MANTEO, NC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Dare County Rest Area Renovation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767018180000
@@ -5707,7 +5682,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 280 OVER LITTLE TROUBLESOME CREEK ON SR 2670(SOUTH  SCALES STR)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2670",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767610200000
@@ -6154,6 +6129,81 @@
           [
             -82.27072846794496,
             35.2240605140623
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 149650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204840",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-4700CC  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-4700CC  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION AT US-321 AND SR-1108 (MISSION RD).",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-321/SR-1108 (MISSION RD) INTERSECTION",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-321",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770202560000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.45950861971141,
+            35.83490718651728
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 150050,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205090",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #970068 OVER US-301 ON NC-42.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Saffo Bridge",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770218340000
+      },
+      "geometry": {
+        "points": [
+          [
+            -77.87898935088499,
+            35.73533635440952
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 150051,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205044",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " B-5831    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "B-5831    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #850006 OVER NC-268, SOUTHERN RAILROAD TRACKS, AND TH E YADKIN RIVER ON I-77.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Bridge over Yadkin River",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770311640000
+      },
+      "geometry": {
+        "points": [
+          [
+            -80.82110521694749,
+            36.25156406035835
           ]
         ]
       }

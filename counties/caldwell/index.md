@@ -6,9 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 3 |
-| 🚧 Under Construction | 3 |
-| 📋 Right-of-Way | 3 |
+| 🚧 Under Construction | 4 |
+| 📋 Right-of-Way | 5 |
 | 📅 Planned | 13 |
 | ✅ Completed | 1 |
 
@@ -30,9 +29,9 @@
 | [R-3430CB](R-3430CB.md) | Catawba River to Cajah Mountain Road in Cajah's... | SR 1001 (Connelly Spri... | 📅 Planned |
 | [R-5745](R-5745.md) | US 64 / NC 90 (Taylorsville Road) in Lenoir. Co... | US 64 / NC 90 / NC 18 ... | ✅ Completed |
 | [R-5775](R-5775.md) | SR 1109 (Pinewoods Road) in Granite Falls. Cons... | US 321 | 🚧 Under Construction |
-| [U-4700CA](U-4700CA.md) | SR 1160 (Mount Herman Road) intersection in Hud... | US 321 | 🏗️ Active Construction (0%) |
-| [U-4700CB](U-4700CB.md) | SR 1809 / SR 1952 (Pine Mountain Road) intersec... | US 321 | 🏗️ Active Construction (0%) |
-| [U-4700CC](U-4700CC.md) | SR 1108 (Mission Road) intersection in Sawmills... | US 321 | 🏗️ Active Construction (0%) |
+| [U-4700CA](U-4700CA.md) | SR 1160 (Mount Herman Road) intersection in Hud... | US 321 | 🚧 Under Construction |
+| [U-4700CB](U-4700CB.md) | SR 1809 / SR 1952 (Pine Mountain Road) intersec... | US 321 | 📋 Right-of-Way |
+| [U-4700CC](U-4700CC.md) | SR 1108 (Mission Road) intersection in Sawmills... | US 321 | 📋 Right-of-Way |
 | [U-6033](U-6033.md) | SR 1142 (Callico Road) intersection. Upgrade ro... | US 64 / NC 18 | 🚧 Under Construction |
 | [U-6034](U-6034.md) | SR 1109 (Pinewood Road) to SR 1106 (Duke Street... | US 321 Alternate | 📅 Planned |
 | [U-6035](U-6035.md) | Grace Chapel Road / Campground Road / SR 1752 (... | SR 1002 (Dudley Shoals... | 📋 Right-of-Way |

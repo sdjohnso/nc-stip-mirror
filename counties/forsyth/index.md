@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 21 |
 | 📋 Right-of-Way | 15 |
-| 📅 Planned | 49 |
+| 📅 Planned | 50 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -91,7 +90,7 @@
 | [U-5536](U-5536.md) | Proposed Great Wagon Road from SR 1001 (Shallow... | New Route | 🚧 Under Construction |
 | [U-5539A](U-5539A.md) | US 158 / US 421 / NC 150 / I-40 Business to US ... | US 311; SR 4394 (Marti... | 📅 Planned |
 | [U-5617](U-5617.md) | Roundabout west of bridge to roundabout east of... | SR 1173 (Williams Road) | 🚧 Under Construction |
-| [U-5760](U-5760.md) | US 421 / I-40 Business to NC 66 (West Mountain ... | Kernersville Southern ... | 🏗️ Active Construction (0%) |
+| [U-5760](U-5760.md) | US 421 / I-40 Business to NC 66 (West Mountain ... | Kernersville Southern ... | 📅 Planned |
 | [U-5824](U-5824.md) | Harley Drive to US 158 in Walkertown. Widen to ... | NC 66 (Old Hollow Road) | 🚧 Under Construction |
 | [U-5899](U-5899.md) | Forum Parkway connector, SR 3955 (Forum Parkway... | New Route | 📋 Right-of-Way |
 | [U-6003](U-6003.md) | SR 1969 (Piney Grove Road) to NC 150 (North Mai... | New Route | 🚧 Under Construction |

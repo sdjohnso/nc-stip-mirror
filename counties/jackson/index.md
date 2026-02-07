@@ -6,8 +6,7 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
-| 🚧 Under Construction | 6 |
+| 🚧 Under Construction | 7 |
 | 📋 Right-of-Way | 2 |
 | 📅 Planned | 8 |
 
@@ -28,7 +27,7 @@
 | [HS-2014D](HS-2014D.md) | Three midblock crossings near SR 1169 (Central ... | SR 1325 (Centennial Dr... | 🚧 Under Construction |
 | [HS-2014H](HS-2014H.md) | Church Street intersection in Dillsboro;  SR 15... | US 23 Business (Haywoo... | 📅 Planned |
 | [R-4753](R-4753.md) | SR 1002 (Old Cullowhee Road) to NC 281. Upgrade... | NC 107 | 🚧 Under Construction |
-| [R-5600](R-5600.md) | NC 116 to US 23 Business; SR 1432 (Skyland Driv... | NC 107; US 23 Business | 🏗️ Active Construction (0%) |
+| [R-5600](R-5600.md) | NC 116 to US 23 Business; SR 1432 (Skyland Driv... | NC 107; US 23 Business | 🚧 Under Construction |
 | [R-5881](R-5881.md) | NC 107 intersection in Cashiers. Construct inte... | US 64 | 📅 Planned |
 | [R-5907](R-5907.md) | US 441 Gateway interchange to SR 1391 (West Pin... | US 74 (Great Smokey Mo... | 📅 Planned |
 | [W-5714E](W-5714E.md) | SR 1119 (Sapphire Post Office Road) at Chrysler... | US 64 | 📅 Planned |

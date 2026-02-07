@@ -6,9 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 7 |
-| 📋 Right-of-Way | 4 |
+| 📋 Right-of-Way | 5 |
 | 📅 Planned | 14 |
 | ✅ Completed | 4 |
 
@@ -42,7 +41,7 @@
 | [RX-2012G](RX-2012G.md) | Norfolk Southern Crossing 729612P in Newton. Co... | SR 1753 (Rankin Avenue... | 📅 Planned |
 | [U-2307B](U-2307B.md) | SR 1453 (Springs Road) to NC 127. Widen to mult... | McDonald Parkway | 📅 Planned |
 | [U-2530A](U-2530A.md) | SR 1132 (Huffman Farm Road) to SR 1108 (Zion Ch... | NC 127 | 📅 Planned |
-| [U-4700A](U-4700A.md) | 🗺️ North of US 70 in Hickory to US 321A. Widen to ... | US 321 | 🏗️ Active Construction (0%) |
+| [U-4700A](U-4700A.md) | 🗺️ North of US 70 in Hickory to US 321A. Widen to ... | US 321 | 📋 Right-of-Way |
 | [U-5777](U-5777.md) | 1st Avenue Southeast to 2nd Avenue Southeast in... | NC 127 | 🚧 Under Construction |
 | [U-6042](U-6042.md) | SR 1642 (34th Street Northwest) intersection in... | SR 1124 (33rd Street S... | 📅 Planned |
 | [U-6238](U-6238.md) | Trivium Corporate Center. Extend roadway and co... | Trivium Parkway / New ... | 📅 Planned |
