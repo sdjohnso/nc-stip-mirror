@@ -240,5 +240,50 @@
       "construction_contracts": 56,
       "progloc_contracts": 772
     }
+  },
+  {
+    "start_time": "2026-02-08T12:52:08.017848+00:00",
+    "update_type": "weekly",
+    "scripts_run": [
+      {
+        "name": "STIP",
+        "success": true,
+        "duration": 8.729339122772217
+      },
+      {
+        "name": "Active Construction",
+        "success": true,
+        "duration": 4.93815016746521
+      },
+      {
+        "name": "ProgLoc",
+        "success": true,
+        "duration": 2.888976812362671
+      },
+      {
+        "name": "Detect Removed",
+        "success": true,
+        "duration": 0.30349111557006836
+      },
+      {
+        "name": "Generate Markdown",
+        "success": true,
+        "duration": 0.6980082988739014
+      },
+      {
+        "name": "Build Indexes",
+        "success": true,
+        "duration": 0.3201725482940674
+      }
+    ],
+    "errors": [],
+    "success": true,
+    "end_time": "2026-02-08T12:52:25.897367+00:00",
+    "total_duration": 17.879519,
+    "counts": {
+      "stip_projects": 2362,
+      "construction_contracts": 56,
+      "progloc_contracts": 772
+    }
   }
 ]

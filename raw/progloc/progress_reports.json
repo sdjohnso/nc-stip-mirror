@@ -1,7 +1,7 @@
 {
   "source": "NCDOT ProgLoc (Construction Progress Report)",
   "source_url": "https://apps.ncdot.gov/traffictravel/progloc/ExportProgLocToExcel.aspx",
-  "pull_timestamp": "2026-02-07T00:31:44.361042+00:00",
+  "pull_timestamp": "2026-02-08T12:52:22.128904+00:00",
   "total_contracts": 772,
   "contracts_with_tip": 346,
   "unique_tips": 404,
