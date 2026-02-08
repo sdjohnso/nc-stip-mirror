@@ -210,5 +210,35 @@
       "construction_contracts": 56,
       "progloc_contracts": 772
     }
+  },
+  {
+    "start_time": "2026-02-08T11:13:35.300516+00:00",
+    "update_type": "daily",
+    "scripts_run": [
+      {
+        "name": "Active Construction",
+        "success": true,
+        "duration": 5.7744245529174805
+      },
+      {
+        "name": "Generate Markdown",
+        "success": true,
+        "duration": 0.6358294486999512
+      },
+      {
+        "name": "Build Indexes",
+        "success": true,
+        "duration": 0.33034658432006836
+      }
+    ],
+    "errors": [],
+    "success": true,
+    "end_time": "2026-02-08T11:13:42.041962+00:00",
+    "total_duration": 6.741446,
+    "counts": {
+      "stip_projects": 2362,
+      "construction_contracts": 56,
+      "progloc_contracts": 772
+    }
   }
 ]
