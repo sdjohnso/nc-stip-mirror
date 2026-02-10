@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-09T11:38:01.014658+00:00",
+  "pull_timestamp": "2026-02-10T11:41:30.285122+00:00",
   "feature_count": 236,
   "features": [
     {
@@ -435,7 +435,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #99 OVER NORFOLK SOUTHERN RAILROAD ON US-64/US-70 IN MORGANTON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 99 over NS RR Burke Co",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687787160000
@@ -1496,7 +1496,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #030014 OVER S FORK JONES CREEK ON US-52.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Brdge #030014 Over S.Fork Jones Crk-US52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.58,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723646460000
@@ -1658,7 +1658,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430095 OVER SOUTHERN RAILROAD ON US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 Bridge 095 (Southern Railroad)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.45,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728654000000
@@ -1733,7 +1733,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 153(RICE ST) AT SR 1197(CANNON FARM RD/MOUNT MORIAH CH RD ) IN CHINA GROVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Landis RAB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-153",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1730209260000
@@ -2037,7 +2037,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #880007 OVER THE ALLIGATOR RIVER ON US-64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Alligator River Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738237800000
@@ -2461,7 +2461,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #290076 OVER I-40 ON SR-1436 (PINEBROOK SCHOOL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pinebrook School Road (Davie Co.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1436",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743510480000
@@ -2511,7 +2511,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 63 OVER BLAIR CREEK AND BRIDGE NO. 88 OVER HYATT MILL CREEK ON SR 1140 (MYERS CHAPEL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Myers Chapel Bridges 63 & 88",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.35,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743433080000
@@ -2594,7 +2594,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #890146 OVER LITTLE RICHARDSON CREEK ON SR 2102 (MEDL IN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Medlin Rd Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.45,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.55,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743166620000
@@ -3499,7 +3499,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 10",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569520000
@@ -3536,7 +3536,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990173 OVER MIDDLE CREEK ON SR-1159, AND BRIDGE #990 156 OVER COLBERT CREEK ON SR-1158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 14",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569580000
@@ -3602,7 +3602,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100115 ON SR-2789, BRIDGE #100308 ON SR-2419, AND BR IDGE #100380 ON SR-2432.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 15",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569700000
@@ -3868,7 +3868,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 277 OVER BIG BEAVER CREEK ISLAND ON SR 1169 (ISLA ND DRIVE)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "ISLAND DR BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1169",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753782480000
@@ -4247,7 +4247,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 254 ON SR 1512",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Wood Bridge Rd. Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.02,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1512",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755167700000
@@ -4297,7 +4297,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS AT US-17 AND US-17 BUSINESS NORTH AND SOUTH OF  SHALLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Shallotte RCI",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756214880000
@@ -4401,7 +4401,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #040032 ON NC-194, #040507 ON SR-1644, #040478 ON SR -1514, AND #040019 ON NC-194.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ashe Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-194",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757070720000
@@ -5079,7 +5079,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #940058 OVER BEECH CREEK ON SR 1139 (KELLERSVILLE ROA D)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Kellersville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.52,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761567540000
@@ -5279,7 +5279,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #108 ON SR 1004 (STOKES FERRY RD) OVER TUCKER TOWN RESERVOIR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stokes Ferry",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.23,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1004",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763377860000
@@ -5329,7 +5329,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780140 OVER DAN RIVER ON SR-1138.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Lindsey Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763738160000
@@ -5861,7 +5861,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #590165 OVER COFFEY CREEK ON SR-5469 (SHOPTON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Shopton Road Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-5469",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768559700000

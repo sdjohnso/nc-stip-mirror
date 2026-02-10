@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-02-09T11:38:01.014658+00:00",
+  "pull_timestamp": "2026-02-10T11:41:30.285122+00:00",
   "feature_count": 56,
   "features": [
     {
@@ -338,7 +338,7 @@
         "LocationsDescription": "DIVISION WIDE PRIMARY AND INTERSTATE RAMPS",
         "ContractNickname": "WRONG WAY PVMT MARKINGS",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 41.31,
+        "CompletionPercent": 44.41,
         "Route": "I-587",
         "PhysicalDivisionNumber": 4,
         "ContractActiveDate": 1736426340000
@@ -389,7 +389,7 @@
         "LocationsDescription": "VARIOUS LOCATIONS IN WAKE COUNTY",
         "ContractNickname": "S.T. Wooten Intersection Widening",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 78.79,
+        "CompletionPercent": 83.79,
         "Route": "SR-VARI",
         "PhysicalDivisionNumber": 5,
         "ContractActiveDate": 1743517740000
@@ -627,7 +627,7 @@
         "LocationsDescription": "VARIOUS",
         "ContractNickname": "ADA RAMPS",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 87.55,
+        "CompletionPercent": 89.78,
         "Route": "NC-134",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1751020260000
@@ -729,7 +729,7 @@
         "LocationsDescription": "VARIOUS LOCATIONS",
         "ContractNickname": "Stanly - Construct/Retro. Curb Ramps",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 38.55,
+        "CompletionPercent": 71.62,
         "Route": "NC-138",
         "PhysicalDivisionNumber": 10,
         "ContractActiveDate": 1743695700000
@@ -865,7 +865,7 @@
         "LocationsDescription": "ALONG ONE ROUTE IN HENDERSON CO AND ALONG VARIOUS ROUTES IN TRANSYLVANIA CO",
         "ContractNickname": "Helene:Grade,Drainage,Pave,Slope Stabil.",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 52.37,
+        "CompletionPercent": 56.54,
         "Route": "SR-1201",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1747319700000
@@ -882,7 +882,7 @@
         "LocationsDescription": "ALONG VARIOUS ROUTES THROUGHOUT TRANSYLVANIA COUNTY",
         "ContractNickname": "Emergency: Grading,Drainage,Paving,Patch",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 81.04,
+        "CompletionPercent": 81.49,
         "Route": "US-276",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1747228620000

@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-09T11:38:01.014658+00:00",
+  "pull_timestamp": "2026-02-10T11:41:30.285122+00:00",
   "feature_count": 167,
   "features": [
     {
@@ -64332,7 +64332,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-140 FROM US-17 TO NORTH OF US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-140 resurfacing Brunswick",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719235440000
@@ -93969,7 +93969,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "Intersection of NC 150 and SR 2399 Wiggins Rd, U-5780 and In tersection of NC 150 & NC 152, W-5601U",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 150, Wiggins Rd, and NC 152",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744378860000
@@ -102558,7 +102558,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74A FROM BEARWALLOW MOUNTAIN RD TO US-64/US-47A/NC-9. (CM GC - GERTON)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74A/Lower NC 9 CMCG",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74A",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753713360000
@@ -122800,7 +122800,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROUTE FROM SR-1630 (BALTIMORE RD) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Baltimore Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1630",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764772740000

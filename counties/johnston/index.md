@@ -28,11 +28,11 @@
 | [HI-0008](HI-0008.md) | Mile marker 97 to mile marker 101. Rehabilitate... | I-95 | 🚧 Under Construction |
 | [HL-0127](HL-0127.md) | SR 1553 (Shotwell Road) intersection in Clayton... | US 70 Business | 📅 Planned |
 | [HL-0129](HL-0129.md) | Kenmore Drive to SR 1004 (Main Street); SR 1552... | SR 1552 (South Roberts... | 📅 Planned |
-| [HS-2004AD](HS-2004AD.md) | US 301 north of Selma to Wake County line. Inst... | NC 39 | 🏗️ Active Construction (41%) |
-| [HS-2004L](HS-2004L.md) | North of SR 1116 (Godwin Lake Road) to North of... | NC 242 | 🏗️ Active Construction (41%) |
-| [HS-2004P](HS-2004P.md) | North Street intersection in Smithfield. Instal... | US 301 (Brightleaf Bou... | 🏗️ Active Construction (41%) |
-| [HS-2004S](HS-2004S.md) | SR 1903 (Vinson Road) intersection. Install tra... | SR 1902 (Glen Laurel R... | 🏗️ Active Construction (41%) |
-| [HS-2004W](HS-2004W.md) | US 70 Alternate / SR 2532 (West Edwards Street)... | US 70 (Future I-42) | 🏗️ Active Construction (41%) |
+| [HS-2004AD](HS-2004AD.md) | US 301 north of Selma to Wake County line. Inst... | NC 39 | 🏗️ Active Construction (44%) |
+| [HS-2004L](HS-2004L.md) | North of SR 1116 (Godwin Lake Road) to North of... | NC 242 | 🏗️ Active Construction (44%) |
+| [HS-2004P](HS-2004P.md) | North Street intersection in Smithfield. Instal... | US 301 (Brightleaf Bou... | 🏗️ Active Construction (44%) |
+| [HS-2004S](HS-2004S.md) | SR 1903 (Vinson Road) intersection. Install tra... | SR 1902 (Glen Laurel R... | 🏗️ Active Construction (44%) |
+| [HS-2004W](HS-2004W.md) | US 70 Alternate / SR 2532 (West Edwards Street)... | US 70 (Future I-42) | 🏗️ Active Construction (44%) |
 | [I-3318BB](I-3318BB.md) | Bridges 500114 and 500116 over Little River. Re... | I-95 | 🚧 Under Construction |
 | [I-4739](I-4739.md) | I-40 / NC 42 Interchange (Exit 312). Improve ac... | I-40 | 🚧 Under Construction |
 | [I-5111REG](I-5111REG.md) | Wake County line to NC 42. Add two general purp... | I-40 | 📅 Planned |
@@ -89,4 +89,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-08*  
-*Mirror Updated: 2026-02-09*
+*Mirror Updated: 2026-02-10*

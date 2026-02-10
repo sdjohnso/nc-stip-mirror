@@ -26,13 +26,13 @@
 | [EB-5905](EB-5905.md) | SR 1005 (East Raleigh Boulevard) to US 64 Busin... | US 64 Business (Thomas... | 📅 Planned |
 | [HB-0038](HB-0038.md) | Bridge 630110 over Tar River Reservoir. Replace... | SR 1745 (Bend of the R... | 📅 Planned |
 | [HI-0013](HI-0013.md) | 🗺️ The US 64 / US 264 split to the Wilson County l... | US 264 (Future I-587) | 📅 Planned |
-| [HS-2004AA](HS-2004AA.md) | River Drive / Lake Drive intersection in Rocky ... | US 64 Business (Sunset... | 🏗️ Active Construction (41%) |
-| [HS-2004B](HS-2004B.md) | SR 1603 (Old Carriage Road) intersection. Insta... | NC 97 | 🏗️ Active Construction (41%) |
-| [HS-2004H](HS-2004H.md) | SR 1717 (Macedonia Road / Sandy Cross Road) int... | SR 1001 (Old Bailey Hi... | 🏗️ Active Construction (41%) |
-| [HS-2004M](HS-2004M.md) | Waterloo Drive / Roundtree Drive and Greyson Ro... | NC 48 | 🏗️ Active Construction (41%) |
-| [HS-2004N](HS-2004N.md) | SR 1603 (Old Carriage Road) intersection. Revis... | SR 1700 (Oak Level Road) | 🏗️ Active Construction (41%) |
-| [HS-2004Q](HS-2004Q.md) | Bridges 630019 and 630020 over Tar River. Impro... | US 64 (Future I-87) | 🏗️ Active Construction (41%) |
-| [HS-2004X](HS-2004X.md) | 🗺️ North of SR 1425 (Castalia Road) in Nash County... | NC 43  | 🏗️ Active Construction (41%) |
+| [HS-2004AA](HS-2004AA.md) | River Drive / Lake Drive intersection in Rocky ... | US 64 Business (Sunset... | 🏗️ Active Construction (44%) |
+| [HS-2004B](HS-2004B.md) | SR 1603 (Old Carriage Road) intersection. Insta... | NC 97 | 🏗️ Active Construction (44%) |
+| [HS-2004H](HS-2004H.md) | SR 1717 (Macedonia Road / Sandy Cross Road) int... | SR 1001 (Old Bailey Hi... | 🏗️ Active Construction (44%) |
+| [HS-2004M](HS-2004M.md) | Waterloo Drive / Roundtree Drive and Greyson Ro... | NC 48 | 🏗️ Active Construction (44%) |
+| [HS-2004N](HS-2004N.md) | SR 1603 (Old Carriage Road) intersection. Revis... | SR 1700 (Oak Level Road) | 🏗️ Active Construction (44%) |
+| [HS-2004Q](HS-2004Q.md) | Bridges 630019 and 630020 over Tar River. Impro... | US 64 (Future I-87) | 🏗️ Active Construction (44%) |
+| [HS-2004X](HS-2004X.md) | 🗺️ North of SR 1425 (Castalia Road) in Nash County... | NC 43  | 🏗️ Active Construction (44%) |
 | [I-5934](I-5934.md) | Mile marker 137.4 to mile marker 142.1. Rehabil... | I-95 | 📅 Planned |
 | [I-6045](I-6045.md) | SR 1306 (South Old Franklin Road) to SR 1603 (O... | US 64 (Future I-87) | 🚧 Under Construction |
 | [I-6045A](I-6045A.md) | Bridges 630072 and 630074. Rehabilitate bridge. | US 64 (Future I-87) | 🚧 Under Construction |
@@ -60,4 +60,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-08*  
-*Mirror Updated: 2026-02-09*
+*Mirror Updated: 2026-02-10*
