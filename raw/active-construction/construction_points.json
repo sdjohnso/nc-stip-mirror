@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-10T11:41:30.285122+00:00",
+  "pull_timestamp": "2026-02-11T11:35:57.250151+00:00",
   "feature_count": 236,
   "features": [
     {
@@ -177,7 +177,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #38 OVER THE TAR RIVER ON US-13 IN GREENVILLE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 11 River Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.55,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-13",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1666689060000
@@ -352,7 +352,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #370 AND #373 OVER REEMS CREEK ON US-19/23, US-25, A ND US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1667220780000
@@ -460,7 +460,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #19 OVER CUB CREEK ON NC-226.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #19 Over Cub Creek on NC 226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693230840000
@@ -485,7 +485,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 780001 OVER US-29 ON SR-2817 AND BRIDGE 780151 OVER U S-29 ON US-158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER US-29 & 158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1684838100000
@@ -560,7 +560,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT SR-1168 (N ACADEMY ST/LATTIMORE RD) AND BRIDGES 220 048 AND 220049 ON US-74 OVER SANDY RUN CREEK.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 over Sandy Run Creek -Design Build",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.61,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1699359780000
@@ -664,7 +664,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-485 AT NC-16 (BROOKSHIRE BOULEVARD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-485 Ramps @ Highway 16 - Sealand",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-485",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1686845340000
@@ -1471,7 +1471,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #160001 OVER COUNTRY LINE CREEK ON US-158/NC-86.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "COUNTRY LINE CREEK BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723033560000
@@ -2112,7 +2112,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 040121 ON SR 1552 (WILLIE BROWN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DK00416 Ashe 121",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1552",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1739185920000
@@ -2619,7 +2619,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE OF I-40/I-85 AND SR-1981 (TOLLINGWOOD-HAWFIELDS RD) IN MEBANE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Trollingwood - Hawfields Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1981",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743082140000
@@ -2806,7 +2806,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 960163 ON SR 1002 (MOUNTAIN VIEW ROAD) OVER MULBER RY CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Mountain View Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.89,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.75,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1002",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745926560000
@@ -2931,7 +2931,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #204 OVER WALNUT CREEK ON SR 1533 (WALNUT CREEK RD) I N MACON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Walnut Creek Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.27,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1533",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746198480000
@@ -2989,7 +2989,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #990047 OVER MINE FORK CREEK ON SR-1416 AND BRG #990014 OVER BANKS CREEK ON SR-1136.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 5",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746697680000
@@ -3993,7 +3993,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 43 AT NC 102 CALICO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "43 @ 102 RCI",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.88,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753880880000
@@ -4463,7 +4463,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 169 OVER BUFFALO CREEK ON SR 1701 (WENDELL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #169 over Buffalo Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.88,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1701",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757612700000
@@ -4746,7 +4746,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1006 (OLD STAGE ROAD) AT SR 1010 (TEN TEN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "OLD STAGE ROAD AND TEN TEN ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1006",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1759161780000
@@ -5229,7 +5229,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF NC-53 (WESTERN BLVD) AND SR-2714 (JACKSONVIL LE PARKWAY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Onslow Jax Parkway U-5789",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-53",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762946160000
@@ -5429,7 +5429,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER PUZZLE CREEK ON SR-1576 (E. CHURCH ST)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE 76 OVER PUZZLE CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1576",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765377960000
@@ -5632,7 +5632,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1116 (JEETER CARSWELL RD) OVER DOUBLE BRANCH",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "JEETER CARSWELL RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1116",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767629880000

@@ -6,9 +6,10 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 2 |
 | 🚧 Under Construction | 6 |
 | 📋 Right-of-Way | 2 |
-| 📅 Planned | 11 |
+| 📅 Planned | 9 |
 | ✅ Completed | 2 |
 
 ## All Projects
@@ -30,8 +31,8 @@
 | [HS-2014A](HS-2014A.md) | SR 1560 (Rogers Road) to SR 1533 (Walnut Creek ... | US 64 / NC 28 | 🚧 Under Construction |
 | [HS-2014U](HS-2014U.md) | Cherokee County line to Swain County line. Inst... | US 19 | 📅 Planned |
 | [HS-2014W](HS-2014W.md) | SR 1146 (Patton Road) and SR 1442 (Old Murphy R... | US 64 (Murphy Road) | 📅 Planned |
-| [HS-2414D](HS-2414D.md) | US 64 to SR 1667 (Wells Grove Road) near Frankl... | SR 1668 (Fulton Road) | 📅 Planned |
-| [HS-2414E](HS-2414E.md) | SR 1474 (Saldeer Mountain Road) to SR 1392 (Mid... | SR 1372 (Lower Burning... | 📅 Planned |
+| [HS-2414D](HS-2414D.md) | US 64 to SR 1667 (Wells Grove Road) near Frankl... | SR 1668 (Fulton Road) | 🏗️ Active Construction (0%) |
+| [HS-2414E](HS-2414E.md) | SR 1474 (Saldeer Mountain Road) to SR 1392 (Mid... | SR 1372 (Lower Burning... | 🏗️ Active Construction (0%) |
 | [R-5734A](R-5734A.md) | US 64 to SR 1652 (Wide Horizon Drive) / SR 1152... | US 23 / US 441 | ✅ Completed |
 | [R-5734B](R-5734B.md) | SR 1652 (Wide Horizon Drive) / SR 1152 (Belden ... | US 23 / US 441 | 📅 Planned |
 | [R-5734C](R-5734C.md) | SR 1649 (Prentiss Bridge Road) to Georgia state... | US 23 / US 441 | 📅 Planned |
@@ -41,4 +42,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-08*  
-*Mirror Updated: 2026-02-10*
+*Mirror Updated: 2026-02-11*

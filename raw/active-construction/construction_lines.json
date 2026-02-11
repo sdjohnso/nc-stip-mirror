@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-10T11:41:30.285122+00:00",
+  "pull_timestamp": "2026-02-11T11:35:57.250151+00:00",
   "feature_count": 167,
   "features": [
     {
@@ -31656,7 +31656,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2000 (FALLS OF NEUSE RD) FROM I-540 TO SR-2006 (DURANT RD ).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Falls of Neuse Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-540",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687338540000
@@ -44619,7 +44619,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-129 FROM SOUTH OF SR-1275 (FIVE POINTS RD) TO NC-143 AND NC-143 FROM US-129 TO SR-1223 (BEECH CREEK RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION A",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1666869720000
@@ -46521,7 +46521,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TWO INTERCHANGES ON US-421.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "GRMS 421 Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1670404260000
@@ -53170,7 +53170,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-540 (TRIANGLE EXPRESSWAY SOUTHEAST EXTENSION) FROM SOUTH OF SR-2542 (ROCK QUARRY ROAD) TO I-87/US-64/US-264.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-2829B - Flatiron/Fred Smith Co JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-540",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1699019400000
@@ -61276,7 +61276,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-421 FROM EAST OF NC-16 TO US-421 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-421 Super Street",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1705056960000
@@ -61587,7 +61587,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROAD WITH BICYCLE/PEDESTRIAN ACCOMMODATIONS FROM SR-1969  (PINEY GROVE ROAD) TO NC-150 (NORTH MAIN STREET).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MACY GROVE EXT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704708900000
@@ -70577,7 +70577,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 FROM ASHEBORO BYPASS TO EAST OF I-73/I-74/US-220.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64/220 WIDENING & INTERCHANGE IMP",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.27,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725031800000
@@ -72298,7 +72298,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ALONG NC 28 FROM SR 1238 (BILL CRISP RD) TO SR 1230 (HYDE TO WN RD) IN GRAHAM COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION E",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-28",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1729086780000
@@ -72924,7 +72924,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-150 FROM SR-1840 (GREENWOOD ROAD) IN CATAWBA COUNTY TO US -21 IN IREDELL COUNTY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R2307B - 150 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1736236680000
@@ -78664,7 +78664,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NORTH OF SR-1225 (ASHEMONT RD) TO EAST OF SR-124 4 (W PALMER ST)/SR-1311 (MOCKINGBIRD HILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Hoke NC211 Grding,Drainage,Paving",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.99,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740987420000
@@ -88752,7 +88752,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 FROM SR-1467/SR-2839 (ALLEN ST) TO SR-1010 (TEN-TEN R D).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-401 from Allen St to Ten-Ten Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742548560000
@@ -93167,7 +93167,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GREAT WAGON ROAD FROM SR-1001 (SHALLOWFORD ROAD) TO SR-1308 (LEWISVILLE-VIENNA ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Great Wagon Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1001",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743438960000
@@ -95294,7 +95294,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 (RAEFORD RD) FROM EAST OF NC-162 (BUNCE RD) TO EAST O F BRIGHTON RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Raeford Rd. B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745931480000
@@ -98506,7 +98506,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CHATHAM PARKWAY FROM NORTH OF PROPOSED GRANT DRIVE TO US-15/ US-501.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chatham Pkwy N (BARNHILL)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.77,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2700",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750266060000
@@ -108405,7 +108405,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-17 (HAMPSTEAD BYPASS) FROM US-17 BYPASS SOUTH OF HAMPSTEA D TO NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-3300A Hampstead Bypass",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.95,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756916820000
@@ -120685,7 +120685,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 17 (WILMINGTON HWY.) AT NC 172 (SNEADS FERRY RD.) AND US 17 AT SR 1518 (OLD FOLKSTONE RD.) INTERSECTIONS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "UJ-6065 US 17 @ NC 172 & SR 1518  GDPSig",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1518",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761744240000
@@ -122741,7 +122741,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1160 OLIVE CHAPEL RD OVER BEAVER CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "OLIVE CHAPEL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1160",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764661980000
@@ -122831,7 +122831,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 200 FROM N. LOVE CHAPEL RD. TO CARMEL RD. IN STANFIELD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stanfield Sidewalks",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-200",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764773340000
@@ -125469,7 +125469,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1725(UNIVERSITY PARKWAY/CHERRYST) AT WEST 14TH STREET IN WINSTON SALEM",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "University Parkway at W 14th St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1725",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768576260000
