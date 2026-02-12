@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-11T11:35:57.250151+00:00",
+  "pull_timestamp": "2026-02-12T11:32:00.717569+00:00",
   "feature_count": 167,
   "features": [
     {
@@ -7027,7 +7027,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM SR-1002 (EXIT 71) TO I-40 (EXIT 81).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 - Flatiron",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.55,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1632156060000
@@ -12284,7 +12284,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FAYETTEVILLE OUTER LOOP FROM SOUTH OF SR-1003 (CAMDEN ROAD) TO SOUTH OF US-401.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "U-2519 BA & BB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.74,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-295",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1660139160000
@@ -34647,7 +34647,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-111 (WILSON ST) FROM US-64 ALT (WESTERN BLVD) TO NC-122 ( MCNAIR RD) IN TARBORO.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "U-4424 Tarboro",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-111",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690970340000
@@ -64078,7 +64078,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1362 (CHESTNUT LANE CONNECTOR) FROM SR-1367 (MATTHEWS IND IAN TRAIL ROAD) TO SR-1368 (GRIBBLE ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chestnut Lane Connector",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1362",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708949520000
@@ -65366,7 +65366,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1109 (PINEWOOD ROAD) FROM US-321 TO SR-1252 (BERT HUFFMAN  ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "SR-1109 Pinewood Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721659500000
@@ -71614,7 +71614,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-8 (WINSTON RD) FROM US-29/US-70 TO SR-1846 (ARRINGTON DR) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 8 Widening US-29/70 to Arrington Dr.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-8",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1729697760000
@@ -77327,7 +77327,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2048 (GORDON RD) FROM US-17 (MARKET ST) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gordon Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.68,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2048",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1739186460000
@@ -107193,7 +107193,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-43 CONNECTOR FROM US-17 BUSINESS TO SOUTH OF US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 43 CONNECTOR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755534240000

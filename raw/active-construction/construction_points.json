@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-11T11:35:57.250151+00:00",
+  "pull_timestamp": "2026-02-12T11:32:00.717569+00:00",
   "feature_count": 236,
   "features": [
     {
@@ -510,7 +510,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #9 ON US-64 IN MANNS HARBOR.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Mann Harbor Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.27,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675934220000
@@ -535,7 +535,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #164 AND 168 OVER THE NORFOLK SOUTHERN RAILWAY ON US -29/70 I-85 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over Norfolk So. RR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698682380000
@@ -1958,7 +1958,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-56 (EAST C ST) INTERSECTION WITH SR-1215 (WEST LYON STATI ON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-56 at W. Lyon Station Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-56",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738159020000
@@ -2253,7 +2253,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430175 AND BRIDGE #430174 OVER BIG CREEK ON SR-1332 (WATERVILLE ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Waterville Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1332",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741084620000
@@ -3743,7 +3743,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACEMENT OF STRUCTURE 890402 OVER BRANCH OF RICHARDSON CR EEK ON SR 2131 (TROY MEDLIN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Troy Medlin Rd Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2131",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1751899140000
@@ -4538,7 +4538,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #280067 AND #280068 OVER SR-1192 ON US-29/US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over West 5th Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758099000000
@@ -5379,7 +5379,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 16 OVER BENS CREEK ON SR 1509 ODELL LITTLETON ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge No. 16 over Bens Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1509",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764689040000

@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-02-11T11:35:57.250151+00:00",
-  "feature_count": 58,
+  "pull_timestamp": "2026-02-12T11:32:00.717569+00:00",
+  "feature_count": 59,
   "features": [
     {
       "attributes": {
@@ -695,7 +695,7 @@
         "LocationsDescription": "VARIOUS",
         "ContractNickname": "Waugh Chatham and Lee",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 36.94,
+        "CompletionPercent": 48.45,
         "Route": "SR-1380",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1750324440000
@@ -771,7 +771,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 394,
+        "OBJECTID": 391,
+        "ContractNumber": "DK00439",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 5,
+        "LocationsDescription": "CULVERT # BP-005-2831 ON SR 1577 (JAKE BLACKBURN ROAD) OVER LITTLE PHOENIX CREEK",
+        "ContractNickname": "Jake Blackburn Rd.",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1577",
+        "PhysicalDivisionNumber": 11,
+        "ContractActiveDate": 1770806700000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 395,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -788,7 +805,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 414,
+        "OBJECTID": 415,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -805,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 423,
+        "OBJECTID": 424,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -822,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 425,
+        "OBJECTID": 426,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 434,
+        "OBJECTID": 435,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 438,
+        "OBJECTID": 439,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 440,
+        "OBJECTID": 441,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 441,
+        "OBJECTID": 442,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 444,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 447,
+        "OBJECTID": 448,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -941,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 449,
+        "OBJECTID": 450,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 456,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 459,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
