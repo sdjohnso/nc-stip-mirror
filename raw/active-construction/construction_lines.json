@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-12T11:32:00.717569+00:00",
-  "feature_count": 167,
+  "pull_timestamp": "2026-02-13T11:23:11.040906+00:00",
+  "feature_count": 166,
   "features": [
     {
       "attributes": {
@@ -3961,7 +3961,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE NEUSE RIVER BRIDGE TO EAST OF THURMAN RD IN JAMES CITY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "James City Design Build (INFRA)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.97,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1572016020000
@@ -47712,7 +47712,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM I-74 (EXIT 13) TO SOUTH OF US-301 (EXIT 22) AND I-95/SR-1536 (CARTHAGE RD) INTERCHANGE IMPROVEMENTS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 WIDENING FLATIRON 13 to 22",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1636719540000
@@ -50637,7 +50637,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1336 FROM N OF SR-1002 TO N OF SR-1337 AND SR-1002 FROM S R-1336 TO SR-1169.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Monteith Gap",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1336",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693496700000
@@ -72136,7 +72136,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-601 (STATE ST) FROM SR-1742 (SHARON DR) TO SR-1146 (LEE A VE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-601 Roundabouts in Yadkinville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.55,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-601",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1731944940000
@@ -72421,7 +72421,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NC-73 TO WEST OF SR-1241 (HOLLY GROVE SCHOOL RD) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "West End - NC 211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1734438240000
@@ -78113,7 +78113,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 (CHIMNEY ROCK RD) FROM SR-1613 (SLICK ROCK RD, MM 22.7 9) TO SR-1701 (ROCK BROAD RIVER RD, MM 25.06).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "The Bat Cave",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.75,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740741060000
@@ -98732,61 +98732,6 @@
             [
               -79.1580693919752,
               35.69559313837212
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 82661,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DF00517",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2006J  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2006J  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 78,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 501 / NC 130 AT SR 1134 (KITCHEN ROAD)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-501 Curve near SR1134 (Kitchen Road)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.78,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-501",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750925460000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -79.31723396323143,
-              34.57846498205866
-            ],
-            [
-              -79.31731381058106,
-              34.57874566961698
-            ],
-            [
-              -79.31746951902844,
-              34.579166795723616
-            ],
-            [
-              -79.31752468154345,
-              34.57936776090877
-            ],
-            [
-              -79.3176256603237,
-              34.5795866293977
-            ],
-            [
-              -79.31775678283203,
-              34.57979184502634
-            ],
-            [
-              -79.31789510556183,
-              34.5800112204343
-            ],
-            [
-              -79.31809832617884,
-              34.58028501506352
             ]
           ]
         ]

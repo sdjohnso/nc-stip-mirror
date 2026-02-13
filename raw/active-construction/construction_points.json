@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-12T11:32:00.717569+00:00",
-  "feature_count": 236,
+  "pull_timestamp": "2026-02-13T11:23:11.040906+00:00",
+  "feature_count": 238,
   "features": [
     {
       "attributes": {
@@ -1280,7 +1280,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #122 AND #126 OVER TOMS CREEK ON US-52.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 52 Toms Creek Bridges 122 & 126",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1718120760000
@@ -1908,7 +1908,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AIRPORT BLVD AT CHELSEA DR & JETSTREAM DR AND RALEIGH ST AT FAIRVIEW RD/E. GRAND AVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Signal Work in Wilson and Rocky Mount",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1320",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1735654800000
@@ -2565,7 +2565,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #560042 OVER IVY CREEK ON SR-1576 (BEND OF IVY RD) AN D BRIDGE #560304 OVER SR-1183 (UPPER SHUTIN RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "KSCC Bridges Bend of Ivy/Upper Shut in",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1183",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743419280000
@@ -3968,7 +3968,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS ON SR 1711 (SPEER BRIDGE ROAD) AT US 421 INTERCH ANGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roundabouts on Speer Bridge Rd at US 421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1711",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754670060000
@@ -5304,7 +5304,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 125 OVER ELK RIVER ON SR 1306 (HICKS HOLL OW ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Avery 125 Hick's Hollow",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1306",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763729160000
@@ -5707,7 +5707,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT #580382 ON SR-1448, CULVERT #800573 ON SR-1312, AND BRIDGE #800572 ON SR-1312.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DB Brg 382,573 and 572",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1312",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767864540000
@@ -6204,6 +6204,68 @@
           [
             -80.82110521694749,
             36.25156406035835
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 150450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00439",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT # BP-005-2831 ON SR 1577 (JAKE BLACKBURN ROAD) OVER LITTLE PHOENIX CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Jake Blackburn Rd.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1577",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770806700000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.43982848583984,
+            36.469176077525844
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 150850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DA00673",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HB-0070   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HB-0070   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE REHABILITATION, BRIDGES 070155, 070156, 070158, AND 0 70159",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bertie Bridge Rehab",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-13 /",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770711900000
+      },
+      "geometry": {
+        "points": [
+          [
+            -77.03628648890464,
+            35.86587831410843
+          ],
+          [
+            -77.0361184350789,
+            35.865814950683
+          ],
+          [
+            -77.03757794936122,
+            35.8633060323707
+          ],
+          [
+            -77.03774137855036,
+            35.86337227278054
           ]
         ]
       }

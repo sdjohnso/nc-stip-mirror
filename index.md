@@ -10,8 +10,8 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 98 |
-| 🚧 Under Construction | 601 |
+| 🏗️ Active Construction | 99 |
+| 🚧 Under Construction | 600 |
 | 📋 Right-of-Way | 290 |
 | 📅 Planned | 1,229 |
 | ✅ Completed | 138 |
@@ -27,7 +27,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Ashe](counties/ashe/index.md) | 17 | 0 | 15 |
 | [Avery](counties/avery/index.md) | 3 | 0 | 1 |
 | [Beaufort](counties/beaufort/index.md) | 4 (+1) | 0 | 2 |
-| [Bertie](counties/bertie/index.md) | 7 | 1 | 3 |
+| [Bertie](counties/bertie/index.md) | 7 | 0 | 4 |
 | [Bladen](counties/bladen/index.md) | 7 | 2 | 2 |
 | [Brunswick](counties/brunswick/index.md) | 25 (+6) | 0 | 9 |
 | [Buncombe](counties/buncombe/index.md) | 73 (+4) | 0 | 38 |
@@ -76,7 +76,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Lenoir](counties/lenoir/index.md) | 15 (+1) | 0 | 9 |
 | [Lincoln](counties/lincoln/index.md) | 6 (+1) | 1 | 4 |
 | [Macon](counties/macon/index.md) | 21 | 2 | 9 |
-| [Madison](counties/madison/index.md) | 6 | 0 | 2 |
+| [Madison](counties/madison/index.md) | 6 | 2 | 1 |
 | [Martin](counties/martin/index.md) | 10 | 0 | 3 |
 | [McDowell](counties/mcdowell/index.md) | 16 (+1) | 0 | 9 |
 | [Mecklenburg](counties/mecklenburg/index.md) | 149 (+8) | 0 | 86 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-08*  
-*Mirror Updated: 2026-02-12*
+*Mirror Updated: 2026-02-13*
