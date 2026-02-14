@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-13T11:23:11.040906+00:00",
-  "feature_count": 166,
+  "pull_timestamp": "2026-02-14T11:13:32.927618+00:00",
+  "feature_count": 167,
   "features": [
     {
       "attributes": {
@@ -39031,7 +39031,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1672 (HANES MILL ROAD) FROM MUSEUM DRIVE TO SR-4000 (UNIV ERSITY PARKWAY) IN WINSTON-SALEM.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Hanes Mill Road Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.72,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1672",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1691137440000
@@ -47637,7 +47637,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-417 (HAMPSTEAD BYPASS) FROM SOUTH OF NC-210 TO NORTH OF SR-1563 (SLOOP POINT LOOP RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R3300B P NC417.NC 210.Hampstead Bypass",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-417",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1645101900000
@@ -60601,7 +60601,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-66 (OLD HOLLOW ROAD) FROM HARLEY DRIVE TO US-158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-66 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.97,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-66",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704468180000
@@ -62501,7 +62501,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-276 (RUSS AVE) FROM US-23/74 TO US-23 BUS (MAIN ST) IN WA YNESVILLE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-276 Russ Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-276",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706882100000
@@ -94128,7 +94128,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ALONG SR-1538 (BECKY MOUNTAIN RD) FROM MP 0.7 TO MP 0.76 IN TRANSYLVANIA CO.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Emergency Repair-Becky Mtn. Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1538",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744902480000
@@ -109831,7 +109831,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS SITES ALONG SR 1605 (MIDDLE FORK ROAD/TOM FALLS R OAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Middle Fork C",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1605",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757431260000
@@ -111522,7 +111522,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 74, JAMES HAMILTON RD AND SR 1514 (ROCKY RIVER RD) AT MYERS RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74 @ Rocky River Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.97,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757693400000
@@ -129175,6 +129175,577 @@
             [
               -83.21345128616267,
               35.374652611238005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 101461,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C205120",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " I-5831B   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "I-5831B   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26 FROM TENNESSEE STATE LINE MILE MARKER 0.10 TO MILE MARK ER 8.45.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-26 Roadway Rehab",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770900060000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -82.56036972899557,
+              35.95481087771377
+            ],
+            [
+              -82.56037110885734,
+              35.954808639575866
+            ],
+            [
+              -82.5611085951655,
+              35.95361279260586
+            ],
+            [
+              -82.56128247503634,
+              35.95332939129115
+            ],
+            [
+              -82.56205839335534,
+              35.95202612936117
+            ],
+            [
+              -82.56242550216886,
+              35.95140950619943
+            ],
+            [
+              -82.56363101651816,
+              35.94938454818548
+            ],
+            [
+              -82.56427425402313,
+              35.948180460461806
+            ],
+            [
+              -82.5645635828234,
+              35.9473132085367
+            ],
+            [
+              -82.56456684722204,
+              35.94730342347026
+            ],
+            [
+              -82.56472468719305,
+              35.94626195134536
+            ],
+            [
+              -82.56474789090066,
+              35.94562028212356
+            ],
+            [
+              -82.56465569886879,
+              35.94484349399774
+            ],
+            [
+              -82.56438074219838,
+              35.94378013615675
+            ],
+            [
+              -82.5640734278324,
+              35.94308382342779
+            ],
+            [
+              -82.563036029531,
+              35.94149072066668
+            ],
+            [
+              -82.5570755836423,
+              35.932787826662896
+            ],
+            [
+              -82.55656691324621,
+              35.93180053882001
+            ],
+            [
+              -82.55615161012744,
+              35.93051103021357
+            ],
+            [
+              -82.55592493302773,
+              35.92915898421762
+            ],
+            [
+              -82.55592506008735,
+              35.92915149940748
+            ],
+            [
+              -82.55595297434803,
+              35.92752255809123
+            ],
+            [
+              -82.55688823407623,
+              35.92260305822935
+            ],
+            [
+              -82.55788652326535,
+              35.91705065437937
+            ],
+            [
+              -82.55795290051101,
+              35.91669737748171
+            ],
+            [
+              -82.55811738148518,
+              35.91566566037426
+            ],
+            [
+              -82.55821621726311,
+              35.91514803895699
+            ],
+            [
+              -82.55862209935073,
+              35.91310596969825
+            ],
+            [
+              -82.55873305763106,
+              35.91205862781941
+            ],
+            [
+              -82.55871127135738,
+              35.911564454137775
+            ],
+            [
+              -82.55863828681198,
+              35.91106405025509
+            ],
+            [
+              -82.55838064177692,
+              35.91012991803086
+            ],
+            [
+              -82.55814359436711,
+              35.90957170572452
+            ],
+            [
+              -82.55810637606828,
+              35.90950480314238
+            ],
+            [
+              -82.5578351132468,
+              35.90901719731607
+            ],
+            [
+              -82.55775777675758,
+              35.908910814307795
+            ],
+            [
+              -82.55769264282262,
+              35.90882732031556
+            ],
+            [
+              -82.55738777625639,
+              35.90843650787321
+            ],
+            [
+              -82.55733628439732,
+              35.90837049932263
+            ],
+            [
+              -82.55721882052578,
+              35.90821991786267
+            ],
+            [
+              -82.55689695536617,
+              35.907885192992374
+            ],
+            [
+              -82.55654414718431,
+              35.90755595759986
+            ],
+            [
+              -82.55599881379923,
+              35.90713788287225
+            ],
+            [
+              -82.55538718696238,
+              35.906744224173295
+            ],
+            [
+              -82.55390151616679,
+              35.905890185919425
+            ],
+            [
+              -82.5530030037173,
+              35.90537361200816
+            ],
+            [
+              -82.55252561764951,
+              35.90513513789214
+            ],
+            [
+              -82.54991775490957,
+              35.90367078446969
+            ],
+            [
+              -82.54915661159858,
+              35.90326033424606
+            ],
+            [
+              -82.54869602573841,
+              35.902986115789076
+            ],
+            [
+              -82.54785347178307,
+              35.90240052910103
+            ],
+            [
+              -82.54737593567458,
+              35.902019452437735
+            ],
+            [
+              -82.54700522726638,
+              35.901695028447236
+            ],
+            [
+              -82.54663376159174,
+              35.90134332830844
+            ],
+            [
+              -82.54629756871087,
+              35.90096308315035
+            ],
+            [
+              -82.54598246418851,
+              35.90063978837123
+            ],
+            [
+              -82.54574189546983,
+              35.90033651109572
+            ],
+            [
+              -82.54520460216092,
+              35.89956970002829
+            ],
+            [
+              -82.54499924567541,
+              35.89923567993735
+            ],
+            [
+              -82.54478593353203,
+              35.89885427870766
+            ],
+            [
+              -82.54448234764055,
+              35.8982304909631
+            ],
+            [
+              -82.5438827460859,
+              35.89632761507325
+            ],
+            [
+              -82.54374559623412,
+              35.895026400955636
+            ],
+            [
+              -82.54382177019177,
+              35.89375837063483
+            ],
+            [
+              -82.54383416366626,
+              35.89355206917103
+            ],
+            [
+              -82.54383783394225,
+              35.89349096547768
+            ],
+            [
+              -82.54398900935732,
+              35.8925964358524
+            ],
+            [
+              -82.54450841699483,
+              35.891128686450635
+            ],
+            [
+              -82.54501847153388,
+              35.89015620753332
+            ],
+            [
+              -82.54575781885367,
+              35.88909200715696
+            ],
+            [
+              -82.54835081004833,
+              35.88618617506655
+            ],
+            [
+              -82.54913632252077,
+              35.8853332938499
+            ],
+            [
+              -82.54943492140708,
+              35.88487413099922
+            ],
+            [
+              -82.54980399779657,
+              35.88417853736944
+            ],
+            [
+              -82.55002702163011,
+              35.88357483298291
+            ],
+            [
+              -82.5501464563625,
+              35.88302604583546
+            ],
+            [
+              -82.55018455555482,
+              35.882212259152446
+            ],
+            [
+              -82.55008600420189,
+              35.88136743150901
+            ],
+            [
+              -82.54981924002422,
+              35.880519583406034
+            ],
+            [
+              -82.54927089921645,
+              35.879609998309746
+            ],
+            [
+              -82.54854891351172,
+              35.8788032456798
+            ],
+            [
+              -82.5457797403052,
+              35.87664785656673
+            ],
+            [
+              -82.54353118376414,
+              35.874971763396495
+            ],
+            [
+              -82.54307044247624,
+              35.87463672163147
+            ],
+            [
+              -82.54274829124778,
+              35.874381379839065
+            ],
+            [
+              -82.54245195201835,
+              35.87414649411916
+            ],
+            [
+              -82.54045070886731,
+              35.87262927845813
+            ],
+            [
+              -82.53972113697819,
+              35.87205514715808
+            ],
+            [
+              -82.53901479420897,
+              35.871389623798336
+            ],
+            [
+              -82.53842681101047,
+              35.870789713387396
+            ],
+            [
+              -82.53787031973509,
+              35.870094404547274
+            ],
+            [
+              -82.53730155319809,
+              35.86931593637779
+            ],
+            [
+              -82.53634788463127,
+              35.86791345658361
+            ],
+            [
+              -82.53513457948154,
+              35.86616234290654
+            ],
+            [
+              -82.532816935543,
+              35.86278815863125
+            ],
+            [
+              -82.53209813895683,
+              35.86162231632124
+            ],
+            [
+              -82.53171760925028,
+              35.86089455643138
+            ],
+            [
+              -82.53150912617572,
+              35.860460762049094
+            ],
+            [
+              -82.5311791581454,
+              35.85968274428696
+            ],
+            [
+              -82.53087950827599,
+              35.85883338800147
+            ],
+            [
+              -82.53065374585137,
+              35.8580957176006
+            ],
+            [
+              -82.5301496759813,
+              35.85644862838444
+            ],
+            [
+              -82.52962383617864,
+              35.854730334169155
+            ],
+            [
+              -82.52950565916842,
+              35.854304723256526
+            ],
+            [
+              -82.52936566857159,
+              35.85391226675706
+            ],
+            [
+              -82.52915175413511,
+              35.853354205179606
+            ],
+            [
+              -82.52886887924396,
+              35.85273323880133
+            ],
+            [
+              -82.52875351344149,
+              35.85249748658203
+            ],
+            [
+              -82.52857690688268,
+              35.85213659040888
+            ],
+            [
+              -82.52798788522036,
+              35.85112670621786
+            ],
+            [
+              -82.52775993500885,
+              35.850773382897145
+            ],
+            [
+              -82.52719211280596,
+              35.85001578899144
+            ],
+            [
+              -82.52657051204518,
+              35.84925430480114
+            ],
+            [
+              -82.52621401370224,
+              35.84885188966222
+            ],
+            [
+              -82.52580380253534,
+              35.84835899094787
+            ],
+            [
+              -82.52542924678608,
+              35.84788067330812
+            ],
+            [
+              -82.5251828725636,
+              35.84756891954225
+            ],
+            [
+              -82.52485609400594,
+              35.84705039994806
+            ],
+            [
+              -82.52458164191549,
+              35.84661490405768
+            ],
+            [
+              -82.52438482313538,
+              35.84625478942486
+            ],
+            [
+              -82.52407938849296,
+              35.845609037497546
+            ],
+            [
+              -82.52390214145657,
+              35.84516418338553
+            ],
+            [
+              -82.52375738235263,
+              35.84474348667927
+            ],
+            [
+              -82.52357456029364,
+              35.84404916037091
+            ],
+            [
+              -82.52351324263796,
+              35.84374717134726
+            ],
+            [
+              -82.52340107592327,
+              35.84308120381012
+            ],
+            [
+              -82.52339447224827,
+              35.84297260111022
+            ],
+            [
+              -82.52338246648192,
+              35.842775229973434
+            ],
+            [
+              -82.52336754026949,
+              35.84201180530399
+            ],
+            [
+              -82.52337624673865,
+              35.84174696425485
+            ],
+            [
+              -82.52346294458881,
+              35.840889856222
+            ],
+            [
+              -82.52361724065942,
+              35.84011744096008
+            ],
+            [
+              -82.52373198750509,
+              35.8397000169355
+            ],
+            [
+              -82.52389105333052,
+              35.83931726863057
+            ],
+            [
+              -82.52393274585903,
+              35.83919956183972
+            ],
+            [
+              -82.52396549964917,
+              35.83908436545087
+            ],
+            [
+              -82.52399044943091,
+              35.83901687576826
             ]
           ]
         ]

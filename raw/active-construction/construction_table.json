@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-02-13T11:23:11.040906+00:00",
-  "feature_count": 61,
+  "pull_timestamp": "2026-02-14T11:13:32.927618+00:00",
+  "feature_count": 59,
   "features": [
     {
       "attributes": {
@@ -40,23 +40,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 227,
-        "ContractNumber": "C205111",
-        "ContractType": "Design Build",
-        "TipReference": " 1         , 2         , 3         ",
-        "TIP": "1         ",
-        "CountyNumber": 61,
-        "LocationsDescription": "CULVERT #600050 ON SR-1206, CULVERT #990179 ON SR-1143, AND BRIDGE #990188 ON SR-1337.",
-        "ContractNickname": "Mtn Creek Bridge Replacements",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1143",
-        "PhysicalDivisionNumber": 13,
-        "ContractActiveDate": 1770897000000
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 228,
         "ContractNumber": "C205112",
         "ContractType": "Design Build",
@@ -70,40 +53,6 @@
         "Route": "I-85",
         "PhysicalDivisionNumber": 12,
         "ContractActiveDate": 1765208040000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 229,
-        "ContractNumber": "C205116",
-        "ContractType": "Other",
-        "TipReference": " BR-0098   ",
-        "TIP": "BR-0098   ",
-        "CountyNumber": 79,
-        "LocationsDescription": "BRIDGE #780183 OVER US-29 BYP ON US-29 BUS.",
-        "ContractNickname": "US-29 BUS BRIDGE",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "US-29",
-        "PhysicalDivisionNumber": 7,
-        "ContractActiveDate": 1770919260000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 231,
-        "ContractNumber": "C205120",
-        "ContractType": "Other",
-        "TipReference": " I-5831B   ",
-        "TIP": "I-5831B   ",
-        "CountyNumber": 57,
-        "LocationsDescription": "I-26 FROM TENNESSEE STATE LINE MILE MARKER 0.10 TO MILE MARK ER 8.45.",
-        "ContractNickname": "I-26 Roadway Rehab",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "I-26",
-        "PhysicalDivisionNumber": 13,
-        "ContractActiveDate": 1770900060000
       }
     },
     {
@@ -355,7 +304,7 @@
         "LocationsDescription": "TOWN OF WILLIAMSTON",
         "ContractNickname": "Martin Landscaping",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 48.1,
+        "CompletionPercent": 87.78,
         "Route": "US-64 A",
         "PhysicalDivisionNumber": 1,
         "ContractActiveDate": 1760105040000
@@ -856,7 +805,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 427,
+        "OBJECTID": 422,
+        "ContractNumber": "DM00484",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 59,
+        "LocationsDescription": "1-40 WESTBOUND AT MILE MARKER 67.4",
+        "ContractNickname": "TRENCHLESS PIPE INSTALLATION I-40",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "I-40",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1770996600000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 428,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 429,
+        "OBJECTID": 430,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 438,
+        "OBJECTID": 439,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 442,
+        "OBJECTID": 443,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 444,
+        "OBJECTID": 445,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 445,
+        "OBJECTID": 446,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 447,
+        "OBJECTID": 448,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 452,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -992,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 453,
+        "OBJECTID": 454,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -1009,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 460,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -1026,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 462,
+        "OBJECTID": 463,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,

@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-13T11:23:11.040906+00:00",
-  "feature_count": 238,
+  "pull_timestamp": "2026-02-14T11:13:32.927618+00:00",
+  "feature_count": 240,
   "features": [
     {
       "attributes": {
@@ -614,7 +614,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-87 AT NC-11 CONSTRUCT INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC87/NC11 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.93,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690277280000
@@ -718,7 +718,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT NC-72 AND NC-130.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 74 Interchange at NC 72/NC 130",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.88,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680694080000
@@ -768,7 +768,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TRIANGLE INNOVATION POINT MEGASITE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Moncure Megasite",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.09,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-1",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698156360000
@@ -1583,7 +1583,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430243 OVER NC-215 (CHAMPION DRIVE) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridge 243 (Champion Dr)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725350460000
@@ -2220,7 +2220,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT BRIDGES # 440245 & # 440186 IN HENDERSON, & # 870066 IN T RANSYLVANIA",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Replace Bridges 440186, 440245, 870066",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1528",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741016880000
@@ -2706,7 +2706,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #840082 OVER THE DAN RIVER ON SR-1674 (SHEPPARD MILL ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DAN RIVER BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1674",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744208340000
@@ -3208,7 +3208,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #220025 OVER BUFFALO CREEK ON SR-2033 (OAK GROVE ROAD ).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oak Grove Road over Buffalo Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2033",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748345940000
@@ -3565,7 +3565,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990157 OVER ELK SHOAL CREEK ON SR-1388 AND BRIDGES # 990233, #990192, AND #990193 OVER PIGPEN CREEK ON SR-1333.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569880000
@@ -3843,7 +3843,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #58 OVER US-64 ON NC-109.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC109 & HWY 64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753359120000
@@ -4018,7 +4018,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "1/2 MILE NORTH OF US421 & NC902. 1/2 MILE SOUTH OF SR2000& S R2109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 421 & NC 902 RCI, Fred Smith",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754579880000
@@ -4592,7 +4592,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 46 ON SR 1364 (COLEMAN MOUNTAIN ROAD) OVER JONATHAN C REEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Coleman Mountain Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.29,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1364",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758200940000
@@ -5487,7 +5487,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES ON SR-2109, SR-2115, SR-2173, AND CULVERT ON SR-1390 .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 18",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1390",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765538280000
@@ -6266,6 +6266,64 @@
           [
             -77.03774137855036,
             35.86337227278054
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 151250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205111",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Design Build",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " 1         , 2         , 3         ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "1         ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 61,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT #600050 ON SR-1206, CULVERT #990179 ON SR-1143, AND BRIDGE #990188 ON SR-1337.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Mtn Creek Bridge Replacements",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1143",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770897000000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.08556505630652,
+            36.017070809521755
+          ],
+          [
+            -82.28936388816645,
+            35.99389705329578
+          ],
+          [
+            -82.25739432462233,
+            35.906524420634334
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 151650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205116",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BR-0098   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BR-0098   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780183 OVER US-29 BYP ON US-29 BUS.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29 BUS BRIDGE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770919260000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.54359919641682,
+            36.45615168536454
           ]
         ]
       }
