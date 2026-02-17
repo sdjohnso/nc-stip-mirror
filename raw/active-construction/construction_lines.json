@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-16T11:32:01.735290+00:00",
+  "pull_timestamp": "2026-02-17T11:31:32.903287+00:00",
   "feature_count": 167,
   "features": [
     {
@@ -33520,7 +33520,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 SHELBY BYPASS FROM EAST OF NC-150 TO WEST OF SR-1001 ( STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 ByPass D/E",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1694518020000
@@ -42892,7 +42892,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-143 FROM 0.5 MI NORTH OF APPALACHIAN TRAIL TO NC-28 AND N C-28 FROM 0.2 MI WEST NC-143 TO 0.2 MI WEST OF SR-1228.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION C",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675688880000
@@ -45766,7 +45766,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26 FROM MILE MARKER 62.5 TO MILE MARKER 64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-26 Slide Repair",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1639040040000
@@ -75177,373 +75177,6 @@
             [
               -82.99938503407776,
               35.11652783508012
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 66261,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DA00628",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " W-5701C   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "W-5701C   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 70,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1333 (WEST MAIN STREET EXTENSION) NORTH OF ELIZABETH CITY",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Main St. Extended Curve Relocation",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.19,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1333",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1737106440000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -76.29614528750763,
-              36.34937282497468
-            ],
-            [
-              -76.29614413112331,
-              36.34935944790519
-            ],
-            [
-              -76.29613634640805,
-              36.349294221185886
-            ],
-            [
-              -76.296000327621,
-              36.347974620529
-            ],
-            [
-              -76.2959974734477,
-              36.34795835294086
-            ],
-            [
-              -76.29598783529795,
-              36.34790968213533
-            ],
-            [
-              -76.29597455726,
-              36.347853184998186
-            ],
-            [
-              -76.29596144787165,
-              36.34780504613266
-            ],
-            [
-              -76.29594414505347,
-              36.347749270680275
-            ],
-            [
-              -76.29592469493367,
-              36.34769395624495
-            ],
-            [
-              -76.2959031222747,
-              36.34763916111212
-            ],
-            [
-              -76.2958829532772,
-              36.347592647160546
-            ],
-            [
-              -76.29585748786275,
-              36.347538957007146
-            ],
-            [
-              -76.2958377536819,
-              36.34750107790232
-            ],
-            [
-              -76.29581177438297,
-              36.347456390199135
-            ],
-            [
-              -76.29578852057513,
-              36.34741978837984
-            ],
-            [
-              -76.29575872577719,
-              36.34737668610851
-            ],
-            [
-              -76.29572691213203,
-              36.34733453905425
-            ],
-            [
-              -76.29569889315044,
-              36.347300191276666
-            ],
-            [
-              -76.2956695320252,
-              36.34726658368598
-            ],
-            [
-              -76.29563257141325,
-              36.34722728170635
-            ],
-            [
-              -76.29560690727067,
-              36.34720172744058
-            ],
-            [
-              -76.29557370574052,
-              36.34717054659815
-            ],
-            [
-              -76.29554627063318,
-              36.34714622879775
-            ],
-            [
-              -76.2955109116438,
-              36.34711664207056
-            ],
-            [
-              -76.29544953292783,
-              36.34707388104491
-            ],
-            [
-              -76.29538860995414,
-              36.34703069465659
-            ],
-            [
-              -76.2953281503409,
-              36.34698708568554
-            ],
-            [
-              -76.29526815500724,
-              36.34694305879513
-            ],
-            [
-              -76.29520122232488,
-              36.34689303100534
-            ],
-            [
-              -76.29514223073555,
-              36.346848124667936
-            ],
-            [
-              -76.29509112975067,
-              36.34680854947923
-            ],
-            [
-              -76.29504852313325,
-              36.34677443975641
-            ],
-            [
-              -76.29501357487533,
-              36.346745569615635
-            ],
-            [
-              -76.29497913846306,
-              36.346716295103334
-            ],
-            [
-              -76.2949184726786,
-              36.34666261111854
-            ],
-            [
-              -76.29485953384099,
-              36.34660768052047
-            ],
-            [
-              -76.2948023631115,
-              36.34655154309987
-            ],
-            [
-              -76.29476524814436,
-              36.34651346448839
-            ],
-            [
-              -76.29389426134905,
-              36.345586944034245
-            ],
-            [
-              -76.29325204013523,
-              36.34490210395098
-            ],
-            [
-              -76.29211036435744,
-              36.343684626149354
-            ],
-            [
-              -76.29206223056822,
-              36.34363164808071
-            ],
-            [
-              -76.29201946732093,
-              36.343585680307314
-            ],
-            [
-              -76.29196986141255,
-              36.34353359906873
-            ],
-            [
-              -76.29191312896415,
-              36.34347559118724
-            ],
-            [
-              -76.29186188417957,
-              36.34342456093267
-            ],
-            [
-              -76.29180988047678,
-              36.343374032262595
-            ],
-            [
-              -76.29176376039257,
-              36.34333024116257
-            ],
-            [
-              -76.29171706851488,
-              36.34328684769938
-            ],
-            [
-              -76.29162886225117,
-              36.34320732981403
-            ],
-            [
-              -76.29153194578605,
-              36.34312348005197
-            ],
-            [
-              -76.29147573151633,
-              36.343076219856776
-            ],
-            [
-              -76.2914260520049,
-              36.34303525462817
-            ],
-            [
-              -76.29136871718524,
-              36.342988883627804
-            ],
-            [
-              -76.29131079554692,
-              36.34294299464621
-            ],
-            [
-              -76.29125228804773,
-              36.342897591185626
-            ],
-            [
-              -76.29118578025832,
-              36.34284710073985
-            ],
-            [
-              -76.29110351504993,
-              36.34278624439813
-            ],
-            [
-              -76.29102631537229,
-              36.34273331998015
-            ],
-            [
-              -76.2909429023506,
-              36.34267369643457
-            ],
-            [
-              -76.29086847385076,
-              36.34261823693984
-            ],
-            [
-              -76.29079540782743,
-              36.342561602179664
-            ],
-            [
-              -76.29075223459118,
-              36.34252706800921
-            ],
-            [
-              -76.29070956771272,
-              36.34249212224853
-            ],
-            [
-              -76.29066741593641,
-              36.3424567714747
-            ],
-            [
-              -76.2906257824614,
-              36.342421021852154
-            ],
-            [
-              -76.2905846740628,
-              36.34238487454655
-            ],
-            [
-              -76.29054409565822,
-              36.34234833793646
-            ],
-            [
-              -76.29050405296032,
-              36.34231141809677
-            ],
-            [
-              -76.29046455241013,
-              36.34227411546038
-            ],
-            [
-              -76.29044520500932,
-              36.34224562268948
-            ],
-            [
-              -76.2904312446414,
-              36.342224015328235
-            ],
-            [
-              -76.29040475751235,
-              36.342180214668645
-            ],
-            [
-              -76.29039224178842,
-              36.34215803438127
-            ],
-            [
-              -76.29037631303576,
-              36.34212818910628
-            ],
-            [
-              -76.29035406919212,
-              36.34208286860236
-            ],
-            [
-              -76.2903338294349,
-              36.342036939654626
-            ],
-            [
-              -76.29031562078134,
-              36.34199045711996
-            ],
-            [
-              -76.29029946363123,
-              36.34194348064163
-            ],
-            [
-              -76.290289842759,
-              36.34191191870214
-            ],
-            [
-              -76.29028323354775,
-              36.341888128947744
-            ],
-            [
-              -76.2902752372957,
-              36.34185627196927
-            ],
-            [
-              -76.29026817545895,
-              36.34182426791977
-            ],
-            [
-              -76.29001088910336,
-              36.340801363661065
-            ],
-            [
-              -76.28967012589335,
-              36.33946699913127
             ]
           ]
         ]
@@ -106761,7 +106394,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF SOUTH TRYON ST (NC 49) & GENERAL DRIVE & INT ERSECTION OF SOUTH TRYON ST (NC 49) & NEVADA BLVD (SR 1347)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "South Tryon Intersection Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-49",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753962360000
@@ -109352,7 +108985,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VAROUS SITES ALONG SR 1605 (MIDDLE FORK ROAD/TOM FALLS RO AD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Middle Fork B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1605",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757431140000
@@ -129746,6 +129379,49 @@
             [
               -82.52399044943091,
               35.83901687576826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 101861,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DM00484",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "1-40 WESTBOUND AT MILE MARKER 67.4",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "TRENCHLESS PIPE INSTALLATION I-40",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770996600000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -82.26243879791856,
+              35.618202178078555
+            ],
+            [
+              -82.26191635999893,
+              35.6178578624729
+            ],
+            [
+              -82.26156044103797,
+              35.61767652395109
+            ],
+            [
+              -82.26122131541928,
+              35.61750478071655
+            ],
+            [
+              -82.26032787323756,
+              35.617113481300215
             ]
           ]
         ]

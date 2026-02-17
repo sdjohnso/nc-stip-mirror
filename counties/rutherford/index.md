@@ -6,9 +6,10 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 2 |
 | 📋 Right-of-Way | 1 |
-| 📅 Planned | 10 |
+| 📅 Planned | 9 |
 
 ## All Projects
 
@@ -19,7 +20,7 @@
 | [EB-5966](EB-5966.md) | Various locations along Victory Drive, Allen St... | Thermal Belt Rail Trail | 📅 Planned |
 | [HA-0005](HA-0005.md) | Rutherfordton Industrial Park. Construct access... | New Route | 📅 Planned |
 | [HL-0065](HL-0065.md) | US 221 (South Main Street) to US 221 (South Bro... | US 221A (Charlotte Road) | 📅 Planned |
-| [HN-0019](HN-0019.md) | North Washington Street Intersection in Rutherf... | US 64 / US 74A | 📅 Planned |
+| [HN-0019](HN-0019.md) | North Washington Street Intersection in Rutherf... | US 64 / US 74A | 🏗️ Active Construction (0%) |
 | [HS-2013G](HS-2013G.md) | US 221A to NC 64. Upgrade guardrail. | SR 1510 (Hudlow Road) | 🚧 Under Construction |
 | [HS-2013N](HS-2013N.md) | SR 1007 (Andrews Mill Road / Piney Mountain Chu... | SR 1006 (Bostic-Sunshi... | 📅 Planned |
 | [HS-2413A](HS-2413A.md) | 🗺️ SR 1008 (Bills Creek Road) to Rutherfordton wes... | US 64 / NC 18; US 64 /... | 📅 Planned |
@@ -42,4 +43,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-16*
+*Mirror Updated: 2026-02-17*
