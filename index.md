@@ -10,10 +10,10 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 98 |
+| 🏗️ Active Construction | 105 |
 | 🚧 Under Construction | 601 |
 | 📋 Right-of-Way | 290 |
-| 📅 Planned | 1,229 |
+| 📅 Planned | 1,222 |
 | ✅ Completed | 138 |
 
 ## Counties
@@ -30,7 +30,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Bertie](counties/bertie/index.md) | 7 | 0 | 4 |
 | [Bladen](counties/bladen/index.md) | 7 | 2 | 2 |
 | [Brunswick](counties/brunswick/index.md) | 25 (+6) | 0 | 9 |
-| [Buncombe](counties/buncombe/index.md) | 73 (+4) | 0 | 38 |
+| [Buncombe](counties/buncombe/index.md) | 73 (+4) | 3 | 35 |
 | [Burke](counties/burke/index.md) | 19 (+3) | 0 | 8 |
 | [Cabarrus](counties/cabarrus/index.md) | 31 (+4) | 0 | 12 |
 | [Caldwell](counties/caldwell/index.md) | 23 (+2) | 0 | 13 |
@@ -78,7 +78,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Macon](counties/macon/index.md) | 21 | 2 | 9 |
 | [Madison](counties/madison/index.md) | 6 | 0 | 2 |
 | [Martin](counties/martin/index.md) | 10 | 0 | 3 |
-| [McDowell](counties/mcdowell/index.md) | 16 (+1) | 0 | 9 |
+| [McDowell](counties/mcdowell/index.md) | 16 (+1) | 2 | 7 |
 | [Mecklenburg](counties/mecklenburg/index.md) | 149 (+8) | 0 | 86 |
 | [Mitchell](counties/mitchell/index.md) | 4 | 0 | 1 |
 | [Montgomery](counties/montgomery/index.md) | 10 | 0 | 5 |
@@ -100,7 +100,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Robeson](counties/robeson/index.md) | 47 (+6) | 9 | 16 |
 | [Rockingham](counties/rockingham/index.md) | 16 | 0 | 10 |
 | [Rowan](counties/rowan/index.md) | 38 (+1) | 0 | 24 |
-| [Rutherford](counties/rutherford/index.md) | 13 (+3) | 1 | 9 |
+| [Rutherford](counties/rutherford/index.md) | 13 (+3) | 3 | 7 |
 | [Sampson](counties/sampson/index.md) | 14 (+2) | 0 | 3 |
 | [Scotland](counties/scotland/index.md) | 10 (+3) | 0 | 6 |
 | [Stanly](counties/stanly/index.md) | 11 | 0 | 5 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-17*
+*Mirror Updated: 2026-02-18*

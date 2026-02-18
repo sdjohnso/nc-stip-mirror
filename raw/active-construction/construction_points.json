@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-17T11:31:32.903287+00:00",
-  "feature_count": 241,
+  "pull_timestamp": "2026-02-18T11:30:22.464259+00:00",
+  "feature_count": 239,
   "features": [
     {
       "attributes": {
@@ -252,7 +252,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-29/US-70/I-85 BUSINESS, SR-1009 (S MAIN ST) IN HIGH POINT AND BRIDGE #147 OVER US-311 ON US-29/US-70/I-85 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Main St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1649686560000
@@ -1334,7 +1334,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #530020 OVER NEUSE RIVER AND BRIDGE #530034 OVER NEUS E RIVER OVERFLOW ON NC-55.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 55 Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719939540000
@@ -1417,7 +1417,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #248 AND #249 OVER SR-1613 (BEAVERDAM RD) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridges 248 / 249 (Beaverdam Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.84,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.61,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721323560000
@@ -1874,31 +1874,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 86850,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DA00638",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2401N  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2401N  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 27,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF NC-168 AT SR-1229 (BAXTER LANE)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Baxter Lane Traffic Signal Installation",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.87,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-168",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1737109980000
-      },
-      "geometry": {
-        "points": [
-          [
-            -76.18718604077635,
-            36.54027307346405
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 87650,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DD00481",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -2166,7 +2141,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580044 OVER CURTIS CREEK ON US-70 AND BRIDGE #580090  OVER MILL CREEK ON SR-1407.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER CURTIS CREEK / MILL CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1407",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740404160000
@@ -2317,35 +2292,6 @@
           [
             -82.93224255451825,
             35.67633158865421
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 95250,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205009",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 26,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #250053 OVER SR-1007 ON US-401 AND BRIDGE #250230 OVE R SR-1007 ON ABANDONED RAILROAD.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Over US 401 & Bridge Over SR 1007",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.63,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1007",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742206260000
-      },
-      "geometry": {
-        "points": [
-          [
-            -78.95973226105356,
-            35.0769884103173
-          ],
-          [
-            -78.95989305953991,
-            35.07712380166238
           ]
         ]
       }
@@ -4488,7 +4434,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US HWY 74 AND HAYES ROAD (SR 1379)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Xover@ US74/Hayes Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757951100000
@@ -5204,7 +5150,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 150 OVER BUCK CREEK ON SR 1843 (MAGNOLIA CHURCH RO AD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.09,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1843",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762421880000

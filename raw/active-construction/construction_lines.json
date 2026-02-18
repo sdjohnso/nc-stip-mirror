@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-17T11:31:32.903287+00:00",
+  "pull_timestamp": "2026-02-18T11:30:22.464259+00:00",
   "feature_count": 167,
   "features": [
     {
@@ -65501,7 +65501,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-158 FROM MULTI-LANES NORTH OF US-421/I-40 BUSINESS TO SR- 1965 (BELEWS CREEK ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-158 Widening 421 to Belews Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1722588900000
@@ -66836,7 +66836,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM EAST OF SR-1224 TO PAVEMENT JOINT WEST OF SR-3412,  AND I-26, I-40 AT I-40/US 19/23 INTERCHANGES IMPROVEMENTS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2513 AA/AB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.95,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723653840000
@@ -71004,7 +71004,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON SALEM NORTHERN BELTWAY(NC 74 FUTURE I-74) FROM US 42 1 TO US 52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Beltway Landscaping",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728483480000
@@ -76713,7 +76713,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 FROM SR-1180 (BLYTHE ST) TO SR-1173 (WHITE PINE DR)/SR -1186 (DANIEL DR).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Blythe Street To White Pine Dr.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1739184240000
@@ -88062,7 +88062,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1112 FROM WEST OF SR-1115 TO NC-59 & SR-1115 FROM SOUTH O F WALLACE ST TO NC-59.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rockfish Rd Widen",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.77,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1112",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742380140000
