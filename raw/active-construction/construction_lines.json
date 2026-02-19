@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-18T11:30:22.464259+00:00",
+  "pull_timestamp": "2026-02-19T11:30:13.557581+00:00",
   "feature_count": 167,
   "features": [
     {
@@ -8896,7 +8896,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-277 (BROOKSHIRE FRWY) FROM BRIDGE DECK OVER 10TH STREET TO BRIDGE DECK OVER JOHNSON STREET AND BRIDGE DECKS OVER I-77.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-277 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.58,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-277",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1640705040000
@@ -32043,7 +32043,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-221 SOUTH OF US-74 BUS (CHARLOTTE RD) TO NORTH OF SR-1366 (ROPER LOOP RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-221 WIDENING",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-221",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1644492300000
@@ -72259,7 +72259,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-3440 (MCKEE RD EXT) FROM SR-3448 (PLEASANT PLAINS RD) TO SR-1010 (E JOHN ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "McKee Road Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.89,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3440",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1732284360000
@@ -77599,7 +77599,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 701 BUSINESS FROM WEST OF LYNWOOD NORRIS ROAD TO US 701 B YPASS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US701 Ped Signal",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-701",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740058260000
@@ -120785,7 +120785,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1532 THAXTON RD AT ??? CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Thaxton Rd Emergency Pipe Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1532",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763475900000

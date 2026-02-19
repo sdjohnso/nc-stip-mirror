@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-18T11:30:22.464259+00:00",
+  "pull_timestamp": "2026-02-19T11:30:13.557581+00:00",
   "feature_count": 239,
   "features": [
     {
@@ -3387,7 +3387,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #600123 OVER CHARLES CRK ON SR-1345, BRG #600154 OVER CA NE CRK ON SR-1188, BRG #990194 OVER N TOE RIVER ON SR-1314.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 7",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569460000
@@ -4642,7 +4642,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON ROAD AT GUY ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Winston and Guy Road Intersection",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1550",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758712440000
