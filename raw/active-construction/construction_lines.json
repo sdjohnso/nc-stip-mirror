@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-19T11:30:13.557581+00:00",
+  "pull_timestamp": "2026-02-20T11:23:01.381810+00:00",
   "feature_count": 167,
   "features": [
     {
@@ -3961,7 +3961,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE NEUSE RIVER BRIDGE TO EAST OF THURMAN RD IN JAMES CITY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "James City Design Build (INFRA)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1572016020000
@@ -5425,7 +5425,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM I-85 IN ORANGE COUNTY TO THE DURHAM COUNTY LINE AND I-40 WESTBOUND IN DURHAM COUNTY NEAR US-15/501.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Hillsborough",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1634222280000
@@ -35285,7 +35285,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE HAVELOCK BYPASS TO EAST OF SR-1116 (THURMAN R D).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "C - Havelock to Thurman",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.88,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680003300000
@@ -50860,7 +50860,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM MILEMARKER 45.25 TO MILEMARKER 50.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Pavement Rehab MM 45.25 to MM 50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687451220000

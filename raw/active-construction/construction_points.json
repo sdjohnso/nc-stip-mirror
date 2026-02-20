@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-19T11:30:13.557581+00:00",
+  "pull_timestamp": "2026-02-20T11:23:01.381810+00:00",
   "feature_count": 239,
   "features": [
     {
@@ -2228,7 +2228,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430175 AND BRIDGE #430174 OVER BIG CREEK ON SR-1332 (WATERVILLE ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Waterville Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1332",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741084620000
@@ -2282,7 +2282,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430062 OVER COVE CREEK ON SR-1500 AND BRIDGE #440095  OVER BRANCH BROAD RIVER ON SR-1701.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Cove Creek & Branch Broad River Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.89,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1500",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741864020000
@@ -4459,7 +4459,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WILKES 221 ON SR 1939 (BILLINGS HILL CHURCH ROAD) OVER SPARK S CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Billings Hill Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1939",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757923980000
@@ -4767,7 +4767,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 279 ON SR 1832 (EAGLE MILL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Eagle Mills Rd Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.02,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1832",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760115480000
@@ -5990,7 +5990,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1119 HOLEMAN ASHLEY RD EAST OF HOOTEN DR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EMERGENCY PIPE REPLACEMENT",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1119",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769165880000

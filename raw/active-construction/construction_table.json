@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-02-19T11:30:13.557581+00:00",
-  "feature_count": 65,
+  "pull_timestamp": "2026-02-20T11:23:01.381810+00:00",
+  "feature_count": 66,
   "features": [
     {
       "attributes": {
@@ -559,7 +559,7 @@
         "LocationsDescription": "VARIOUS LOCATIONS IN DIVISION 7 WITH POPULATIONS UNDER 5K",
         "ContractNickname": "LMB Sidewalks & Ramps (ADA)",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 77.25,
+        "CompletionPercent": 81.62,
         "Route": "SR-1163",
         "PhysicalDivisionNumber": 7,
         "ContractActiveDate": 1755507420000
@@ -805,7 +805,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 398,
+        "OBJECTID": 394,
+        "ContractNumber": "DK00437",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 95,
+        "LocationsDescription": "STRUCTURE #940322 ON SR 1113 (BAIRDS CREEK ROAD) OVER UPPER LAUREL FORK CREEK",
+        "ContractNickname": "Bairds Creek Road",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1113",
+        "PhysicalDivisionNumber": 11,
+        "ContractActiveDate": 1771498080000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 399,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -822,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 415,
+        "OBJECTID": 416,
         "ContractNumber": "DM00428",
         "ContractType": "Other",
         "TipReference": " BP13-R026 ",
@@ -839,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 419,
+        "OBJECTID": 420,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 420,
+        "OBJECTID": 421,
         "ContractNumber": "DM00458",
         "ContractType": "Other",
         "TipReference": " BP13-R048 ",
@@ -873,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 424,
+        "OBJECTID": 425,
         "ContractNumber": "DM00482",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 428,
+        "OBJECTID": 429,
         "ContractNumber": "DM00497",
         "ContractType": "Other",
         "TipReference": " HS-2413M  ",
@@ -907,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 429,
+        "OBJECTID": 430,
         "ContractNumber": "DM00499",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 433,
+        "OBJECTID": 434,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 435,
+        "OBJECTID": 436,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 444,
+        "OBJECTID": 445,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 448,
+        "OBJECTID": 449,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 450,
+        "OBJECTID": 451,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -1009,7 +1026,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 452,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -1026,7 +1043,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 453,
+        "OBJECTID": 454,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -1043,7 +1060,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 458,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -1060,7 +1077,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 460,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -1077,7 +1094,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 466,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -1094,7 +1111,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 468,
+        "OBJECTID": 469,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
