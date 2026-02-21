@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-20T11:23:01.381810+00:00",
-  "feature_count": 239,
+  "pull_timestamp": "2026-02-21T11:12:53.024584+00:00",
+  "feature_count": 246,
   "features": [
     {
       "attributes": {
@@ -406,7 +406,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #57 AND #59 OVER IRISH BUFFALO CREEK ON US-29 AND US -601.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 29/ bridges 57 and 59 over Irish Buff",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1691404440000
@@ -897,7 +897,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DUAL ROUNDABOUTS NORTH AND SOUTH OF SR-5544 (CATAWBA AVE) AN D US-21 INTERSECTION IN CORNELIUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DUAL ROUNDABOUTS CORNELIUS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706269200000
@@ -2166,7 +2166,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580345 OVER ARMSTRONG CREEK ON SR-1546 AND BRIDGE #1 00110 OVER BROAD RIVER ON SR-2802.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER AMRSTRONG CRK / BROAD RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1546",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740404460000
@@ -4039,7 +4039,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACEMENT OF BRIDGE 960280 OVER CAMP BRANCH ON SR 1952 (OA K RIDGE CHURCH ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oak Ridge Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1952",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754406000000
@@ -4817,7 +4817,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1395 (BALD MOUNTAIN RD), SR 1158 (COBERTS CREEK RD) AND S R 1164 (STILL FORK CREEK RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Yancey Bridge Repairs 123/276/289",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760537880000
@@ -5100,7 +5100,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 77 ON AVENT RD/ITA RD OVER FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sanford Fishing Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1506",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761749760000
@@ -5682,7 +5682,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #770175 OVER LUMBER RIVER ON SR-1600 (W 5TH ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 770175 Over Lumber River W. 5th",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1600",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767779460000
@@ -5732,7 +5732,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "POLK BRIDGE 143 ON SR 1138 (LAKE ADGER ROAD) OVER PANTHER CR EEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768402500000
@@ -6303,6 +6303,189 @@
           [
             -82.22535209131696,
             36.080314835469814
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 152450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00482",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #79, 83, AND 23 OVER BUCK CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRG 79, 83, and 23 over Buck Creek",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-80",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771233900000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.09224100609424,
+            35.72805742014601
+          ],
+          [
+            -82.12945118705143,
+            35.73560893805769
+          ],
+          [
+            -82.13479443856151,
+            35.73841078410857
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 152451,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205135",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Design Build",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HN-0019   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HN-0019   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US-64/US-74A (WEST MOUNTAIN ST) AND NORTH WA SHINGTON ST.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "INTERSECTION OF US-64 / US-74A",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771252020000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.96257884041184,
+            35.381699582350166
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 152452,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205141",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Design Build",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #800036 OVER SECOND BROAD RIVER ON US-74 BUSINESS.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRG 36 OVER 2ND BROAD RIVER ON US-74 BUS",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74 B",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771252440000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.839539480132,
+            35.33364277217372
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 152850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00436",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 161 ON SR 1358 (EDGEMONT CHURCH PL) OVER WILSON CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Edgemont Church PL",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1358",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771239780000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.7743115734495,
+            36.00217733772149
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 152851,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00437",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 95,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE #940322 ON SR 1113 (BAIRDS CREEK ROAD) OVER UPPER LAUREL FORK CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bairds Creek Road",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1113",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771498080000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.73561600514267,
+            36.206353563169586
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 153250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00428",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BP13-R026 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BP13-R026 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 194 OVER LIMEKILN CREEK ON SR-1559 (GOOD ROAD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRG 194 OVER LIME KILN CREEK ( GOOD RD )",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1559",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771249980000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.01897662078152,
+            35.793135817266815
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 153251,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00458",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BP13-R048 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BP13-R048 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER THE NORTH FORK OF THE CATAWBA RIVER ON SR-1560 (OLD LIN VILLE RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Replace BRG 108 on Old Linville RD",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1560",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771325400000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.01775544454162,
+            35.80264907049138
           ]
         ]
       }

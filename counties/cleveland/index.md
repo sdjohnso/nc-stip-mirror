@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 4 |
 | 📋 Right-of-Way | 3 |
-| 📅 Planned | 8 |
+| 📅 Planned | 9 |
 | ✅ Completed | 4 |
 
 ## All Projects
@@ -20,7 +19,7 @@
 | [BR-0012](BR-0012.md) | Bridges 220048 and 220049 over Sandy Run. Repla... | US 74 | 📋 Right-of-Way |
 | [EB-6037A](EB-6037A.md) | South Dekab Street to Gardner Street in Shelby.... | Shelby Rail Trail | 📅 Planned |
 | [HO-0002A](HO-0002A.md) | 🗺️ I-40 in Asheville to I-77 at I-485 (south) in C... | U 74 | 🚧 Under Construction |
-| [I-5719FC](I-5719FC.md) | 🗺️ South Carolina state line to US 74. . Install b... | I-85 | 🏗️ Active Construction (0%) |
+| [I-5719FC](I-5719FC.md) | 🗺️ South Carolina state line to US 74. . Install b... | I-85 | 📅 Planned |
 | [R-2707AA](R-2707AA.md) | West of SR 1162 (Peachtree Road) to east of SR ... | US 74 (Shelby Bypass) | ✅ Completed |
 | [R-2707AB](R-2707AB.md) | East of SR 1318 (Kimbrell Road) to east of SR 1... | US 74 (Shelby Bypass) | ✅ Completed |
 | [R-2707B](R-2707B.md) | East of SR 1315 (Plato Lee Road) to east of NC ... | US 74 (Shelby Bypass) | ✅ Completed |
@@ -50,4 +49,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

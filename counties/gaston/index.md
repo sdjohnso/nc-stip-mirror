@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 13 |
-| 🚧 Under Construction | 5 |
+| 🚧 Under Construction | 6 |
 | 📋 Right-of-Way | 6 |
-| 📅 Planned | 21 |
+| 📅 Planned | 33 |
 | ✅ Completed | 3 |
 
 ## All Projects
@@ -20,12 +19,12 @@
 | [B-6051](B-6051.md) | BRIDGE 350091 OVER CATAWBA RIVER. REPLACE BRIDGE. | US 29 / US 74 | 📋 Right-of-Way |
 | [BL-0033](BL-0033.md) | SR 1534 (Pine Springs Drive) to Tryon Elementar... | NC 274 (Tryon Courthou... | 📅 Planned |
 | [C-4934](C-4934.md) | Burtonwood Drive to SR 2466 (Garrison Boulevard... | NC 279 (New Hope Road) | 🚧 Under Construction |
-| [C-5606B](C-5606B.md) | South 13th Street to South 14th Street in Besse... | NC 161 | 🏗️ Active Construction (48%) |
-| [C-5606D](C-5606D.md) | Locations along US 321 Business and NC 275 / NC... | Various | 🏗️ Active Construction (48%) |
-| [C-5606E](C-5606E.md) | Technology Park to Gaston College near Gastonia... | New Route | 🏗️ Active Construction (48%) |
-| [C-5606J](C-5606J.md) | George Poston Parkway to end of park limits nea... | SR 2201 (Lowell Spence... | 🏗️ Active Construction (48%) |
-| [C-5606K](C-5606K.md) | Rankin Lake to Tech Park Greenway near Gastonia... | New Route | 🏗️ Active Construction (48%) |
-| [C-5606M](C-5606M.md) | Existing sidewalk at Marth Rivers Park to exist... | SR 2400 (Neal Hawkins ... | 🏗️ Active Construction (48%) |
+| [C-5606B](C-5606B.md) | South 13th Street to South 14th Street in Besse... | NC 161 | 📅 Planned |
+| [C-5606D](C-5606D.md) | Locations along US 321 Business and NC 275 / NC... | Various | 📅 Planned |
+| [C-5606E](C-5606E.md) | Technology Park to Gaston College near Gastonia... | New Route | 🚧 Under Construction |
+| [C-5606J](C-5606J.md) | George Poston Parkway to end of park limits nea... | SR 2201 (Lowell Spence... | 📅 Planned |
+| [C-5606K](C-5606K.md) | Rankin Lake to Tech Park Greenway near Gastonia... | New Route | 📅 Planned |
+| [C-5606M](C-5606M.md) | Existing sidewalk at Marth Rivers Park to exist... | SR 2400 (Neal Hawkins ... | 📅 Planned |
 | [C-5622](C-5622.md) | Sims Legion Park to Bulb Avenue in Gastonia. Co... | Highland Branch Greenway | 🚧 Under Construction |
 | [C-5704](C-5704.md) | Paved trail at South Fork Village in Cramerton ... | Cramerton-McAdenville ... | 📅 Planned |
 | [EB-5531](EB-5531.md) | Chadwick Court to Kaiser Road; 12th Street to 1... | 12th Street; Yellow Ja... | 📅 Planned |
@@ -40,13 +39,13 @@
 | [EB-5976](EB-5976.md) | I-85 to Court Drive in Gastonia. Construct side... | SR 2200 (Cox Road) | 📅 Planned |
 | [HN-0027](HN-0027.md) | US 321 to US 321 Business. Extend right turn la... | NC 275 / NC 279 | 📅 Planned |
 | [I-5000](I-5000.md) | US 321 interchange. Construct geometric safety ... | I-85 | 🚧 Under Construction |
-| [I-5719](I-5719.md) | US 321 to NC 273. Widen to eight lanes. | I-85 | 🏗️ Active Construction (0%) |
-| [I-5719A](I-5719A.md) | US 321 to NC 7 (McAdenville Road / Main Street)... | I-85 | 🏗️ Active Construction (0%) |
-| [I-5719B](I-5719B.md) | NC 7 (McAdenville Road / Main Street) to NC 273... | I-85 | 🏗️ Active Construction (0%) |
-| [I-5719C](I-5719C.md) | South Carolina state line to NC 273. Piedmont N... | I-85 | 🏗️ Active Construction (0%) |
-| [I-5719FA](I-5719FA.md) | US 321 to NC 7 (McAdenville Road / Main Street)... | I-85 | 🏗️ Active Construction (0%) |
-| [I-5719FB](I-5719FB.md) | NC 7 (McAdenville Road / Main Street) to NC 273... | I-85 | 🏗️ Active Construction (0%) |
-| [I-5719FD](I-5719FD.md) | 🗺️ South Carolina state line to NC 273. . Implemen... | I-85 | 🏗️ Active Construction (0%) |
+| [I-5719](I-5719.md) | US 321 to NC 273. Widen to eight lanes. | I-85 | 📅 Planned |
+| [I-5719A](I-5719A.md) | US 321 to NC 7 (McAdenville Road / Main Street)... | I-85 | 📅 Planned |
+| [I-5719B](I-5719B.md) | NC 7 (McAdenville Road / Main Street) to NC 273... | I-85 | 📅 Planned |
+| [I-5719C](I-5719C.md) | South Carolina state line to NC 273. Piedmont N... | I-85 | 📅 Planned |
+| [I-5719FA](I-5719FA.md) | US 321 to NC 7 (McAdenville Road / Main Street)... | I-85 | 📅 Planned |
+| [I-5719FB](I-5719FB.md) | NC 7 (McAdenville Road / Main Street) to NC 273... | I-85 | 📅 Planned |
+| [I-5719FD](I-5719FD.md) | 🗺️ South Carolina state line to NC 273. . Implemen... | I-85 | 📅 Planned |
 | [I-5921](I-5921.md) | Cleveland County line to mile marker 14.0. Reha... | I-85 | 📅 Planned |
 | [RX-2012H](RX-2012H.md) | Norfolk Southern Crossing 729966J in Gastonia. ... | SR 2412 (Little Mounta... | 📅 Planned |
 | [U-2523B](U-2523B.md) | North of SR 2275 (Robinson-Clemmer Road) to wes... | NC 279 | 📅 Planned |
@@ -80,4 +79,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

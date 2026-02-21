@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 2 |
 | 🚧 Under Construction | 4 |
 | 📋 Right-of-Way | 3 |
-| 📅 Planned | 6 |
+| 📅 Planned | 8 |
 
 ## All Projects
 
@@ -23,8 +22,8 @@
 | [HF-0004](HF-0004.md) | US 64 to Avery Creek Trailhead. Install guardra... | US 276 | 📅 Planned |
 | [HS-2014AC](HS-2014AC.md) | SR 1118 (Gallimore Road) intersection in Brevar... | US 276 (Greenville Hig... | 📅 Planned |
 | [HS-2014M](HS-2014M.md) | SR 1592 (Hospital Drive) / Straus Parkway inter... | US 64 (Asheville Highway) | 📅 Planned |
-| [HS-2414G](HS-2414G.md) | Ecusta Bypass intersection in Brevard. Install ... | SR 1512 (Ecusta Road) | 🏗️ Active Construction (0%) |
-| [HS-2414H](HS-2414H.md) | Mile marker 5.0 to mile marker 13.0 and mile ma... | US 64 | 🏗️ Active Construction (0%) |
+| [HS-2414G](HS-2414G.md) | Ecusta Bypass intersection in Brevard. Install ... | SR 1512 (Ecusta Road) | 📅 Planned |
+| [HS-2414H](HS-2414H.md) | Mile marker 5.0 to mile marker 13.0 and mile ma... | US 64 | 📅 Planned |
 | [R-5605](R-5605.md) | US 64 to US 276 / US 64 in Pisgah Forest. Const... | Davidson River Village... | 🚧 Under Construction |
 | [R-5763](R-5763.md) | SR 1504 (Old US 64) to US 276 in Brevard. Upgra... | SR 1540 (Wilson Road) | 📋 Right-of-Way |
 | [R-5799](R-5799.md) | US 276 / NC 280 intersection in Pisgah Forest. ... | US 64 | 🚧 Under Construction |
@@ -43,4 +42,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

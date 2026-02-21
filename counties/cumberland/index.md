@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 10 |
-| 🚧 Under Construction | 16 |
-| 📋 Right-of-Way | 4 |
-| 📅 Planned | 33 |
+| 🚧 Under Construction | 21 |
+| 📋 Right-of-Way | 5 |
+| 📅 Planned | 37 |
 | ✅ Completed | 7 |
 
 ## All Projects
@@ -38,16 +37,16 @@
 | [HL-0036](HL-0036.md) | Lakeview Road to second entrance of Lake Park C... | NC 59 (North Main Street) | 📅 Planned |
 | [HP-0015](HP-0015.md) | NC 24 / NC 87 (Bragg Boulevard) to NC 210 (Murc... | US 401 Bypass (Pamalee... | 📅 Planned |
 | [HP-0020](HP-0020.md) | 🗺️ SR 1117 (Nursery Road) to SR 1451 (Manchester R... | NC 24 / NC 87 | 📅 Planned |
-| [HS-2006A](HS-2006A.md) | US 401 (Skibo Road), SR 1437 (Sante Fe Drive), ... | SR 1415 (Yadkin Road) | 🏗️ Active Construction (92%) |
-| [HS-2006B](HS-2006B.md) | US 301 / I-95 Business (Eastern Boulevard) to e... | SR 1006 (Person Street) | 🏗️ Active Construction (92%) |
-| [HS-2006C](HS-2006C.md) | North of Plymouth Street to south of Troy Drive... | NC 53 (Cedar Creek Road) | 🏗️ Active Construction (92%) |
-| [HS-2006G](HS-2006G.md) | SR 1838 (Dunn Road) intersection in Eastover. R... | SR 1835 (Rock Hill Road) | 🏗️ Active Construction (92%) |
-| [HS-2006N](HS-2006N.md) | US 401 (Raeford Road) to SR 1400 (Cliffdale Roa... | SR 1596 (Glensford Drive) | 🏗️ Active Construction (92%) |
-| [HS-2006O](HS-2006O.md) | Berean Baptist Academy Entrance and Chambersbur... | SR 1596 (Glensford Drive) | 🏗️ Active Construction (92%) |
-| [HS-2006P](HS-2006P.md) | Bridge 250216 in Fayetteville. . Install Guardr... | SR 3950 (Ramsey Street) | 🏗️ Active Construction (92%) |
-| [HS-2006V](HS-2006V.md) | SR 1615 (Rosehill Road / Stacy Weaver Road) in ... | SR 1600 (McArthur Road) | 🏗️ Active Construction (92%) |
-| [HS-2006X](HS-2006X.md) | SR 1007 (All American Freeway) northbound and s... | US 401 (Skibo Road) | 🏗️ Active Construction (92%) |
-| [HS-2006Z](HS-2006Z.md) | Arsenal Avenue intersection in Fayetteville. In... | SR 1414 (Broadfoot Road) | 🏗️ Active Construction (92%) |
+| [HS-2006A](HS-2006A.md) | US 401 (Skibo Road), SR 1437 (Sante Fe Drive), ... | SR 1415 (Yadkin Road) | 📅 Planned |
+| [HS-2006B](HS-2006B.md) | US 301 / I-95 Business (Eastern Boulevard) to e... | SR 1006 (Person Street) | 🚧 Under Construction |
+| [HS-2006C](HS-2006C.md) | North of Plymouth Street to south of Troy Drive... | NC 53 (Cedar Creek Road) | 📋 Right-of-Way |
+| [HS-2006G](HS-2006G.md) | SR 1838 (Dunn Road) intersection in Eastover. R... | SR 1835 (Rock Hill Road) | 🚧 Under Construction |
+| [HS-2006N](HS-2006N.md) | US 401 (Raeford Road) to SR 1400 (Cliffdale Roa... | SR 1596 (Glensford Drive) | 🚧 Under Construction |
+| [HS-2006O](HS-2006O.md) | Berean Baptist Academy Entrance and Chambersbur... | SR 1596 (Glensford Drive) | 🚧 Under Construction |
+| [HS-2006P](HS-2006P.md) | Bridge 250216 in Fayetteville. . Install Guardr... | SR 3950 (Ramsey Street) | 🚧 Under Construction |
+| [HS-2006V](HS-2006V.md) | SR 1615 (Rosehill Road / Stacy Weaver Road) in ... | SR 1600 (McArthur Road) | 📅 Planned |
+| [HS-2006X](HS-2006X.md) | SR 1007 (All American Freeway) northbound and s... | US 401 (Skibo Road) | 📅 Planned |
+| [HS-2006Z](HS-2006Z.md) | Arsenal Avenue intersection in Fayetteville. In... | SR 1414 (Broadfoot Road) | 📅 Planned |
 | [I-5986A](I-5986A.md) | 🗺️ I-95 Business / US 301 (Exit 56) to SR 1001 (Lo... | I-95 | 🚧 Under Construction |
 | [R-2303A](R-2303A.md) | West of SR 1006 (Maxwell Road / Clinton Road) i... | NC 24 | ✅ Completed |
 | [RP-0002](RP-0002.md) | Hay Street Crossing 629881F in Fayetteville. Co... | CSX A Line | 📅 Planned |
@@ -101,4 +100,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

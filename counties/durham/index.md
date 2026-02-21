@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 9 |
-| 🚧 Under Construction | 6 |
-| 📋 Right-of-Way | 12 |
-| 📅 Planned | 25 |
+| 🚧 Under Construction | 8 |
+| 📋 Right-of-Way | 13 |
+| 📅 Planned | 31 |
 
 ## All Projects
 
@@ -37,15 +36,15 @@
 | [HN-0013](HN-0013.md) | SR 1308 (Cornwallis Road) intersection in Durha... | SR 1306 (Erwin Road) | 📅 Planned |
 | [HN-0014](HN-0014.md) | SR 1945 (Alston Avenue) intersection in Durham.... | SR 1121 (Cornwallis Road) | 📅 Planned |
 | [HP-0018](HP-0018.md) | SR 1121 (Cornwallis Road) intersection. Constru... | NC 55 (Apex Highway) | 📅 Planned |
-| [HS-2005C](HS-2005C.md) | NC 55 intersection in Durham. . Install concret... | NC 54 | 🏗️ Active Construction (88%) |
-| [HS-2005D](HS-2005D.md) | SR 1116 (Garrett Road) / Luna Lane intersection... | SR 1303 (Pickett Road) | 🏗️ Active Construction (88%) |
-| [HS-2005E](HS-2005E.md) | NC 751 (Academy Road) interchange in Durham. . ... | US 15 / US 501 Business | 🏗️ Active Construction (88%) |
-| [HS-2005H](HS-2005H.md) | Churchill Hall / Arby's / McDonalds Driveway. I... | SR 1973 (Page Road) | 🏗️ Active Construction (88%) |
-| [HS-2005L](HS-2005L.md) | Knox Street intersection. . Install traffic sig... | SR 1327 (Gregson Street) | 🏗️ Active Construction (88%) |
-| [HS-2005M](HS-2005M.md) | SR 1670 (Geer Street) intersection in Durham. .... | NC 55 (Alston Avenue) | 🏗️ Active Construction (88%) |
-| [HS-2005S](HS-2005S.md) | SR 1815 (Mineral Springs Road) intersection. . ... | NC 98 | 🏗️ Active Construction (88%) |
-| [HS-2405I](HS-2405I.md) | Downing Creek Parkway; Hales Wood Road intersec... | SR 1110 (Barbee Chapel... | 🏗️ Active Construction (56%) |
-| [HS-2405M](HS-2405M.md) | Maynard Avenue intersection. Install traffic si... | US 501 Business (Roxbo... | 🏗️ Active Construction (56%) |
+| [HS-2005C](HS-2005C.md) | NC 55 intersection in Durham. . Install concret... | NC 54 | 📅 Planned |
+| [HS-2005D](HS-2005D.md) | SR 1116 (Garrett Road) / Luna Lane intersection... | SR 1303 (Pickett Road) | 🚧 Under Construction |
+| [HS-2005E](HS-2005E.md) | NC 751 (Academy Road) interchange in Durham. . ... | US 15 / US 501 Business | 🚧 Under Construction |
+| [HS-2005H](HS-2005H.md) | Churchill Hall / Arby's / McDonalds Driveway. I... | SR 1973 (Page Road) | 📅 Planned |
+| [HS-2005L](HS-2005L.md) | Knox Street intersection. . Install traffic sig... | SR 1327 (Gregson Street) | 📅 Planned |
+| [HS-2005M](HS-2005M.md) | SR 1670 (Geer Street) intersection in Durham. .... | NC 55 (Alston Avenue) | 📅 Planned |
+| [HS-2005S](HS-2005S.md) | SR 1815 (Mineral Springs Road) intersection. . ... | NC 98 | 📋 Right-of-Way |
+| [HS-2405I](HS-2405I.md) | Downing Creek Parkway; Hales Wood Road intersec... | SR 1110 (Barbee Chapel... | 📅 Planned |
+| [HS-2405M](HS-2405M.md) | Maynard Avenue intersection. Install traffic si... | US 501 Business (Roxbo... | 📅 Planned |
 | [I-5707](I-5707.md) | NC 55 (Alston Avenue) to NC 147 (Durham Freeway... | I-40 | 📋 Right-of-Way |
 | [I-5941](I-5941.md) | Orange County line to US 15 / US 501 in Durham.... | I-85 | 📅 Planned |
 | [I-5993](I-5993.md) | US 15 / US 501 to east of NC 147. Rehabilitate ... | I-40 | 📅 Planned |
@@ -89,4 +88,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

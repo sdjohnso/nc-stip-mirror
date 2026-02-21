@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 11 |
-| 🚧 Under Construction | 52 |
+| 🚧 Under Construction | 58 |
 | 📋 Right-of-Way | 32 |
-| 📅 Planned | 112 |
+| 📅 Planned | 117 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -77,7 +76,7 @@
 | [HL-0028](HL-0028.md) | SR 1404 (Mill Creek Drive) / Ideal Lane interse... | US 401 | 🚧 Under Construction |
 | [HL-0029](HL-0029.md) | SR 1115 (Avent Ferry Road) to South Main Street... | NC 55 | 🚧 Under Construction |
 | [HL-0030](HL-0030.md) | SR 1152 (Holly Springs Road) to Earp Street in ... | South Main Street | 🚧 Under Construction |
-| [HL-0031](HL-0031.md) | SR 2233 (Smithfield Road). Construct intersecti... | SR 1007 (Poole Road) | 🏗️ Active Construction (84%) |
+| [HL-0031](HL-0031.md) | SR 2233 (Smithfield Road). Construct intersecti... | SR 1007 (Poole Road) | 🚧 Under Construction |
 | [HL-0032](HL-0032.md) | I-440 to Ridge Road in Raleigh. Upgrade roadway... | Lake Boone Trail | 📅 Planned |
 | [HL-0033](HL-0033.md) | Garden Square Lane to SR 1637 (Church Street) i... | SR 3126 (Airport Boule... | 📋 Right-of-Way |
 | [HL-0041](HL-0041.md) | US 401 (South Main Street) intersection in Fuqu... | SR 2768 (Judd Parkway) | 📋 Right-of-Way |
@@ -112,16 +111,16 @@
 | [HP-0024](HP-0024.md) | SR 5056 / SR 2768 (Judd Parkway) to NC 55 / NC ... | US 401 | 📅 Planned |
 | [HP-0025](HP-0025.md) | SR 1907; SR 1005 (Six Forks Road) intersection.... | NC 98 | 📅 Planned |
 | [HP-0032](HP-0032.md) | SR 1010 (Ten Ten Road) interchange.  . Reconstr... | US 1 | 📅 Planned |
-| [HS-2005G](HS-2005G.md) | SR 2214 (Southhall Road) / Brintons Cottage Str... | SR 2215 (Buffaloe Road) | 🏗️ Active Construction (90%) |
-| [HS-2005I](HS-2005I.md) | I-540 westbound ramp / Arco Corporate Drive in ... | SR 1645 (Lumley Road) | 🏗️ Active Construction (84%) |
-| [HS-2005J](HS-2005J.md) | Mingo Creek Trail crossing. . Relocate crosswalk. | SR 2516 (Hodge Road) | 🏗️ Active Construction (84%) |
-| [HS-2005K](HS-2005K.md) | SR 2108 / SR 2036 (New Hope Road) intersection ... | US 401 | 🏗️ Active Construction (90%) |
-| [HS-2005Q](HS-2005Q.md) | Blazing Trail Drive / Driveway access to Apex F... | SR 1142 (Humie Olive R... | 🏗️ Active Construction (90%) |
-| [HS-2405G](HS-2405G.md) | Dillard Drive Middle School driveway; Orabelle ... | SR 1349 (Dillard Drive) | 🏗️ Active Construction (56%) |
-| [HS-2405H](HS-2405H.md) | Cashew Drive intersection. Install traffic sign... | SR 2049 (Forestville R... | 🏗️ Active Construction (56%) |
-| [HS-2405J](HS-2405J.md) | I-40 / I-440 ramp terminals. Uprade ramp traffi... | US 70 / US 401 (South ... | 🏗️ Active Construction (56%) |
-| [HS-2405K](HS-2405K.md) | Polk street intersection. Install traffic signa... | SR 2026 (North Person ... | 🏗️ Active Construction (56%) |
-| [HS-2405O](HS-2405O.md) | SR 2763 (Maude Stewart Road) intersection. Cons... | SR 2754 (Kennebec Road) | 🏗️ Active Construction (56%) |
+| [HS-2005G](HS-2005G.md) | SR 2214 (Southhall Road) / Brintons Cottage Str... | SR 2215 (Buffaloe Road) | 🚧 Under Construction |
+| [HS-2005I](HS-2005I.md) | I-540 westbound ramp / Arco Corporate Drive in ... | SR 1645 (Lumley Road) | 🚧 Under Construction |
+| [HS-2005J](HS-2005J.md) | Mingo Creek Trail crossing. . Relocate crosswalk. | SR 2516 (Hodge Road) | 🚧 Under Construction |
+| [HS-2005K](HS-2005K.md) | SR 2108 / SR 2036 (New Hope Road) intersection ... | US 401 | 🚧 Under Construction |
+| [HS-2005Q](HS-2005Q.md) | Blazing Trail Drive / Driveway access to Apex F... | SR 1142 (Humie Olive R... | 🚧 Under Construction |
+| [HS-2405G](HS-2405G.md) | Dillard Drive Middle School driveway; Orabelle ... | SR 1349 (Dillard Drive) | 📅 Planned |
+| [HS-2405H](HS-2405H.md) | Cashew Drive intersection. Install traffic sign... | SR 2049 (Forestville R... | 📅 Planned |
+| [HS-2405J](HS-2405J.md) | I-40 / I-440 ramp terminals. Uprade ramp traffi... | US 70 / US 401 (South ... | 📅 Planned |
+| [HS-2405K](HS-2405K.md) | Polk street intersection. Install traffic signa... | SR 2026 (North Person ... | 📅 Planned |
+| [HS-2405O](HS-2405O.md) | SR 2763 (Maude Stewart Road) intersection. Cons... | SR 2754 (Kennebec Road) | 📅 Planned |
 | [I-5111](I-5111.md) | 🗺️ I-440 / US 64 (Exit 301) to NC 42 (Exit 312). .... | I-40 | 🚧 Under Construction |
 | [I-5111SW](I-5111SW.md) | I-440 / US 64 (Exit 301) to Johnston County lin... | I-40 | 📅 Planned |
 | [I-5506](I-5506.md) | SR 1002 (Aviation Parkway) interchange in Cary.... | I-40 | ✅ Completed |
@@ -240,4 +239,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

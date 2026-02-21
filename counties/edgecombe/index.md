@@ -6,9 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 2 |
-| 🚧 Under Construction | 9 |
-| 📅 Planned | 6 |
+| 🚧 Under Construction | 10 |
+| 📅 Planned | 7 |
 | ✅ Completed | 8 |
 
 ## All Projects
@@ -27,8 +26,8 @@
 | [BR-0241](BR-0241.md) | Bridge 320054 over Tar River. Replace bridge. | SR 1243 (Leggett Road) | ✅ Completed |
 | [EB-5763](EB-5763.md) | 🗺️ River Drive to Monk Street in Rocky Mount. Upgr... | US 301 Business (Churc... | 📅 Planned |
 | [EB-5984](EB-5984.md) | US 64 to Arlington Street in Rocky Mount. Const... | East Raleigh Boulevard | 📅 Planned |
-| [HS-2004AB](HS-2004AB.md) | NC 43 (Fairview Road) intersection in Rocky Mou... | US 64 Business (Raleig... | 🏗️ Active Construction (44%) |
-| [HS-2004R](HS-2004R.md) | 🗺️ Pitt County line to US 64 in Edgecombe County, ... | US 258 | 🏗️ Active Construction (44%) |
+| [HS-2004AB](HS-2004AB.md) | NC 43 (Fairview Road) intersection in Rocky Mou... | US 64 Business (Raleig... | 📅 Planned |
+| [HS-2004R](HS-2004R.md) | 🗺️ Pitt County line to US 64 in Edgecombe County, ... | US 258 | 🚧 Under Construction |
 | [I-6041](I-6041.md) | SR 1225 (Kingsboro Road) to NC 33. . Rehabilita... | US 64 (Future I-87) | 🚧 Under Construction |
 | [I-6041A](I-6041A.md) | Bridges 320104, 320155, 320148, 320153, 320154,... | US 64 (Future I-87) | 🚧 Under Construction |
 | [I-6042](I-6042.md) | NC 33 to Martin County line. Rehabilitate pavem... | US 64 (Future I-87) | 🚧 Under Construction |
@@ -54,4 +53,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

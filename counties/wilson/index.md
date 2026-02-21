@@ -6,8 +6,7 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 2 |
-| 🚧 Under Construction | 9 |
+| 🚧 Under Construction | 11 |
 | 📅 Planned | 11 |
 
 ## All Projects
@@ -21,8 +20,8 @@
 | [HI-0007](HI-0007.md) | Toisnot Swamp to the Greene County Line. Rehabi... | US 264 (Future I-587) | 🚧 Under Construction |
 | [HI-0014](HI-0014.md) | Wilson County line to I-95. Rehabilitate pavement. | US 264 (Future I-587) | 📅 Planned |
 | [HL-0034](HL-0034.md) | Atlantic Christian College Drive to NC 42 / NC ... | SR 1356 (Raleigh Road ... | 🚧 Under Construction |
-| [HS-2004F](HS-2004F.md) | SR 1169 (Radford Road) intersection. Install al... | SR 1103 (Wiggins Mill ... | 🏗️ Active Construction (44%) |
-| [HS-2004O](HS-2004O.md) | Chelsea Drive and Jetstream Drive intersections... | SR 1320 (Airport Boule... | 🏗️ Active Construction (44%) |
+| [HS-2004F](HS-2004F.md) | SR 1169 (Radford Road) intersection. Install al... | SR 1103 (Wiggins Mill ... | 🚧 Under Construction |
+| [HS-2004O](HS-2004O.md) | Chelsea Drive and Jetstream Drive intersections... | SR 1320 (Airport Boule... | 🚧 Under Construction |
 | [I-5936](I-5936.md) | Mile marker 108.2 to mile marker 114.5. Rehabil... | I-95 | 🚧 Under Construction |
 | [RC-2004A](RC-2004A.md) | CSX Crossing 629 847Y. Improve at-grade crossin... | SR 1163 (Goldsboro Str... | 📅 Planned |
 | [RX-2004A](RX-2004A.md) | CSX Crossing 629847Y in Wilson. Install active ... | SR 1163 (Goldsboro Str... | 📅 Planned |
@@ -49,4 +48,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

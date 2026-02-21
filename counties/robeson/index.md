@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 9 |
-| 🚧 Under Construction | 15 |
-| 📋 Right-of-Way | 6 |
-| 📅 Planned | 16 |
+| 🚧 Under Construction | 21 |
+| 📋 Right-of-Way | 8 |
+| 📅 Planned | 17 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -30,15 +29,15 @@
 | [HO-0014](HO-0014.md) | NC 41 to NC 211 in Lumberton. Construct complet... | NC 72 | 📅 Planned |
 | [HO-0021](HO-0021.md) | Bridges 770466 and 770118 over the Lumber River... | US 74 (Future I-74) | 📅 Planned |
 | [HP-0019](HP-0019.md) | SR 1531 (Saddletree Road / Clybourn Church Road... | NC 211 (North Roberts ... | 📅 Planned |
-| [HS-2006AA](HS-2006AA.md) | NC 771 (Third Street) and SR 1566 (Corinth Road... | SR 1340 (Odom Street /... | 🏗️ Active Construction (92%) |
-| [HS-2006AE](HS-2006AE.md) | NC 711 to Hawk Drive in Pembroke. Install pedes... | SR 1561 (University Road) | 🏗️ Active Construction (92%) |
-| [HS-2006D](HS-2006D.md) | SR 1924 (Barker Ten Mile Road) intersection, an... | SR 1935 (Howell Road) | 🏗️ Active Construction (92%) |
-| [HS-2006I](HS-2006I.md) | SR 1340 (Prospect Road) intersection. Construct... | NC 710 | 🏗️ Active Construction (92%) |
-| [HS-2006J](HS-2006J.md) | Near SR 1134 (Kitchen Road). Improve curve. | US 501 / NC 130 | 🏗️ Active Construction (92%) |
-| [HS-2006R](HS-2006R.md) | Mile marker 2.0 to mile marker 12.45. Install c... | I-95 | 🏗️ Active Construction (92%) |
-| [HS-2006S](HS-2006S.md) | NC 130 to Scotland County line. Install rumble ... | US 501 | 🏗️ Active Construction (92%) |
-| [HS-2006T](HS-2006T.md) | US 74 to NC 41 / NC 211. Install rumble stripes... | NC 72 | 🏗️ Active Construction (92%) |
-| [HS-2006U](HS-2006U.md) | NC 711 to NC 710. Install rumble stripes and pa... | NC 72 | 🏗️ Active Construction (92%) |
+| [HS-2006AA](HS-2006AA.md) | NC 771 (Third Street) and SR 1566 (Corinth Road... | SR 1340 (Odom Street /... | 🚧 Under Construction |
+| [HS-2006AE](HS-2006AE.md) | NC 711 to Hawk Drive in Pembroke. Install pedes... | SR 1561 (University Road) | 🚧 Under Construction |
+| [HS-2006D](HS-2006D.md) | SR 1924 (Barker Ten Mile Road) intersection, an... | SR 1935 (Howell Road) | 🚧 Under Construction |
+| [HS-2006I](HS-2006I.md) | SR 1340 (Prospect Road) intersection. Construct... | NC 710 | 📋 Right-of-Way |
+| [HS-2006J](HS-2006J.md) | Near SR 1134 (Kitchen Road). Improve curve. | US 501 / NC 130 | 📋 Right-of-Way |
+| [HS-2006R](HS-2006R.md) | Mile marker 2.0 to mile marker 12.45. Install c... | I-95 | 📅 Planned |
+| [HS-2006S](HS-2006S.md) | NC 130 to Scotland County line. Install rumble ... | US 501 | 🚧 Under Construction |
+| [HS-2006T](HS-2006T.md) | US 74 to NC 41 / NC 211. Install rumble stripes... | NC 72 | 🚧 Under Construction |
+| [HS-2006U](HS-2006U.md) | NC 711 to NC 710. Install rumble stripes and pa... | NC 72 | 🚧 Under Construction |
 | [I-5850A](I-5850A.md) | North of US 301 (mile marker 22) to Cumberland ... | I-95 | ✅ Completed |
 | [I-5850B](I-5850B.md) | North of US 301 (mile marker 22) to Cumberland ... | I-95 | 🚧 Under Construction |
 | [I-5879](I-5879.md) | SR 1536 (Carthage Road / West Carthage Road) (E... | I-95 | 🚧 Under Construction |
@@ -81,4 +80,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

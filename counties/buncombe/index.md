@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 3 |
 | 🚧 Under Construction | 22 |
 | 📋 Right-of-Way | 6 |
-| 📅 Planned | 35 |
+| 📅 Planned | 38 |
 | ✅ Completed | 7 |
 
 ## All Projects
@@ -35,9 +34,9 @@
 | [HS-2013K](HS-2013K.md) | SR 2106 (Parker Cove Road) to SR 2114 (Sugar Co... | SR 1003 (Reems Creek R... | 📅 Planned |
 | [HS-2013O](HS-2013O.md) | Bridge 100460 over I-40. Construct sidewalk and... | SR 3075 (Onteora Boule... | 📅 Planned |
 | [HS-2013P](HS-2013P.md) | SR 1220 (South Turkey Creek Road) intersection ... | NC 63 | 📅 Planned |
-| [HS-2413G](HS-2413G.md) | SR 3116 (Mills Gap Road) to US 74 Alternate nea... | SR 3136 (Cane Creek Road) | 🏗️ Active Construction (0%) |
-| [HS-2413I](HS-2413I.md) | NC 63 to SR 1607 (Bear Creek Road) near Leicest... | SR 1002 (Old Leicester... | 🏗️ Active Construction (0%) |
-| [HS-2413J](HS-2413J.md) | SR 1882 (New Stock Road) to east of NC 251 (Old... | SR 1727 (Monticello Road) | 🏗️ Active Construction (0%) |
+| [HS-2413G](HS-2413G.md) | SR 3116 (Mills Gap Road) to US 74 Alternate nea... | SR 3136 (Cane Creek Road) | 📅 Planned |
+| [HS-2413I](HS-2413I.md) | NC 63 to SR 1607 (Bear Creek Road) near Leicest... | SR 1002 (Old Leicester... | 📅 Planned |
+| [HS-2413J](HS-2413J.md) | SR 1882 (New Stock Road) to east of NC 251 (Old... | SR 1727 (Monticello Road) | 📅 Planned |
 | [I-2513AA](I-2513AA.md) | East of SR 1224 (Monte Vista Road) to pavement ... | I-40 | 📋 Right-of-Way |
 | [I-2513AB](I-2513AB.md) | I-40 / US 19 / US 23 (Smokey Park Highway) inte... | I-26 / I-40 | 📋 Right-of-Way |
 | [I-2513AC](I-2513AC.md) | North of I-40 to SR 3548 (Haywood Road). Widen ... | I-26 / I-240 | 📋 Right-of-Way |
@@ -105,4 +104,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*

@@ -6,8 +6,7 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
-| 🚧 Under Construction | 9 |
+| 🚧 Under Construction | 10 |
 | 📋 Right-of-Way | 3 |
 | 📅 Planned | 12 |
 | ✅ Completed | 1 |
@@ -29,7 +28,7 @@
 | [HO-0002](HO-0002.md) | 🗺️ I-40 in Asheville to I-140 in Wilmington. Imple... | US 74 | 📅 Planned |
 | [HO-0002C](HO-0002C.md) | 🗺️ I-95 in Lumberton to I-140 in Wilmington. Insta... | US 74 | 🚧 Under Construction |
 | [HO-0002D](HO-0002D.md) | 🗺️ Eastern end of Monroe Bypass to I-140 in Wilmin... | US 74 | 📅 Planned |
-| [HS-2006F](HS-2006F.md) | Brunswick County line to NC 214. Install rumble... | NC 211 | 🏗️ Active Construction (92%) |
+| [HS-2006F](HS-2006F.md) | Brunswick County line to NC 214. Install rumble... | NC 211 | 🚧 Under Construction |
 | [I-6011](I-6011.md) | 🗺️ Near Lumberton to US 76 near Chadbourn. Upgrade... | US 74 (Future I-74) | 📅 Planned |
 | [R-2561C](R-2561C.md) | NC 11 to US 74 / US 76 in Columbus County. Wide... | NC 87 | 📅 Planned |
 | [R-2561CA](R-2561CA.md) | NC 11 intersection in Sandyfield. Construct int... | NC 87 | 🚧 Under Construction |
@@ -47,4 +46,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-15*  
-*Mirror Updated: 2026-02-20*
+*Mirror Updated: 2026-02-21*
