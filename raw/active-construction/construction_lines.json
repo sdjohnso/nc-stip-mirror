@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-23T11:32:06.094354+00:00",
+  "pull_timestamp": "2026-02-24T11:32:12.506347+00:00",
   "feature_count": 168,
   "features": [
     {
@@ -63283,7 +63283,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1100 (BRAWLEY SCHOOL RD) FROM I-77 TO US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Brawley School",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.65,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1100",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708964940000
@@ -70852,7 +70852,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM 0.348 MILES WEST OF SR-1550 (INCINERATOR RD) TO 0. 345 MILES EAST OF SR-1550 (INCINERATOR RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridge 239 (Incinerator Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725352320000

@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-23T11:32:06.094354+00:00",
+  "pull_timestamp": "2026-02-24T11:32:12.506347+00:00",
   "feature_count": 246,
   "features": [
     {
@@ -2112,7 +2112,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #580119 ON US-221 AND BRG #580285 ON SR-1571: BOTH OVER NORTH FORK CATAWBA RIVER.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 580119 & 580285 Over North Fork",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1571",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740403200000
@@ -2332,7 +2332,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 55 ON SR 1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Finger Bridge Road Catawba County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.68,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.89,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742388420000
@@ -2486,7 +2486,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 (FUTURE I-74) AT INTERCHANGE WITH US-1 (EXIT 311).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 US-74 Interchange w/US-1  Rich. Co.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743080580000
@@ -3208,7 +3208,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 (SOUTH CHURCH ST) AT SR-1158 (HUFFMAN MILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HUFFMAN MILL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748424660000
@@ -3764,7 +3764,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE AT I-85 AND I-485 WEST OF CHARLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-6016  I-485 and I-85 CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753344600000
