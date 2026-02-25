@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-24T11:32:12.506347+00:00",
+  "pull_timestamp": "2026-02-25T11:31:58.044866+00:00",
   "feature_count": 168,
   "features": [
     {
@@ -8030,7 +8030,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 OVER SR 1101 (HARMON DEN RD / COLD SPRINGS CREEK RD) AND COLD SPRING CREEK,",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 CMGC Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1635413760000
@@ -8281,7 +8281,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1102 FROM NORTH OF SR-1112 TO US-401 AND REPLACE BRIDGE 250075 OVER LITTLE ROCKFISH CREEK.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gillis Hill Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1650624780000
@@ -12623,7 +12623,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM SR-1500 (MIDWAY RD) TO NC-87.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-211 From SR 1500 to NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.68,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1643618340000
@@ -15801,7 +15801,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM I-40 TO MOREHEAD CITY PORT, I-95 FROM SC STATE LINE TO VA STATE LINE, US-74 FROM ASHEVILLE TO WILMINGTON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Broadband Fiber  (I95/US70/US74)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1628184000000
@@ -40969,7 +40969,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-143 FROM SR-1223 (BEECH CREEK RD) TO 0.5 MILES NORTH OF A PPALACHIAN TRAIL.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1668675180000
@@ -74927,7 +74927,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-42 FROM WEST OF SR-2734 (MARY HOBBY ROAD) TO EAST OF SR-5 367 (WINTERTON DRIVE) AND A TURN LANE ON NC 42 FOR SR-2727.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-42 Culvert Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.35,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1736356680000
@@ -119935,7 +119935,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1102 (GILLIS HILL RD) FROM SOUTH OF CELTIC DR TO NORTH OF  SR-1112 (STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gillis B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.27,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761731520000

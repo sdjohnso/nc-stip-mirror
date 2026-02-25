@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-24T11:32:12.506347+00:00",
-  "feature_count": 246,
+  "pull_timestamp": "2026-02-25T11:31:58.044866+00:00",
+  "feature_count": 245,
   "features": [
     {
       "attributes": {
@@ -689,7 +689,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-74/76 AT SR-1740 (OLD LAKE RD) AND SR-17 35 (CHANCEY TOWN RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chancy and Old Lake Road Intersections",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74/7",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1659454020000
@@ -818,7 +818,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 AND US-70 BUSINESS (MARKET STREET), EXIT 95 INTERCHANGE  FROM OUTLET CENTER DRIVE TO WEST OF YELVERTON GROVE ROAD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95, Exit 95 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703235060000
@@ -1026,7 +1026,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #190009 AND #190010 OVER NOTTELY RIVER AND GRAVEL RD ON US-64 & US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64 Bridge Preservation (Cherokee Co.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708957860000
@@ -2902,7 +2902,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #990100 AND BRG #990062 BOTH ON SR-1153, AND BRG #990097  ON SR-1152.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 6",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746698160000
@@ -3030,7 +3030,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 940095, BRIDGE 940178, BRIDGE 940258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Watauga 95, 178, & 258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1214",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747120740000
@@ -3656,7 +3656,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "VARIOUS LOCATIONS IN WAKE CO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 and Lake Wheeler Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750949820000
@@ -4089,7 +4089,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1010 (TEN TEN ROAD) AT SR 1386 (GRAHAM NEWTON/BELLS LAKE ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ten Ten and Bells Lake Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.61,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1010",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754906580000
@@ -4272,7 +4272,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 410 / NC 131 AT NC 211 BYPASS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bladenboro Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-410",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756398540000
@@ -4617,7 +4617,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #630036 OVER FISHING CREEK ON NC-561.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE 36 FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-561",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758625140000
@@ -4835,31 +4835,6 @@
           [
             -82.18380565561048,
             35.772492190274
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 132850,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DD00476",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 33,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 10 ON PINETOPS CRISP RD OVER BYNUM MILL CREEK",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pinetops-Crisp Rd",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.8,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1120",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760365860000
-      },
-      "geometry": {
-        "points": [
-          [
-            -77.64085893393995,
-            35.766568531848954
           ]
         ]
       }
