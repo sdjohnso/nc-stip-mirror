@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-26T11:31:29.113010+00:00",
-  "feature_count": 244,
+  "pull_timestamp": "2026-02-27T11:23:42.521918+00:00",
+  "feature_count": 246,
   "features": [
     {
       "attributes": {
@@ -4488,7 +4488,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430236 OVER SR-1513 ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Thickety Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758112740000
@@ -5811,7 +5811,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 550055 ON SR 1679 (PEEKS CREEK RD) OVER CULLASAJA  RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Peeks Creek Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.77,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1679",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768909800000
@@ -6436,6 +6436,60 @@
           [
             -82.01775544454162,
             35.80264907049138
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 153650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205010",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 97,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #960068 OVER WARRIOR CREEK ON NC-268.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Preservation",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-268",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772009940000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.28073961484449,
+            36.099070642325145
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 154050,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204967",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #910001 AND #910538 OVER CRABTREE CREEK AND CLNA RAI LROAD ON SR-2911 (NEW BERN AVE).",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "New Bern Ave Rehab",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2911",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771604940000
+      },
+      "geometry": {
+        "points": [
+          [
+            -78.58608248002596,
+            35.79115605766587
+          ],
+          [
+            -78.586308772881,
+            35.791199370753375
           ]
         ]
       }

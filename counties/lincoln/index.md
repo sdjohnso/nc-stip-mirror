@@ -6,14 +6,15 @@
 
 | Status | Count |
 |--------|-------|
-| 🚧 Under Construction | 2 |
+| 🏗️ Active Construction | 1 |
+| 🚧 Under Construction | 1 |
 | 📅 Planned | 4 |
 
 ## All Projects
 
 | TIP | Description | Route | Status |
 |-----|-------------|-------|--------|
-| [C-5606I](C-5606I.md) | Locations along NC 27 in Lincolnton. Construct ... | NC 27 | 🚧 Under Construction |
+| [C-5606I](C-5606I.md) | Locations along NC 27 in Lincolnton. Construct ... | NC 27 | 🏗️ Active Construction (51%) |
 | [R-5712](R-5712.md) | SR 1439 (Unity Church Road) / SR 1387 (Triangle... | NC 16 Business | 🚧 Under Construction |
 | [R-5721A](R-5721A.md) | 🗺️ NC 16 to Vance Road Extension / Beatties Ford R... | NC 73 | 📅 Planned |
 | [U-5962](U-5962.md) | SR 1373 (Campground Road) and SR 1386 (Will Pro... | NC 16 Business | 📅 Planned |
@@ -32,4 +33,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-22*  
-*Mirror Updated: 2026-02-26*
+*Mirror Updated: 2026-02-27*

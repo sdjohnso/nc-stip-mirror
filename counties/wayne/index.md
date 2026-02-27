@@ -6,9 +6,10 @@
 
 | Status | Count |
 |--------|-------|
-| 🚧 Under Construction | 14 |
+| 🏗️ Active Construction | 6 |
+| 🚧 Under Construction | 10 |
 | 📋 Right-of-Way | 2 |
-| 📅 Planned | 18 |
+| 📅 Planned | 16 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -19,12 +20,12 @@
 | [B-4844](B-4844.md) | Bridge 950117 over Northeast Cape Fear River. .... | SR 1958 (Bennetts Brid... | 🚧 Under Construction |
 | [EB-5707](EB-5707.md) | US 70 Bypass to SR 1560 (Royall Avenue) in Gold... | Stoney Creek Greenway | 🚧 Under Construction |
 | [EB-5850](EB-5850.md) | US 70 Business (East Ash Street) to SR 1900 (El... | Berkeley Boulevard | 📅 Planned |
-| [HS-2004AC](HS-2004AC.md) | US 70 Bypass to Greene County line. Install rum... | SR 1556 (Wayne Memoria... | 📅 Planned |
-| [HS-2004C](HS-2004C.md) | SR 1545 (Mt. Carmel Church Road) intersection .... | SR 1537 (Airport Road) | 🚧 Under Construction |
-| [HS-2004D](HS-2004D.md) | SR 1320 (Hinnant Road) intersection. Install al... | SR 1002 (Pikeville-Pri... | 🚧 Under Construction |
-| [HS-2004E](HS-2004E.md) | SR 1754 (Zion Church Road) intersection. Instal... | NC 111 | 🚧 Under Construction |
-| [HS-2004I](HS-2004I.md) | SR 1941 (Northeast Church Road) intersection. I... | SR 1744 (Indian Spring... | 🚧 Under Construction |
-| [HS-2404A](HS-2404A.md) | SR 1006 (Grantham School Road) intersection. Re... | NC 55 | 📅 Planned |
+| [HS-2004AC](HS-2004AC.md) | US 70 Bypass to Greene County line. Install rum... | SR 1556 (Wayne Memoria... | 🏗️ Active Construction (44%) |
+| [HS-2004C](HS-2004C.md) | SR 1545 (Mt. Carmel Church Road) intersection .... | SR 1537 (Airport Road) | 🏗️ Active Construction (44%) |
+| [HS-2004D](HS-2004D.md) | SR 1320 (Hinnant Road) intersection. Install al... | SR 1002 (Pikeville-Pri... | 🏗️ Active Construction (44%) |
+| [HS-2004E](HS-2004E.md) | SR 1754 (Zion Church Road) intersection. Instal... | NC 111 | 🏗️ Active Construction (44%) |
+| [HS-2004I](HS-2004I.md) | SR 1941 (Northeast Church Road) intersection. I... | SR 1744 (Indian Spring... | 🏗️ Active Construction (44%) |
+| [HS-2404A](HS-2404A.md) | SR 1006 (Grantham School Road) intersection. Re... | NC 55 | 🏗️ Active Construction (0%) |
 | [I-6047](I-6047.md) | Wilson County line to SR 2075 (Ash Street). Upg... | I-795 | 🚧 Under Construction |
 | [I-6048](I-6048.md) | US 70 to Duplin County line. Rehabilitate bridg... | US 117 (Future I-795) | 🚧 Under Construction |
 | [R-5829A](R-5829A.md) | 🗺️ US 70 Bypass to west of SR 2372 (Edwards Road /... | US 70 | 📅 Planned |
@@ -64,4 +65,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-22*  
-*Mirror Updated: 2026-02-26*
+*Mirror Updated: 2026-02-27*

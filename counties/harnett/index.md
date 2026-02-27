@@ -6,8 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🚧 Under Construction | 13 |
-| 📋 Right-of-Way | 3 |
+| 🏗️ Active Construction | 3 |
+| 🚧 Under Construction | 11 |
+| 📋 Right-of-Way | 2 |
 | 📅 Planned | 11 |
 | ✅ Completed | 2 |
 
@@ -24,9 +25,9 @@
 | [HP-0011](HP-0011.md) | SR 1117 (Nursery Road) intersection in Fayettev... | NC 24 / NC 87 | 📅 Planned |
 | [HP-0033](HP-0033.md) | NC 210 intersection in Angier. Construct turn l... | NC 55 | 📅 Planned |
 | [HP-0034](HP-0034.md) | North Broad Street intersection in Angier. Cons... | NC 55 | 📅 Planned |
-| [HS-2006K](HS-2006K.md) | NC 55 to US 401. Improve curve and pavement. | SR 1441 (Chalybeate Sp... | 📋 Right-of-Way |
-| [HS-2006Q](HS-2006Q.md) | Bridge 420015. Upgrade guardrail. | SR 1532 (Langdon Road) | 🚧 Under Construction |
-| [HS-2006Y](HS-2006Y.md) | NC 27 to NC 87. Install rumble stripes and pave... | SR 1115 (Buffalo Lake ... | 🚧 Under Construction |
+| [HS-2006K](HS-2006K.md) | NC 55 to US 401. Improve curve and pavement. | SR 1441 (Chalybeate Sp... | 🏗️ Active Construction (92%) |
+| [HS-2006Q](HS-2006Q.md) | Bridge 420015. Upgrade guardrail. | SR 1532 (Langdon Road) | 🏗️ Active Construction (92%) |
+| [HS-2006Y](HS-2006Y.md) | NC 27 to NC 87. Install rumble stripes and pave... | SR 1115 (Buffalo Lake ... | 🏗️ Active Construction (92%) |
 | [I-5877](I-5877.md) | SR 1811 (Bud Hawkins Road) (Exit 70) and SR 100... | I-95 | 🚧 Under Construction |
 | [I-5878](I-5878.md) | US 421 (Exit 73) and SR 1793 (Pope Road) (Exit ... | I-95 | 🚧 Under Construction |
 | [I-5878A](I-5878A.md) | US 421 (Exit 73) and SR 1793 (Pope Road) (Exit ... | I-95 | ✅ Completed |
@@ -60,4 +61,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-02-22*  
-*Mirror Updated: 2026-02-26*
+*Mirror Updated: 2026-02-27*
