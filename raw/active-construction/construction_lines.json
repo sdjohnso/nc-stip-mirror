@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-02-27T11:23:42.521918+00:00",
+  "pull_timestamp": "2026-02-28T11:09:16.983304+00:00",
   "feature_count": 169,
   "features": [
     {
@@ -3961,7 +3961,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE NEUSE RIVER BRIDGE TO EAST OF THURMAN RD IN JAMES CITY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "James City Design Build (INFRA)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.02,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1572016020000
@@ -46768,7 +46768,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE I-74 (WINSTON-SALEM NORTHERN BELTWAY) FROM I-40 TO I-40 BUS/US 421.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NORTHERN BELTWAY (AB)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1643811840000
@@ -48947,7 +48947,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM SOUTH OF US-301 TO SOUTH OF NC-20.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I95 (US301 to S. of NC 20)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1667469600000
@@ -53640,7 +53640,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-540 (TRIANGLE EXPRESSWAY SOUTHEAST EXTENSION) FROM I-40 T O SOUTH OF SR-2542 (ROCK QUARRY ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-2829A - Branch/S.T. Wooten JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-540",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1701099240000
@@ -91962,7 +91962,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1003 (CAMDEN RD) FROM PROPOSED FAYETTEVILLE OUTER LOOP TO  WEST OF SR-1112 (ROCKFISH RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Camden Road to Rockfish Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.68,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1003",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742894760000

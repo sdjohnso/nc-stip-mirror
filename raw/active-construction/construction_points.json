@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-02-27T11:23:42.521918+00:00",
+  "pull_timestamp": "2026-02-28T11:09:16.983304+00:00",
   "feature_count": 246,
   "features": [
     {
@@ -65,7 +65,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26/US-74 WEST BOUND LANES AND EAST BOUND LANES OVER GREEN RIVER.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Green River Bridge Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1620136260000
@@ -1105,7 +1105,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS AT NC-115/DAVIDSON ST/POTTS ST AND AT SR-6038/GR IFFITH ST/BEATY ST AND NEW LOCATION FROM SR-6037 TO SR-6038.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Cornelius & Davidson Roundabouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.95,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-115",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1712049960000
@@ -2232,7 +2232,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #440109 OVER CLEAR CREEK ON SR-1578 (TOWNSEND RD) AND  BRIDGE #440198 OVER CLEAR CREEK ON SR-1614 (WATERS RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Townsend & Waters Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1578",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741349700000
@@ -2752,7 +2752,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #560067 OVER THE FRENCH BROAD RIVER ON US-25/70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 67 over the French Broad River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-25",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745929200000
@@ -4950,7 +4950,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER MIDDLEFORK CREEK ON SR-1515 (BUCKNER BRANCH RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Replacement Madison #036",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1515",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761231120000
