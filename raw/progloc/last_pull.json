@@ -1,10 +1,10 @@
 {
-  "last_pull_started": "2026-02-22T12:51:58.371860+00:00",
-  "last_pull_completed": "2026-02-22T12:52:00.405050+00:00",
-  "duration_seconds": 2.03319,
-  "total_contracts": 780,
-  "contracts_with_tip": 350,
-  "unique_tips": 409,
-  "excel_size_bytes": 114334,
+  "last_pull_started": "2026-03-01T12:51:05.381223+00:00",
+  "last_pull_completed": "2026-03-01T12:51:11.039215+00:00",
+  "duration_seconds": 5.657992,
+  "total_contracts": 785,
+  "contracts_with_tip": 351,
+  "unique_tips": 411,
+  "excel_size_bytes": 115126,
   "status": "success"
 }
