@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-02T11:25:31.624153+00:00",
-  "feature_count": 246,
+  "pull_timestamp": "2026-03-03T11:23:36.546055+00:00",
+  "feature_count": 245,
   "features": [
     {
       "attributes": {
@@ -1230,7 +1230,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #28 OVER LONG CREEK ON NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pender Bridge #28 - NC 210 on Long Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-210",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1717066620000
@@ -1377,31 +1377,6 @@
           [
             -79.74824078514139,
             36.079880637993625
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 67650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN00480",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " B-6025    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "B-6025    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 56,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #244 OVER NORTH FORK COWEETA CREEK ON SR 1114 (SHOPE RD)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Shope Road Culvert",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.64,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1114",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721149260000
-      },
-      "geometry": {
-        "points": [
-          [
-            -83.41725213044415,
-            35.07287859647691
           ]
         ]
       }
@@ -3714,7 +3689,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 129 ON BELLAMY MILL RD OVER FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "FISHING CREEK BR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.55,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1518",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753086480000
@@ -4900,7 +4875,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1148 (GRASSY ISLAND ROAD) OVER COLEMAN'S CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Richmond Co Brdg 91 Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1148",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761042600000
@@ -5075,7 +5050,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #110010 OVER CATAWBA RIVER ON SR-1001 (CONNELLY SPRIN GS RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Castle Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1001",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761738540000

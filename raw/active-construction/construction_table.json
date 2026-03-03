@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-03-02T11:25:31.624153+00:00",
-  "feature_count": 59,
+  "pull_timestamp": "2026-03-03T11:23:36.546055+00:00",
+  "feature_count": 60,
   "features": [
     {
       "attributes": {
@@ -278,7 +278,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 275,
+        "OBJECTID": 274,
         "ContractNumber": "DD00483",
         "ContractType": "Other",
         "TipReference": " HS-2004Y  ",
@@ -295,7 +295,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 277,
+        "OBJECTID": 276,
         "ContractNumber": "DD00499",
         "ContractType": "Other",
         "TipReference": " HS-2404E  ",
@@ -312,7 +312,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 281,
+        "OBJECTID": 280,
         "ContractNumber": "DE00366",
         "ContractType": "Other",
         "TipReference": " U-6023    ",
@@ -329,7 +329,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 285,
+        "OBJECTID": 284,
         "ContractNumber": "DE00397",
         "ContractType": "Other",
         "TipReference": " HS-2005G  , HS-2005K  , HS-2005Q  ",
@@ -346,7 +346,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 286,
+        "OBJECTID": 285,
         "ContractNumber": "DE00400",
         "ContractType": "Other",
         "TipReference": " HL-0031   , HS-2005I  , HS-2005J  ",
@@ -363,7 +363,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 287,
+        "OBJECTID": 286,
         "ContractNumber": "DE00403",
         "ContractType": "Other",
         "TipReference": " HS-2405B  , HS-2405C  ",
@@ -380,7 +380,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 294,
+        "OBJECTID": 293,
         "ContractNumber": "DF00441",
         "ContractType": "Other",
         "TipReference": " R-5786IA  , R-5786IB  , R-5786IC  ",
@@ -397,7 +397,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 299,
+        "OBJECTID": 298,
         "ContractNumber": "DF00470",
         "ContractType": "Other",
         "TipReference": " HS-2006H  , HS-2006M  , HS-2006W  , HS-2006Y  , SS-6006BE , SS-6206AH ",
@@ -414,7 +414,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 303,
+        "OBJECTID": 302,
         "ContractNumber": "DF00493",
         "ContractType": "Other",
         "TipReference": " BO-2406A  ",
@@ -431,7 +431,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 305,
+        "OBJECTID": 304,
         "ContractNumber": "DF00501",
         "ContractType": "Other",
         "TipReference": " HS-2046J  , HS-2406A  , HS-2406G  , HS-2406L  ",
@@ -448,7 +448,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 309,
+        "OBJECTID": 308,
         "ContractNumber": "DF00514",
         "ContractType": "Other",
         "TipReference": null,
@@ -465,7 +465,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 315,
+        "OBJECTID": 314,
         "ContractNumber": "DF00524",
         "ContractType": "Other",
         "TipReference": " HS-2406C  , HS-2406D  , HS-2406E  , HS-2406F  , HS-2406O  , HS-2406P  , HS-2406Q  ",
@@ -482,7 +482,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 315,
         "ContractNumber": "DF00525",
         "ContractType": "Other",
         "TipReference": " HS-2406I  ",
@@ -495,6 +495,23 @@
         "Route": "US-74",
         "PhysicalDivisionNumber": 6,
         "ContractActiveDate": 1763454720000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 316,
+        "ContractNumber": "DF00543",
+        "ContractType": "Other",
+        "TipReference": " HS-2406N  ",
+        "TIP": "HS-2406N  ",
+        "CountyNumber": 9,
+        "LocationsDescription": "NC 87 AT NC 131",
+        "ContractNickname": "Flasher Signal Tarheel",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-87",
+        "PhysicalDivisionNumber": 6,
+        "ContractActiveDate": 1772450760000
       }
     },
     {
@@ -805,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 436,
+        "OBJECTID": 435,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -822,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 438,
+        "OBJECTID": 437,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 446,
+        "OBJECTID": 445,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 450,
+        "OBJECTID": 449,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 451,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 453,
+        "OBJECTID": 452,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 454,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 458,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -941,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 461,
+        "OBJECTID": 460,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 467,
+        "OBJECTID": 466,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 470,
+        "OBJECTID": 469,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 471,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " HS-2014AD , HS-2014Z  ",

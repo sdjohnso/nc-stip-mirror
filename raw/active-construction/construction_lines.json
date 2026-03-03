@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-02T11:25:31.624153+00:00",
-  "feature_count": 169,
+  "pull_timestamp": "2026-03-03T11:23:36.546055+00:00",
+  "feature_count": 168,
   "features": [
     {
       "attributes": {
@@ -32402,7 +32402,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-17 FROM WASHINGTON BYPASS NORTH OF NC-171 TO MULTI-LANES SOUTH OF WILLIAMSTON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.68,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1657814460000
@@ -47712,7 +47712,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM I-74 (EXIT 13) TO SOUTH OF US-301 (EXIT 22) AND I-95/SR-1536 (CARTHAGE RD) INTERCHANGE IMPROVEMENTS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 WIDENING FLATIRON 13 to 22",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1636719540000
@@ -61646,7 +61646,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-63 EAST OF SR-1378 (OLD NEWFOUND RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Landscape East of SR-1378",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-63",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704450360000
@@ -97935,7 +97935,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2700 (CHATHAM PARK WAY) FROM US-15/US-501 SOUTH OF PITTSB ORO TO US-64 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chatham Parkway South",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.09,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2700",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750846620000
@@ -106094,201 +106094,6 @@
             [
               -80.94440467245172,
               35.12431100667468
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 85461,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DB00603",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BN-0005   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BN-0005   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 52,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 17B IN POLLOCKSVILLE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pollocksville - Sidewalk Project",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.13,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17B",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753956060000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -77.22473505117141,
-              34.99839545718924
-            ],
-            [
-              -77.22476501936113,
-              34.99840351504314
-            ],
-            [
-              -77.2246793006623,
-              34.99863453608529
-            ],
-            [
-              -77.22464022586524,
-              34.99874494948823
-            ],
-            [
-              -77.22460043384507,
-              34.99885518995111
-            ],
-            [
-              -77.22455992447955,
-              34.99896525485968
-            ],
-            [
-              -77.22451573015103,
-              34.999082979983875
-            ],
-            [
-              -77.22447360291952,
-              34.999192958801764
-            ],
-            [
-              -77.22447071623078,
-              34.99920049467131
-            ],
-            [
-              -77.22442796508938,
-              34.999309981964
-            ],
-            [
-              -77.22438450374129,
-              34.99941928118042
-            ],
-            [
-              -77.22433715045221,
-              34.99953617153617
-            ],
-            [
-              -77.2242889845293,
-              34.9996528390752
-            ],
-            [
-              -77.22424329739334,
-              34.99976152128832
-            ],
-            [
-              -77.2241935619941,
-              34.99987774009598
-            ],
-            [
-              -77.22414641573225,
-              34.999986000305924
-            ],
-            [
-              -77.22411336062589,
-              35.00007025658089
-            ],
-            [
-              -77.22407902435293,
-              35.000155387392326
-            ],
-            [
-              -77.22404357260326,
-              35.000240909224495
-            ],
-            [
-              -77.22400747847672,
-              35.00032568779692
-            ],
-            [
-              -77.22396378759144,
-              35.00042542880995
-            ],
-            [
-              -77.223918919966,
-              35.00052481627555
-            ],
-            [
-              -77.2238728970679,
-              35.00062380349486
-            ],
-            [
-              -77.22382571791448,
-              35.00072239495034
-            ],
-            [
-              -77.22378488955034,
-              35.0008055203735
-            ],
-            [
-              -77.22374705327823,
-              35.00088084666729
-            ],
-            [
-              -77.22370853182973,
-              35.00095593823915
-            ],
-            [
-              -77.2236655848956,
-              35.001037867530506
-            ],
-            [
-              -77.22350193796139,
-              35.00134158680784
-            ],
-            [
-              -77.22335491269355,
-              35.00161088367873
-            ],
-            [
-              -77.22325178742818,
-              35.00179751422074
-            ],
-            [
-              -77.22314377433854,
-              35.00199105495338
-            ],
-            [
-              -77.2230524931419,
-              35.00215311806716
-            ],
-            [
-              -77.22296057690575,
-              35.00231493814217
-            ],
-            [
-              -77.22291580867413,
-              35.002394683664185
-            ],
-            [
-              -77.22244709870265,
-              35.00322960953679
-            ],
-            [
-              -77.2221984745965,
-              35.00369129622538
-            ],
-            [
-              -77.22200937701706,
-              35.00403407680969
-            ],
-            [
-              -77.2218137796227,
-              35.004385371061936
-            ],
-            [
-              -77.22172014576726,
-              35.00455196525305
-            ],
-            [
-              -77.22164347418278,
-              35.00468838121229
-            ],
-            [
-              -77.22162399444078,
-              35.004723038632285
-            ],
-            [
-              -77.22148626096683,
-              35.00496589823225
             ]
           ]
         ]
@@ -117422,7 +117227,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1108 (LAKEWOOD DRIVE) AT TOWBRIDGE ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1108",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758199260000
@@ -118456,7 +118261,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-9 FROM 2700' NORTH OF THE US 74A / NC-9 INTERSECTION TO T HE BUNCOMBE COUNTY LINE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 9 - UPPER SECTION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1759220940000
@@ -122141,7 +121946,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 126 ON SR 1723 (TURLINGTON ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Structrure #126 Over Stewart Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.41,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1723",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755250860000
