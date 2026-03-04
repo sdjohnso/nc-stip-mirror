@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-03T11:23:36.546055+00:00",
-  "feature_count": 245,
+  "pull_timestamp": "2026-03-04T11:21:31.061027+00:00",
+  "feature_count": 248,
   "features": [
     {
       "attributes": {
@@ -1309,7 +1309,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #69 OVER US-70 ON NC-50 (BENSON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 OVER US 70 (GARNER)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.62,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1718641320000
@@ -4168,7 +4168,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF NC 180 & SR 2202",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 180 and Joe's Lake Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-180",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755506160000
@@ -4850,7 +4850,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #860008 OVER LITTLE TENNESSEE RIVER ON US-19/74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Fontana Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761041760000
@@ -5478,7 +5478,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 18 OVER THE HAW RIVER ON SR 1002(SCALESVILLE RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Scalesville Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1002",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767687060000
@@ -6465,6 +6465,81 @@
           [
             -78.586308772881,
             35.791199370753375
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 154450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00543",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2406N  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2406N  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 87 AT NC 131",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Flasher Signal Tarheel",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-87",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772450760000
+      },
+      "geometry": {
+        "points": [
+          [
+            -78.78580678798106,
+            34.731091948353956
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 154850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DL00377",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT NO 220043 CARRYING LITTLE PERSIMMON CREEK UNDER SR 2 017",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Little Persimmon Creek Culvert - Lackey",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2017",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772100300000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.3878101661552,
+            35.282424154695384
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 155250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DG00663",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BP7-C001  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BP7-C001  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "EXISTING CULVERT ON SR 1785(CHURCH ST)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Culvert Church St. Eden - ACCI",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1785",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754986800000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.76100420864948,
+            36.50588802418931
           ]
         ]
       }
