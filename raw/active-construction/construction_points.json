@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-04T11:21:31.061027+00:00",
-  "feature_count": 248,
+  "pull_timestamp": "2026-03-05T11:24:59.181228+00:00",
+  "feature_count": 246,
   "features": [
     {
       "attributes": {
@@ -768,7 +768,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TRIANGLE INNOVATION POINT MEGASITE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Moncure Megasite",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-1",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698156360000
@@ -1724,31 +1724,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 82050,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DE00374",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " Y-4805F   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "Y-4805F   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 92,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "KNIGHTDALE PROPOSED CROSSING CLOSURE AT SR 2513 FAYETTEVILLE  STREET",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.29,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2513",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1732530360000
-      },
-      "geometry": {
-        "points": [
-          [
-            -78.48044832135656,
-            35.787905247745236
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 82450,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00469",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -2569,7 +2544,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430002 ON SR-1101, BRIDGE #430034 ON SR-1505, AND BR IDGE #430219 ON SR-1306.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Haywood County Design Build Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1101",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744019400000
@@ -3050,7 +3025,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 29 - 72\" CROSSLINE PIPE CULVERT REHABILITATION NEAR A TRI BUTARY FOR LICK FOR CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "CROSSLINE PIPE US 29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747742220000
@@ -3247,31 +3222,6 @@
           [
             -80.26450618674504,
             35.999808730960304
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 109650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DJ00565",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 90,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #890025 OVER BULL BRANCH ON SR 1632 (E LAWYER S RD)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bull Branch Bridge on E Lawyers Rd",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.72,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1632",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749056760000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.44034350902292,
-            35.048051520887974
           ]
         ]
       }
@@ -3664,7 +3614,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #400224 OVER SOUTH BUFFALO CREEK ON SR-3000 (MCCONNEL L RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MCCONNELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.77,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3000",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1752141780000
@@ -3889,7 +3839,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 43 AT NC 102 CALICO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "43 @ 102 RCI",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753880880000
@@ -4118,7 +4068,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 100086 ON NC 151 OVER STONY FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stony Fork Bridge #100086",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-151",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755006180000
@@ -5125,7 +5075,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 48 OVER LANIER SWAMP SR-1510 (MILL RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #48",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1510",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762959300000
