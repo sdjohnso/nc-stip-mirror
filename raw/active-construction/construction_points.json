@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-05T11:24:59.181228+00:00",
+  "pull_timestamp": "2026-03-06T11:19:32.469229+00:00",
   "feature_count": 246,
   "features": [
     {
@@ -639,7 +639,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS ON NCSU CAMPUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NCSU CAMPUS CONNECTED VEHICLE INFR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1012",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690386300000
@@ -4093,7 +4093,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 254 ON SR 1512",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Wood Bridge Rd. Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1512",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755167700000
@@ -4850,7 +4850,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #305 OVER MEADOW CREEK ON SR 2863 (UNION GROVE CHURCH  ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Union Grove Church Road Bridge 305",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2863",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761124020000
@@ -4950,7 +4950,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #070024 OVER CASHIE RIVER ON NC-11.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bertie Bridge 11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.61,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762175340000
@@ -5100,7 +5100,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #108 ON SR 1004 (STOKES FERRY RD) OVER TUCKER TOWN RESERVOIR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stokes Ferry",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1004",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763377860000
@@ -5503,7 +5503,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 280 OVER LITTLE TROUBLESOME CREEK ON SR 2670(SOUTH  SCALES STR)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2670",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767610200000
@@ -6224,7 +6224,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HN-0019   ",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US-64/US-74A (WEST MOUNTAIN ST) AND NORTH WA SHINGTON ST.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "INTERSECTION OF US-64 / US-74A",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Corner BBQ",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",

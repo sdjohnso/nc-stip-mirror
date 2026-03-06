@@ -10,9 +10,9 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 114 |
+| 🏗️ Active Construction | 115 |
 | 🚧 Under Construction | 594 |
-| 📋 Right-of-Way | 290 |
+| 📋 Right-of-Way | 289 |
 | 📅 Planned | 1,220 |
 | ✅ Completed | 138 |
 
@@ -32,7 +32,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Brunswick](counties/brunswick/index.md) | 25 (+6) | 0 | 9 |
 | [Buncombe](counties/buncombe/index.md) | 73 (+4) | 0 | 38 |
 | [Burke](counties/burke/index.md) | 19 (+3) | 0 | 8 |
-| [Cabarrus](counties/cabarrus/index.md) | 31 (+4) | 0 | 12 |
+| [Cabarrus](counties/cabarrus/index.md) | 31 (+4) | 1 | 12 |
 | [Caldwell](counties/caldwell/index.md) | 23 (+2) | 0 | 13 |
 | [Camden](counties/camden/index.md) | 5 | 1 | 1 |
 | [Carteret](counties/carteret/index.md) | 24 (+1) | 0 | 12 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-01*  
-*Mirror Updated: 2026-03-05*
+*Mirror Updated: 2026-03-06*
