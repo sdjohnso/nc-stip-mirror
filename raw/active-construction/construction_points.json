@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-06T11:19:32.469229+00:00",
+  "pull_timestamp": "2026-03-07T11:10:27.807490+00:00",
   "feature_count": 246,
   "features": [
     {
@@ -922,7 +922,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #155 AND 158 OVER RICHLAND CREEK ON US-23/74 AND BRI DGE #168 OVER US-19 AND US-23 ON US-23/74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 Bridges 155, 158, 168 (US19 Split)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-2374",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1707216840000
@@ -1683,7 +1683,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 153(RICE ST) AT SR 1197(CANNON FARM RD/MOUNT MORIAH CH RD ) IN CHINA GROVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Landis RAB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.94,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-153",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1730209260000
@@ -1883,7 +1883,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #030087 OVER RICHARDSON CREEK ON NC-742.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 030087 NC742 over Richardson Ck",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-742",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738332120000
@@ -2988,7 +2988,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-197",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747662480000
@@ -4222,7 +4222,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-101 FROM S OF SR-1170 (W BEAUFORT RD) TO N OF US-70 AND S R-1493 (LIVE OAK STREET) AT NC-101.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Beaufort Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-101",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756305600000
@@ -4247,7 +4247,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #040032 ON NC-194, #040507 ON SR-1644, #040478 ON SR -1514, AND #040019 ON NC-194.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ashe Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-194",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757070720000
@@ -4900,7 +4900,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #940058 OVER BEECH CREEK ON SR 1139 (KELLERSVILLE ROA D)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Kellersville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761567540000
@@ -5582,7 +5582,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40/US-311 AT NC-109 INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-109 at I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768218360000
@@ -5707,7 +5707,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2042 (OAKDALE RD), SR-2108 (SUNSET RD), SR-2025 (MIRANDA RD), AND SR-2040 (LAWING RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oakdale Road Duel Round-a-Bout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2042",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768571460000
@@ -5811,7 +5811,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 413 ON SR-2174 (WILLIAMS BRANCH RD) AND BRIDGE 146 ON  SR-2173 (DILLINGHAM RD) IN BUNCOMBE COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Permanent Repairs STRs 413 and 146",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2174",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769092620000
@@ -5840,7 +5840,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 120292 OVER LITTLE MEADOW CREEK ON SR-2625 (MAUNE Y RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge-Little Meadow Creek (Mauney Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.75,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2625",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769082000000

@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-06T11:19:32.469229+00:00",
+  "pull_timestamp": "2026-03-07T11:10:27.807490+00:00",
   "feature_count": 166,
   "features": [
     {
@@ -2035,7 +2035,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26 FROM NC-280 (EXIT 40) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-4700/Fluor-United JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.68,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1568210520000
@@ -53587,7 +53587,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-85 FROM NC 73 TO THE ROWAN COUNTY LINE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-85 ITS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680098700000
@@ -96461,7 +96461,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BUSINESS PARK ACCESS ROAD FROM FUJI DIOSYTH BIOTECHNOLOGIES TO BUMGARDNER ROAD EXT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753190640000
@@ -116999,7 +116999,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-46 FROM THE VIRGINIA STATE LINE TO NC-48.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 46 Fred Smith",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-46",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765785300000

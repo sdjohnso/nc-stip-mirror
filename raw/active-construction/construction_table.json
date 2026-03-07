@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-03-06T11:19:32.469229+00:00",
+  "pull_timestamp": "2026-03-07T11:10:27.807490+00:00",
   "feature_count": 62,
   "features": [
     {
@@ -406,7 +406,7 @@
         "LocationsDescription": "VARIOUS LOCATIONS IN WAKE COUNTY",
         "ContractNickname": "S.T. Wooten Intersection Widening",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 83.79,
+        "CompletionPercent": 85.33,
         "Route": "SR-VARI",
         "PhysicalDivisionNumber": 5,
         "ContractActiveDate": 1743517740000
@@ -712,7 +712,7 @@
         "LocationsDescription": "VARIOUS SECONDARY ROUTES",
         "ContractNickname": "2026 Richmond AST",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
+        "CompletionPercent": 15.23,
         "Route": "NONE-",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1763456640000
