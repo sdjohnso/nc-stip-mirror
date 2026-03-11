@@ -6,9 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 7 |
-| 📋 Right-of-Way | 3 |
+| 📋 Right-of-Way | 4 |
 | 📅 Planned | 12 |
 | ✅ Completed | 8 |
 
@@ -43,7 +42,7 @@
 | [U-4910B](U-4910B.md) | Aviation Boulevard to SR 1394 (Poplar Tent Road... | SR 1445 (Derita Road) | 🚧 Under Construction |
 | [U-5761](U-5761.md) | US 29 / US 601 (Cannon Boulevard) intersection.... | NC 3 (Dale Earnhardt B... | 📋 Right-of-Way |
 | [U-5806](U-5806.md) | Kings Grant Pavilion (Entrance #1) intersection... | SR 2894 (Concord Mills... | ✅ Completed |
-| [U-5956](U-5956.md) | Union Cemetery Road intersection in Concord; We... | US 29 | 🏗️ Active Construction (0%) |
+| [U-5956](U-5956.md) | Union Cemetery Road intersection in Concord; We... | US 29 | 📋 Right-of-Way |
 | [U-6098](U-6098.md) | NC 73 at SR 1430 and Access Road intersections;... | Various | 🚧 Under Construction |
 | [W-5710AO](W-5710AO.md) | SR 2400 (Irish Potato Road) near Kannapolis. Co... | SR 1002 (Old Salisbury... | 📅 Planned |
 | [Y-4810K](Y-4810K.md) | Rogers Lake Road Crossing (724408Y) in Kannapol... | Norfolk Southern Mainline | 🚧 Under Construction |
@@ -63,4 +62,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-08*  
-*Mirror Updated: 2026-03-10*
+*Mirror Updated: 2026-03-11*

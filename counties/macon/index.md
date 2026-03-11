@@ -6,8 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 5 |
-| 🚧 Under Construction | 5 |
+| 🏗️ Active Construction | 6 |
+| 🚧 Under Construction | 4 |
 | 📋 Right-of-Way | 2 |
 | 📅 Planned | 7 |
 | ✅ Completed | 2 |
@@ -20,7 +20,7 @@
 | [B-6025](B-6025.md) | Bridge 550244 over North Fork Coweeta Creek. Re... | SR 1114 (Shope Road) | 🚧 Under Construction |
 | [B-6026](B-6026.md) | Bridge 550214 over Watauga Creek. Replace bridge. | SR 1500 (Watauga Road) | 📅 Planned |
 | [B-6028](B-6028.md) | Bridge 550150 over Ellijay Creek. Replace bridge. | SR 1528 (Little Ellija... | 🚧 Under Construction |
-| [B-6029](B-6029.md) | Bridge 550009 over North Prong Ellijay Creek. R... | SR 1001 (Ellijay Road) | 🚧 Under Construction |
+| [B-6029](B-6029.md) | Bridge 550009 over North Prong Ellijay Creek. R... | SR 1001 (Ellijay Road) | 🏗️ Active Construction (0%) |
 | [B-6030](B-6030.md) | Bridge 550220 over Matlock Creek. Replace bridge. | SR 1351 (Matlock Creek... | 📋 Right-of-Way |
 | [EB-5756](EB-5756.md) | US 441 Business (East Main Street) to SR 1667 (... | SR 1729 (Depot Street) | 🚧 Under Construction |
 | [EB-5964](EB-5964.md) | US 441 Business (East Main Street) from NC 28 (... | Various | 📅 Planned |
@@ -42,4 +42,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-08*  
-*Mirror Updated: 2026-03-10*
+*Mirror Updated: 2026-03-11*

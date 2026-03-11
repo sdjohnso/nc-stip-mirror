@@ -6,9 +6,10 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 7 |
 | 📋 Right-of-Way | 3 |
-| 📅 Planned | 18 |
+| 📅 Planned | 17 |
 
 ## All Projects
 
@@ -41,10 +42,10 @@
 | [U-6115C](U-6115C.md) | SR 2106 (Woody Drive) intersection. Construct i... | NC 54 (East Harden Str... | 📅 Planned |
 | [U-6115D](U-6115D.md) | SR 2106 (Woody Drive) intersection and SR 2107 ... | NC 54 (East Harden Str... | 📅 Planned |
 | [U-6131](U-6131.md) | NC 49 (Maple Avenue) intersection in Burlington... | NC 54 (West Harden Str... | 📅 Planned |
-| [W-5807B](W-5807B.md) | SR 1301 (Saint Marks Church Road) / Java Lane a... | SR 1301 (Boone Station... | 📅 Planned |
+| [W-5807B](W-5807B.md) | SR 1301 (Saint Marks Church Road) / Java Lane a... | SR 1301 (Boone Station... | 🏗️ Active Construction (0%) |
 
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-08*  
-*Mirror Updated: 2026-03-10*
+*Mirror Updated: 2026-03-11*

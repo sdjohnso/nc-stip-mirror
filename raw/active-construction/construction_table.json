@@ -1,12 +1,12 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-03-09T11:26:42.143447+00:00",
-  "feature_count": 62,
+  "pull_timestamp": "2026-03-11T11:24:10.127288+00:00",
+  "feature_count": 61,
   "features": [
     {
       "attributes": {
-        "OBJECTID": 75,
+        "OBJECTID": 74,
         "ContractNumber": "C204730",
         "ContractType": "Other",
         "TipReference": " C-5606C   , C-5703    ",
@@ -23,24 +23,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 100,
-        "ContractNumber": "C204814",
-        "ContractType": "Other",
-        "TipReference": " B-4838    ",
-        "TIP": "B-4838    ",
-        "CountyNumber": 96,
-        "LocationsDescription": "BRIDGE #950020 OVER CSX TRANSPORTATION RAILROAD TRACKS ON US -70 BUS.",
-        "ContractNickname": "Bakery Bridge Goldsboro",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "US-70 B",
-        "PhysicalDivisionNumber": 4,
-        "ContractActiveDate": 1772549160000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 151,
+        "OBJECTID": 150,
         "ContractNumber": "C204951",
         "ContractType": "Other",
         "TipReference": null,
@@ -57,19 +40,19 @@
     },
     {
       "attributes": {
-        "OBJECTID": 231,
-        "ContractNumber": "C205117",
-        "ContractType": "Other",
-        "TipReference": " U-5956    ",
-        "TIP": "U-5956    ",
-        "CountyNumber": 13,
-        "LocationsDescription": "US-29 FROM 0.6 MILES WEST OF SR-1414 (ROCK HILL CHURCH RD) T O JUST EAST OF SR-1414 (ROCK HILL CHURCH RD).",
-        "ContractNickname": "Union Cemetery Realignment",
+        "OBJECTID": 235,
+        "ContractNumber": "C205123",
+        "ContractType": "Design Build",
+        "TipReference": " TIP 1     , TIP 2     , TIP 3     ",
+        "TIP": "TIP 1     ",
+        "CountyNumber": 11,
+        "LocationsDescription": "CULVERT ON SR-2776, BRIDGE ON SR-2427, AND BRIDGE ON SR-2788 .",
+        "ContractNickname": "EEDB Group 19",
         "ContractStatus": "ACTIVE",
         "CompletionPercent": 0.0,
-        "Route": "SR-1414",
-        "PhysicalDivisionNumber": 10,
-        "ContractActiveDate": 1772707500000
+        "Route": "SR-0199",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1773066420000
       }
     },
     {
@@ -295,24 +278,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 257,
-        "ContractNumber": "DA00671",
-        "ContractType": "Other",
-        "TipReference": " ER-5600AB ",
-        "TIP": "ER-5600AB ",
-        "CountyNumber": 15,
-        "LocationsDescription": "DISMAL SWAMP VISITORS CENTER",
-        "ContractNickname": "Dismal Swamp Visitors Center",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "US-17",
-        "PhysicalDivisionNumber": 1,
-        "ContractActiveDate": 1772531400000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 275,
+        "OBJECTID": 274,
         "ContractNumber": "DD00483",
         "ContractType": "Other",
         "TipReference": " HS-2004Y  ",
@@ -329,7 +295,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 277,
+        "OBJECTID": 276,
         "ContractNumber": "DD00496",
         "ContractType": "Other",
         "TipReference": " HS-2404G  ",
@@ -346,7 +312,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 278,
+        "OBJECTID": 277,
         "ContractNumber": "DD00499",
         "ContractType": "Other",
         "TipReference": " HS-2404E  ",
@@ -363,7 +329,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 282,
+        "OBJECTID": 281,
         "ContractNumber": "DE00366",
         "ContractType": "Other",
         "TipReference": " U-6023    ",
@@ -380,7 +346,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 285,
+        "OBJECTID": 284,
         "ContractNumber": "DE00397",
         "ContractType": "Other",
         "TipReference": " HS-2005G  , HS-2005K  , HS-2005Q  ",
@@ -397,7 +363,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 286,
+        "OBJECTID": 285,
         "ContractNumber": "DE00400",
         "ContractType": "Other",
         "TipReference": " HL-0031   , HS-2005I  , HS-2005J  ",
@@ -414,7 +380,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 287,
+        "OBJECTID": 286,
         "ContractNumber": "DE00403",
         "ContractType": "Other",
         "TipReference": " HS-2405B  , HS-2405C  ",
@@ -431,7 +397,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 294,
+        "OBJECTID": 293,
         "ContractNumber": "DF00441",
         "ContractType": "Other",
         "TipReference": " R-5786IA  , R-5786IB  , R-5786IC  ",
@@ -448,7 +414,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 299,
+        "OBJECTID": 298,
         "ContractNumber": "DF00470",
         "ContractType": "Other",
         "TipReference": " HS-2006H  , HS-2006M  , HS-2006W  , HS-2006Y  , SS-6006BE , SS-6206AH ",
@@ -465,7 +431,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 303,
+        "OBJECTID": 302,
         "ContractNumber": "DF00493",
         "ContractType": "Other",
         "TipReference": " BO-2406A  ",
@@ -482,7 +448,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 305,
+        "OBJECTID": 304,
         "ContractNumber": "DF00501",
         "ContractType": "Other",
         "TipReference": " HS-2046J  , HS-2406A  , HS-2406G  , HS-2406L  ",
@@ -499,7 +465,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 309,
+        "OBJECTID": 308,
         "ContractNumber": "DF00514",
         "ContractType": "Other",
         "TipReference": null,
@@ -516,7 +482,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 315,
+        "OBJECTID": 314,
         "ContractNumber": "DF00524",
         "ContractType": "Other",
         "TipReference": " HS-2406C  , HS-2406D  , HS-2406E  , HS-2406F  , HS-2406O  , HS-2406P  , HS-2406Q  ",
@@ -533,7 +499,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 316,
+        "OBJECTID": 315,
         "ContractNumber": "DF00525",
         "ContractType": "Other",
         "TipReference": " HS-2406I  ",
@@ -550,7 +516,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 323,
+        "OBJECTID": 322,
         "ContractNumber": "DG00660",
         "ContractType": "Other",
         "TipReference": " BO-2407A  ",
@@ -563,6 +529,23 @@
         "Route": "SR-1163",
         "PhysicalDivisionNumber": 7,
         "ContractActiveDate": 1755507420000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 326,
+        "ContractNumber": "DG00673",
+        "ContractType": "Other",
+        "TipReference": " I-5964    , W-5807A   ",
+        "TIP": "I-5964    ",
+        "CountyNumber": 41,
+        "LocationsDescription": "SR 2526(SUMMIT AVE) AT US 70(WENDOVER AVE) EAST EXIT AND ON RAMP; I-40/I85 BUS/SOUTH ELM EUGENGE INTERCHANGE IMPROVEMENT",
+        "ContractNickname": "Summit and Elm Eugene",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-2526",
+        "PhysicalDivisionNumber": 7,
+        "ContractActiveDate": 1773056220000
       }
     },
     {
@@ -780,7 +763,7 @@
         "LocationsDescription": "VARIOUS LOCATIONS",
         "ContractNickname": "Stanly - Construct/Retro. Curb Ramps",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 71.62,
+        "CompletionPercent": 94.33,
         "Route": "NC-138",
         "PhysicalDivisionNumber": 10,
         "ContractActiveDate": 1743695700000
@@ -1043,19 +1026,19 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
-        "ContractNumber": "DN01146",
+        "OBJECTID": 473,
+        "ContractNumber": "DN01148",
         "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 44,
-        "LocationsDescription": "BRIDGE 430041 ON SR 1357 (CRABTREE CHURCH RD) OVER CRABTREE CREEK IN HAYWOOD COUNTY",
-        "ContractNickname": "Crabtree Church Rd",
+        "TipReference": " B-6029    ",
+        "TIP": "B-6029    ",
+        "CountyNumber": 56,
+        "LocationsDescription": "BRIDGE #55009 OVER NORTH PRONG ELLIJAY CREEK ON SR 1001 (ELL IJAY RD)",
+        "ContractNickname": "Ellijay Bridge #009",
         "ContractStatus": "ACTIVE",
         "CompletionPercent": 0.0,
-        "Route": "SR-1357",
+        "Route": "SR-1001",
         "PhysicalDivisionNumber": 14,
-        "ContractActiveDate": 1772613360000
+        "ContractActiveDate": 1773048900000
       }
     }
   ]
