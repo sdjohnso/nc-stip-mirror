@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-11T11:24:10.127288+00:00",
+  "pull_timestamp": "2026-03-12T11:24:34.497554+00:00",
   "feature_count": 165,
   "features": [
     {
@@ -52387,7 +52387,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-540 (TRIANGLE EXPRESSWAY SOUTHEAST EXTENSION) FROM SOUTH OF SR-2542 (ROCK QUARRY ROAD) TO I-87/US-64/US-264.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-2829B - Flatiron/Fred Smith Co JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-540",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1699019400000
@@ -57778,7 +57778,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/129 FROM GEORGIA STATE LINE TO US-64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 129, Cherokee County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.65,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1707132300000
@@ -59354,7 +59354,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-140 FROM US-17 TO NORTH OF US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-140 resurfacing Brunswick",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719235440000
@@ -83263,7 +83263,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 (FUTURE I-74) FROM 0.11 MILES EAST OF US-701 BUSINESS TO 0.17 MILES WEST OF NC-214.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HI-18 US74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742566980000
@@ -89574,7 +89574,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 (RAEFORD RD) FROM EAST OF NC-162 (BUNCE RD) TO EAST O F BRIGHTON RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Raeford Rd. B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745931480000
@@ -96656,7 +96656,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FORUM PARKWAY CONNECTOR FROM SR-3955 (FORUM PARKWAY) TO NC-6 6 (UNIVERSITY PARKWAY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Forum Parkway Connector",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3955",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753274340000
@@ -105516,7 +105516,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 74, JAMES HAMILTON RD AND SR 1514 (ROCKY RIVER RD) AT MYERS RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74 @ Rocky River Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757693400000
@@ -113145,7 +113145,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-3174 (IDLEWILD RD) FROM SR-3175 (STALLINGS RD) TO I-485.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Idlewild RAB @ Stallings Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3174",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758538500000
@@ -114624,7 +114624,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 17 (WILMINGTON HWY.) AT NC 172 (SNEADS FERRY RD.) AND US 17 AT SR 1518 (OLD FOLKSTONE RD.) INTERSECTIONS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "UJ-6065 US 17 @ NC 172 & SR 1518  GDPSig",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1518",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761744240000
@@ -116739,7 +116739,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROUTE FROM SR-1630 (BALTIMORE RD) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Baltimore Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1630",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764772740000

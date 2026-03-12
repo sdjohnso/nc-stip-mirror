@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-11T11:24:10.127288+00:00",
+  "pull_timestamp": "2026-03-12T11:24:34.497554+00:00",
   "feature_count": 249,
   "features": [
     {
@@ -410,7 +410,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #99 OVER NORFOLK SOUTHERN RAILROAD ON US-64/US-70 IN MORGANTON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 99 over NS RR Burke Co",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687787160000
@@ -535,7 +535,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT SR-1168 (N ACADEMY ST/LATTIMORE RD) AND BRIDGES 220 048 AND 220049 ON US-74 OVER SANDY RUN CREEK.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 over Sandy Run Creek -Design Build",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.61,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1699359780000
@@ -818,7 +818,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-64 / US-276 (HENDERSONVILLE HWY), AND US -64 / NC-280 (ASHEVILLE HWY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Transylvania Culvert & Roadway",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703853000000
@@ -1608,7 +1608,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430095 OVER SOUTHERN RAILROAD ON US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 Bridge 095 (Southern Railroad)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728654000000
@@ -1912,7 +1912,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #880007 OVER THE ALLIGATOR RIVER ON US-64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Alligator River Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738237800000
@@ -2307,7 +2307,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #290076 OVER I-40 ON SR-1436 (PINEBROOK SCHOOL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pinebrook School Road (Davie Co.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1436",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743510480000
@@ -2357,7 +2357,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 63 OVER BLAIR CREEK AND BRIDGE NO. 88 OVER HYATT MILL CREEK ON SR 1140 (MYERS CHAPEL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Myers Chapel Bridges 63 & 88",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743433080000
@@ -3789,7 +3789,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS ON SR 1711 (SPEER BRIDGE ROAD) AT US 421 INTERCH ANGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roundabouts on Speer Bridge Rd at US 421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1711",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754670060000
@@ -4018,7 +4018,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 16 OVER INTERCOASTAL WATERWAY ON NC-50/NC-210",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 16 Repair Lighting -- Surf City",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754906100000
@@ -4750,7 +4750,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 980147 ON SR 1581 (DAL ROAD) OVER UT OF L OGAN CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Yadkin Bridge #147 on Dal Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1581",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760692860000
@@ -4900,7 +4900,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACEMENT OF CULVERT ON SR-1524 (N. SCALYBARK TRAIL)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Scalybark",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.77,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1524",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761838740000
