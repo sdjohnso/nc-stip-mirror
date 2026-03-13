@@ -10,17 +10,17 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 118 |
-| 🚧 Under Construction | 592 |
+| 🏗️ Active Construction | 114 |
+| 🚧 Under Construction | 594 |
 | 📋 Right-of-Way | 290 |
-| 📅 Planned | 1,218 |
+| 📅 Planned | 1,220 |
 | ✅ Completed | 138 |
 
 ## Counties
 
 | County | Projects | Active Construction | Planned |
 |--------|----------|---------------------|---------|
-| [Alamance](counties/alamance/index.md) | 28 | 1 | 17 |
+| [Alamance](counties/alamance/index.md) | 28 | 0 | 18 |
 | [Alexander](counties/alexander/index.md) | 5 | 0 | 1 |
 | [Alleghany](counties/alleghany/index.md) | 3 | 0 | 1 |
 | [Anson](counties/anson/index.md) | 8 (+3) | 0 | 5 |
@@ -60,7 +60,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Graham](counties/graham/index.md) | 12 | 1 | 6 |
 | [Granville](counties/granville/index.md) | 13 | 2 | 4 |
 | [Greene](counties/greene/index.md) | 3 (+2) | 0 | 1 |
-| [Guilford](counties/guilford/index.md) | 117 (+5) | 2 | 66 |
+| [Guilford](counties/guilford/index.md) | 117 (+5) | 0 | 67 |
 | [Halifax](counties/halifax/index.md) | 11 (+4) | 2 | 2 |
 | [Harnett](counties/harnett/index.md) | 29 (+4) | 3 | 11 |
 | [Haywood](counties/haywood/index.md) | 37 | 4 | 18 |
@@ -75,7 +75,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Lee](counties/lee/index.md) | 15 (+1) | 0 | 8 |
 | [Lenoir](counties/lenoir/index.md) | 15 (+1) | 0 | 9 |
 | [Lincoln](counties/lincoln/index.md) | 6 (+1) | 1 | 4 |
-| [Macon](counties/macon/index.md) | 21 | 6 | 7 |
+| [Macon](counties/macon/index.md) | 21 | 5 | 7 |
 | [Madison](counties/madison/index.md) | 6 | 0 | 2 |
 | [Martin](counties/martin/index.md) | 10 | 0 | 3 |
 | [McDowell](counties/mcdowell/index.md) | 16 (+1) | 0 | 9 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-08*  
-*Mirror Updated: 2026-03-12*
+*Mirror Updated: 2026-03-13*

@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 2 |
-| 🚧 Under Construction | 38 |
+| 🚧 Under Construction | 39 |
 | 📋 Right-of-Way | 10 |
-| 📅 Planned | 66 |
+| 📅 Planned | 67 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -82,7 +81,7 @@
 | [I-5953](I-5953.md) | I-85 to US 70. Rehabilitate pavement. | I-785 / I-840 | 🚧 Under Construction |
 | [I-5955](I-5955.md) | South Buffalo Creek bridge east of US 220 (Free... | I-40 | 🚧 Under Construction |
 | [I-5955A](I-5955A.md) | South Buffalo Creek bridge east of US 220 (Free... | I-40 | 📅 Planned |
-| [I-5964](I-5964.md) | Elm Eugene Street interchange in Greensboro. Im... | I-40 / Business 85 / U... | 🏗️ Active Construction (0%) |
+| [I-5964](I-5964.md) | Elm Eugene Street interchange in Greensboro. Im... | I-40 / Business 85 / U... | 📅 Planned |
 | [I-5965](I-5965.md) | US 220 / SR 1398 (Freeman Mill Road) to US 29 /... | I-40 / BUSINESS 85 / U... | 📅 Planned |
 | [I-5981C](I-5981C.md) | 🗺️ NC 66 to US 421 / I-40 Business. Widen to six l... | I-40 | 📅 Planned |
 | [I-6004](I-6004.md) | SR 3056 (Rock Creek Dairy Road) interchange nea... | I-40 / I-85 | 📅 Planned |
@@ -131,7 +130,7 @@
 | [U-6045](U-6045.md) | I-40 to SR 1008 (West Market Street) in Greensb... | SR 1850 (Sandy Ridge R... | 📅 Planned |
 | [U-6100](U-6100.md) | SR 4240 (Gate City Boulevard) to south of I-785... | US 29 / US 70 / US 220 | 📅 Planned |
 | [U-6122](U-6122.md) | SR 1556 (Gallimore Dairy Road) to Triad Center ... | NC 68 | 📅 Planned |
-| [W-5807A](W-5807A.md) | SR 2526 (Summit Avenue) ramp terminals in Green... | US 220 Eastbound | 🏗️ Active Construction (0%) |
+| [W-5807A](W-5807A.md) | SR 2526 (Summit Avenue) ramp terminals in Green... | US 220 Eastbound | 🚧 Under Construction |
 | [Y-4807B](Y-4807B.md) | SR 3163 (East Market Street) intersections in G... | Lowdermilk Street / Sy... | 🚧 Under Construction |
 
 ## Projects Spanning This County
@@ -150,4 +149,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-08*  
-*Mirror Updated: 2026-03-12*
+*Mirror Updated: 2026-03-13*

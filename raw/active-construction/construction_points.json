@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-12T11:24:34.497554+00:00",
-  "feature_count": 249,
+  "pull_timestamp": "2026-03-13T11:22:22.576565+00:00",
+  "feature_count": 252,
   "features": [
     {
       "attributes": {
@@ -327,7 +327,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #370 AND #373 OVER REEMS CREEK ON US-19/23, US-25, A ND US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1667220780000
@@ -564,7 +564,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 AT SR-2044 (LIGON MILL RD)/SR-2224 (MITCHELL MILL RD)  AND SR-2006 (PERRY CREEK RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1695643380000
@@ -1309,7 +1309,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #530020 OVER NEUSE RIVER AND BRIDGE #530034 OVER NEUS E RIVER OVERFLOW ON NC-55.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 55 Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.53,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719939540000
@@ -1471,7 +1471,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GRADE SEPARATION OF SR-2006 (DURANT ROAD) OVER CSX S LINE RA ILROAD IN RALEIGH.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Durant Road GS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2006",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724411340000
@@ -2465,7 +2465,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE OF I-40/I-85 AND SR-1981 (TOLLINGWOOD-HAWFIELDS RD) IN MEBANE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Trollingwood - Hawfields Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1981",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743082140000
@@ -2905,7 +2905,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW HOPE CHURCH ROAD GRADE SEPARATION OVER CSX RAIL LINE (CR OSSING #630607N AT MILE POST S 152.32).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NEW HOPE CHURCH RD GRADE SEPARATION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 1.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2215",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747058460000
@@ -4438,7 +4438,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 29 OVER SOUTH BRANCH LITTLE WHITE OAK CREEK ON NC 9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758189600000
@@ -5175,7 +5175,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 16 OVER BENS CREEK ON SR 1509 ODELL LITTLETON ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge No. 16 over Bens Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1509",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764689040000
@@ -6565,6 +6565,89 @@
           [
             -77.9999210379976,
             35.39526154271516
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 156850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN01148",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " B-6029    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "B-6029    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #55009 OVER NORTH PRONG ELLIJAY CREEK ON SR 1001 (ELL IJAY RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ellijay Bridge #009",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1001",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773048900000
+      },
+      "geometry": {
+        "points": [
+          [
+            -83.26808164424789,
+            35.204769089790084
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 156851,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DG00673",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " I-5964    , W-5807A   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "I-5964    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 2526(SUMMIT AVE) AT US 70(WENDOVER AVE) EAST EXIT AND ON RAMP; I-40/I85 BUS/SOUTH ELM EUGENGE INTERCHANGE IMPROVEMENT",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Summit and Elm Eugene",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2526",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773056220000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.78818770079917,
+            36.03650893280631
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 157250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205123",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Design Build",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " TIP 1     , TIP 2     , TIP 3     ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "TIP 1     ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT ON SR-2776, BRIDGE ON SR-2427, AND BRIDGE ON SR-2788 .",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 19",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-0199",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773066420000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.29547564350186,
+            35.56930276462133
+          ],
+          [
+            -82.27121627136385,
+            35.56396693127764
+          ],
+          [
+            -82.39963924383588,
+            35.635998742754886
           ]
         ]
       }

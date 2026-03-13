@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-12T11:24:34.497554+00:00",
+  "pull_timestamp": "2026-03-13T11:22:22.576565+00:00",
   "feature_count": 165,
   "features": [
     {
@@ -42892,7 +42892,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-143 FROM 0.5 MI NORTH OF APPALACHIAN TRAIL TO NC-28 AND N C-28 FROM 0.2 MI WEST NC-143 TO 0.2 MI WEST OF SR-1228.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION C",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.41,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675688880000
@@ -46521,7 +46521,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TWO INTERCHANGES ON US-421.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "GRMS 421 Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1670404260000
@@ -65599,7 +65599,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 FROM ASHEBORO BYPASS TO EAST OF I-73/I-74/US-220.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64/220 WIDENING & INTERCHANGE IMP",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.89,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725031800000
@@ -67158,7 +67158,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-601 (STATE ST) FROM SR-1742 (SHARON DR) TO SR-1146 (LEE A VE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-601 Roundabouts in Yadkinville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-601",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1731944940000
@@ -67443,7 +67443,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NC-73 TO WEST OF SR-1241 (HOLLY GROVE SCHOOL RD) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "West End - NC 211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.75,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1734438240000
@@ -73319,7 +73319,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NORTH OF SR-1225 (ASHEMONT RD) TO EAST OF SR-124 4 (W PALMER ST)/SR-1311 (MOCKINGBIRD HILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Hoke NC211 Grding,Drainage,Paving",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740987420000
