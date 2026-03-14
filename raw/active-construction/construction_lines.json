@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-13T11:22:22.576565+00:00",
+  "pull_timestamp": "2026-03-14T11:14:54.887826+00:00",
   "feature_count": 165,
   "features": [
     {
@@ -3961,7 +3961,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE NEUSE RIVER BRIDGE TO EAST OF THURMAN RD IN JAMES CITY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "James City Design Build (INFRA)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.61,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1572016020000
@@ -34647,7 +34647,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-111 (WILSON ST) FROM US-64 ALT (WESTERN BLVD) TO NC-122 ( MCNAIR RD) IN TARBORO.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "U-4424 Tarboro",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-111",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690970340000
@@ -52908,7 +52908,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 (FUTURE I-87) FROM SR-1306 (SOUTH OLD FRANKLIN RD) TO SR-1603 (OLD CARRIAGE RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64 (Future I-87) Pavement Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1694444100000
@@ -57523,7 +57523,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-276 (RUSS AVE) FROM US-23/74 TO US-23 BUS (MAIN ST) IN WA YNESVILLE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-276 Russ Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-276",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706882100000
@@ -71982,7 +71982,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2048 (GORDON RD) FROM US-17 (MARKET ST) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gordon Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.68,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2048",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1739186460000

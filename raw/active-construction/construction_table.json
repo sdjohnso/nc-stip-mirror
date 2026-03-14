@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-03-13T11:22:22.576565+00:00",
-  "feature_count": 61,
+  "pull_timestamp": "2026-03-14T11:14:54.887826+00:00",
+  "feature_count": 59,
   "features": [
     {
       "attributes": {
@@ -36,23 +36,6 @@
         "Route": "NONE-",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1723451400000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 241,
-        "ContractNumber": "C205145",
-        "ContractType": "Design Build",
-        "TipReference": " M-0572E   ",
-        "TIP": "M-0572E   ",
-        "CountyNumber": 100,
-        "LocationsDescription": "NC-197",
-        "ContractNickname": "197S EWP1-Bridges 135, 136, 287",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1102",
-        "PhysicalDivisionNumber": 13,
-        "ContractActiveDate": 1773318900000
       }
     },
     {
@@ -393,23 +376,6 @@
         "Route": "NC-VARI",
         "PhysicalDivisionNumber": 5,
         "ContractActiveDate": 1748376660000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 294,
-        "ContractNumber": "DE00424",
-        "ContractType": "Other",
-        "TipReference": " HB-0072   ",
-        "TIP": "HB-0072   ",
-        "CountyNumber": 39,
-        "LocationsDescription": "BRIDGE NO 199 OVER FORD CREEK ON SR 1629 FLAT ROCK ROAD",
-        "ContractNickname": "Flat Rock Road",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1629",
-        "PhysicalDivisionNumber": 5,
-        "ContractActiveDate": 1773311400000
       }
     },
     {
