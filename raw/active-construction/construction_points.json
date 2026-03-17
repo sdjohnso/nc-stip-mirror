@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-16T11:38:02.753901+00:00",
-  "feature_count": 254,
+  "pull_timestamp": "2026-03-17T11:35:15.643925+00:00",
+  "feature_count": 253,
   "features": [
     {
       "attributes": {
@@ -693,7 +693,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT NC-72 AND NC-130.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 74 Interchange at NC 72/NC 130",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.88,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680694080000
@@ -976,7 +976,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #94008 ON SR 1227 (NORTH FORK ROAD) AND CULVERT #9423 07 ON SR 1233 OVER NORTH FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "North Fork Rd Bridge and Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.74,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1227",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708528680000
@@ -2643,31 +2643,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 101650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00347",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 97,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 960163 ON SR 1002 (MOUNTAIN VIEW ROAD) OVER MULBER RY CREEK",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Mountain View Road",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.75,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1002",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745926560000
-      },
-      "geometry": {
-        "points": [
-          [
-            -81.13628399333896,
-            36.21913502471278
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 102050,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204766",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -2777,7 +2752,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #204 OVER WALNUT CREEK ON SR 1533 (WALNUT CREEK RD) I N MACON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Walnut Creek Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1533",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746198480000
@@ -3664,7 +3639,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #58 OVER US-64 ON NC-109.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC109 & HWY 64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753359120000
@@ -4413,7 +4388,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 46 ON SR 1364 (COLEMAN MOUNTAIN ROAD) OVER JONATHAN C REEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Coleman Mountain Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1364",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758200940000
@@ -4725,7 +4700,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100295 ON SR-1224 OVER I-40 IN BUNCOMBE COUNTY AND B RIDGE #560528 ON US 25/70 IN MADISON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Rehabilitation and LMC Overlay",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1224",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760521320000
@@ -6040,7 +6015,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE REHABILITATION, BRIDGES 070155, 070156, 070158, AND 0 70159",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bertie Bridge Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-13 /",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770711900000

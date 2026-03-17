@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-16T11:38:02.753901+00:00",
+  "pull_timestamp": "2026-03-17T11:35:15.643925+00:00",
   "feature_count": 165,
   "features": [
     {
@@ -8030,7 +8030,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 OVER SR 1101 (HARMON DEN RD / COLD SPRINGS CREEK RD) AND COLD SPRING CREEK,",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 CMGC Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1635413760000
@@ -46854,7 +46854,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-417 (HAMPSTEAD BYPASS) FROM SOUTH OF NC-210 TO NORTH OF SR-1563 (SLOOP POINT LOOP RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R3300B P NC417.NC 210.Hampstead Bypass",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.67,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-417",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1645101900000
@@ -49854,7 +49854,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1336 FROM N OF SR-1002 TO N OF SR-1337 AND SR-1002 FROM S R-1336 TO SR-1169.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Monteith Gap",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1336",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693496700000
@@ -56609,7 +56609,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROAD WITH BICYCLE/PEDESTRIAN ACCOMMODATIONS FROM SR-1969  (PINEY GROVE ROAD) TO NC-150 (NORTH MAIN STREET).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MACY GROVE EXT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704708900000
@@ -58305,7 +58305,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1100 (BRAWLEY SCHOOL RD) FROM I-77 TO US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Brawley School",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1100",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708964940000
@@ -59100,7 +59100,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1362 (CHESTNUT LANE CONNECTOR) FROM SR-1367 (MATTHEWS IND IAN TRAIL ROAD) TO SR-1368 (GRIBBLE ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chestnut Lane Connector",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1362",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708949520000
@@ -67946,7 +67946,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-150 FROM SR-1840 (GREENWOOD ROAD) IN CATAWBA COUNTY TO US -21 IN IREDELL COUNTY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R2307B - 150 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1736236680000
@@ -121224,7 +121224,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE CONNECTOR ROAD (EAST FREDERICK LAW OLMSTEAD WAY) FROM  I-26 INTERCHANGE TO ROUNDABOUT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "E.Frederick Law Omstead Way",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769769180000
