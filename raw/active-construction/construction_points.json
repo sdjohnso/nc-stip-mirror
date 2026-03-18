@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-17T11:35:15.643925+00:00",
-  "feature_count": 253,
+  "pull_timestamp": "2026-03-18T11:36:39.591864+00:00",
+  "feature_count": 254,
   "features": [
     {
       "attributes": {
@@ -1367,7 +1367,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #248 AND #249 OVER SR-1613 (BEAVERDAM RD) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridges 248 / 249 (Beaverdam Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.61,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721323560000
@@ -1533,7 +1533,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430243 OVER NC-215 (CHAMPION DRIVE) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridge 243 (Champion Dr)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.74,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725350460000
@@ -1831,7 +1831,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-6020    ",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-56 (EAST C ST) INTERSECTION WITH SR-1215 (WEST LYON STATI ON RD).",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-56 at W. Lyon Station Road",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-56 at W. Lyon Station Road Butner",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-56",
@@ -2490,7 +2490,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #39 AND BRIDGE #40 OVER BIG MARSH SWAMP ON SR 1436 (B ALFOUR ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Hoke Co Bridge 39&40 Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743177540000
@@ -3083,7 +3083,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 (SOUTH CHURCH ST) AT SR-1158 (HUFFMAN MILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HUFFMAN MILL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748424660000
@@ -3332,7 +3332,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990173 OVER MIDDLE CREEK ON SR-1159, AND BRIDGE #990 156 OVER COLBERT CREEK ON SR-1158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 14",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.88,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569580000
@@ -3398,7 +3398,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100115 ON SR-2789, BRIDGE #100308 ON SR-2419, AND BR IDGE #100380 ON SR-2432.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 15",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569700000
@@ -4363,7 +4363,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430236 OVER SR-1513 ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Thickety Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.93,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758112740000
@@ -5353,7 +5353,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TOWN OF CLAYTON",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "ToC Signal Upgrades",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767177420000
@@ -5813,7 +5813,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1119 HOLEMAN ASHLEY RD EAST OF HOOTEN DR",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EMERGENCY PIPE REPLACEMENT",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Holeman Ashley Road Pipe Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1119",
@@ -6669,7 +6669,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HB-0072   ",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 199 OVER FORD CREEK ON SR 1629 FLAT ROCK ROAD",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Flat Rock Road",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Flat Rock Road Bridge No. 199",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1629",
@@ -6681,6 +6681,31 @@
           [
             -78.54228034771123,
             36.146414388081546
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 158450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00494",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100079 ON NC-9 OVER BROAD RIVER",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-9 Bridge #100079",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773663840000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.18329810033536,
+            35.83327087378757
           ]
         ]
       }

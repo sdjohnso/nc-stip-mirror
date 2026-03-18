@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-17T11:35:15.643925+00:00",
+  "pull_timestamp": "2026-03-18T11:36:39.591864+00:00",
   "feature_count": 165,
   "features": [
     {
@@ -13654,7 +13654,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM MILE MARKER 153.20 (NC-148) TO MILE MARKER 167.00.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I95-Rehab-Halifax County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1638369540000
@@ -33520,7 +33520,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 SHELBY BYPASS FROM EAST OF NC-150 TO WEST OF SR-1001 ( STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 ByPass D/E",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1694518020000
@@ -55623,7 +55623,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-66 (OLD HOLLOW ROAD) FROM HARLEY DRIVE TO US-158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-66 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-66",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704468180000
@@ -66026,7 +66026,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON SALEM NORTHERN BELTWAY(NC 74 FUTURE I-74) FROM US 42 1 TO US 52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Beltway Landscaping",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728483480000
@@ -79013,7 +79013,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM TENNESSEE STATE LINE TO WEST OF MM 5.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Gorge Helene CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741772100000

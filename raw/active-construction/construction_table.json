@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-03-17T11:35:15.643925+00:00",
+  "pull_timestamp": "2026-03-18T11:36:39.591864+00:00",
   "feature_count": 61,
   "features": [
     {
@@ -704,6 +704,23 @@
     {
       "attributes": {
         "OBJECTID": 358,
+        "ContractNumber": "DI00377",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 80,
+        "LocationsDescription": "18 SECTIONS OF SECONDARY ROUTES IN ROWAN COUNTY AND 32 SECTI ONS OF CITY STREETS IN SALISBURY",
+        "ContractNickname": "2026 Rowan AST",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1740",
+        "PhysicalDivisionNumber": 9,
+        "ContractActiveDate": 1773751860000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 359,
         "ContractNumber": "DI00379",
         "ContractType": "Other",
         "TipReference": null,
@@ -720,7 +737,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 360,
         "ContractNumber": "DI00380",
         "ContractType": "Other",
         "TipReference": null,
@@ -737,7 +754,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 365,
         "ContractNumber": "DJ00555",
         "ContractType": "Other",
         "TipReference": " BO-2410B  ",
@@ -754,7 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 365,
+        "OBJECTID": 366,
         "ContractNumber": "DJ00556",
         "ContractType": "Other",
         "TipReference": " BO-2410C  ",
@@ -771,7 +788,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 402,
+        "OBJECTID": 403,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -788,7 +805,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 424,
+        "OBJECTID": 425,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -805,24 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 432,
-        "ContractNumber": "DM00494",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 11,
-        "LocationsDescription": "BRIDGE #100079 ON NC-9 OVER BROAD RIVER",
-        "ContractNickname": "NC-9 Bridge #100079",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "NC-9",
-        "PhysicalDivisionNumber": 13,
-        "ContractActiveDate": 1773663840000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 438,
+        "OBJECTID": 439,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 440,
+        "OBJECTID": 441,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 448,
+        "OBJECTID": 449,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 453,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 454,
+        "OBJECTID": 455,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 456,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 458,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 461,
+        "OBJECTID": 462,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -958,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 463,
+        "OBJECTID": 464,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 469,
+        "OBJECTID": 470,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 473,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -1009,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 474,
+        "OBJECTID": 475,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " HS-2014AD , HS-2014Z  ",
@@ -1026,7 +1026,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 476,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,
