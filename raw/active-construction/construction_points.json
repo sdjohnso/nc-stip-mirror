@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-18T11:36:39.591864+00:00",
-  "feature_count": 254,
+  "pull_timestamp": "2026-03-19T11:26:28.709450+00:00",
+  "feature_count": 253,
   "features": [
     {
       "attributes": {
@@ -104,39 +104,6 @@
           [
             -79.71178030550816,
             36.175920738427386
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 409,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204458",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 34,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #330078 ON US-52 OVER I-40/US-311, BRG #330227 ON NC-67 OVER US-421, & BRG #330392 ON SR-2643 OVER I-74/US-311.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Preserv. on Bridges 78, 227, 392",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.81,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-67",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1651672620000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.12535457354777,
-            36.046757676476766
-          ],
-          [
-            -80.3067382058046,
-            36.08392929854855
-          ],
-          [
-            -80.23151933645227,
-            36.0626326070818
           ]
         ]
       }
@@ -589,7 +556,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-87 AT NC-11 CONSTRUCT INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC87/NC11 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690277280000
@@ -1783,7 +1750,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AIRPORT BLVD AT CHELSEA DR & JETSTREAM DR AND RALEIGH ST AT FAIRVIEW RD/E. GRAND AVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Signal Work in Wilson and Rocky Mount",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1320",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1735654800000
@@ -2411,7 +2378,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #560042 OVER IVY CREEK ON SR-1576 (BEND OF IVY RD) AN D BRIDGE #560304 OVER SR-1183 (UPPER SHUTIN RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "KSCC Bridges Bend of Ivy/Upper Shut in",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1183",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743419280000
@@ -2627,7 +2594,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #26 OVER DROWNING CREEK ON SR 1124/SR 1531 (DERBY ROA D)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Moore/Mont Co. Brdg 26 Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744816920000
@@ -4259,7 +4226,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 169 OVER BUFFALO CREEK ON SR 1701 (WENDELL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #169 over Buffalo Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1701",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757612700000
@@ -4492,7 +4459,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON ROAD AT GUY ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Winston and Guy Road Intersection",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1550",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758712440000
@@ -5990,7 +5957,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT # BP-005-2831 ON SR 1577 (JAKE BLACKBURN ROAD) OVER LITTLE PHOENIX CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Jake Blackburn Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1577",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770806700000
@@ -6110,7 +6077,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE ON CANE CRK ON SR-1207, BRIDGE OVER BIG ROCK CRK ON S R-1330, AND BRIDGE OVER BEANS CRK ON SR-1325.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Smith Rowe Bridges 87, 152, 156",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1207",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770896460000
