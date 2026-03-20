@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-19T11:26:28.709450+00:00",
+  "pull_timestamp": "2026-03-20T11:22:11.559462+00:00",
   "feature_count": 253,
   "features": [
     {
@@ -477,7 +477,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #164 AND 168 OVER THE NORFOLK SOUTHERN RAILWAY ON US -29/70 I-85 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over Norfolk So. RR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698682380000
@@ -1463,7 +1463,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #180007, #180477, #620049, AND #620072 OVER THE DEEP  RIVER ON US-1 SOUTH, SR-1621, AND NC-22.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Freyssinet Inc.-Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-1",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724232840000
@@ -3856,7 +3856,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACEMENT OF BRIDGE 960280 OVER CAMP BRANCH ON SR 1952 (OA K RIDGE CHURCH ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oak Ridge Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1952",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754406000000
@@ -4276,7 +4276,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WILKES 221 ON SR 1939 (BILLINGS HILL CHURCH ROAD) OVER SPARK S CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Billings Hill Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1939",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757923980000
@@ -4301,7 +4301,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #280067 AND #280068 OVER SR-1192 ON US-29/US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over West 5th Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758099000000
@@ -4559,7 +4559,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US HWY 64/74 AT INTERSECTION WITH NC HWY 60",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Spur 60 Bulbouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760009700000
@@ -4584,7 +4584,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 279 ON SR 1832 (EAGLE MILL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Eagle Mills Rd Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1832",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760115480000
@@ -5524,7 +5524,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "POLK BRIDGE 143 ON SR 1138 (LAKE ADGER ROAD) OVER PANTHER CR EEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768402500000

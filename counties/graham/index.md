@@ -21,7 +21,7 @@
 | [A-0009CD](A-0009CD.md) | West of SR 1228 (Stecoah Road) to existing four... | NC 28 | 📅 Planned |
 | [A-0009CE](A-0009CE.md) | SR 1238 (Bill Crisp Road) to SR 1230 (Hyde Town... | NC 28 | 📅 Planned |
 | [HF-0007](HF-0007.md) | 🗺️ NC 28 to End of Maintenance. Resurface and repa... | SR 1286 / SR 1383 (Tsa... | 📅 Planned |
-| [HS-2014G](HS-2014G.md) | Long Hungry Road intersection near Robbinsville... | NC 143 | 🏗️ Active Construction (0%) |
+| [HS-2014G](HS-2014G.md) | Long Hungry Road intersection near Robbinsville... | NC 143 | 🏗️ Active Construction (20%) |
 | [R-2822B](R-2822B.md) | West Buffalo Creek to NC 143 Business. Upgrade ... | NC 143 | 📋 Right-of-Way |
 | [R-2822BA](R-2822BA.md) | West Buffalo Creek to NC 143 Business. Upgrade ... | NC 143 | 📅 Planned |
 | [R-2822BB](R-2822BB.md) | Bridge 370013 over Santeetlah Lake. Replace bri... | NC 143 | 📅 Planned |
@@ -32,4 +32,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-15*  
-*Mirror Updated: 2026-03-19*
+*Mirror Updated: 2026-03-20*

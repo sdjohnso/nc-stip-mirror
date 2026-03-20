@@ -6,9 +6,10 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 21 |
 | 📋 Right-of-Way | 15 |
-| 📅 Planned | 50 |
+| 📅 Planned | 49 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -45,7 +46,7 @@
 | [HB-0031](HB-0031.md) | Bridges 330185, 330191, and 330203 over US 52 (... | Third Street, Fourth S... | 📅 Planned |
 | [HB-0033](HB-0033.md) | Bridge 330284 over SR 4000 (University Parkway)... | Polo Road | 📅 Planned |
 | [HB-0036](HB-0036.md) | Bridge 330244 over US 52( Future I-285) / NC 8 ... | Sixteenth Street | 📅 Planned |
-| [HI-0005](HI-0005.md) | 🗺️ SR 4205 (S. Main Street) in Forsyth County to S... | I-285 / US 52 (Future ... | 📅 Planned |
+| [HI-0005](HI-0005.md) | 🗺️ SR 4205 (S. Main Street) in Forsyth County to S... | I-285 / US 52 (Future ... | 🏗️ Active Construction (0%) |
 | [HL-0015](HL-0015.md) | Beaucrest Street to Asbury Drive in Kernersvill... | NC 66 / SR 4309 (West ... | 📅 Planned |
 | [HL-0059](HL-0059.md) | SR 1686 (Oak Summit Road) intersection in Winst... | NC 8 (Germanton Road) | 📅 Planned |
 | [HL-0125](HL-0125.md) | Holder Road intersection in Clemmons. Install t... | SR 1103 (Lewisville-Cl... | 📅 Planned |
@@ -117,4 +118,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-15*  
-*Mirror Updated: 2026-03-19*
+*Mirror Updated: 2026-03-20*

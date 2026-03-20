@@ -23,9 +23,9 @@
 | [EB-5963](EB-5963.md) | SR 1764 (E Barnwell Street) to US 176 (Spartanb... | SR 1764 (South Grove S... | 📅 Planned |
 | [EB-6037B](EB-6037B.md) | 🗺️ Brevard Bike Path in Brevard to Kangua Road in ... | Ecusta Trail | ✅ Completed |
 | [HA-0003](HA-0003.md) | Industrial Park. Construct road extension. | SR 1970 (Commercial Bo... | 🚧 Under Construction |
-| [HS-2014I](HS-2014I.md) | Hendersonville City limit to SR 1534 (Naples Ro... | US 25 Business (Ashevi... | 🏗️ Active Construction (0%) |
-| [HS-2014L](HS-2014L.md) | SR 1574 (Fruitland Road), SR 1006 (Howard Gap R... | US 64 | 🏗️ Active Construction (0%) |
-| [HS-2014O](HS-2014O.md) | SR 1586 (South Mills Gap Road) / Tuttle Road in... | US 64 | 🏗️ Active Construction (0%) |
+| [HS-2014I](HS-2014I.md) | Hendersonville City limit to SR 1534 (Naples Ro... | US 25 Business (Ashevi... | 🏗️ Active Construction (20%) |
+| [HS-2014L](HS-2014L.md) | SR 1574 (Fruitland Road), SR 1006 (Howard Gap R... | US 64 | 🏗️ Active Construction (20%) |
+| [HS-2014O](HS-2014O.md) | SR 1586 (South Mills Gap Road) / Tuttle Road in... | US 64 | 🏗️ Active Construction (20%) |
 | [HS-2414C](HS-2414C.md) | North Oak Street intersection in Hendersonville... | US 64 (6th Avenue West) | 🏗️ Active Construction (0%) |
 | [HS-2414F](HS-2414F.md) | Ridgewood Boulevard / Whitmire Street intersect... | NC 191 (Haywood Road) | 🏗️ Active Construction (0%) |
 | [I-4400A](I-4400A.md) | US 25 to US 64. Widen to add additional lanes. | I-26 | 📅 Planned |
@@ -64,4 +64,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-15*  
-*Mirror Updated: 2026-03-19*
+*Mirror Updated: 2026-03-20*

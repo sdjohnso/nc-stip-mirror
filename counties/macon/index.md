@@ -28,9 +28,9 @@
 | [HB-0030](HB-0030.md) | Bridge 550055 over Cullasaja River. Replace bri... | SR 1679 (Peeks Creek R... | 📋 Right-of-Way |
 | [HB-0037](HB-0037.md) | Bridge 550056 over Cullasaja River. Replace bri... | SR 1679 (Gold Mine Road) | 📅 Planned |
 | [HF-0006](HF-0006.md) | Dry Falls Recreation Area. Improve parking area... | US 64 | 📅 Planned |
-| [HS-2014A](HS-2014A.md) | SR 1560 (Rogers Road) to SR 1533 (Walnut Creek ... | US 64 / NC 28 | 🏗️ Active Construction (0%) |
-| [HS-2014U](HS-2014U.md) | Cherokee County line to Swain County line. Inst... | US 19 | 🏗️ Active Construction (0%) |
-| [HS-2014W](HS-2014W.md) | SR 1146 (Patton Road) and SR 1442 (Old Murphy R... | US 64 (Murphy Road) | 🏗️ Active Construction (0%) |
+| [HS-2014A](HS-2014A.md) | SR 1560 (Rogers Road) to SR 1533 (Walnut Creek ... | US 64 / NC 28 | 🏗️ Active Construction (20%) |
+| [HS-2014U](HS-2014U.md) | Cherokee County line to Swain County line. Inst... | US 19 | 🏗️ Active Construction (20%) |
+| [HS-2014W](HS-2014W.md) | SR 1146 (Patton Road) and SR 1442 (Old Murphy R... | US 64 (Murphy Road) | 🏗️ Active Construction (20%) |
 | [HS-2414D](HS-2414D.md) | US 64 to SR 1667 (Wells Grove Road) near Frankl... | SR 1668 (Fulton Road) | 🏗️ Active Construction (0%) |
 | [HS-2414E](HS-2414E.md) | SR 1474 (Saldeer Mountain Road) to SR 1392 (Mid... | SR 1372 (Lower Burning... | 🏗️ Active Construction (0%) |
 | [R-5734A](R-5734A.md) | US 64 to SR 1652 (Wide Horizon Drive) / SR 1152... | US 23 / US 441 | ✅ Completed |
@@ -42,4 +42,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-15*  
-*Mirror Updated: 2026-03-19*
+*Mirror Updated: 2026-03-20*

@@ -33,10 +33,10 @@
 | [HB-0015](HB-0015.md) | Bridge 430133 over SR 1527 (Jones Cove Road). R... | US 19 / US 23 / US 74 | 📅 Planned |
 | [HB-0023](HB-0023.md) | Bridge 430169 over West Fork Pigeon River and b... | SR 1876 (Sonoma Road /... | 🚧 Under Construction |
 | [HB-0027](HB-0027.md) | Bridge 430206 over Fines Creek. Replace bridge. | SR 1355 (Panther Creek... | 📅 Planned |
-| [HS-2014E](HS-2014E.md) | 🗺️ SR 1392 (Barkers Creek Road) to east of SR 1388... | US 74 | 🏗️ Active Construction (0%) |
-| [HS-2014K](HS-2014K.md) | Holston Village Road and SR 1197 (Golf Course R... | US 19 | 🏗️ Active Construction (0%) |
-| [HS-2014S](HS-2014S.md) | Jackson County to Maggie Valley. Install long l... | US 19 | 🏗️ Active Construction (0%) |
-| [HS-2014Y](HS-2014Y.md) | North Lakeshore Drive. Install traffic signal w... | US 19 (Dellwood Road) | 🏗️ Active Construction (0%) |
+| [HS-2014E](HS-2014E.md) | 🗺️ SR 1392 (Barkers Creek Road) to east of SR 1388... | US 74 | 🏗️ Active Construction (20%) |
+| [HS-2014K](HS-2014K.md) | Holston Village Road and SR 1197 (Golf Course R... | US 19 | 🏗️ Active Construction (20%) |
+| [HS-2014S](HS-2014S.md) | Jackson County to Maggie Valley. Install long l... | US 19 | 🏗️ Active Construction (20%) |
+| [HS-2014Y](HS-2014Y.md) | North Lakeshore Drive. Install traffic signal w... | US 19 (Dellwood Road) | 🏗️ Active Construction (20%) |
 | [I-5834A](I-5834A.md) | Mile marker 27.0 to mile marker 30.0. Rehabilit... | I-40 | 🚧 Under Construction |
 | [I-5834B](I-5834B.md) | Mile marker 30.0 to mile marker 34.0. Rehabilit... | I-40 | 🚧 Under Construction |
 | [I-5924](I-5924.md) | Mile marker 15.0 to mile marker 20.5. Rehabilit... | I-40 | 📅 Planned |
@@ -57,4 +57,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-15*  
-*Mirror Updated: 2026-03-19*
+*Mirror Updated: 2026-03-20*

@@ -10,10 +10,10 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 114 |
+| 🏗️ Active Construction | 115 |
 | 🚧 Under Construction | 594 |
 | 📋 Right-of-Way | 290 |
-| 📅 Planned | 1,220 |
+| 📅 Planned | 1,219 |
 | ✅ Completed | 138 |
 
 ## Counties
@@ -53,7 +53,7 @@ This mirror contains **2,356 transportation projects** across all 100 North Caro
 | [Duplin](counties/duplin/index.md) | 13 (+2) | 0 | 6 |
 | [Durham](counties/durham/index.md) | 52 (+10) | 9 | 25 |
 | [Edgecombe](counties/edgecombe/index.md) | 25 (+2) | 2 | 6 |
-| [Forsyth](counties/forsyth/index.md) | 87 (+3) | 0 | 50 |
+| [Forsyth](counties/forsyth/index.md) | 87 (+3) | 1 | 49 |
 | [Franklin](counties/franklin/index.md) | 14 (+2) | 0 | 12 |
 | [Gaston](counties/gaston/index.md) | 48 (+4) | 6 | 28 |
 | [Gates](counties/gates/index.md) | 2 (+1) | 0 | 1 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-15*  
-*Mirror Updated: 2026-03-19*
+*Mirror Updated: 2026-03-20*

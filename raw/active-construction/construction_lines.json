@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-19T11:26:28.709450+00:00",
+  "pull_timestamp": "2026-03-20T11:22:11.559462+00:00",
   "feature_count": 165,
   "features": [
     {
@@ -39306,7 +39306,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 FROM NC-210 TO SR-4809 (JICARILA LANE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Angier Bypass Phase B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1670576100000
@@ -71249,7 +71249,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1556 (GALLIMORE DAIRY RD) FROM NC-68 TO SOUTH OF AIRPARK RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gallimore Dairy Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1556",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738946280000
@@ -87738,7 +87738,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/US-23 BUS (HAYWOOD RD) FROM US-19/US-23/US-74 (PATTON AVE) TO RIDGELAWN RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Haywood Rd - Patton to Ridgelawn",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743003900000
