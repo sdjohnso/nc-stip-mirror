@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-20T11:22:11.559462+00:00",
-  "feature_count": 253,
+  "pull_timestamp": "2026-03-21T11:13:59.026654+00:00",
+  "feature_count": 251,
   "features": [
     {
       "attributes": {
@@ -194,7 +194,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-29/US-70/I-85 BUSINESS, SR-1009 (S MAIN ST) IN HIGH POINT AND BRIDGE #147 OVER US-311 ON US-29/US-70/I-85 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Main St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.97,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1649686560000
@@ -348,7 +348,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #57 AND #59 OVER IRISH BUFFALO CREEK ON US-29 AND US -601.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 29/ bridges 57 and 59 over Irish Buff",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1691404440000
@@ -1710,31 +1710,6 @@
           [
             -79.29866126311525,
             36.06856946742547
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 85650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DD00485",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-5947(L) ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-5947(L) ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 64,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-43 AND US-64 RAMP ROUNDABOUT",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Landscaping RAB at US-64 Ramp",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.94,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1735816200000
-      },
-      "geometry": {
-        "points": [
-          [
-            -77.80538038976864,
-            35.961738888849034
           ]
         ]
       }
@@ -4717,7 +4692,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #860008 OVER LITTLE TENNESSEE RIVER ON US-19/74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Fontana Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761041760000
@@ -5395,7 +5370,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 271 OVER MILL CREEK ON SR 1818 (NEILS EDDY ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Neils Eddy Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1818",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767624600000
@@ -5474,7 +5449,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #770175 OVER LUMBER RIVER ON SR-1600 (W 5TH ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 770175 Over Lumber River W. 5th",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1600",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767779460000
@@ -5767,31 +5742,6 @@
           [
             -80.43771621960795,
             35.31382084203947
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 148450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DE00414",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 73,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1119 HOLEMAN ASHLEY RD EAST OF HOOTEN DR",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Holeman Ashley Road Pipe Replacement",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.37,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1119",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769165880000
-      },
-      "geometry": {
-        "points": [
-          [
-            -79.011673691029,
-            36.25531413167966
           ]
         ]
       }

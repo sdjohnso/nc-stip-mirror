@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-20T11:22:11.559462+00:00",
+  "pull_timestamp": "2026-03-21T11:13:59.026654+00:00",
   "feature_count": 165,
   "features": [
     {
@@ -15,7 +15,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 (ALSTON AVE) FROM NC-147 (BUCK DEAN FREEWAY) TO NORTH OF US-70BUS/NC-98 (HOLLOWAY ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 55 (Alston Avenue) Widening in Durham",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.68,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1472045100000
@@ -50077,7 +50077,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM MILEMARKER 45.25 TO MILEMARKER 50.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Pavement Rehab MM 45.25 to MM 50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687451220000
@@ -65874,7 +65874,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM 0.348 MILES WEST OF SR-1550 (INCINERATOR RD) TO 0. 345 MILES EAST OF SR-1550 (INCINERATOR RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridge 239 (Incinerator Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.41,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725352320000
@@ -67281,7 +67281,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-3440 (MCKEE RD EXT) FROM SR-3448 (PLEASANT PLAINS RD) TO SR-1010 (E JOHN ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "McKee Road Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3440",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1732284360000
@@ -70215,7 +70215,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-276 (JONATHAN CREEK RD) FROM US-19 TO 0.5 MILES SOUTH OF I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-276 Jonathan Creek Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.61,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-276",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1737534960000
@@ -72768,7 +72768,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 (CHIMNEY ROCK RD) FROM SR-1613 (SLICK ROCK RD, MM 22.7 9) TO SR-1701 (ROCK BROAD RIVER RD, MM 25.06).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "The Bat Cave",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740741060000
