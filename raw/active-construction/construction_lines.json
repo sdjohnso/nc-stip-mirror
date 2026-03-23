@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-22T12:53:52.896071+00:00",
-  "feature_count": 165,
+  "pull_timestamp": "2026-03-23T11:35:52.169190+00:00",
+  "feature_count": 164,
   "features": [
     {
       "attributes": {
@@ -115130,41 +115130,6 @@
             [
               -79.05546687273608,
               35.012093009182884
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 94261,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DE00416",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 73,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1532 THAXTON RD AT ??? CREEK",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Thaxton Rd Emergency Pipe Replacement",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.69,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1532",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763475900000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -78.9646603256221,
-              36.41564372712084
-            ],
-            [
-              -78.96465089641325,
-              36.415607352368454
-            ],
-            [
-              -78.96462823030858,
-              36.41551991300389
             ]
           ]
         ]
