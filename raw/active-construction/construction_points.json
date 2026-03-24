@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-23T11:35:52.169190+00:00",
-  "feature_count": 251,
+  "pull_timestamp": "2026-03-24T11:36:40.541475+00:00",
+  "feature_count": 253,
   "features": [
     {
       "attributes": {
@@ -631,7 +631,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-74/76 AT SR-1740 (OLD LAKE RD) AND SR-17 35 (CHANCEY TOWN RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chancy and Old Lake Road Intersections",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74/7",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1659454020000
@@ -1525,7 +1525,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 BUSINESS AT SHOTWELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-70 Bus & Shotwell Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.89,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1553",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725633480000
@@ -2328,7 +2328,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 (FUTURE I-74) AT INTERCHANGE WITH US-1 (EXIT 311).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 US-74 Interchange w/US-1  Rich. Co.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.17,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743080580000
@@ -3756,7 +3756,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "1/2 MILE NORTH OF US421 & NC902. 1/2 MILE SOUTH OF SR2000& S R2109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 421 & NC 902 RCI, Fred Smith",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754579880000
@@ -4609,7 +4609,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1395 (BALD MOUNTAIN RD), SR 1158 (COBERTS CREEK RD) AND S R 1164 (STILL FORK CREEK RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Yancey Bridge Repairs 123/276/289",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760537880000
@@ -6623,6 +6623,56 @@
           [
             -82.18329810033536,
             35.83327087378757
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 158850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205132",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BP12-R002 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BP12-R002 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #220075 ON NC-226 (POLKVILLE ROAD) OVER HINTON CREEK.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HINTON CREEK BRIDGE #75",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-226",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773996480000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.65260556107005,
+            35.43669232583707
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 158851,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DI00378",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BP9.R096  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BP9.R096  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 80,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 790254 OVER KERR CREEK ON SR 1547 (CALDWELL ROAD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Caldwell Rd",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1547",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774012620000
+      },
+      "geometry": {
+        "points": [
+          [
+            -80.66322034273796,
+            35.62259472779723
           ]
         ]
       }

@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-03-23T11:35:52.169190+00:00",
-  "feature_count": 64,
+  "pull_timestamp": "2026-03-24T11:36:40.541475+00:00",
+  "feature_count": 63,
   "features": [
     {
       "attributes": {
@@ -15,7 +15,7 @@
         "LocationsDescription": "GASTONIA CITYWIDE SIGNAL SYSTEM UPGRADE AND CCTV CAMERAS.",
         "ContractNickname": "Gastonia Signal System - MB Haynes",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 50.67,
+        "CompletionPercent": 53.3,
         "Route": "SR-1",
         "PhysicalDivisionNumber": 12,
         "ContractActiveDate": 1665575340000
@@ -36,40 +36,6 @@
         "Route": "NONE-",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1723451400000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 226,
-        "ContractNumber": "C205098",
-        "ContractType": "Other",
-        "TipReference": " HI-0005   ",
-        "TIP": "HI-0005   ",
-        "CountyNumber": 29,
-        "LocationsDescription": "I-285/US-52/NC-8 FROM SR-3010 (OLD US-52) TO SR-4205 (S MAIN  ST).",
-        "ContractNickname": "I-285/US-52 Rehab",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "I-285",
-        "PhysicalDivisionNumber": 9,
-        "ContractActiveDate": 1773935040000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 238,
-        "ContractNumber": "C205132",
-        "ContractType": "Other",
-        "TipReference": " BP12-R002 ",
-        "TIP": "BP12-R002 ",
-        "CountyNumber": 23,
-        "LocationsDescription": "BRIDGE #220075 ON NC-226 (POLKVILLE ROAD) OVER HINTON CREEK.",
-        "ContractNickname": "HINTON CREEK BRIDGE #75",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "NC-226",
-        "PhysicalDivisionNumber": 12,
-        "ContractActiveDate": 1773996480000
       }
     },
     {
@@ -550,7 +516,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 330,
+        "OBJECTID": 328,
+        "ContractNumber": "DG00685",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 79,
+        "LocationsDescription": "INTERSECTION OF BRIDGE ST (OLD STATE HWY 87) AND BOONE RD/WA SHINGTON ST (OLD STATE HWY 770) IN EDEN",
+        "ContractNickname": null,
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "NC-87",
+        "PhysicalDivisionNumber": 7,
+        "ContractActiveDate": 1774259280000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 331,
         "ContractNumber": "DH00571",
         "ContractType": "Other",
         "TipReference": " BO-2408A  ",
@@ -567,7 +550,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 331,
+        "OBJECTID": 332,
         "ContractNumber": "DH00572",
         "ContractType": "Other",
         "TipReference": null,
@@ -584,7 +567,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 335,
+        "OBJECTID": 336,
         "ContractNumber": "DH00584",
         "ContractType": "Other",
         "TipReference": " BO-2408D  ",
@@ -601,7 +584,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 336,
+        "OBJECTID": 337,
         "ContractNumber": "DH00585",
         "ContractType": "Other",
         "TipReference": " BO-2408E  ",
@@ -618,7 +601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 337,
+        "OBJECTID": 338,
         "ContractNumber": "DH00586",
         "ContractType": "Other",
         "TipReference": " BO-2408F  ",
@@ -635,7 +618,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 338,
+        "OBJECTID": 339,
         "ContractNumber": "DH00587",
         "ContractType": "Other",
         "TipReference": null,
@@ -652,7 +635,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 340,
+        "OBJECTID": 341,
         "ContractNumber": "DH00593",
         "ContractType": "Other",
         "TipReference": " BO-2408C  ",
@@ -669,7 +652,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 342,
         "ContractNumber": "DH00596",
         "ContractType": "Other",
         "TipReference": null,
@@ -686,7 +669,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 342,
+        "OBJECTID": 343,
         "ContractNumber": "DH00597",
         "ContractType": "Other",
         "TipReference": null,
@@ -703,7 +686,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 343,
+        "OBJECTID": 344,
         "ContractNumber": "DH00598",
         "ContractType": "Other",
         "TipReference": " BO-2408I  ",
@@ -720,7 +703,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 344,
+        "OBJECTID": 345,
         "ContractNumber": "DH00599",
         "ContractType": "Other",
         "TipReference": null,
@@ -737,7 +720,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 356,
+        "OBJECTID": 357,
         "ContractNumber": "DI00377",
         "ContractType": "Other",
         "TipReference": null,
@@ -754,24 +737,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
-        "ContractNumber": "DI00378",
-        "ContractType": "Other",
-        "TipReference": " BP9.R096  ",
-        "TIP": "BP9.R096  ",
-        "CountyNumber": 80,
-        "LocationsDescription": "BRIDGE 790254 OVER KERR CREEK ON SR 1547 (CALDWELL ROAD)",
-        "ContractNickname": "Caldwell Rd",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1547",
-        "PhysicalDivisionNumber": 9,
-        "ContractActiveDate": 1774012620000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 359,
         "ContractNumber": "DI00379",
         "ContractType": "Other",
         "TipReference": null,
@@ -788,7 +754,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 360,
         "ContractNumber": "DI00380",
         "ContractType": "Other",
         "TipReference": null,
@@ -805,7 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 365,
         "ContractNumber": "DJ00555",
         "ContractType": "Other",
         "TipReference": " BO-2410B  ",
@@ -822,7 +788,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 365,
+        "OBJECTID": 366,
         "ContractNumber": "DJ00556",
         "ContractType": "Other",
         "TipReference": " BO-2410C  ",
@@ -839,7 +805,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 402,
+        "OBJECTID": 403,
+        "ContractNumber": "DK00453",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 5,
+        "LocationsDescription": "REPLACE BRIDGE NO. 040474 ON SR 1193 (LEWIS ROAD) OVER BUFFA LO CREEK",
+        "ContractNickname": "Bridge #040474 on SR1193 Lewis Rd",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1193",
+        "PhysicalDivisionNumber": 11,
+        "ContractActiveDate": 1774283160000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 404,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -856,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 424,
+        "OBJECTID": 426,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 438,
+        "OBJECTID": 439,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 440,
+        "OBJECTID": 441,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 448,
+        "OBJECTID": 449,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 453,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 454,
+        "OBJECTID": 455,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 456,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 458,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 461,
+        "OBJECTID": 462,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -1009,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 463,
+        "OBJECTID": 464,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -1026,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 469,
+        "OBJECTID": 470,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -1043,7 +1026,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 473,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -1060,11 +1043,11 @@
     },
     {
       "attributes": {
-        "OBJECTID": 474,
+        "OBJECTID": 475,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
-        "TipReference": " HS-2014AD , HS-2014Z  ",
-        "TIP": "HS-2014AD ",
+        "TipReference": " HS-2014   , HS-2014AD , HS-2014Z  ",
+        "TIP": "HS-2014   ",
         "CountyNumber": 50,
         "LocationsDescription": "AT VARIOUS LOCATIONS IN SWAIN AND JACKSON COUNTIES",
         "ContractNickname": "Deep Creek; Savannah Drive",
@@ -1077,7 +1060,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 476,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,
