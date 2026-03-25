@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-24T11:36:40.541475+00:00",
+  "pull_timestamp": "2026-03-25T11:33:18.629295+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -5425,7 +5425,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM I-85 IN ORANGE COUNTY TO THE DURHAM COUNTY LINE AND I-40 WESTBOUND IN DURHAM COUNTY NEAR US-15/501.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Hillsborough",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1634222280000
@@ -12623,7 +12623,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM SR-1500 (MIDWAY RD) TO NC-87.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-211 From SR 1500 to NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1643618340000
@@ -65985,7 +65985,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 HALIFAX COUNTY NORTHBOUND AND SOUTHBOUND WEIGH STATIONS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 Weighstations",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.55,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1727252700000
@@ -112995,7 +112995,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 BUSINESS FROM US-64 TO SR-1307 (MAIN ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Business 64, Hayesville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761757800000
@@ -113288,7 +113288,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1102 (GILLIS HILL RD) FROM SOUTH OF CELTIC DR TO NORTH OF  SR-1112 (STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gillis B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761731520000

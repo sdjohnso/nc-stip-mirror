@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-24T11:36:40.541475+00:00",
+  "pull_timestamp": "2026-03-25T11:33:18.629295+00:00",
   "feature_count": 253,
   "features": [
     {
@@ -968,7 +968,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #190009 AND #190010 OVER NOTTELY RIVER AND GRAVEL RD ON US-64 & US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64 Bridge Preservation (Cherokee Co.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708957860000
@@ -1251,7 +1251,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #69 OVER US-70 ON NC-50 (BENSON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 OVER US 70 (GARNER)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1718641320000
@@ -1775,7 +1775,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-56 (EAST C ST) INTERSECTION WITH SR-1215 (WEST LYON STATI ON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-56 at W. Lyon Station Road Butner",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.35,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-56",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738159020000
@@ -2174,7 +2174,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 55 ON SR 1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Finger Bridge Road Catawba County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.89,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742388420000
@@ -2847,7 +2847,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 940095, BRIDGE 940178, BRIDGE 940258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Watauga 95, 178, & 258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1214",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747120740000
@@ -3448,7 +3448,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "VARIOUS LOCATIONS IN WAKE CO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 and Lake Wheeler Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.78,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750949820000
@@ -4409,7 +4409,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #630036 OVER FISHING CREEK ON NC-561.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE 36 FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-561",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758625140000

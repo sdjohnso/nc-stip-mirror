@@ -6,7 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🚧 Under Construction | 21 |
+| 🏗️ Active Construction | 1 |
+| 🚧 Under Construction | 20 |
 | 📋 Right-of-Way | 15 |
 | 📅 Planned | 50 |
 | ✅ Completed | 1 |
@@ -54,7 +55,7 @@
 | [HP-0027](HP-0027.md) | US 421 (Salem Parkway) - Exit 109 to Exit 112. ... | US 52 (Future I-285) | 📅 Planned |
 | [HP-0031](HP-0031.md) | SR 1122 (Jamestown Road) intersection in Winsto... | US 421 | 📅 Planned |
 | [HS-2009H](HS-2009H.md) | University Plaza Shopping Center main driveway ... | SR 1528 (North Point B... | 📅 Planned |
-| [HS-2409A](HS-2409A.md) | Winston-Salem. Construct reduced conflict inter... | NC 150 | 🚧 Under Construction |
+| [HS-2409A](HS-2409A.md) | Winston-Salem. Construct reduced conflict inter... | NC 150 | 🏗️ Active Construction (0%) |
 | [I-5795](I-5795.md) | 0.3 mile east of SR 3153 (Hanes Mall Boulevard)... | I-40 | 🚧 Under Construction |
 | [I-5880](I-5880.md) | NC 109 (Thomasville Road) / Clemmonsville Road ... | I-40 / US 311 | 📋 Right-of-Way |
 | [I-5952](I-5952.md) | SR 1101 (Harper Road) in Clemmons to east of US... | I-40 | 🚧 Under Construction |
@@ -117,4 +118,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-22*  
-*Mirror Updated: 2026-03-24*
+*Mirror Updated: 2026-03-25*
