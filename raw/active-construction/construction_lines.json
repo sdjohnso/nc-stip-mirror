@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-25T11:33:18.629295+00:00",
+  "pull_timestamp": "2026-03-26T11:40:12.931733+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -33153,7 +33153,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1339 (ROARING BRANCH ROAD) FROM SR 1340 (WEST MILL CREEK ROAD) TO SR 1332 (JACK JONES ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roaring Branch Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1339",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1692031980000
@@ -55008,7 +55008,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ALONG US 25 BUS S. FROM APPROXIMATELY 220 FEET SOUTH OF 9TH AVENUE WEST TO US 25 (S. MAIN ST.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Resurfacing,Curb & Gutter,Sidewalk",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.93,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-25 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1702548180000
@@ -59837,7 +59837,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26/I-240 FROM SOUTH OF SR-3548 TO NORTH OF SR-1781 AND SR- 1477 FROM SR-1517 TO SR-1781.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2513BD - Design Build",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1720011960000
@@ -115459,7 +115459,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 126 ON SR 1723 (TURLINGTON ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Structrure #126 Over Stewart Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1723",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755250860000

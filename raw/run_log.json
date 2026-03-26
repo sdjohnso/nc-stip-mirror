@@ -1,35 +1,5 @@
 [
   {
-    "start_time": "2026-03-01T11:11:16.428655+00:00",
-    "update_type": "daily",
-    "scripts_run": [
-      {
-        "name": "Active Construction",
-        "success": true,
-        "duration": 4.477630853652954
-      },
-      {
-        "name": "Generate Markdown",
-        "success": true,
-        "duration": 0.7024967670440674
-      },
-      {
-        "name": "Build Indexes",
-        "success": true,
-        "duration": 0.33260011672973633
-      }
-    ],
-    "errors": [],
-    "success": true,
-    "end_time": "2026-03-01T11:11:21.942334+00:00",
-    "total_duration": 5.513679,
-    "counts": {
-      "stip_projects": 2362,
-      "construction_contracts": 59,
-      "progloc_contracts": 780
-    }
-  },
-  {
     "start_time": "2026-03-01T12:50:49.522341+00:00",
     "update_type": "weekly",
     "scripts_run": [
@@ -973,6 +943,36 @@
     "counts": {
       "stip_projects": 2362,
       "construction_contracts": 66,
+      "progloc_contracts": 803
+    }
+  },
+  {
+    "start_time": "2026-03-26T11:40:12.690942+00:00",
+    "update_type": "daily",
+    "scripts_run": [
+      {
+        "name": "Active Construction",
+        "success": true,
+        "duration": 4.797812223434448
+      },
+      {
+        "name": "Generate Markdown",
+        "success": true,
+        "duration": 0.6679072380065918
+      },
+      {
+        "name": "Build Indexes",
+        "success": true,
+        "duration": 0.31731700897216797
+      }
+    ],
+    "errors": [],
+    "success": true,
+    "end_time": "2026-03-26T11:40:18.474845+00:00",
+    "total_duration": 5.783903,
+    "counts": {
+      "stip_projects": 2362,
+      "construction_contracts": 62,
       "progloc_contracts": 803
     }
   }

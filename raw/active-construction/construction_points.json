@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-25T11:33:18.629295+00:00",
-  "feature_count": 253,
+  "pull_timestamp": "2026-03-26T11:40:12.931733+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -65,7 +65,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26/US-74 WEST BOUND LANES AND EAST BOUND LANES OVER GREEN RIVER.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Green River Bridge Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1620136260000
@@ -2099,7 +2099,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #440109 OVER CLEAR CREEK ON SR-1578 (TOWNSEND RD) AND  BRIDGE #440198 OVER CLEAR CREEK ON SR-1614 (WATERS RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Townsend & Waters Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1578",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741349700000
@@ -2752,7 +2752,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #990047 OVER MINE FORK CREEK ON SR-1416 AND BRG #990014 OVER BANKS CREEK ON SR-1136.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 5",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746697680000
@@ -3212,7 +3212,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580058 OVER MACKEY CREEK ON US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 16",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569760000
@@ -4064,7 +4064,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 410 / NC 131 AT NC 211 BYPASS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bladenboro Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-410",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756398540000
@@ -4867,7 +4867,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 77 ON AVENT RD/ITA RD OVER FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sanford Fishing Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1506",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761749760000
@@ -5200,7 +5200,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES ON SR-2109, SR-2115, SR-2173, AND CULVERT ON SR-1390 .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 18",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1390",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765538280000
@@ -6673,6 +6673,106 @@
           [
             -80.66322034273796,
             35.62259472779723
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 159250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DG00685",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF BRIDGE ST (OLD STATE HWY 87) AND BOONE RD/WA SHINGTON ST (OLD STATE HWY 770) IN EDEN",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-87",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774259280000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.76255601550025,
+            36.491326147542544
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 159650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00453",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 040474 ON SR 1193 (LEWIS ROAD) OVER BUFFA LO CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #040474 on SR1193 Lewis Rd",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1193",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774283160000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.52736160434499,
+            36.425830522817634
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 160050,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DH00573",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #162 OVER BRUSH CREEK ON SR 1005 (LANES MILL ROAD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Lanes Mill Road",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1005",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774345320000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.57621298561418,
+            35.641526258272286
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 160051,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204936",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BR-0060   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BR-0060   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #000014 OVER CANE CREEK ON NC-87.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #14 Over Cane Creek on NC-87",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-87",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774357380000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.29585542973658,
+            35.88455115067918
           ]
         ]
       }

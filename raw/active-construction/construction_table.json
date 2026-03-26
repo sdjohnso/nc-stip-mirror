@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-03-25T11:33:18.629295+00:00",
-  "feature_count": 66,
+  "pull_timestamp": "2026-03-26T11:40:12.931733+00:00",
+  "feature_count": 62,
   "features": [
     {
       "attributes": {
@@ -19,23 +19,6 @@
         "Route": "SR-1",
         "PhysicalDivisionNumber": 12,
         "ContractActiveDate": 1665575340000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 139,
-        "ContractNumber": "C204936",
-        "ContractType": "Other",
-        "TipReference": " BR-0060   ",
-        "TIP": "BR-0060   ",
-        "CountyNumber": 1,
-        "LocationsDescription": "BRIDGE #000014 OVER CANE CREEK ON NC-87.",
-        "ContractNickname": "Bridge #14 Over Cane Creek on NC-87",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "NC-87",
-        "PhysicalDivisionNumber": 7,
-        "ContractActiveDate": 1774357380000
       }
     },
     {
@@ -533,23 +516,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 329,
-        "ContractNumber": "DG00685",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 79,
-        "LocationsDescription": "INTERSECTION OF BRIDGE ST (OLD STATE HWY 87) AND BOONE RD/WA SHINGTON ST (OLD STATE HWY 770) IN EDEN",
-        "ContractNickname": null,
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "NC-87",
-        "PhysicalDivisionNumber": 7,
-        "ContractActiveDate": 1774259280000
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 332,
         "ContractNumber": "DH00571",
         "ContractType": "Other",
@@ -580,23 +546,6 @@
         "Route": "NONE-",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1744817400000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 334,
-        "ContractNumber": "DH00573",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 76,
-        "LocationsDescription": "BRIDGE #162 OVER BRUSH CREEK ON SR 1005 (LANES MILL ROAD)",
-        "ContractNickname": "Lanes Mill Road",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1005",
-        "PhysicalDivisionNumber": 8,
-        "ContractActiveDate": 1774345320000
       }
     },
     {
@@ -852,23 +801,6 @@
         "Route": "US-52",
         "PhysicalDivisionNumber": 10,
         "ContractActiveDate": 1744639080000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 406,
-        "ContractNumber": "DK00453",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 5,
-        "LocationsDescription": "REPLACE BRIDGE NO. 040474 ON SR 1193 (LEWIS ROAD) OVER BUFFA LO CREEK",
-        "ContractNickname": "Bridge #040474 on SR1193 Lewis Rd",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1193",
-        "PhysicalDivisionNumber": 11,
-        "ContractActiveDate": 1774283160000
       }
     },
     {
