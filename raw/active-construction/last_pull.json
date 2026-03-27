@@ -1,10 +1,10 @@
 {
-  "last_pull_started": "2026-03-26T11:40:12.931733+00:00",
-  "last_pull_completed": "2026-03-26T11:40:17.335785+00:00",
-  "duration_seconds": 4.404052,
+  "last_pull_started": "2026-03-27T11:33:28.737938+00:00",
+  "last_pull_completed": "2026-03-27T11:33:34.303871+00:00",
+  "duration_seconds": 5.565933,
   "points_count": 257,
   "lines_count": 164,
-  "table_count": 62,
-  "total_features": 483,
+  "table_count": 65,
+  "total_features": 486,
   "status": "success"
 }

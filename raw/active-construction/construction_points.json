@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-26T11:40:12.931733+00:00",
+  "pull_timestamp": "2026-03-27T11:33:28.737938+00:00",
   "feature_count": 257,
   "features": [
     {
@@ -3303,7 +3303,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990157 OVER ELK SHOAL CREEK ON SR-1388 AND BRIDGES # 990233, #990192, AND #990193 OVER PIGPEN CREEK ON SR-1333.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569880000
@@ -4767,7 +4767,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER MIDDLEFORK CREEK ON SR-1515 (BUCKNER BRANCH RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Replacement Madison #036",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1515",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761231120000

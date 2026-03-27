@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-03-26T11:40:12.931733+00:00",
-  "feature_count": 62,
+  "pull_timestamp": "2026-03-27T11:33:28.737938+00:00",
+  "feature_count": 65,
   "features": [
     {
       "attributes": {
@@ -797,7 +797,7 @@
         "LocationsDescription": "VARIOUS",
         "ContractNickname": "Concrete Curb Ramps - Anson/Union",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 51.95,
+        "CompletionPercent": 59.29,
         "Route": "US-52",
         "PhysicalDivisionNumber": 10,
         "ContractActiveDate": 1744639080000
@@ -805,7 +805,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 407,
+        "OBJECTID": 399,
+        "ContractNumber": "DK00433",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 6,
+        "LocationsDescription": "STRUCTURE REPLACEMENT OF PIPE NO. 006-2255 ON SR 1370 (AVERY  COUNTY HIGH SCHOOL ROAD) OVER KENTUCKY CREEK",
+        "ContractNickname": "Structure Replacement on SR 1370 (Avery)",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1370",
+        "PhysicalDivisionNumber": 11,
+        "ContractActiveDate": 1774542300000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 408,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -822,7 +839,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 429,
+        "OBJECTID": 424,
+        "ContractNumber": "DM00393",
+        "ContractType": "Other",
+        "TipReference": " BP13-R013 ",
+        "TIP": "BP13-R013 ",
+        "CountyNumber": 11,
+        "LocationsDescription": "BRIDGE 100692 OVER ADKINS BRANCH ON SR-1768 (OLD BURNSVILLE RD)",
+        "ContractNickname": "Buncombe Bridge 692 RE Burns",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1768",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1774535880000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 431,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +873,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 442,
+        "OBJECTID": 437,
+        "ContractNumber": "DM00486",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 100,
+        "LocationsDescription": "BRIDGE #990009 OVER CANE RIVER ON US-19",
+        "ContractNickname": "Bridge #9 Repairs US-19E over Cane River",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-19",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1774536660000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 445,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 444,
+        "OBJECTID": 447,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 455,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 459,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 461,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 462,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 461,
+        "OBJECTID": 464,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 468,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -975,7 +1026,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 467,
+        "OBJECTID": 470,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +1043,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 473,
+        "OBJECTID": 476,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -1009,7 +1060,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 479,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -1026,7 +1077,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 481,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -1043,7 +1094,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 482,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,

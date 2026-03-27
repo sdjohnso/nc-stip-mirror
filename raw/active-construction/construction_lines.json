@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-26T11:40:12.931733+00:00",
+  "pull_timestamp": "2026-03-27T11:33:28.737938+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -111809,7 +111809,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-9 FROM 2700' NORTH OF THE US 74A / NC-9 INTERSECTION TO T HE BUNCOMBE COUNTY LINE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 9 - UPPER SECTION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1759220940000
@@ -113763,7 +113763,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1818 (JOHNSON ST)/SR-1850 (SANDY RIDGE RD) FROM SR-1820 ( SKEET CLUB RD) TO SOUTH OF I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sandy Ridge - Johnston St.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1818",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763725140000
