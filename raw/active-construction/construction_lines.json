@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-27T11:33:28.737938+00:00",
-  "feature_count": 164,
+  "pull_timestamp": "2026-03-28T11:18:14.980583+00:00",
+  "feature_count": 165,
   "features": [
     {
       "attributes": {
@@ -8896,7 +8896,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-277 (BROOKSHIRE FRWY) FROM BRIDGE DECK OVER 10TH STREET TO BRIDGE DECK OVER JOHNSON STREET AND BRIDGE DECKS OVER I-77.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-277 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-277",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1640705040000
@@ -11473,7 +11473,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-42/SR-1579 (BROADWAY RD) FROM US-421 IN SANFORD TO SR-153 8 (E HARRINGTON AVE) IN BROADWAY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-42 Broadway Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1663929060000
@@ -46811,7 +46811,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE I-74 (WINSTON-SALEM NORTHERN BELTWAY) FROM US-311 TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "AA BELTWAY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1669027080000
@@ -91574,7 +91574,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2700 (CHATHAM PARK WAY) FROM US-15/US-501 SOUTH OF PITTSB ORO TO US-64 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chatham Parkway South",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2700",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750846620000
@@ -131125,6 +131125,41 @@
             [
               -80.23780443187128,
               35.995969190517364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 103861,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DK00433",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE REPLACEMENT OF PIPE NO. 006-2255 ON SR 1370 (AVERY  COUNTY HIGH SCHOOL ROAD) OVER KENTUCKY CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Structure Replacement on SR 1370 (Avery)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1370",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774542300000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -81.9154695090943,
+              36.074074494345965
+            ],
+            [
+              -81.91532373835359,
+              36.07403169703953
+            ],
+            [
+              -81.91520788640993,
+              36.073997683160776
             ]
           ]
         ]

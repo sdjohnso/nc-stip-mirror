@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-27T11:33:28.737938+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-03-28T11:18:14.980583+00:00",
+  "feature_count": 259,
   "features": [
     {
       "attributes": {
@@ -2070,7 +2070,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430175 AND BRIDGE #430174 OVER BIG CREEK ON SR-1332 (WATERVILLE ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Waterville Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1332",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741084620000
@@ -5320,7 +5320,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 18 OVER THE HAW RIVER ON SR 1002(SCALESVILLE RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Scalesville Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.62,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1002",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767687060000
@@ -6422,7 +6422,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 430041 ON SR 1357 (CRABTREE CHURCH RD) OVER CRABTREE CREEK IN HAYWOOD COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Crabtree Church Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1357",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772613360000
@@ -6773,6 +6773,56 @@
           [
             -79.29585542973658,
             35.88455115067918
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 160450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00393",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BP13-R013 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BP13-R013 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 100692 OVER ADKINS BRANCH ON SR-1768 (OLD BURNSVILLE RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Buncombe Bridge 692 RE Burns",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1768",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774535880000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.54527823773702,
+            35.78414395235308
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 160850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00486",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 100,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990009 OVER CANE RIVER ON US-19",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #9 Repairs US-19E over Cane River",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774536660000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.34890252932618,
+            35.91170436325414
           ]
         ]
       }

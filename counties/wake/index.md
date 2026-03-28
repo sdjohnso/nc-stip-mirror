@@ -6,9 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 11 |
+| 🏗️ Active Construction | 12 |
 | 🚧 Under Construction | 52 |
-| 📋 Right-of-Way | 32 |
+| 📋 Right-of-Way | 31 |
 | 📅 Planned | 112 |
 | ✅ Completed | 1 |
 
@@ -79,7 +79,7 @@
 | [HL-0030](HL-0030.md) | SR 1152 (Holly Springs Road) to Earp Street in ... | South Main Street | 🚧 Under Construction |
 | [HL-0031](HL-0031.md) | SR 2233 (Smithfield Road). Construct intersecti... | SR 1007 (Poole Road) | 🏗️ Active Construction (85%) |
 | [HL-0032](HL-0032.md) | I-440 to Ridge Road in Raleigh. Upgrade roadway... | Lake Boone Trail | 📅 Planned |
-| [HL-0033](HL-0033.md) | Garden Square Lane to SR 1637 (Church Street) i... | SR 3126 (Airport Boule... | 📋 Right-of-Way |
+| [HL-0033](HL-0033.md) | Garden Square Lane to SR 1637 (Church Street) i... | SR 3126 (Airport Boule... | 🏗️ Active Construction (0%) |
 | [HL-0041](HL-0041.md) | US 401 (South Main Street) intersection in Fuqu... | SR 2768 (Judd Parkway) | 📋 Right-of-Way |
 | [HL-0042](HL-0042.md) | NC 55 Intersection in Fuquay-Varina. Construct ... | SR 1110 (Wilbon Road) ... | 🚧 Under Construction |
 | [HL-0043](HL-0043.md) | SR 2006 (Durant Road) intersection in Raleigh. ... | SR 1005 (Six Forks Road) | 📅 Planned |
@@ -240,4 +240,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-22*  
-*Mirror Updated: 2026-03-27*
+*Mirror Updated: 2026-03-28*
