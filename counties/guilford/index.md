@@ -1,14 +1,14 @@
 # Guilford County - STIP Projects
 
-> **117 projects** in the State Transportation Improvement Program
+> **120 projects** in the State Transportation Improvement Program
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
-| 🚧 Under Construction | 39 |
-| 📋 Right-of-Way | 10 |
-| 📅 Planned | 67 |
+| 🚧 Under Construction | 41 |
+| 📋 Right-of-Way | 9 |
+| 📅 Planned | 69 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -31,12 +31,13 @@
 | [B-5717](B-5717.md) | Bridges 400109 and 400121 over South Buffalo Cr... | SR 4240 (Gate City Bou... | 🚧 Under Construction |
 | [B-5718](B-5718.md) | Bridge 400329 over I-40 / Business 85 / US 29 /... | Patton Avenue | 📅 Planned |
 | [B-5723](B-5723.md) | Bridge 400054 over Richland Creek in High Point... | SR 1158 (Jackson Lake ... | 📅 Planned |
-| [BL-0041](BL-0041.md) | Friendly Avenue to Josephine Boyd Street; Tenni... | Latham Park Greenway; ... | 📅 Planned |
+| [BL-0041](BL-0041.md) | Friendly Avenue to Josephine Boyd Street; Tenni... | Latham Park Greenway; ... | 🚧 Under Construction |
 | [BL-0042](BL-0042.md) | North of Florida Street to Bragg Street in Gree... | Vance Arlington Greenway | 📅 Planned |
 | [BL-0071A](BL-0071A.md) | Harvell Park to Goldston Park in High Point. Co... | Southwest Heritage Gre... | 📅 Planned |
 | [BL-0071B](BL-0071B.md) | Sunset Drive to Commerce Avenue. Construct pede... | Elm Street | 📅 Planned |
 | [BL-0116](BL-0116.md) | Hill Street to Rollins Road in Greensboro. Exte... | A & Y Greenway | 📅 Planned |
 | [BL-0117](BL-0117.md) | Bridge over Lake Brandt near Greensboro. Replac... | A & Y Greenway | 📅 Planned |
+| [BR-0077](BR-0077.md) | Bridge 400131. Replace bridge. | SR 2770 (Huffine Mill ... | 📅 Planned |
 | [BR-0081](BR-0081.md) | Bridges 400283 and 400342 over US 29 / US 70 / ... | Phillips Avenue | 📅 Planned |
 | [C-5555E](C-5555E.md) | SR 1546 (College Road) and SR 2179 (New Garden ... | Various | 📋 Right-of-Way |
 | [C-5700](C-5700.md) | Existing sidewalk east of East Main Street to C... | SR 1352 (Oakdale Road) | 📅 Planned |
@@ -63,16 +64,18 @@
 | [EB-6037C](EB-6037C.md) | Spring Garden Street to South of Rollins Road i... | A&Y Greenway | 📅 Planned |
 | [EL-5101DR](EL-5101DR.md) | Murrow Boulevard bridge over Church Street. Rep... | Murrow Boulevard | 🚧 Under Construction |
 | [HE-0005](HE-0005.md) | Piedmont Triad International Airport manufactur... | Piedmont Triad Interna... | 🚧 Under Construction |
+| [HE-0019](HE-0019.md) | Guilford County. NC 61 road widening, turn lane... | NC 61 | 📅 Planned |
 | [HL-0046](HL-0046.md) | Willow Road to Florida Street in Greensboro. Mo... | SR 4240 (East Gate Cit... | 📋 Right-of-Way |
 | [HL-0047](HL-0047.md) | Lees Chapel Road to Future I-840 (Greensboro Ur... | SR 2523 (Yanceyville S... | 📅 Planned |
 | [HL-0060](HL-0060.md) | Routes in High Point. High Point signal system ... | Various | 📅 Planned |
 | [HL-0126](HL-0126.md) | SR 2147 (West Friendly Avenue) to SR 1546 (Nort... | Lindley Road | 📅 Planned |
+| [HL-0168](HL-0168.md) | Bridge #400462. Rehabilitate bridge. | Murrow Boulevard | 📅 Planned |
 | [HS-2007A](HS-2007A.md) | Randolph County line to north of SR 1145 (River... | I-85 Business / US 29 ... | 🚧 Under Construction |
 | [HS-2007B](HS-2007B.md) | North of SR 1145 (Riverdale Drive) to I-85 in H... | I-85 Business / US 29 ... | 🚧 Under Construction |
-| [HS-2007D](HS-2007D.md) | US 29 / US 70 (I-85 Business) interchange. . Up... | I-74 | 📅 Planned |
+| [HS-2007D](HS-2007D.md) | US 29 / US 70 (I-85 Business) interchange. Upgr... | I-74 | 📅 Planned |
 | [HS-2007E](HS-2007E.md) | West of SR 1138 (Tom Ball Road) to west of the ... | NC 62 | 🚧 Under Construction |
 | [HS-2007G](HS-2007G.md) | Lakeview Memorial Park Cemetery entrance inters... | US 29 | 📅 Planned |
-| [HS-2007I](HS-2007I.md) | I-40 Westbound ramp intersection. . Install tra... | SR 4240 (East Gate Cit... | 📅 Planned |
+| [HS-2007I](HS-2007I.md) | I-40 Westbound ramp intersection. Install traff... | SR 4240 (East Gate Cit... | 📅 Planned |
 | [HS-2007K](HS-2007K.md) | Buffalo Creek Bridge east For 1,550 feet and I-... | I-40 | 📅 Planned |
 | [HS-2407A](HS-2407A.md) | Textile Drive intersection. Install pedestrian ... | SR 2526 (Summit Avenue) | 📅 Planned |
 | [I-5712](I-5712.md) | SR 1850 (Sandy Ridge Road) in Greensboro. Impro... | I-40 / US 421 | 📅 Planned |
@@ -93,7 +96,7 @@
 | [P-5735](P-5735.md) | SR 1584 (Yanceyville Street) crossing in Greens... | Norfolk Southern Main ... | 📅 Planned |
 | [P-5747](P-5747.md) | South English Street crossing in Greensboro. Co... | North Carolina Railroa... | 📅 Planned |
 | [R-4707](R-4707.md) | US 29 / SR 4771 (Reedy Fork Parkway) interchang... | US 29; SR 4771 (Reedy ... | 🚧 Under Construction |
-| [R-5725](R-5725.md) | Along NC 68 and NC 150 in Oak Ridge. . Construc... | NC 68; NC 150 | 🚧 Under Construction |
+| [R-5725](R-5725.md) | Along NC 68 and NC 150 in Oak Ridge. Construct ... | NC 68; NC 150 | 🚧 Under Construction |
 | [R-5889A](R-5889A.md) | North of I-785 to NC 150. Upgrade corridor to i... | US 29 (Future I-785) | 📅 Planned |
 | [RP-0003](RP-0003.md) | SR 1549 (Mackay Road) intersection in Greensbor... | NC Railroad / NS NC Line | 📅 Planned |
 | [RP-0004](RP-0004.md) | SR 1332 (Scientific Street) intersection in Jam... | NC Railroad / NS Main ... | 📅 Planned |
@@ -112,7 +115,7 @@
 | [U-2581BA](U-2581BA.md) | SR 3045 (Mount Hope Church Road) to SR 2826 (Bi... | US 70 | 🚧 Under Construction |
 | [U-4015A](U-4015A.md) | NC 68 to Airpark Road in Greensboro. Widen to m... | SR 1556 (Gallimore Dai... | 🚧 Under Construction |
 | [U-4758](U-4758.md) | SR 1820 (Skeet Club Road) to south of I-40 in H... | SR 1818 (Johnston Stre... | 📋 Right-of-Way |
-| [U-5169](U-5169.md) | NC 68 (Eastchester Drive) in High Point. . Reco... | I-74 / US 311 | 🚧 Under Construction |
+| [U-5169](U-5169.md) | NC 68 (Eastchester Drive) in High Point. Recons... | I-74 / US 311 | 🚧 Under Construction |
 | [U-5306B](U-5306B.md) | Westridge Road intersection and approaches. Con... | US 220 (Battleground A... | 🚧 Under Construction |
 | [U-5306C](U-5306C.md) | New Garden Road intersection and approaches. Co... | US 220 (Battleground A... | ✅ Completed |
 | [U-5754](U-5754.md) | I-40 /I-85 Business to south of Florida Street ... | US 29 / US 70 / US 220... | 🚧 Under Construction |
@@ -121,11 +124,11 @@
 | [U-5850](U-5850.md) | Elmsley Drive to Glendale Drive in Greensboro. ... | SR 1007 (Randleman Road) | 📋 Right-of-Way |
 | [U-5851](U-5851.md) | US 220 (Wendover Avenue) to east Cone Boulevard... | SR 1001 (Church Street) | 📅 Planned |
 | [U-5892](U-5892.md) | Westridge Road to Cotswold Avenue in Greensboro... | US 220 (Battleground A... | 📅 Planned |
-| [U-5896](U-5896.md) | SR 1009 (South Main Street) in High Point.  . R... | US 29 / US 70 / I-85 B... | 🚧 Under Construction |
+| [U-5896](U-5896.md) | SR 1009 (South Main Street) in High Point. Reco... | US 29 / US 70 / I-85 B... | 🚧 Under Construction |
 | [U-5974](U-5974.md) | SR 1523 (Hickswood Road) to SR 1823 (Williard D... | NC 68 | 📅 Planned |
 | [U-6008](U-6008.md) | New Garden Road at Horsepen Creek Road in Green... | SR 2085 (Bryan Boulevard) | 📅 Planned |
 | [U-6016](U-6016.md) | SR 2136 (Fleming Road) intersection in Greensbo... | SR 2124 (Lewiston Road) | 📋 Right-of-Way |
-| [U-6018](U-6018.md) | SR 1154 (Kersey Valley Road) to SR 1162 (Weant ... | NC 62 | 📋 Right-of-Way |
+| [U-6018](U-6018.md) | SR 1154 (Kersey Valley Road) to SR 1162 (Weant ... | NC 62 | 🚧 Under Construction |
 | [U-6019](U-6019.md) | SR 2347 (Lake Brandt Road). Construct turn lane... | SR 2334 (Air Harbor Road) | 🚧 Under Construction |
 | [U-6045](U-6045.md) | I-40 to SR 1008 (West Market Street) in Greensb... | SR 1850 (Sandy Ridge R... | 📅 Planned |
 | [U-6100](U-6100.md) | SR 4240 (Gate City Boulevard) to south of I-785... | US 29 / US 70 / US 220 | 📅 Planned |
@@ -148,5 +151,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

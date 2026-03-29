@@ -23,10 +23,10 @@
 | [R-5736](R-5736.md) | SR 1301 (Madison Road) to SR 1408 (Cana Road). ... | US 601 | 📅 Planned |
 | [R-5854](R-5854.md) | US 158 intersection in Mocksville. Construct ro... | SR 1410 (Farmington Road) | 📋 Right-of-Way |
 | [U-6002](U-6002.md) | Yadkinville Road intersection in Mocksville. Co... | Wilkesboro Street | 📋 Right-of-Way |
-| [U-6187](U-6187.md) | SR 1630 (Baltimore Road) to I-40.  . Construct ... | New Route | 📅 Planned |
+| [U-6187](U-6187.md) | SR 1630 (Baltimore Road) to I-40. Construct 2-l... | New Route | 📅 Planned |
 
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

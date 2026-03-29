@@ -15,7 +15,7 @@
 
 | TIP | Description | Route | Status |
 |-----|-------------|-------|--------|
-| [BN-0011](BN-0011.md) | SR 1344 (Cashiers Valley Road) to US 64 in Brev... | Estatoe Trail | 📅 Planned |
+| [BN-0011](BN-0011.md) | SR 1344 (Cashiers Valley Road) to Silversteen D... | Estatoe Trail | 📅 Planned |
 | [EB-5858](EB-5858.md) | City of Brevard existing multi-use path to Hawg... | New Route | 🚧 Under Construction |
 | [HA-0002](HA-0002.md) | Jennings Industrial Park. Construct road extens... | Mountain Industrial Drive | 📋 Right-of-Way |
 | [HB-0026](HB-0026.md) | Bridge 870030 over French Broad River. Replace ... | SR 1533 (Everett Road) | 📅 Planned |
@@ -42,5 +42,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

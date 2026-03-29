@@ -23,8 +23,8 @@
 | [B-6029](B-6029.md) | Bridge 550009 over North Prong Ellijay Creek. R... | SR 1001 (Ellijay Road) | 🚧 Under Construction |
 | [B-6030](B-6030.md) | Bridge 550220 over Matlock Creek. Replace bridge. | SR 1351 (Matlock Creek... | 📋 Right-of-Way |
 | [EB-5756](EB-5756.md) | US 441 Business (East Main Street) to SR 1667 (... | SR 1729 (Depot Street) | 🚧 Under Construction |
-| [EB-5964](EB-5964.md) | US 441 Business (East Main Street) from NC 28 (... | Various | 📅 Planned |
-| [HA-0004](HA-0004.md) | SR 1515 (Hyatt Road) intersection. . Construct ... | US 441 | 🚧 Under Construction |
+| [EB-5964](EB-5964.md) | US 441 Business (E Main Street) from NC 28 (Hig... | Various | 📅 Planned |
+| [HA-0004](HA-0004.md) | SR 1515 (Hyatt Road) intersection. Construct in... | US 441 | 🚧 Under Construction |
 | [HB-0030](HB-0030.md) | Bridge 550055 over Cullasaja River. Replace bri... | SR 1679 (Peeks Creek R... | 📋 Right-of-Way |
 | [HB-0037](HB-0037.md) | Bridge 550056 over Cullasaja River. Replace bri... | SR 1679 (Gold Mine Road) | 📅 Planned |
 | [HF-0006](HF-0006.md) | Dry Falls Recreation Area. Improve parking area... | US 64 | 📅 Planned |
@@ -41,5 +41,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

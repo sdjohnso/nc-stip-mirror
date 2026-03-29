@@ -1,13 +1,13 @@
 # Franklin County - STIP Projects
 
-> **14 projects** in the State Transportation Improvement Program
+> **16 projects** in the State Transportation Improvement Program
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
 | 🚧 Under Construction | 2 |
-| 📅 Planned | 12 |
+| 📅 Planned | 14 |
 
 ## All Projects
 
@@ -22,6 +22,8 @@
 | [HL-0044](HL-0044.md) | Kenmore Avenue to US 401 / NC 56 (Bickett Boule... | SR 1230 (Bunn Road) | 📅 Planned |
 | [P-5753BD](P-5753BD.md) | Various. Holding Avenue grade separation, Elm A... | CXS S Line | 📅 Planned |
 | [P-5753BE](P-5753BE.md) | Various. Construct NC 96 / Main Street bypass g... | CXS S Line | 📅 Planned |
+| [P-5753BF](P-5753BF.md) | Various. SR 1133 (Bert Winston Road) and SR 112... | CXS S Line | 📅 Planned |
+| [P-5753BG](P-5753BG.md) | 🗺️ South Kitrell. Improve roadway. | CXS S Line | 📅 Planned |
 | [R-2814C](R-2814C.md) | 🗺️ NC 96 to SR 1103 (Flat Rock Church Road / Clift... | US 401 | 🚧 Under Construction |
 | [R-2814D](R-2814D.md) | SR 1103 (Flat Rock Church Road / Clifton Pond R... | US 401 | 📅 Planned |
 | [R-3608](R-3608.md) | NC 56 / NC 581 (Nash Street) to SR 1229 (Main S... | US 401 / NC 39 | 📅 Planned |
@@ -40,5 +42,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

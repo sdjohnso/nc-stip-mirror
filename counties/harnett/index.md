@@ -44,7 +44,7 @@
 | [U-5933](U-5933.md) | SR 1117 (Nursery Road) intersection north of Fa... | NC 87 / NC 24 | 🚧 Under Construction |
 | [W-5706L](W-5706L.md) | SR 2084 (Leslies Campbell Avenue) intersection ... | NC 27 / SR 1006 (Old S... | 📋 Right-of-Way |
 | [W-5806B](W-5806B.md) | NC 27 to SR 3242 (Overhills Road); NC 24 / NC 8... | SR 1117 (Nursery Road)... | 🚧 Under Construction |
-| [W-5806D](W-5806D.md) |  SR 1581 (Bailey's Crossroads) / SR 1705 (Fairg... | NC 27 | 🚧 Under Construction |
+| [W-5806D](W-5806D.md) | SR 1581 (Bailey's Crossroads) / SR 1705 (Fairgr... | NC 27 | 🚧 Under Construction |
 
 ## Projects Spanning This County
 
@@ -55,10 +55,10 @@
 | [HP-0020](../cumberland/HP-0020.md) | SR 1117 (Nursery Road) to SR 1451 (Ma... | NC 24 / NC 87 | Cumberland |
 | [I-5986A](../cumberland/I-5986A.md) | I-95 Business / US 301 (Exit 56) to S... | I-95 | Cumberland |
 | [I-5986C](../robeson/I-5986C.md) | South Carolina state line to Virginia... | I-95 | Robeson |
-| [R-5705B](../wake/R-5705B.md) | NC 210 to SR 4809 (Jicarilla Lane).  ... | NC 55 | Wake |
+| [R-5705B](../wake/R-5705B.md) | NC 210 to SR 4809 (Jicarilla Lane). W... | NC 55 | Wake |
 
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

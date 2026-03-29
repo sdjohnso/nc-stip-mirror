@@ -1,6 +1,6 @@
 # Buncombe County - STIP Projects
 
-> **73 projects** in the State Transportation Improvement Program
+> **74 projects** in the State Transportation Improvement Program
 
 ## Summary
 
@@ -9,13 +9,14 @@
 | 🏗️ Active Construction | 3 |
 | 🚧 Under Construction | 22 |
 | 📋 Right-of-Way | 6 |
-| 📅 Planned | 35 |
+| 📅 Planned | 36 |
 | ✅ Completed | 7 |
 
 ## All Projects
 
 | TIP | Description | Route | Status |
 |-----|-------------|-------|--------|
+| [A-0010AA](A-0010AA.md) | N/A. N/A | N/A | 📅 Planned |
 | [AO-0001](AO-0001.md) | Asheville Regional Airport. Modernize building. | AVL | 🚧 Under Construction |
 | [AV-5735](AV-5735.md) | Asheville Regional Airport. Construct runway. | AVL | 🚧 Under Construction |
 | [B-4442](B-4442.md) | Bridges 100370 and 100373 over Reems Creek. Rep... | US 19 / US 23 / US 25 ... | 🚧 Under Construction |
@@ -23,12 +24,12 @@
 | [B-6016](B-6016.md) | Bridge 100142 over Martin Creek. Replace bridge. | SR 2027 (Martins Creek... | 🚧 Under Construction |
 | [B-6018](B-6018.md) | Bridge 100536 over Newfound Creek. Replace bridge. | SR 1296 (Brooks Branch... | 🚧 Under Construction |
 | [BL-0005](BL-0005.md) | US 19/ US 23 northbound exit ramp to north of S... | NC 251 / SR 1781 (Broa... | ✅ Completed |
-| [BL-0076](BL-0076.md) | US 70 to north of the Veterans Affairs Hospital... | Riceville Road | 📅 Planned |
+| [BL-0076](BL-0076.md) | US 70 to north of the Veterans Affairs Hospital... | SR 2002 (Riceville Road) | 📅 Planned |
 | [EB-5822](EB-5822.md) | SR 1477 (Riverside Drive) and SR 1231 (Hill Str... | North Rad Greenway | 📅 Planned |
 | [EB-5944](EB-5944.md) | SR 3548 (Patton Avenue) to Iona Circle in Ashev... | SR 1319 (Johnston Boul... | 📅 Planned |
 | [EB-5947](EB-5947.md) | Beverly Road to SR 2034 (Bell Road) in Ashevill... | SR 2032 (New Haw Creek... | 📅 Planned |
 | [EB-5948](EB-5948.md) | Lincoln Avenue to Raleigh Road in Asheville. Co... | SR 3075 (Onteora Boule... | 🚧 Under Construction |
-| [EB-5965](EB-5965.md) | US 19 / US 23 / US 74A (Patton Avenue) to Westm... | Deaverview Road | 📅 Planned |
+| [EB-5965](EB-5965.md) | US 19 / US 23 / US 74A (Patton Avenue) to Pisga... | Deaverview Road | 📅 Planned |
 | [HE-0001](HE-0001.md) | SR 3865 (Frederick Law Olmstead Way East) inter... | I-26 | 📅 Planned |
 | [HL-0013](HL-0013.md) | Bridge 100522 over Tomahawk Branch in Black Mou... | 9th Street | 📅 Planned |
 | [HL-0014](HL-0014.md) | White Fawn Drive intersection in Asheville. Ins... | SR 3214 (Biltmore Avenue) | 📅 Planned |
@@ -47,7 +48,7 @@
 | [I-4409](I-4409.md) | I-40 grade separation; US 70 to south of I-40; ... | SR 2500 (Blue Ridge Road) | 📅 Planned |
 | [I-4409A](I-4409A.md) | Bridge 100488 over SR 2500 (Blue Ridge Road). R... | I-40 | 📅 Planned |
 | [I-4409B](I-4409B.md) | I-40 grade separation; US 70 to south of I-40; ... | SR 2500 (Blue Ridge Road) | 📅 Planned |
-| [I-4700](I-4700.md) | 🗺️ NC 280 (Exit 40) to I-40 at Asheville. . Constr... | I-26 | 🚧 Under Construction |
+| [I-4700](I-4700.md) | 🗺️ NC 280 (Exit 40) to I-40 at Asheville. Construc... | I-26 | 🚧 Under Construction |
 | [I-4759](I-4759.md) | SR 1228 (Liberty Road). Upgrade grade separatio... | I-40 | 📋 Right-of-Way |
 | [I-4759A](I-4759A.md) | Various locations. Clearing work. | I-40; SR 1228 (Liberty... | 📅 Planned |
 | [I-5504](I-5504.md) | NC 191 (Brevard Road). Upgrade interchange. | I-26 | 🚧 Under Construction |
@@ -70,14 +71,14 @@
 | [U-5019A](U-5019A.md) | Depot Street at Livingston Street Park to south... | Nasty Branch Greenway | 📅 Planned |
 | [U-5019B](U-5019B.md) | French Broad River Park to Haywood Road. Constr... | French Broad River Wes... | 🚧 Under Construction |
 | [U-5019C](U-5019C.md) | Riverside Drive and Lyman Street intersection i... | Wilma Dykeman Riverway | ✅ Completed |
-| [U-5019E](U-5019E.md) | Bridge 110743 over French Broad River. Construc... | SR 3408 (Craven Street) | 📅 Planned |
+| [U-5019E](U-5019E.md) | Bridge 100743 over French Broad River. Construc... | SR 3408 (Craven Street) | 📅 Planned |
 | [U-5832](U-5832.md) | SR 3214 (Biltmore Avenue) to US 74A (South Tunn... | NC 81 (Swannanoa River... | 📅 Planned |
 | [U-5834](U-5834.md) | US 25 (Hendersonville Road) to SR 3157 (Weston ... | SR 3116 (Mills Gap Road) | 📋 Right-of-Way |
 | [U-5971A](U-5971A.md) | NC 63 (New Leicester Highway) intersection in A... | US 19 (Patton Avenue) | 🚧 Under Construction |
 | [U-5971AA](U-5971AA.md) | NC 63 (New Leicester Highway) intersection in A... | US 19 (Patton Avenue) | 🚧 Under Construction |
 | [U-5971B](U-5971B.md) | NC 63 (New Leicester Highway) intersection in A... | US 19 (Patton Avenue) | 📅 Planned |
 | [U-6047](U-6047.md) | NC 191 (Brevard Road) to US 19 / US 23 (Smokey ... | NC 112 (Sardis Road/ S... | 📅 Planned |
-| [U-6163](U-6163.md) | SR 3136 (Cane Creek Road). . Construct roundabout. | SR 3116 (Mills Gap Road) | 📅 Planned |
+| [U-6163](U-6163.md) | SR 3136 (Cane Creek Road). Construct roundabout. | SR 3116 (Mills Gap Road) | 📅 Planned |
 | [U-6230](U-6230.md) | Haakon Industries in Enka Commerce Park. Extend... | SR 3684 (Walk Off Way) | ✅ Completed |
 | [U-6251](U-6251.md) | Hakkon Industries in Enka Commerce Park. Constr... | New Route | 📅 Planned |
 | [U-6251A](U-6251A.md) | US 19 / US 23 (Smokey Park Highway) to Walkoff ... | New Route | 🚧 Under Construction |
@@ -104,5 +105,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

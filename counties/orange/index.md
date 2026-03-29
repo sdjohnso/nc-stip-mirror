@@ -32,10 +32,10 @@
 | [HL-0045](HL-0045.md) | Faribault Lane to US 70 Business (South Churton... | Exchange Park Lane | 📅 Planned |
 | [HO-0013](HO-0013.md) | Merritt Mill Road to Henderson Street, and conn... | SR 1010 (Franklin Stre... | 📅 Planned |
 | [HP-0006](HP-0006.md) | 🗺️ Chapel Hill Carrboro. Implement an improved sig... | Various | 📅 Planned |
-| [HS-2007J](HS-2007J.md) | Critz Drive intersection. . Install pedestrian ... | NC 86 (Martin Luther K... | 🚧 Under Construction |
+| [HS-2007J](HS-2007J.md) | Critz Drive intersection. Install pedestrian im... | NC 86 (Martin Luther K... | 🚧 Under Construction |
 | [I-0305A](I-0305A.md) | 🗺️ West of SR 1006 (Orange Grove Road) in Orange C... | I-85 | 📅 Planned |
 | [I-0305B](I-0305B.md) | SR 1009 (South Churton Street) in Hillsborough.... | I-85 | 📅 Planned |
-| [I-0305C](I-0305C.md) | NC 86 in Hillsborough. Upgrade interchange.  | I-85 | 📅 Planned |
+| [I-0305C](I-0305C.md) | NC 86 in Hillsborough. Upgrade interchange. | I-85 | 📅 Planned |
 | [I-3306A](I-3306A.md) | I-85 interchange in Orange County to Durham Cou... | I-40 | 🚧 Under Construction |
 | [I-3306AC](I-3306AC.md) | I-40 interchange ramps C/D to Northwood Drive i... | NC 86 | 📅 Planned |
 | [I-5958](I-5958.md) | West of SR 1114 (Buckhorn Road) to west of SR 1... | I-40 / I-85 | 📅 Planned |
@@ -53,14 +53,14 @@
 | [U-5304D](U-5304D.md) | NC 54 (Raleigh Road) to SR 1742 (Ephesus Church... | US 15 / US 501 | 📅 Planned |
 | [U-5304E](U-5304E.md) | SR 1902 (Manning Drive) intersection. Convert a... | US 15 / US 501 | 📅 Planned |
 | [U-5304F](U-5304F.md) | 🗺️ SR 1742 (Ephesus Church Road) to I-40. Construc... | US 15 / US 501 | 📅 Planned |
-| [U-5550](U-5550.md) | SR 1742 (Ephesus Church Road) in Chapel Hill. .... | US 15 / US 501 (Fordha... | 🚧 Under Construction |
+| [U-5550](U-5550.md) | SR 1742 (Ephesus Church Road) in Chapel Hill. C... | US 15 / US 501 (Fordha... | 🚧 Under Construction |
 | [U-5774B](U-5774B.md) | 🗺️ West of US 15 / US 501 in Orange County to east... | NC 54 | 📅 Planned |
-| [U-5845](U-5845.md) | I-40 to Eno River in Hillsborough. . Widen to m... | SR 1009 (South Churton... | 📅 Planned |
+| [U-5845](U-5845.md) | I-40 to Eno River in Hillsborough. Widen to mul... | SR 1009 (South Churton... | 📅 Planned |
 | [U-5846](U-5846.md) | SR 1780 (Estes Drive) intersection in Carrboro.... | SR 1772 (Greensboro St... | 🚧 Under Construction |
 | [U-6245](U-6245.md) | SR 1114 (Buckhorn Road) to West of SR 1137 (Bus... | SR 1146 (West Ten Road) | 🚧 Under Construction |
 
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

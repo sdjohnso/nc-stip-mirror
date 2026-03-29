@@ -35,7 +35,7 @@
 | [U-6033](U-6033.md) | SR 1142 (Callico Road) intersection. Upgrade ro... | US 64 / NC 18 | 🚧 Under Construction |
 | [U-6034](U-6034.md) | SR 1109 (Pinewood Road) to SR 1106 (Duke Street... | US 321 Alternate | 📅 Planned |
 | [U-6035](U-6035.md) | Grace Chapel Road / Campground Road / SR 1752 (... | SR 1002 (Dudley Shoals... | 📋 Right-of-Way |
-| [U-6036](U-6036.md) | US 321 to SR 1931 (Bert Huffman Road).  . Upgra... | SR 1109 (Pinewood Road) | 📋 Right-of-Way |
+| [U-6036](U-6036.md) | US 321 to SR 1931 (Bert Huffman Road). Upgrade ... | SR 1109 (Pinewood Road) | 📋 Right-of-Way |
 | [U-6157](U-6157.md) | SR 1001 (Connelly Springs Road) to US 321 Alter... | SR 1130 (Cajah Mountai... | 📋 Right-of-Way |
 | [U-6161](U-6161.md) | SR 1002 (Dudley Shoals Road) grade separation. ... | US 321 | 📅 Planned |
 
@@ -51,5 +51,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

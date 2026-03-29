@@ -1,6 +1,6 @@
 # Johnston County - STIP Projects
 
-> **53 projects** in the State Transportation Improvement Program
+> **52 projects** in the State Transportation Improvement Program
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | 🏗️ Active Construction | 5 |
 | 🚧 Under Construction | 10 |
 | 📋 Right-of-Way | 8 |
-| 📅 Planned | 30 |
+| 📅 Planned | 29 |
 
 ## All Projects
 
@@ -49,7 +49,6 @@
 | [R-5829B](R-5829B.md) | West of SR 2372 (Edwards Road / North Pearl Str... | US 70 | 📅 Planned |
 | [R-5950](R-5950.md) | Airport Industrial Drive to just north of Johns... | SR 1501 (Swift Creek R... | 📅 Planned |
 | [RC-2004B](RC-2004B.md) | CSX Crossing 629 950L. Close SR 2383 (Preston S... | SR 2383 (Preston Street) | 📅 Planned |
-| [RX-2004C](RX-2004C.md) | CSX Crossing 629731X near Benson. Install activ... | SR 1357 (Gilbert Road) | 📅 Planned |
 | [RX-2004D](RX-2004D.md) | CSX Crossing 629739C in Benson. Construct safet... | Parrish Drive | 📅 Planned |
 | [RX-2004G](RX-2004G.md) | CSX Crossing 629943B in Micro. Construct safety... | SR 2130 (Main Street) | 📅 Planned |
 | [RX-2004H](RX-2004H.md) | Norfolk Southern Crossing 735396M in Clayton. C... | SR 1709 (Stallings Str... | 📅 Planned |
@@ -61,13 +60,13 @@
 | [U-5726](U-5726.md) | SR 1623 (Booker Dairy Road) to SR 2302 (Ricks R... | US 301 / NC 39 / NC 96 | 📅 Planned |
 | [U-5943](U-5943.md) | Routes in Clayton. Upgrade signal system. | Various | 📋 Right-of-Way |
 | [U-5998](U-5998.md) | SR 1003 (Buffalo Road) to Wilson County line. M... | NC 42 | 📅 Planned |
-| [U-6203](U-6203.md) | NC 50 to SR 1330 (Raleigh Road).  . Construct r... | NC 210 | 📅 Planned |
-| [U-6208](U-6208.md) | SR 1010 (Cleveland Road) to NC 42. . Construct ... | New Route | 📅 Planned |
+| [U-6203](U-6203.md) | NC 50 to SR 1330 (Raleigh Road). Construct redu... | NC 210 | 📅 Planned |
+| [U-6208](U-6208.md) | SR 1010 (Cleveland Road) to NC 42. Construct ro... | New Route | 📅 Planned |
 | [U-6216](U-6216.md) | North of SR 2231 (Southfort Drive) to SR 1555 (... | SR 1010 (Cleveland Road) | 📅 Planned |
 | [U-6223](U-6223.md) | US 70 Business / NC 42 to SR 1560 (Ranch Road) ... | SR 1560 (Ranch Road Ex... | 🚧 Under Construction |
 | [W-5204E](W-5204E.md) | SR 1525 (Cornwallis Road) intersection. Install... | SR 1524 (Old Drug Stor... | 📋 Right-of-Way |
 | [W-5600](W-5600.md) | US 70 Business to Neuse River Bridge. Construct... | US 70 (Future I-42) | 🚧 Under Construction |
-| [W-5704E](W-5704E.md) | East of SR 1003 (Buffalo Road) to west of SR 26... | SR 1700 (Covered Bridg... | 📋 Right-of-Way |
+| [W-5704E](W-5704E.md) | West of SR 2685 (Helena Lane)  to east of SR 10... | SR 1700 (Covered Bridg... | 📋 Right-of-Way |
 
 ## Projects Spanning This County
 
@@ -88,5 +87,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

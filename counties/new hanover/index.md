@@ -20,7 +20,7 @@
 | [AV-5885](AV-5885.md) | Wilmington International Airport. Rehabilitate ... | ILM | 📅 Planned |
 | [BL-0045](BL-0045.md) | 3rd Street to Love Grove Bridge multi-use path ... | Wilmington Rail Trail | 📅 Planned |
 | [BL-0059](BL-0059.md) | Fort Fisher and North 3rd Street intersections ... | SR 1573 (K Avenue) | 📅 Planned |
-| [BL-0075](BL-0075.md) | Along US 76 (Causeway Drive) and US 74 (West Sa... |  US 76 (Causeway Drive... | 📅 Planned |
+| [BL-0075](BL-0075.md) | Along US 76 (Causeway Drive) and US 74 (West Sa... | US 76 (Causeway Drive)... | 📅 Planned |
 | [EB-5600](EB-5600.md) | Harbour Drive to Shipyard Boulevard in Wilmingt... | SR 1219 (South 17th St... | 📋 Right-of-Way |
 | [EB-6027](EB-6027.md) | South of Market Street from Red Cedar Road to e... | SR 1403 (Middle Sound ... | 📋 Right-of-Way |
 | [EB-6028](EB-6028.md) | 21st Street in Wilmington. Construct signalized... | US 17 Business (Market... | 🚧 Under Construction |
@@ -71,7 +71,7 @@
 | [U-5710A](U-5710A.md) | SR 1409 (Military Cutoff Road) at Drysdale Driv... | New Location | 🚧 Under Construction |
 | [U-5729REG](U-5729REG.md) | US 421 (Burnett Boulevard) to US 117 (Shipyard ... | US 421 | 📅 Planned |
 | [U-5729SW](U-5729SW.md) | US 117 (Shipyard Boulevard) intersection in Wil... | US 421 | 📅 Planned |
-| [U-5731](U-5731.md) | US 17 / US 421 in Wilmington. . Construct a fly... | US 74 | 📅 Planned |
+| [U-5731](U-5731.md) | US 17 / US 421 in Wilmington. Construct a fly-o... | US 74 | 📅 Planned |
 | [U-5734](U-5734.md) | US 17 Business / US 76 / US 421 (Cape Fear Memo... | US 421 (South Front St... | 📅 Planned |
 | [U-5790](U-5790.md) | NC 132 (South College Road) to Sanders Road in ... | US 421 (Carolina Beach... | 📅 Planned |
 | [U-5792](U-5792.md) | US 17 Business (Market Street) to SR 2048 (Gord... | US 117 / NC 132 (Colle... | 📅 Planned |
@@ -89,12 +89,11 @@
 
 | TIP | Description | Route | Primary County |
 |-----|-------------|-------|----------------|
-| [F-5707](../brunswick/F-5707.md) | South Port Ferry Terminal . Construct... | South Port to For... | Brunswick |
 | [R-2633D](../brunswick/R-2633D.md) | US 17 south of NC 87 in Brunswick Cou... | I-140/US 17 (Wilm... | Brunswick |
 | [R-3300A](../pender/R-3300A.md) | US 17 Bypass south of Hampstead to NC... | US 17 | Pender |
 
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

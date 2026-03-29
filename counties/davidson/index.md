@@ -1,6 +1,6 @@
 # Davidson County - STIP Projects
 
-> **25 projects** in the State Transportation Improvement Program
+> **24 projects** in the State Transportation Improvement Program
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | 🚧 Under Construction | 8 |
 | 📋 Right-of-Way | 2 |
 | 📅 Planned | 13 |
-| ✅ Completed | 2 |
+| ✅ Completed | 1 |
 
 ## All Projects
 
@@ -17,7 +17,6 @@
 |-----|-------------|-------|--------|
 | [AV-5831](AV-5831.md) | Davidson County Airport. Upgrade and strengthen... | EXX | 🚧 Under Construction |
 | [AV-5900](AV-5900.md) | Davidson County Airport. Upgrade taxiway and ap... | EXX | 🚧 Under Construction |
-| [B-3159](B-3159.md) | Bridge 280027 over US 29 / US 64 / US 70 / I-85... | NC 8 | ✅ Completed |
 | [B-5779](B-5779.md) | Bridge 280118 over SR 3346 (North Main Street) ... | US 29 NB / US 64 EB / ... | 📅 Planned |
 | [B-5783](B-5783.md) | Bridges 280164 and 280168 over Norfolk Southern... | US 29 / US 70 / Busine... | 🚧 Under Construction |
 | [HE-0008](HE-0008.md) | Across from SR 2112 (Decker Road). Extend left ... | US 64 | 🚧 Under Construction |
@@ -33,7 +32,7 @@
 | [P-5722](P-5722.md) | Kimberly Clark in Lexington. Construct lead. | Norfolk Southern | 📅 Planned |
 | [P-5731](P-5731.md) | Crossing 722306Y (East 7th avenue) in Lexington... | Norfolk Southern | 📋 Right-of-Way |
 | [P-5732](P-5732.md) | Lexington train station. Construct track improv... | North Carolina Railroad | 📅 Planned |
-| [P-5751](P-5751.md) | SR 2165 (Turner Street) in Thomasville. . Const... | North Carolina Railroa... | 📅 Planned |
+| [P-5751](P-5751.md) | SR 2165 (Turner Street) in Thomasville. Constru... | North Carolina Railroa... | 📅 Planned |
 | [R-5737](R-5737.md) | SR 1798 (Old Greensboro Road) intersection near... | US 29 / US 70 / BUSINE... | 🚧 Under Construction |
 | [RX-2009A](RX-2009A.md) | Crossing 849955C in Denton. Construct safety im... | LS (First Street) | 📅 Planned |
 | [RX-2409A](RX-2409A.md) | WSS Crossing 849835L in Southmont. Improve cros... | SR 1101 (Wildlife Recr... | 📅 Planned |
@@ -53,5 +52,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

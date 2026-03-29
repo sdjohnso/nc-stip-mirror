@@ -46,7 +46,7 @@
 | [I-5719C](I-5719C.md) | South Carolina state line to NC 273. Piedmont N... | I-85 | 📅 Planned |
 | [I-5719FA](I-5719FA.md) | US 321 to NC 7 (McAdenville Road / Main Street)... | I-85 | 📅 Planned |
 | [I-5719FB](I-5719FB.md) | NC 7 (McAdenville Road / Main Street) to NC 273... | I-85 | 📅 Planned |
-| [I-5719FD](I-5719FD.md) | 🗺️ South Carolina state line to NC 273. . Implemen... | I-85 | 📅 Planned |
+| [I-5719FD](I-5719FD.md) | 🗺️ South Carolina state line to NC 273. Implement ... | I-85 | 📅 Planned |
 | [I-5921](I-5921.md) | Cleveland County line to mile marker 14.0. Reha... | I-85 | 📅 Planned |
 | [RX-2012H](RX-2012H.md) | Norfolk Southern Crossing 729966J in Gastonia. ... | SR 2412 (Little Mounta... | 📅 Planned |
 | [U-2523B](U-2523B.md) | North of SR 2275 (Robinson-Clemmer Road) to wes... | NC 279 | 📅 Planned |
@@ -62,7 +62,7 @@
 | [U-6078](U-6078.md) | NC 274 and SR 1327 (Fairview Road) intersection... | NC 275; SR 1327 (Fairv... | 📅 Planned |
 | [U-6138](U-6138.md) | US 29 / US 74 (Franklin Boulevard) intersection... | NC 279 (North New Hope... | 📅 Planned |
 | [U-6143](U-6143.md) | US 74 (Wilkinson Boulevard) intersection in Bel... | NC 7 (East Catawba Str... | 📋 Right-of-Way |
-| [U-6146](U-6146.md) | Market Street to SR 2015 (Alberta Avenue).  . W... | US 29 / US 74 (Wilkins... | 📋 Right-of-Way |
+| [U-6146](U-6146.md) | Market Street to SR 2015 (Alberta Avenue). Wide... | US 29 / US 74 (Wilkins... | 📋 Right-of-Way |
 | [W-5212N](W-5212N.md) | South of SR 1438 (St. Mark's Church Road) to no... | NC 279 (Dallas Cherryv... | ✅ Completed |
 
 ## Projects Spanning This County
@@ -73,11 +73,10 @@
 |-----|-------------|-------|----------------|
 | [HO-0002](../columbus/HO-0002.md) | I-40 in Asheville to I-140 in Wilming... | US 74 | Columbus |
 | [HO-0002A](../cleveland/HO-0002A.md) | I-40 in Asheville to I-77 at I-485 (s... | U 74 | Cleveland |
-| [I-5719FC](../cleveland/I-5719FC.md) | South Carolina state line to US 74. .... | I-85 | Cleveland |
-| [W-5712U](../cleveland/W-5712U.md) | Mile marker 19.3 to Gaston County lin... | NC 150 | Cleveland |
+| [I-5719FC](../cleveland/I-5719FC.md) | South Carolina state line to US 74. I... | I-85 | Cleveland |
 
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

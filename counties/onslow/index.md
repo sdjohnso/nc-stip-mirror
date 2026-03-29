@@ -7,8 +7,8 @@
 | Status | Count |
 |--------|-------|
 | 🚧 Under Construction | 8 |
-| 📋 Right-of-Way | 9 |
-| 📅 Planned | 21 |
+| 📋 Right-of-Way | 10 |
+| 📅 Planned | 20 |
 | ✅ Completed | 5 |
 
 ## All Projects
@@ -20,7 +20,7 @@
 | [AV-5805](AV-5805.md) | Albert J. Ellis Airport. Acquire land for highw... | OAJ | 📋 Right-of-Way |
 | [AV-5806](AV-5806.md) | Albert J. Ellis Airport. Extend runway 23 and t... | OAJ | 📅 Planned |
 | [B-5944](B-5944.md) | Bridge 660077 over Queen's Creek. Replace bridge. | SR 1509 (Queens Creek ... | 📅 Planned |
-| [BL-0073](BL-0073.md) | South Onsville Drive intersection to north Onsv... | SR 1308 (Gum Branch Road) | 📅 Planned |
+| [BL-0073](BL-0073.md) | Nottingham Road to north Onsville Drive interse... | SR 1308 (Gum Branch Road) | 📅 Planned |
 | [EB-6012](EB-6012.md) | Chaney Avenue to Wardola Drive in Jacksonville.... | Downtown Greenway | 🚧 Under Construction |
 | [HS-2003AA](HS-2003AA.md) | Brynn Marr Road intersection. Upgrade traffic s... | SR 1308 (Bell Fork Road) | 📋 Right-of-Way |
 | [HS-2003AB](HS-2003AB.md) | Nautical Wave Road to SR 1744 (Hubert Boulevard... | SR 1428 (Riggs Road) | 📅 Planned |
@@ -35,9 +35,9 @@
 | [TD-4904](TD-4904.md) | Systemwide. Funding for downtown transit center. | Jacksonville Transit | 📅 Planned |
 | [U-4007E](U-4007E.md) | US 17 (Marine Boulevard) to SR 2716 (Exchange D... | NC 53 | 📅 Planned |
 | [U-4906](U-4906.md) | West of SR 1313 (Mills Fields Road) to east of ... | SR 1308 (Gum Branch Road) | 🚧 Under Construction |
-| [U-5508](U-5508.md) | NC 53 (Western Boulevard) in Jacksonville. . Up... | NC 24 (Lejeune Boulevard) | 📅 Planned |
-| [U-5716](U-5716.md) | US 258 (Richlands Highway) intersection in Jack... | NC 24 | 📅 Planned |
-| [U-5728](U-5728.md) | SR 1308 (Bell Fork Road) in Jacksonville. . Con... | US 17 Business (Marine... | 📋 Right-of-Way |
+| [U-5508](U-5508.md) | NC 53 (Western Boulevard) in Jacksonville. Upgr... | NC 24 (Lejeune Boulevard) | 📅 Planned |
+| [U-5716](U-5716.md) | US 258 (Richlands Highway) intersection in Jack... | NC 24 | 📋 Right-of-Way |
+| [U-5728](U-5728.md) | SR 1308 (Bell Fork Road) in Jacksonville. Const... | US 17 Business (Marine... | 📋 Right-of-Way |
 | [U-5735](U-5735.md) | SR 1130 (Old Maplehurst Road) in Jacksonville. ... | US 17 (Wilmington High... | 📅 Planned |
 | [U-5735A](U-5735A.md) | MCAS New River Main Gate. Improve roadway to Do... | US 17 (Wilmington High... | ✅ Completed |
 | [U-5736](U-5736.md) | US 17 (Marine Boulevard) to NC 24 (Lejeune Boul... | NC 53 (Western Boulevard) | 📅 Planned |
@@ -46,13 +46,13 @@
 | [U-5789](U-5789.md) | SR 2714 (Jacksonville Parkway) intersection in ... | NC 53 (Western Boulevard) | 📋 Right-of-Way |
 | [U-5791A](U-5791A.md) | NC 53 (Western Boulevard) to SR 1324 (Ramsey Ro... | SR 2714 (Jacksonville ... | 📅 Planned |
 | [U-5791B](U-5791B.md) | SR 1324 (Ramsey Road) to US 17 (New Bern Highwa... | SR 2714 (Jacksonville ... | 📅 Planned |
-| [U-5878](U-5878.md) | Commerce Drive to SR 1406 (Piney Green Road).  ... | Commerce Drive Extension | 🚧 Under Construction |
+| [U-5878](U-5878.md) | Commerce Drive to SR 1406 (Piney Green Road). C... | Commerce Drive Extension | 🚧 Under Construction |
 | [U-5903](U-5903.md) | SR 1308 (Gum Branch Road) to NC 53 (Western Bou... | SR 1336 (Henderson Road) | 📅 Planned |
 | [U-5949](U-5949.md) | US 17 to south of SR 1518 (Old Folkstone Road).... | NC 210 | 📅 Planned |
 | [U-5950](U-5950.md) | SR 1336 (Henderson Drive) intersection in Jacks... | US 17 Business (Marine... | 📋 Right-of-Way |
 | [U-5951](U-5951.md) | US 17 Business (Marine Boulevard) intersection ... | US 17 | 📅 Planned |
-| [U-6065](U-6065.md) | NC 172 (Sneads Ferry Road / SR 1518 (Old Folkst... | US 17 | 📅 Planned |
-| [U-6082](U-6082.md) | SR 1403 (Country Club Road / Hargett Street).  ... | SR 1308 (Bell Fork Road) | 📅 Planned |
+| [U-6065](U-6065.md) | NC 172 (Sneads Ferry Road) and SR 1518 (Old Fol... | US 17 | 📅 Planned |
+| [U-6082](U-6082.md) | SR 1403 (Country Club Road / Hargett Street). C... | SR 1308 (Bell Fork Road) | 📅 Planned |
 | [W-5203U](W-5203U.md) | SR 1336 (Henderson Drive) intersection in Jacks... | NC 53 (Western Boulevard) | 🚧 Under Construction |
 | [W-5602](W-5602.md) | Camp Lejeune Gate to NC 210. Upgrade two lane r... | NC 172 | ✅ Completed |
 | [W-5803C](W-5803C.md) | SR 1402 (Old Bridge Street) intersection. Upgra... | US 17 Business (Marine... | 🚧 Under Construction |
@@ -70,5 +70,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

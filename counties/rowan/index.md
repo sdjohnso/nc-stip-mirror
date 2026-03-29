@@ -1,6 +1,6 @@
 # Rowan County - STIP Projects
 
-> **38 projects** in the State Transportation Improvement Program
+> **39 projects** in the State Transportation Improvement Program
 
 ## Summary
 
@@ -8,7 +8,7 @@
 |--------|-------|
 | 🚧 Under Construction | 9 |
 | 📋 Right-of-Way | 2 |
-| 📅 Planned | 24 |
+| 📅 Planned | 25 |
 | ✅ Completed | 3 |
 
 ## All Projects
@@ -28,9 +28,10 @@
 | [HL-0005](HL-0005.md) | Locations in Salisbury. Upgrade signal System. | Various | 📅 Planned |
 | [HL-0049](HL-0049.md) | US 70 / US 601 (Jake Alexander Boulevard) to Mi... | Brenner Avenue | 📅 Planned |
 | [HL-0064](HL-0064.md) | Kerr Street to Horah Street in Salisbury. Const... | US 29 (Main Street) | 📅 Planned |
+| [HL-0176](HL-0176.md) | I-85. Construct interchange ramps. | McCanless Road | 📅 Planned |
 | [HP-0028](HP-0028.md) | SR 1509 (Miller Road) intersection in China Gro... | NC 152 | 📅 Planned |
 | [HP-0029](HP-0029.md) | SR 1526 (Rowan Mill Road) and SR 1526 (Sherrill... | NC 150 | 📅 Planned |
-| [HS-2009D](HS-2009D.md) | Morlan Park Road intersection. . Install concre... | SR 1007 (Jake Alexande... | 🚧 Under Construction |
+| [HS-2009D](HS-2009D.md) | Morlan Park Road intersection. Install concrete... | SR 1007 (Jake Alexande... | 🚧 Under Construction |
 | [HS-2009E](HS-2009E.md) | Jake Alexander Boulevard in Salisbury to the Ca... | SR 1002 (Old Concord R... | 📅 Planned |
 | [HS-2009I](HS-2009I.md) | NC 153 intersection near China Grove. Construct... | NC 152 | 📅 Planned |
 | [I-3802B](I-3802B.md) | SR 2180 (Lane Street) in Cabarrus County to US ... | I-85 | ✅ Completed |
@@ -65,5 +66,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

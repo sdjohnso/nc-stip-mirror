@@ -62,7 +62,7 @@
     },
     "AV-5731": {
       "county": "cabarrus",
-      "description": "Concord-Padgett Regional Airport. Expand south development area apron."
+      "description": "Concord-Padgett Regional Airport. Expand commercial terminal apron."
     },
     "AV-5733": {
       "county": "onslow",
@@ -284,10 +284,6 @@
       "county": "dare",
       "description": "Rodanthe. Improve NC 12."
     },
-    "B-3159": {
-      "county": "davidson",
-      "description": "Bridge 280027 over US 29 / US 64 / US 70 / I-85 Business in Lexington. Replace bridge."
-    },
     "B-3186": {
       "county": "haywood",
       "description": "Bridges 430155 and 430158 over Richland Creek. Replace bridges."
@@ -354,7 +350,7 @@
     },
     "B-4844": {
       "county": "wayne",
-      "description": "Bridge 950117 over Northeast Cape Fear River. . Replace bridge."
+      "description": "Bridge 950117 over Northeast Cape Fear River. Replace bridge."
     },
     "B-4863": {
       "county": "carteret",
@@ -392,10 +388,6 @@
       "county": "forsyth",
       "description": "Bridge 330296 over Norfolk Southern Railway in Winston-Salem. Replace bridge."
     },
-    "B-5121": {
-      "county": "wake",
-      "description": "Bridge 910227 over Peace Street and bridge 910213 over US 401 (Capital Boulevard) in Raleigh. . Replace bridges and revise interchange at Peace Street."
-    },
     "B-5123": {
       "county": "cabarrus",
       "description": "Bridges 120014 and 120019 over Rocky River and Access Road. Replace bridges."
@@ -432,17 +424,9 @@
       "county": "guilford",
       "description": "Bridge 400299 over South Buffalo Creek in Greensboro. Replace bridge."
     },
-    "B-5375": {
-      "county": "cabarrus",
-      "description": "Bridge 120137 over Dutch Buffalo Creek. Replace bridge."
-    },
     "B-5376": {
       "county": "union",
       "description": "Bridge 890021 over Stewarts Creek. Replace bridge."
-    },
-    "B-5503": {
-      "county": "martin",
-      "description": "Bridge 570053 over Collie Swamp. Replace bridge."
     },
     "B-5541": {
       "county": "haywood",
@@ -519,10 +503,6 @@
     "B-5713": {
       "county": "guilford",
       "description": "Bridge 400352 over I-40 / Business 85 in Greensboro. Replace bridge."
-    },
-    "B-5715": {
-      "county": "rockingham",
-      "description": "Bridge 780017 over Haw River. Replace bridge."
     },
     "B-5716": {
       "county": "rockingham",
@@ -732,17 +712,9 @@
       "county": "franklin",
       "description": "Bridge 340078 over Tar River. Replace bridge."
     },
-    "B-6004": {
-      "county": "bladen",
-      "description": "Bridge 080197 over Kelly Canal. Replace bridge."
-    },
     "B-6005": {
       "county": "harnett",
       "description": "Bridge 420234 over Barbeque Swamp. Replace bridge."
-    },
-    "B-6006": {
-      "county": "columbus",
-      "description": "Bridge 230313 over Boogy Branch. Replace bridge."
     },
     "B-6008": {
       "county": "bladen",
@@ -928,6 +900,10 @@
       "county": "nash",
       "description": "Bridge 630224 over I-95. Replace bridge."
     },
+    "BR-0077": {
+      "county": "guilford",
+      "description": "Bridge 400131. Replace bridge."
+    },
     "BR-0081": {
       "county": "guilford",
       "description": "Bridges 400283 and 400342 over US 29 / US 70 / US 220. Replace bridge."
@@ -942,7 +918,7 @@
     },
     "BR-0111": {
       "county": "edgecombe",
-      "description": "Bridges 320003, 320004, and 320005 over Swift Creek. . Replace bridges."
+      "description": "Bridges 320003, 320004, and 320005 over Swift Creek. Replace bridges."
     },
     "BR-0112": {
       "county": "edgecombe",
@@ -1066,7 +1042,7 @@
     },
     "C-5200": {
       "county": "iredell",
-      "description": "NC 150 intersection in Mooresville. . Construct southbound right turn lane on NC 115 and westbound shared through-right lane on NC 150."
+      "description": "NC 150 intersection in Mooresville. Construct southbound right turn lane on NC 115 and westbound shared through-right lane on NC 150."
     },
     "C-5534": {
       "county": "mecklenburg",
@@ -1074,7 +1050,7 @@
     },
     "C-5538": {
       "county": "mecklenburg",
-      "description": "Berryhill Road / Thrift Road intersection in Charlotte. . Construct a roundabout."
+      "description": "Berryhill Road / Thrift Road intersection in Charlotte. Construct a roundabout."
     },
     "C-5546": {
       "county": "nash",
@@ -1094,7 +1070,7 @@
     },
     "C-5701": {
       "county": "iredell",
-      "description": "NC 150 intersection in Mooresville. . Construct intersection improvements."
+      "description": "NC 150 intersection in Mooresville. Construct intersection improvements."
     },
     "EB-5619A": {
       "county": "rowan",
@@ -1148,17 +1124,13 @@
       "county": "carteret",
       "description": "Cedar Island to Ocracoke Ferry. Replace M/V Silver Lake Sound Class Ferry."
     },
-    "F-5707": {
-      "county": "brunswick",
-      "description": "South Port Ferry Terminal . Construct mooring facilities."
-    },
     "FO-0001": {
       "county": "craven",
       "description": "Maintenance depot. Planning and design study."
     },
     "HA-0004": {
       "county": "macon",
-      "description": "SR 1515 (Hyatt Road) intersection. . Construct intersection improvements and right-in / right-out at Ingles Development site."
+      "description": "SR 1515 (Hyatt Road) intersection. Construct intersection improvements and right-in / right-out at Ingles Development site."
     },
     "HB-0001": {
       "county": "tyrrell",
@@ -1278,7 +1250,7 @@
     },
     "HB-0036": {
       "county": "forsyth",
-      "description": "Bridge 330244 over US 52( Future I-285) / NC 8 in Winston-Salem. Replace bridge."
+      "description": "Bridge 330390 over rail corridor and Bridge 330244 over US 52( Future I-285) / NC 8 in Winston-Salem. Replace bridge."
     },
     "HB-0037": {
       "county": "macon",
@@ -1290,7 +1262,7 @@
     },
     "HB-0039": {
       "county": "new hanover",
-      "description": "Bridge 640013 (Cape Fear Memorial Bridge) over Cape Fear River. . Replace bridge. This is a toll project. Wilmington MPO approved toll project in May 2025.  Toll status dependent on statutory amendment."
+      "description": "Bridge 640013 (Cape Fear Memorial Bridge) over Cape Fear River. Replace bridge. This is a toll project. Wilmington MPO approved toll project in May 2025.  Toll status dependent on statutory amendment."
     },
     "HB-0040": {
       "county": "new hanover",
@@ -1450,7 +1422,11 @@
     },
     "HE-0016": {
       "county": "brunswick",
-      "description": "Along north side of US 74 east of Brunswick County line. . Construct road on new location and intersecting roads with US 74 on east and west termini."
+      "description": "0.5 miles east of Brunswick County line to 1.5 miles east of Brunswick County line on US 74. Construct road on new location and intersecting roads with US 74 on east and west termini."
+    },
+    "HE-0019": {
+      "county": "guilford",
+      "description": "Guilford County. NC 61 road widening, turn lanes and installation of two signals. NCDOT will add a right turn lane on the I-40 / I-85 north-bound exit ramp plus signal modifications and install left turn lane on I-40 / I-85 south-bound exit ramp and add signal."
     },
     "HF-0005": {
       "county": "clay",
@@ -1474,7 +1450,7 @@
     },
     "HL-0007": {
       "county": "wake",
-      "description": "SR 1191 (Technology Drive) / SR 6107 (East Williams Street) intersection in Apex. Upgrade intersection to interchange or alternative intersection."
+      "description": "SR 1191 (Technology Drive) / SR 6107 (East Williams Street) intersection in Apex. Upgrade intersection to reduced conflict intersection."
     },
     "HL-0008C": {
       "county": "wake",
@@ -1550,7 +1526,7 @@
     },
     "HL-0041": {
       "county": "wake",
-      "description": "US 401 (South Main Street) intersection in Fuquay-Varina. . Construct turn lanes."
+      "description": "US 401 (South Main Street) intersection in Fuquay-Varina. Construct turn lanes."
     },
     "HL-0042": {
       "county": "wake",
@@ -1566,7 +1542,7 @@
     },
     "HL-0055": {
       "county": "union",
-      "description": "SR 1358 (Forest Lawn Drive) intersection in Weddington. . Construct intersection improvements."
+      "description": "SR 1358 (Forest Lawn Drive) intersection in Weddington. Construct intersection improvements."
     },
     "HL-0059": {
       "county": "forsyth",
@@ -1604,10 +1580,6 @@
       "county": "wake",
       "description": "Mount Vernon Church Road intersection in Raleigh. Construct intersection improvements."
     },
-    "HL-0125": {
-      "county": "forsyth",
-      "description": "Holder Road intersection in Clemmons. Install traffic signal."
-    },
     "HL-0127": {
       "county": "johnston",
       "description": "SR 1553 (Shotwell Road) intersection in Clayton. Construct intersection improvements."
@@ -1642,7 +1614,35 @@
     },
     "HL-0158": {
       "county": "union",
-      "description": "SR 1307 (Waxhaw-Marvin Road) to NC 16 in Waxhaw. . Extend roadway."
+      "description": "SR 1307 (Waxhaw-Marvin Road) to NC 16 in Waxhaw. Extend roadway."
+    },
+    "HL-0168": {
+      "county": "guilford",
+      "description": "Bridge #400462. Rehabilitate bridge."
+    },
+    "HL-0171": {
+      "county": "wake",
+      "description": "Piney Grove Wilbon. Construct left turn lanes on all four approaches."
+    },
+    "HL-0172": {
+      "county": "wake",
+      "description": "South Main Street. Operational improvements. Install traffic signal, curb and gutter, sidepath, and ADA-compliant ramps."
+    },
+    "HL-0173": {
+      "county": "wake",
+      "description": "Apex Barbecue Road. Add westbound turn lane, signalize, realign curve, complete sidewalk gap, and add pedestrian accomodations at intersection."
+    },
+    "HL-0176": {
+      "county": "rowan",
+      "description": "I-85. Construct interchange ramps."
+    },
+    "HL-0177": {
+      "county": "cabarrus",
+      "description": "SR 1442 (Windy Road) intersection in Concord. Construct roundabout"
+    },
+    "HL-0178": {
+      "county": "cabarrus",
+      "description": "SR 1414 (Rock Hill Church Road) intersection in Concord. Construct roundabout"
     },
     "HM-0002": {
       "county": "wake",
@@ -1714,15 +1714,15 @@
     },
     "HO-0001": {
       "county": "wake",
-      "description": "-. NCDOT multi-modal connected vehicle pilot program."
+      "description": "- NCDOT multi-modal connected vehicle pilot program."
     },
     "HO-0001AA": {
       "county": "wake",
-      "description": "-. NCDOT multi-modal connected vehicle infrastructure, connected vehicle applications, traffic signal improvements, project management."
+      "description": "- NCDOT multi-modal connected vehicle infrastructure, connected vehicle applications, traffic signal improvements, project management."
     },
     "HO-0001AB": {
       "county": "wake",
-      "description": "-. Install fiber optic cable."
+      "description": "- Install fiber optic cable."
     },
     "HO-0021": {
       "county": "robeson",
@@ -1758,7 +1758,7 @@
     },
     "HP-0032": {
       "county": "wake",
-      "description": "SR 1010 (Ten Ten Road) interchange.  . Reconstruct interchange."
+      "description": "SR 1010 (Ten Ten Road) interchange. Reconstruct interchange."
     },
     "HS-2001A": {
       "county": "currituck",
@@ -1934,7 +1934,7 @@
     },
     "HS-2003C": {
       "county": "duplin",
-      "description": "SR 1534 (Drummersville Road) intersection. Install all way stop. "
+      "description": "SR 1534 (Drummersville Road) intersection. Install all way stop."
     },
     "HS-2003F": {
       "county": "pender",
@@ -1962,7 +1962,7 @@
     },
     "HS-2003M": {
       "county": "duplin",
-      "description": "SR 1173 (Southerland Street) intersection in Wallace. . Revise traffic signal."
+      "description": "SR 1173 (Southerland Street) intersection in Wallace. Revise traffic signal."
     },
     "HS-2003N": {
       "county": "duplin",
@@ -2010,7 +2010,7 @@
     },
     "HS-2003Y": {
       "county": "new hanover",
-      "description": "SR 2313 (Wilshire Boulevard) intersection in Wilmington. . Install pedestrian countdown heads."
+      "description": "SR 2313 (Wilshire Boulevard) intersection in Wilmington. Install pedestrian countdown heads."
     },
     "HS-2003Z": {
       "county": "new hanover",
@@ -2030,7 +2030,7 @@
     },
     "HS-2004C": {
       "county": "wayne",
-      "description": "SR 1545 (Mt. Carmel Church Road) intersection . Install all way stop. "
+      "description": "SR 1545 (Mt. Carmel Church Road) intersection. Install all way stop."
     },
     "HS-2004D": {
       "county": "wayne",
@@ -2050,7 +2050,7 @@
     },
     "HS-2004H": {
       "county": "nash",
-      "description": "SR 1717 (Macedonia Road / Sandy Cross Road) intersection. Install all way stop. "
+      "description": "SR 1717 (Macedonia Road / Sandy Cross Road) intersection. Install all way stop."
     },
     "HS-2004I": {
       "county": "wayne",
@@ -2082,19 +2082,19 @@
     },
     "HS-2005A": {
       "county": "granville",
-      "description": "SR 1207 (Spring Street) intersection in Oxford. . Construct mini-roundabout."
+      "description": "SR 1207 (Spring Street) intersection in Oxford. Construct mini-roundabout."
     },
     "HS-2005C": {
       "county": "durham",
-      "description": "NC 55 intersection in Durham. . Install concrete pedestrian refuge islands in all quadrants."
+      "description": "NC 55 intersection in Durham. Install concrete pedestrian refuge islands in all quadrants."
     },
     "HS-2005D": {
       "county": "durham",
-      "description": "SR 1116 (Garrett Road) / Luna Lane intersection in Durham. . Install traffic signal."
+      "description": "SR 1116 (Garrett Road) / Luna Lane intersection in Durham. Install traffic signal."
     },
     "HS-2005E": {
       "county": "durham",
-      "description": "NC 751 (Academy Road) interchange in Durham. . Install guardrail."
+      "description": "NC 751 (Academy Road) interchange in Durham. Install guardrail."
     },
     "HS-2005H": {
       "county": "durham",
@@ -2102,11 +2102,11 @@
     },
     "HS-2005I": {
       "county": "wake",
-      "description": "I-540 westbound ramp / Arco Corporate Drive in Raleigh. . Upgrade traffic signal and construct turn lane."
+      "description": "I-540 westbound ramp / Arco Corporate Drive in Raleigh. Upgrade traffic signal and construct turn lane."
     },
     "HS-2005J": {
       "county": "wake",
-      "description": "Mingo Creek Trail crossing. . Relocate crosswalk."
+      "description": "Mingo Creek Trail crossing. Relocate crosswalk."
     },
     "HS-2005K": {
       "county": "wake",
@@ -2114,11 +2114,11 @@
     },
     "HS-2005L": {
       "county": "durham",
-      "description": "Knox Street intersection. . Install traffic signal."
+      "description": "Knox Street intersection. Install traffic signal."
     },
     "HS-2005M": {
       "county": "durham",
-      "description": "SR 1670 (Geer Street) intersection in Durham. . Revise traffic signal and install pedestrian signal heads."
+      "description": "SR 1670 (Geer Street) intersection in Durham. Revise traffic signal and install pedestrian signal heads."
     },
     "HS-2005O": {
       "county": "warren",
@@ -2126,15 +2126,15 @@
     },
     "HS-2005P": {
       "county": "person",
-      "description": "NC 57 (Hillsborough Road) intersection. . Install traffic signal."
+      "description": "NC 57 (Hillsborough Road) intersection. Install traffic signal."
     },
     "HS-2005Q": {
       "county": "wake",
-      "description": "Blazing Trail Drive / Driveway access to Apex Friendship High and Elementary Schools intersection. . Install traffic and pedestrian signals."
+      "description": "Blazing Trail Drive / Driveway access to Apex Friendship High and Elementary Schools intersection. Install traffic and pedestrian signals."
     },
     "HS-2005S": {
       "county": "durham",
-      "description": "SR 1815 (Mineral Springs Road) intersection. . Construct right turn lanes and sidewalk."
+      "description": "SR 1815 (Mineral Springs Road) intersection. Construct right turn lanes and sidewalk."
     },
     "HS-2006A": {
       "county": "cumberland",
@@ -2158,7 +2158,7 @@
     },
     "HS-2006P": {
       "county": "cumberland",
-      "description": "Bridge 250216 in Fayetteville. . Install Guardrail."
+      "description": "Bridge 250216 in Fayetteville. Install Guardrail."
     },
     "HS-2006Q": {
       "county": "harnett",
@@ -2178,43 +2178,43 @@
     },
     "HS-2007D": {
       "county": "guilford",
-      "description": "US 29 / US 70 (I-85 Business) interchange. . Upgrade signals, pavement markings, and signing."
+      "description": "US 29 / US 70 (I-85 Business) interchange. Upgrade signals, pavement markings, and signing."
     },
     "HS-2007F": {
       "county": "alamance",
-      "description": "I-40 Eastbound on-ramp. . Install pedestrian accommodations."
+      "description": "I-40 Eastbound on-ramp. Install pedestrian accommodations."
     },
     "HS-2007G": {
       "county": "guilford",
-      "description": "Lakeview Memorial Park Cemetery entrance intersection. . Construct directional crossover."
+      "description": "Lakeview Memorial Park Cemetery entrance intersection. Construct directional crossover."
     },
     "HS-2007I": {
       "county": "guilford",
-      "description": "I-40 Westbound ramp intersection. . Install traffic signal and turn lane improvements."
+      "description": "I-40 Westbound ramp intersection. Install traffic signal and turn lane improvements."
     },
     "HS-2007J": {
       "county": "orange",
-      "description": "Critz Drive intersection. . Install pedestrian improvements."
+      "description": "Critz Drive intersection. Install pedestrian improvements."
     },
     "HS-2008E": {
       "county": "scotland",
-      "description": "NC 144 (Morgan Street) / SR 1148 (Saint Johns Church Road) intersection. . Construct signalized reduced conflict intersection. "
+      "description": "NC 144 (Morgan Street) / SR 1148 (Saint Johns Church Road) intersection. Construct signalized reduced conflict intersection."
     },
     "HS-2008F": {
       "county": "moore",
-      "description": "SR 1205 (Morganton Road) intersection. . Realign intersection and add turn lanes."
+      "description": "SR 1205 (Morganton Road) intersection. Improve intersection by redesigning turn lanes and installing a pedestrian hybrid beacon."
     },
     "HS-2009C": {
       "county": "davidson",
-      "description": "Vicinity of Fleet Darr Road west of SR 2123 (Lexington Avenue) Connector. . Install directional leftovers."
+      "description": "Vicinity of Fleet Darr Road west of SR 2123 (Lexington Avenue) Connector. Install directional leftovers."
     },
     "HS-2009D": {
       "county": "rowan",
-      "description": "Morlan Park Road intersection. . Install concrete channelization and leftover with U-turn bulb."
+      "description": "Morlan Park Road intersection. Install concrete channelization and leftover with U-turn bulb."
     },
     "HS-2009H": {
       "county": "forsyth",
-      "description": "University Plaza Shopping Center main driveway and BP filling station driveway intersection. Also, Northcliffe Drive intersection. . Construct two reduced conflict intersections."
+      "description": "University Plaza Shopping Center main driveway and BP filling station driveway intersection. Also, Northcliffe Drive intersection. Construct two reduced conflict intersections."
     },
     "HS-2009I": {
       "county": "rowan",
@@ -2222,11 +2222,11 @@
     },
     "HS-2009K": {
       "county": "davidson",
-      "description": "SR 2335 (Canaan Church Road) / Snyder Station Road intersection near Denton. . Install turn lanes."
+      "description": "SR 2335 (Canaan Church Road) / Snyder Station Road intersection near Denton. Install turn lanes."
     },
     "HS-2009L": {
       "county": "davidson",
-      "description": "SR 2055 (Liberty Drive) intersection in Thomasville. . Improve vertical alignment."
+      "description": "SR 2055 (Liberty Drive) intersection in Thomasville. Improve vertical alignment."
     },
     "HS-2010A": {
       "county": "mecklenburg",
@@ -2382,7 +2382,7 @@
     },
     "HS-2409A": {
       "county": "forsyth",
-      "description": "Winston-Salem. Construct reduced conflict intersection. "
+      "description": "SR 2983 (Fishel Road) intersection. Construct reduced conflict intersection."
     },
     "HS-2414A": {
       "county": "swain",
@@ -2410,7 +2410,7 @@
     },
     "I-0305C": {
       "county": "orange",
-      "description": "NC 86 in Hillsborough. Upgrade interchange. "
+      "description": "NC 86 in Hillsborough. Upgrade interchange."
     },
     "I-2513AB": {
       "county": "buncombe",
@@ -2478,7 +2478,7 @@
     },
     "I-5711": {
       "county": "alamance",
-      "description": "SR 1007 (Mebane-Oaks Road) in Mebane. . Improve interchange."
+      "description": "SR 1007 (Mebane-Oaks Road) in Mebane. Improve interchange."
     },
     "I-5712": {
       "county": "guilford",
@@ -2503,10 +2503,6 @@
     "I-5740A": {
       "county": "davidson",
       "description": "Bridges 280181 and 280182 over US 64 near Lexington. Rehabilitate bridges."
-    },
-    "I-5838": {
-      "county": "mecklenburg",
-      "description": "Bridges 590203 (I-85 NB) and 590204 (I-85 SB) over Seaboard Coastline Railroad. Rehabilitate bridges."
     },
     "I-5861": {
       "county": "mecklenburg",
@@ -2538,15 +2534,15 @@
     },
     "I-5883": {
       "county": "harnett",
-      "description": "SR 1808 (Jonesboro Road) (Exit 75) and SR 1709 (Hodges Chapel Road) (Exit 77). . Improve interchanges."
+      "description": "SR 1808 (Jonesboro Road) (Exit 75) and SR 1709 (Hodges Chapel Road) (Exit 77). Improve interchanges."
     },
     "I-5898": {
       "county": "rockingham",
-      "description": "US 311 / NC 135 interchange near Mayodan. . Replace bridge 780074 and upgrade interchange."
+      "description": "US 311 / NC 135 interchange near Mayodan. Replace bridge 780074 and upgrade interchange."
     },
     "I-5915B": {
       "county": "iredell",
-      "description": "Mile marker 130.7 to mile marker 150.2. Rehabilitate bridge."
+      "description": "East of SR 1007 (1st Street West) to East of NC 115. Rehabilitate bridge."
     },
     "I-5962": {
       "county": "iredell",
@@ -2570,7 +2566,7 @@
     },
     "I-5979": {
       "county": "richmond",
-      "description": "US 1 (Exit 311) interchange near Rockingham. . Improve interchange."
+      "description": "US 1 (Exit 311) interchange near Rockingham. Improve interchange."
     },
     "I-5990": {
       "county": "burke",
@@ -2786,7 +2782,7 @@
     },
     "P-5737": {
       "county": "wake",
-      "description": "SR 2108 (Millbrook Road) in Raleigh. . Construct grade separation and close crossing 630605A."
+      "description": "SR 2108 (Millbrook Road) in Raleigh. Construct grade separation and close crossing 630605A."
     },
     "P-5740": {
       "county": "new hanover",
@@ -2838,7 +2834,7 @@
     },
     "P-5751": {
       "county": "davidson",
-      "description": "SR 2165 (Turner Street) in Thomasville. . Construct grade separation and close crossing 722327S."
+      "description": "SR 2165 (Turner Street) in Thomasville. Construct grade separation and close crossing 722327S."
     },
     "P-5753AE": {
       "county": "wake",
@@ -2865,11 +2861,11 @@
       "description": "Various. Construct NC 96 / Main Street bypass grade separation and Youngsville roadway improvements."
     },
     "P-5753BF": {
-      "county": "vance",
+      "county": "franklin",
       "description": "Various. SR 1133 (Bert Winston Road) and SR 1125 (Cedar Creek Road) grade separation and Franklinton roadway improvements."
     },
     "P-5753BG": {
-      "county": "vance",
+      "county": "franklin",
       "description": "South Kitrell. Improve roadway."
     },
     "P-5753BH": {
@@ -2878,11 +2874,11 @@
     },
     "P-5753CD": {
       "county": "vance",
-      "description": "SR 1115 (Bear Pond Road). Construct grade separation. "
+      "description": "SR 1115 (Bear Pond Road). Construct grade separation."
     },
     "P-5753CE": {
       "county": "vance",
-      "description": "SR 1139 (JP Taylor Road). Construct grade separation and improve roadway. "
+      "description": "SR 1139 (JP Taylor Road). Construct grade separation and improve roadway."
     },
     "P-5753CF": {
       "county": "vance",
@@ -2894,15 +2890,15 @@
     },
     "P-5753CH": {
       "county": "vance",
-      "description": "Various. Construct grade separation at SR 1508 (Greystone Road) and Warrenton roadway improvements. "
+      "description": "Various. Construct grade separation at SR 1508 (Greystone Road) and Warrenton roadway improvements."
     },
     "P-5753CI": {
       "county": "vance",
-      "description": "Various. Construct grade separation at SR 1507 (Brookston Road) and SR 1501 (South Carroll Street). "
+      "description": "Various. Construct grade separation at SR 1507 (Brookston Road) and SR 1501 (South Carroll Street)."
     },
     "P-5753CJ": {
       "county": "warren",
-      "description": "SR 1101 (Kimball Road). Construct grade separation. "
+      "description": "SR 1101 (Kimball Road). Construct grade separation."
     },
     "P-5753DC": {
       "county": "warren",
@@ -2910,7 +2906,7 @@
     },
     "P-5753DD": {
       "county": "warren",
-      "description": "Norlina. Construct roadway improvements. "
+      "description": "Norlina. Construct roadway improvements."
     },
     "P-5753DE": {
       "county": "warren",
@@ -2962,7 +2958,7 @@
     },
     "R-4707": {
       "county": "guilford",
-      "description": "US 29 / SR 4771 (Reedy Fork Parkway) interchange improvements in Greensboro. . Improve roadway, modify interchange, and replace bridge 400360."
+      "description": "US 29 / SR 4771 (Reedy Fork Parkway) interchange improvements in Greensboro. Improve roadway, modify interchange, and replace bridge 400360."
     },
     "R-5311A": {
       "county": "hertford",
@@ -2974,11 +2970,11 @@
     },
     "R-5704": {
       "county": "rockingham",
-      "description": "SR 1998 (Wentworth Street) / SR 1001 (Sandy Cross Road) intersection in Wentworth. . Realign intersections."
+      "description": "SR 1998 (Wentworth Street) / SR 1001 (Sandy Cross Road) intersection in Wentworth. Realign intersections."
     },
     "R-5707": {
       "county": "granville",
-      "description": "US 15 and NC 50 intersections in Creedmoor. . Realign intersections."
+      "description": "US 15 and NC 50 intersections in Creedmoor. Realign intersections."
     },
     "R-5711": {
       "county": "iredell",
@@ -2998,15 +2994,15 @@
     },
     "R-5725": {
       "county": "guilford",
-      "description": "Along NC 68 and NC 150 in Oak Ridge. . Construct intersection improvements."
+      "description": "Along NC 68 and NC 150 in Oak Ridge. Construct intersection improvements."
     },
     "R-5728": {
       "county": "davie",
-      "description": "South Salisbury Street intersection in Mocksville. . Construct intersection improvements."
+      "description": "South Salisbury Street intersection in Mocksville. Construct intersection improvements."
     },
     "R-5737": {
       "county": "davidson",
-      "description": "SR 1798 (Old Greensboro Road) intersection near Lexington . . Upgrade at grade intersection to interchange."
+      "description": "SR 1798 (Old Greensboro Road) intersection near Lexington . Upgrade at grade intersection to interchange."
     },
     "R-5745": {
       "county": "caldwell",
@@ -3026,7 +3022,7 @@
     },
     "R-5768": {
       "county": "stokes",
-      "description": "NC 65 in Walnut Cove.  . Construct intersection improvements and improve railroad crossing."
+      "description": "NC 65 in Walnut Cove. Construct intersection improvements and improve railroad crossing."
     },
     "R-5775": {
       "county": "caldwell",
@@ -3074,7 +3070,7 @@
     },
     "R-5825": {
       "county": "chatham",
-      "description": "SR 1731 (O'Kelly Chapel Road).  . Upgrade and realign intersection."
+      "description": "SR 1731 (O'Kelly Chapel Road). Upgrade and realign intersection."
     },
     "R-5828": {
       "county": "stokes",
@@ -3134,7 +3130,7 @@
     },
     "R-5899": {
       "county": "pender",
-      "description": "SR 1560 (Watts Landing Road) intersection Surf City. Construct roundabout."
+      "description": "SR 1560 (Watts Landing Road) intersection in Surf City. Improve intersection."
     },
     "R-5900": {
       "county": "pender",
@@ -3186,7 +3182,7 @@
     },
     "R-5963D": {
       "county": "chatham",
-      "description": "Chatham Park Way to US 64 and realignment of Suttles Road to new intersection with Chatham Park Way. Construct new westbound on-ramp. "
+      "description": "Chatham Park Way to US 64 and realignment of Suttles Road to new intersection with Chatham Park Way. Construct new westbound on-ramp."
     },
     "R-5964": {
       "county": "mcdowell",
@@ -3272,29 +3268,13 @@
       "county": "pitt",
       "description": "CSX Crossing 641860P in Greenville. Construct safety improvements."
     },
-    "RX-2004A": {
-      "county": "wilson",
-      "description": "CSX Crossing 629847Y in Wilson. Install active warning devices."
-    },
     "RX-2004B": {
       "county": "wilson",
       "description": "CSX Crossing 629847Y in Wilson. Install active warning devices."
     },
-    "RX-2004C": {
-      "county": "johnston",
-      "description": "CSX Crossing 629731X near Benson. Install active warning devices."
-    },
     "RX-2004D": {
       "county": "johnston",
       "description": "CSX Crossing 629739C in Benson. Construct safety improvements."
-    },
-    "RX-2004E": {
-      "county": "wilson",
-      "description": "CSX Crossing 629843W in Wilson. Construct safety improvements."
-    },
-    "RX-2004F": {
-      "county": "wayne",
-      "description": "Norfolk Southern Crossing 722874X in Goldsboro. Construct safety improvements."
     },
     "RX-2004G": {
       "county": "johnston",
@@ -3678,7 +3658,7 @@
     },
     "TU-0013": {
       "county": "durham",
-      "description": "Durham Station.  Improvements to Durham station to expand equitable access to transit, improve station amenities, increase connection to employment, health care and educational opportunities and construct 8 bus bays, redesigned bus lanes and placed new pavement. "
+      "description": "Durham Station. Improvements to Durham station to expand equitable access to transit, improve station amenities, increase connection to employment, health care and educational opportunities and construct 8 bus bays, redesigned bus lanes and placed new pavement."
     },
     "U-2509AA": {
       "county": "mecklenburg",
@@ -3690,7 +3670,7 @@
     },
     "U-2509AD": {
       "county": "mecklenburg",
-      "description": "Matthews-Mint Hill Road intersection in Charlotte. . Construct interchange at Matthews-Mint Hill Road. Extend Northeast Parkway from Overcash Drive to Waiting Street."
+      "description": "Matthews-Mint Hill Road intersection in Charlotte. Construct interchange at Matthews-Mint Hill Road. Extend Northeast Parkway from Overcash Drive to Waiting Street."
     },
     "U-2509EA": {
       "county": "mecklenburg",
@@ -3698,7 +3678,7 @@
     },
     "U-2524AE": {
       "county": "guilford",
-      "description": "Greensboro Western Loop, interchange at proposed SR 4121 (High Point Road) relocation. Construct interchange. "
+      "description": "Greensboro Western Loop, interchange at proposed SR 4121 (High Point Road) relocation. Construct interchange."
     },
     "U-2525CA": {
       "county": "guilford",
@@ -3718,7 +3698,7 @@
     },
     "U-4437": {
       "county": "wake",
-      "description": "SR 1664 / SR 3074 (Blue Ridge Road) in vicinity of NC Railroad (CSX Corporation and Norfolk Southern) in Raleigh. . Construct grade separations and access road between NC 54 and SR 1664 / SR 3074."
+      "description": "SR 1664 / SR 3074 (Blue Ridge Road) in vicinity of NC Railroad (CSX Corporation and Norfolk Southern) in Raleigh. Construct grade separations and access road between NC 54 and SR 1664 / SR 3074."
     },
     "U-4700AA": {
       "county": "burke",
@@ -3746,7 +3726,7 @@
     },
     "U-5026": {
       "county": "nash",
-      "description": "SR 1770 (Sunset Avenue) in Rocky Mount. . Upgrade grade separation to an interchange."
+      "description": "SR 1770 (Sunset Avenue) in Rocky Mount. Upgrade grade separation to an interchange."
     },
     "U-5105": {
       "county": "henderson",
@@ -3762,7 +3742,7 @@
     },
     "U-5169": {
       "county": "guilford",
-      "description": "NC 68 (Eastchester Drive) in High Point. . Reconstruct interchange and approaches."
+      "description": "NC 68 (Eastchester Drive) in High Point. Reconstruct interchange and approaches."
     },
     "U-5301A": {
       "county": "wake",
@@ -3774,7 +3754,7 @@
     },
     "U-5304E": {
       "county": "orange",
-      "description": "SR 1902 (Manning Drive) intersection. Convert at-grade intersection to interchange. "
+      "description": "SR 1902 (Manning Drive) intersection. Convert at-grade intersection to interchange."
     },
     "U-5306B": {
       "county": "guilford",
@@ -3786,11 +3766,11 @@
     },
     "U-5508": {
       "county": "onslow",
-      "description": "NC 53 (Western Boulevard) in Jacksonville. . Upgrade intersection and drainage."
+      "description": "NC 53 (Western Boulevard) in Jacksonville. Upgrade intersection and drainage."
     },
     "U-5550": {
       "county": "orange",
-      "description": "SR 1742 (Ephesus Church Road) in Chapel Hill. . Construct intersection improvements."
+      "description": "SR 1742 (Ephesus Church Road) in Chapel Hill. Construct intersection improvements."
     },
     "U-5604": {
       "county": "macon",
@@ -3818,7 +3798,7 @@
     },
     "U-5728": {
       "county": "onslow",
-      "description": "SR 1308 (Bell Fork Road) in Jacksonville. . Construct intersection improvements."
+      "description": "SR 1308 (Bell Fork Road) in Jacksonville. Construct intersection improvements."
     },
     "U-5729SW": {
       "county": "new hanover",
@@ -3830,11 +3810,11 @@
     },
     "U-5731": {
       "county": "new hanover",
-      "description": "US 17 / US 421 in Wilmington. . Construct a fly-over and free flow ramp at interchange."
+      "description": "US 17 / US 421 in Wilmington. Construct a fly-over and free flow ramp at interchange."
     },
     "U-5735": {
       "county": "onslow",
-      "description": "SR 1130 (Old Maplehurst Road) in Jacksonville. .  Construct interchange and associated improvements to MCAS New River main gate."
+      "description": "SR 1130 (Old Maplehurst Road) in Jacksonville. Construct interchange and associated improvements to MCAS New River main gate."
     },
     "U-5735A": {
       "county": "onslow",
@@ -3846,7 +3826,7 @@
     },
     "U-5745": {
       "county": "durham",
-      "description": "SR 1183 (University Drive) intersection in Durham. . Construct roundabout."
+      "description": "SR 1183 (University Drive) intersection in Durham. Construct roundabout."
     },
     "U-5747B": {
       "county": "wake",
@@ -3854,11 +3834,11 @@
     },
     "U-5748": {
       "county": "wake",
-      "description": "SR 2044 (Ligon Mill Road) / SR 2224 (Mitchell Mill Road) and SR 2006 (Perry Creek Road) in Raleigh. . Construct intersection improvements."
+      "description": "SR 2044 (Ligon Mill Road) / SR 2224 (Mitchell Mill Road) and SR 2006 (Perry Creek Road) in Raleigh. Construct intersection improvements."
     },
     "U-5751": {
       "county": "wake",
-      "description": "NC 55 / NC 42 intersection in Fuquay-Varina. . Construct intersection improvements. Project will include improvements to NC 55 intersection with NC 42, and construction of connector from NC 55 to SR 5056 (Judd Parkway)."
+      "description": "NC 55 / NC 42 intersection in Fuquay-Varina. Construct intersection improvements. Project will include improvements to NC 55 intersection with NC 42, and construction of connector from NC 55 to SR 5056 (Judd Parkway)."
     },
     "U-5761": {
       "county": "cabarrus",
@@ -3870,7 +3850,7 @@
     },
     "U-5770": {
       "county": "randolph",
-      "description": "SR 1009 (South Main Street) intersection in Archdale.  . Construct intersection improvements."
+      "description": "SR 1009 (South Main Street) intersection in Archdale. Construct intersection improvements."
     },
     "U-5774F": {
       "county": "durham",
@@ -3898,7 +3878,7 @@
     },
     "U-5792": {
       "county": "new hanover",
-      "description": "US 17 Business (Market Street) to SR 2048 (Gordon Road). . Upgrade roadway."
+      "description": "US 17 Business (Market Street) to SR 2048 (Gordon Road). Upgrade roadway."
     },
     "U-5800": {
       "county": "gaston",
@@ -3926,11 +3906,11 @@
     },
     "U-5825B": {
       "county": "wake",
-      "description": "SR 1010 (Ten Ten Road) interchange.  . Reconstruct interchange."
+      "description": "SR 1010 (Ten Ten Road) interchange. Reconstruct interchange."
     },
     "U-5841": {
       "county": "guilford",
-      "description": "West of Green Valley Road to Lindell Road in Greensboro.  . Widen roadway and construct intersection improvements."
+      "description": "West of Green Valley Road to Lindell Road in Greensboro. Widen roadway and construct intersection improvements."
     },
     "U-5842": {
       "county": "guilford",
@@ -3942,7 +3922,7 @@
     },
     "U-5846": {
       "county": "orange",
-      "description": "SR 1780 (Estes Drive) intersection in Carrboro. . Construct roundabout."
+      "description": "SR 1780 (Estes Drive) intersection in Carrboro. Construct roundabout."
     },
     "U-5862": {
       "county": "brunswick",
@@ -3958,7 +3938,7 @@
     },
     "U-5896": {
       "county": "guilford",
-      "description": "SR 1009 (South Main Street) in High Point.  . Reconstruct interchange."
+      "description": "SR 1009 (South Main Street) in High Point. Reconstruct interchange."
     },
     "U-5905B": {
       "county": "mecklenburg",
@@ -3966,7 +3946,7 @@
     },
     "U-5906": {
       "county": "mecklenburg",
-      "description": "SR 5544 (West Catawba Avenue) intersection in Cornelius. Construct intersection improvements."
+      "description": "Various intersections in Cornelius. Construct intersection improvements. Realign Knox Road and One Norman Boulevard intersection. Rehabilitate Knox Road."
     },
     "U-5908B": {
       "county": "mecklenburg",
@@ -3990,7 +3970,7 @@
     },
     "U-5939": {
       "county": "pasquotank",
-      "description": "SR 1145 (Oak Stump Road). . Construct intersection improvements."
+      "description": "SR 1145 (Oak Stump Road). Construct intersection improvements."
     },
     "U-5942": {
       "county": "pasquotank",
@@ -4054,7 +4034,7 @@
     },
     "U-5976": {
       "county": "moore",
-      "description": "SR 1905 (Voit Gilmore Lane) in Southern Pines to SR 1208 (Page Road) in Pinehurst.  . Upgrade SR 1208 (Page Road) intersection and construct improvements to Pinehurst traffic circle and approaches."
+      "description": "SR 1905 (Voit Gilmore Lane) in Southern Pines to SR 1208 (Page Road) in Pinehurst. Upgrade SR 1208 (Page Road) intersection and construct improvements to Pinehurst traffic circle and approaches."
     },
     "U-5993": {
       "county": "craven",
@@ -4070,11 +4050,11 @@
     },
     "U-6010": {
       "county": "alamance",
-      "description": "SR 1226 / SR 1311 (University Drive) intersection in Burlington. . Construct intersection improvements, to include widening of US 70 to maintain consistent cross-section with project U-5752 improvements."
+      "description": "SR 1226 / SR 1311 (University Drive) intersection in Burlington. Construct intersection improvements, to include widening of US 70 to maintain consistent cross-section with project U-5752 improvements."
     },
     "U-6011": {
       "county": "alamance",
-      "description": "SR 1158 (Huffman Mill Road) intersection in Burlington. . Construct intersection improvements."
+      "description": "SR 1158 (Huffman Mill Road) intersection in Burlington. Construct intersection improvements."
     },
     "U-6016": {
       "county": "guilford",
@@ -4086,7 +4066,7 @@
     },
     "U-6018": {
       "county": "guilford",
-      "description": "SR 1154 (Kersey Valley Road) to SR 1162 (Weant Road) in Archdale.  . Improve interchange and realign intersections."
+      "description": "SR 1154 (Kersey Valley Road) to SR 1162 (Weant Road) in Archdale. Improve interchange and realign intersections."
     },
     "U-6019": {
       "county": "guilford",
@@ -4094,7 +4074,7 @@
     },
     "U-6020": {
       "county": "granville",
-      "description": "SR 1215 (West Lyon Station Road) intersection in Butner. . Realign intersection."
+      "description": "SR 1215 (West Lyon Station Road) intersection in Butner. Realign intersection."
     },
     "U-6022": {
       "county": "wake",
@@ -4110,15 +4090,11 @@
     },
     "U-6041": {
       "county": "alexander",
-      "description": "SR 1124 (Church Road). . Construct left turn lane on westbound US 64 / NC 90."
+      "description": "SR 1124 (Church Road). Construct left turn lane on westbound US 64 / NC 90."
     },
     "U-6042": {
       "county": "catawba",
       "description": "SR 1642 (34th Street Northwest) intersection in Long View. Realign intersection."
-    },
-    "U-6055": {
-      "county": "haywood",
-      "description": "Locust Street intersection in Canton. Construct intersection improvements."
     },
     "U-6058": {
       "county": "carteret",
@@ -4130,7 +4106,7 @@
     },
     "U-6065": {
       "county": "onslow",
-      "description": "NC 172 (Sneads Ferry Road / SR 1518 (Old Folkstone Road)). . Construct reduced conflict intersection with intersection improvements."
+      "description": "NC 172 (Sneads Ferry Road) and SR 1518 (Old Folkstone Road) intersections. Upgrade existing signal and NC 172 intersection and install signal at SR 1518 (Old Folkstone Road) intersection."
     },
     "U-6078": {
       "county": "gaston",
@@ -4138,7 +4114,7 @@
     },
     "U-6082": {
       "county": "onslow",
-      "description": "SR 1403 (Country Club Road / Hargett Street).  . Construct intersection improvements."
+      "description": "SR 1403 (Country Club Road / Hargett Street). Construct intersection improvements."
     },
     "U-6084": {
       "county": "mecklenburg",
@@ -4147,14 +4123,6 @@
     "U-6087": {
       "county": "union",
       "description": "SR 1377 (Wesley Chapel Road) intersection in Wesley Chapel. Construct roundabout."
-    },
-    "U-6088": {
-      "county": "union",
-      "description": "SR 1312 (Marvin Road) intersection in Marvin. Construct roundabout."
-    },
-    "U-6090": {
-      "county": "union",
-      "description": "SR 1345 (Tilley Morris Road) intersection in Weddington. Construct roundabout."
     },
     "U-6092": {
       "county": "mecklenburg",
@@ -4174,11 +4142,11 @@
     },
     "U-6112": {
       "county": "wake",
-      "description": "SR 1010 (Ten-Ten Road) intersection in Fuquay-Varina. . Upgrade existing signalized intersection to square-loop interchange."
+      "description": "SR 1010 (Ten-Ten Road) intersection in Fuquay-Varina. Upgrade existing signalized intersection to square-loop interchange."
     },
     "U-6114": {
       "county": "alamance",
-      "description": "SR 1155 (Hatchery Road) / Bonnie Lane intersection in Burlington. . Install traffic signal and add turn lanes."
+      "description": "SR 1155 (Hatchery Road) / Bonnie Lane intersection in Burlington. Install traffic signal and add turn lanes."
     },
     "U-6115A": {
       "county": "alamance",
@@ -4198,11 +4166,11 @@
     },
     "U-6118": {
       "county": "durham",
-      "description": "Meridian Parkway to I-40 interchange in Durham.  . Construct third southbound lane, upgrade ramp terminals, and include bike-ped facilities."
+      "description": "Meridian Parkway to I-40 interchange in Durham. Construct third southbound lane, upgrade ramp terminals, and include bike-ped facilities."
     },
     "U-6119": {
       "county": "wake",
-      "description": "Raleigh citywide signal system.  . Upgrade software for existing ITS system."
+      "description": "Raleigh citywide signal system. Upgrade software for existing ITS system."
     },
     "U-6120B": {
       "county": "durham",
@@ -4214,7 +4182,7 @@
     },
     "U-6131": {
       "county": "alamance",
-      "description": "NC 49 (Maple Avenue) intersection in Burlington. . Install dual left turn lanes in westbound direction."
+      "description": "NC 49 (Maple Avenue) intersection in Burlington. Install dual left turn lanes in westbound direction."
     },
     "U-6133": {
       "county": "cumberland",
@@ -4242,11 +4210,11 @@
     },
     "U-6161": {
       "county": "caldwell",
-      "description": "SR 1002 (Dudley Shoals Road) grade separation.  . Construct ramp onto US 321 southbound."
+      "description": "SR 1002 (Dudley Shoals Road) grade separation. Construct ramp onto US 321 southbound."
     },
     "U-6163": {
       "county": "buncombe",
-      "description": "SR 3136 (Cane Creek Road). . Construct roundabout."
+      "description": "SR 3136 (Cane Creek Road). Construct roundabout."
     },
     "U-6194": {
       "county": "wake",
@@ -4270,11 +4238,11 @@
     },
     "U-6241": {
       "county": "wake",
-      "description": "East of Rolesville Middle School to US 401 Business (South Main Street) in Rolesville;  SR 2051 (Burlington Mills Road) to north of SR 1003 (East Young Street) / SR 1945 (West Young Street) in Rolesville. . Realign roadway and construct new intersection with south main street; Construct sidewalk extensions and complete street improvements."
+      "description": "East of Rolesville Middle School to US 401 Business (South Main Street) in Rolesville;  SR 2051 (Burlington Mills Road) to north of SR 1003 (East Young Street) / SR 1945 (West Young Street) in Rolesville. Realign roadway and construct new intersection with south main street; Construct sidewalk extensions and complete street improvements."
     },
     "U-6244": {
       "county": "wake",
-      "description": "SR 1007 (Wendell Falls Parkway) in Wendell. . Construct intersection improvements and include closure of Wall Street."
+      "description": "SR 1007 (Wendell Falls Parkway) in Wendell. Construct intersection improvements and include closure of Wall Street."
     },
     "U-6246": {
       "county": "union",
@@ -4306,7 +4274,7 @@
     },
     "W-5208MA": {
       "county": "scotland",
-      "description": "NC 144 intersection.  . Construct roundabout."
+      "description": "NC 144 intersection. Construct roundabout."
     },
     "W-5212J": {
       "county": "iredell",
@@ -4318,7 +4286,7 @@
     },
     "W-5705G": {
       "county": "vance",
-      "description": "SR 1507 (Brookston Road) intersection. . Construct intersection improvements."
+      "description": "SR 1507 (Brookston Road) intersection. Construct intersection improvements."
     },
     "W-5706L": {
       "county": "harnett",
@@ -4342,7 +4310,7 @@
     },
     "W-5710AH": {
       "county": "union",
-      "description": "SR 1137 (Potter Road) intersection near Waxhaw. . Construct safety improvements."
+      "description": "SR 1137 (Potter Road) intersection near Waxhaw. Construct safety improvements."
     },
     "W-5710AI": {
       "county": "union",
@@ -4358,7 +4326,7 @@
     },
     "W-5710X": {
       "county": "mecklenburg",
-      "description": "SR 2108 (Sunset Boulevard) / SR 2025 (Miranda Road) / SR 2040 (Lawing Road) intersection near Charlotte. Construct safety improvements."
+      "description": "SR 2108 (Sunset Road) / SR 2025 (Miranda Road) / SR 2041 (Simpson Road) / SR 2040 (Lawing Road) intersections near Charlotte. Construct roundabouts."
     },
     "W-5710Y": {
       "county": "union",
@@ -4390,11 +4358,11 @@
     },
     "W-5805C": {
       "county": "wake",
-      "description": "SR 1827 (Lynn Road) intersection in Raleigh. . Construct pedestrian refuge islands, revise curb ramps, crosswalks, and other pavement markings."
+      "description": "SR 1827 (Lynn Road) intersection in Raleigh. Construct pedestrian refuge islands, revise curb ramps, crosswalks, and other pavement markings."
     },
     "W-5805D": {
       "county": "wake",
-      "description": "Bridge 910023 over Middle Creek. . Install guardrail."
+      "description": "Bridge 910023 over Middle Creek. Install guardrail."
     },
     "W-5805E": {
       "county": "wake",
@@ -4402,11 +4370,11 @@
     },
     "W-5805G": {
       "county": "vance",
-      "description": "SR 1113 (Lake Lodge Road) intersection.  . Construct unsignalized reduced conflict intersection."
+      "description": "SR 1113 (Lake Lodge Road) intersection. Construct unsignalized reduced conflict intersection."
     },
     "W-5805H": {
       "county": "wake",
-      "description": "SR 2539 (Yeargan Road) intersection, SR 2564 (Creech Road) intersection, and Shenstone Boulevard intersection in Garner. . Upgrade traffic signals."
+      "description": "SR 2539 (Yeargan Road) intersection, SR 2564 (Creech Road) intersection, and Shenstone Boulevard intersection in Garner. Upgrade traffic signals."
     },
     "W-5806A": {
       "county": "columbus",
@@ -4418,7 +4386,7 @@
     },
     "W-5806D": {
       "county": "harnett",
-      "description": " SR 1581 (Bailey's Crossroads) / SR 1705 (Fairground Road) intersection. Realign and construct intersection improvements."
+      "description": "SR 1581 (Bailey's Crossroads) / SR 1705 (Fairground Road) intersection. Realign and construct intersection improvements."
     },
     "W-5806E": {
       "county": "robeson",
@@ -4426,19 +4394,19 @@
     },
     "W-5807A": {
       "county": "guilford",
-      "description": "SR 2526 (Summit Avenue) ramp terminals in Greensboro. . Modify channelization island, install traffic signal, pedestrian heads, and crosswalks."
+      "description": "SR 2526 (Summit Avenue) ramp terminals in Greensboro. Modify channelization island, install traffic signal, pedestrian heads, and crosswalks."
     },
     "W-5807B": {
       "county": "alamance",
-      "description": "SR 1301 (Saint Marks Church Road) / Java Lane and Glidwell Drive / Tiki Lane in Burlington. . Install pedestrian signals, curb ramps, and revise pavement markings."
+      "description": "SR 1301 (Saint Marks Church Road) / Java Lane and Glidwell Drive / Tiki Lane in Burlington. Install pedestrian signals, curb ramps, and revise pavement markings."
     },
     "W-5808B": {
       "county": "chatham",
-      "description": "NC 902 intersection.  . Construct reduced conflict intersection."
+      "description": "NC 902 intersection. Construct reduced conflict intersection."
     },
     "W-5808C": {
       "county": "moore",
-      "description": "West Maple Avenue intersection in Aberdeen. . Install all-way stop."
+      "description": "West Maple Avenue intersection in Aberdeen. Install all-way stop."
     },
     "W-5813A": {
       "county": "buncombe",
@@ -4474,7 +4442,7 @@
     },
     "Y-4810K": {
       "county": "cabarrus",
-      "description": "Rogers Lake Road Crossing (724408Y) in Kannapolis. Construct grade separation."
+      "description": "SR 1766 (Rogers Lake Road Crossing) (724408Y) in Kannapolis. Construct grade separation."
     },
     "A-0009CA": {
       "county": "graham",
@@ -4490,11 +4458,15 @@
     },
     "A-0009CD": {
       "county": "graham",
-      "description": "West of SR 1228 (Stecoah Road) to existing four lanes east of SR 1235 (Gunters Gap Road). Upgrade roadway."
+      "description": "West of SR 1228 (Stecoah Road) to existing four lanes east of SR 1235 (Gunter Gap Road). Upgrade roadway."
     },
     "A-0009CE": {
       "county": "graham",
       "description": "SR 1238 (Bill Crisp Road) to SR 1230 (Hyde Town Road). Construct multi-use path."
+    },
+    "A-0010AA": {
+      "county": "buncombe",
+      "description": "N/A. N/A"
     },
     "A-0011C": {
       "county": "clay",
@@ -4530,7 +4502,7 @@
     },
     "BL-0012": {
       "county": "union",
-      "description": "SR 3635 (Marvin Road) at Saddle Avenue to SR 1316 (Marvin School Road) at Yellow Jasmine Lane in Weddington. Construct pedestrian improvements."
+      "description": "SR 1315 (New Town Road) from west of SR 1307 (Waxhaw-Marvin Road) to SR 1316 (Marvin School Road). SR 1316 (Marvin School Road) from SR 1315 (New Town Road) to Yellow Jasmine Lane in Marvin. Construct pedestrian improvements."
     },
     "BL-0013": {
       "county": "iredell",
@@ -4566,7 +4538,7 @@
     },
     "BL-0023": {
       "county": "wake",
-      "description": "Flint Point Lane to Middlecrest Way in Holly Springs. Construct pedestrian safety enhancements. "
+      "description": "Flint Point Lane to Middlecrest Way in Holly Springs. Construct pedestrian safety enhancements."
     },
     "BL-0025": {
       "county": "wake",
@@ -4574,11 +4546,11 @@
     },
     "BL-0026": {
       "county": "wake",
-      "description": "SR 2153 (Louis Stephens Drive) to CSX Railroad crossing in Research Triangle Park. Construct greenway trail. "
+      "description": "SR 2153 (Louis Stephens Drive) to CSX Railroad crossing in Research Triangle Park. Construct greenway trail."
     },
     "BL-0027": {
       "county": "wake",
-      "description": "Lassiter Mill Road to Hertford Street in Raleigh. Construct greenway trail. "
+      "description": "Lassiter Mill Road to Hertford Street in Raleigh. Construct greenway trail."
     },
     "BL-0028": {
       "county": "durham",
@@ -4594,7 +4566,7 @@
     },
     "BL-0035": {
       "county": "chatham",
-      "description": "South of US 64 Business (East Street) to south of US 64 Business (East Street) in Pittsboro\n. Construct sidewalk segment to connect existing sidewalk."
+      "description": "South of US 64 Business (East Street) to south of US 64 Business (East Street) in Pittsboro. Construct sidewalk segment to connect existing sidewalk."
     },
     "BL-0036": {
       "county": "wake",
@@ -4694,7 +4666,7 @@
     },
     "BL-0067": {
       "county": "catawba",
-      "description": "SR 1371 (Clement Boulevard) to 17th Street Northwest in Hickory. Extend multi-use path."
+      "description": "SR 1371 (Clement Boulevard NW) to 17th Street Northwest in Hickory. Extend multi-use path."
     },
     "BL-0068": {
       "county": "catawba",
@@ -4710,7 +4682,7 @@
     },
     "BL-0073": {
       "county": "onslow",
-      "description": "South Onsville Drive intersection to north Onsville Drive intersection in Jacksonville. Construct pedestrian improvements."
+      "description": "Nottingham Road to north Onsville Drive intersection in Jacksonville. Construct pedestrian improvements."
     },
     "BL-0075": {
       "county": "new hanover",
@@ -4798,15 +4770,23 @@
     },
     "BL-0127": {
       "county": "franklin",
-      "description": "Various. Upgrade crosswalks along Main Street, add a new mid-block crossing at the intersection of Water Street and Main Street, and an improved crossing configuration for the Franklinton to Novozymes Rail Trail. "
+      "description": "Various. Upgrade crosswalks along Main Street, add a new mid-block crossing at the intersection of Water Street and Main Street, and an improved crossing configuration for the Franklinton to Novozymes Rail Trail."
     },
     "BL-0128": {
       "county": "wake",
-      "description": "Vandora Springs Elementary School to Woodland Road; Vandora Springs Road to Pineview Drive in Garner. Construct sidewalk. "
+      "description": "Vandora Springs Elementary School to Woodland Road; Vandora Springs Road to Pineview Drive in Garner. Construct sidewalk."
     },
     "BL-0129": {
       "county": "wake",
-      "description": "Vandora Springs Road and Buffaloe Road to Lake Benson Park in Garner. . Construct a multi-use path along the west/south side of Buffaloe Road. Includes a pedestrian bridge crossing and boardwalk segments. "
+      "description": "Vandora Springs Road and Buffaloe Road to Lake Benson Park in Garner. Construct a multi-use path along the west/south side of Buffaloe Road. Includes a pedestrian bridge crossing and boardwalk segments."
+    },
+    "BL-0172": {
+      "county": "wake",
+      "description": "High House Road to Deshire Mist Lane; Green Hope School Road to Brooks Park Lane. Construct 10 foot wide street-side trails."
+    },
+    "BL-0178": {
+      "county": "cabarrus",
+      "description": "SR 2114 (Centergrove Rd) to Brantley Rd. Construct sidewalk"
     },
     "BN-0001": {
       "county": "johnston",
@@ -4826,7 +4806,7 @@
     },
     "BN-0011": {
       "county": "transylvania",
-      "description": "SR 1344 (Cashiers Valley Road) to US 64 in Brevard. Construct multi-use path."
+      "description": "SR 1344 (Cashiers Valley Road) to Silversteen Drive in Brevard. Construct multi-use path."
     },
     "BN-0012": {
       "county": "chatham",
@@ -4910,7 +4890,7 @@
     },
     "C-5610B": {
       "county": "granville",
-      "description": "250 feet west of the intersection of US 15 (Lewis Street) and SR 1646 (East Industry Drive) to Speed EEZ Carwash driveway. Construct sidewalk. "
+      "description": "250 feet west of the intersection of US 15 (Lewis Street) and SR 1646 (East Industry Drive) to Speed EEZ Carwash driveway. Construct sidewalk."
     },
     "C-5622": {
       "county": "gaston",
@@ -4998,7 +4978,7 @@
     },
     "EB-5703": {
       "county": "durham",
-      "description": "Kangaroo Drive to Sprunt Avenue in Durham  . Construct sidewalks on both sides from Kangaroo Drive to US 70 Business (Hillsborough Road) and on one side from Hillsborough Road to Sprunt Avenue."
+      "description": "Kangaroo Drive to Sprunt Avenue in Durham. Construct sidewalks on both sides from Kangaroo Drive to US 70 Business (Hillsborough Road) and on one side from Hillsborough Road to Sprunt Avenue."
     },
     "EB-5704": {
       "county": "durham",
@@ -5042,7 +5022,7 @@
     },
     "EB-5732": {
       "county": "cabarrus",
-      "description": "US 29 to Weddington Road in Concord. Construct sidewalk on both sides of road, including portion of Weddington Road."
+      "description": "US 29 to John Q. Hammonds Drive in Concord. Construct shared use path on north side of road."
     },
     "EB-5734": {
       "county": "chatham",
@@ -5082,7 +5062,7 @@
     },
     "EB-5761": {
       "county": "nash",
-      "description": "US 64 to NC 97 (Raleigh Boulevard) in Rocky Mount. Construct streetscape improvements including sidewalk and bike lanes."
+      "description": "NC 97 (Raleigh Boulevard) to US 64 in Rocky Mount. Construct streetscape improvements including sidewalk and bike lanes."
     },
     "EB-5763": {
       "county": "edgecombe",
@@ -5144,10 +5124,6 @@
       "county": "dare",
       "description": "Cypress Knee Lane to Jejac Street in Kitty Hawk. Construct sidewalk on west side."
     },
-    "EB-5850": {
-      "county": "wayne",
-      "description": "US 70 Business (East Ash Street) to SR 1900 (Elm Street) in Goldsboro. Construct sidewalk on east side."
-    },
     "EB-5857": {
       "county": "stanly",
       "description": "North Love Chapel Road to Carmel Road in Stanfield. Construct sidewalks and ADA ramps on west side of road."
@@ -5198,7 +5174,7 @@
     },
     "EB-5872A": {
       "county": "scotland",
-      "description": "SR 1105 (Turnpike Road) to Glasgow Drive and east of US 15 / US 401 / US 501 to Sunset Drive in Laurinburg. Construct sidewalk on west side. "
+      "description": "SR 1105 (Turnpike Road) to Glasgow Drive and east of US 15 / US 401 / US 501 to Sunset Drive in Laurinburg. Construct sidewalk on west side."
     },
     "EB-5873": {
       "county": "guilford",
@@ -5238,7 +5214,7 @@
     },
     "EB-5886A": {
       "county": "orange",
-      "description": "SR 1772 (North Greensboro Street) to south of Norfolk-Southern Railroad tracks in Carrboro. . Construct bicycle and pedestrian improvements."
+      "description": "SR 1772 (North Greensboro Street) to south of Norfolk-Southern Railroad tracks in Carrboro. Construct bicycle and pedestrian improvements."
     },
     "EB-5886B": {
       "county": "orange",
@@ -5278,7 +5254,7 @@
     },
     "EB-5904": {
       "county": "durham",
-      "description": "Pettigrew Street to Avondale Drive in Durham . Construct multi-use trail on former rail corridor."
+      "description": "Pettigrew Street to Avondale Drive in Durham. Construct multi-use trail on former rail corridor."
     },
     "EB-5907": {
       "county": "cumberland",
@@ -5378,7 +5354,7 @@
     },
     "EB-5958": {
       "county": "davie",
-      "description": "Twins Way near intersection with US 158 to pedestrian tunnel under I-40 in Bermuda Run . Construct section of multi-use path."
+      "description": "Twins Way near intersection with US 158 to pedestrian tunnel under I-40 in Bermuda Run. Construct section of multi-use path."
     },
     "EB-5959": {
       "county": "forsyth",
@@ -5398,11 +5374,11 @@
     },
     "EB-5964": {
       "county": "macon",
-      "description": "US 441 Business (East Main Street) from NC 28 (Highlands Road) to Old Cat Creek Road in Franklin; Old Cat Creek Road from US 441 Business (East Main Street) to 1st Street in Franklin; 1st Street in Franklin from Old Cat Creek Road to NC 28 (Highlands Road. Construct sidewalk loop."
+      "description": "US 441 Business (E Main Street) from NC 28 (Highlands Road) to Old Cat Creek Road in Franklin; Old Cat Creek Road from US 441 Business (E Main Street) to 1st Street in Franklin; 1st Street from Old Cat Creek Road to Grace Presbyterian Church driveway. Construct sidewalk loop."
     },
     "EB-5965": {
       "county": "buncombe",
-      "description": "US 19 / US 23 / US 74A (Patton Avenue) to Westmore Drive in Asheville. Construct sidewalk."
+      "description": "US 19 / US 23 / US 74A (Patton Avenue) to Pisgah View Road in Asheville. Construct sidewalk."
     },
     "EB-5966": {
       "county": "rutherford",
@@ -5415,10 +5391,6 @@
     "EB-5970": {
       "county": "mecklenburg",
       "description": "Existing Irwin Creek Greenway to Hamilton Street in Charlotte. Construct greenway."
-    },
-    "EB-5971": {
-      "county": "mecklenburg",
-      "description": "Griffith Street to SR 6037 (Potts Street) in Davidson. Construct sidewalk on south side of Jetton Street."
     },
     "EB-5972": {
       "county": "stanly",
@@ -5442,7 +5414,7 @@
     },
     "EB-5979": {
       "county": "martin",
-      "description": "Boulevard Street to River Road in Williamston . Install sidewalks and curb ramps."
+      "description": "Skewarkee Trail to US 17. Construction of a 10 foot wide multi-use path."
     },
     "EB-5982": {
       "county": "brunswick",
@@ -5566,7 +5538,7 @@
     },
     "EB-6030": {
       "county": "cumberland",
-      "description": "Richwood Court to NC 24 (Bragg Boulevard) near Fayetteville. Construct sidewalk. "
+      "description": "Richwood Court to NC 24 (Bragg Boulevard) near Fayetteville. Construct sidewalk."
     },
     "EB-6031": {
       "county": "cumberland",
@@ -5594,7 +5566,7 @@
     },
     "EB-6037C": {
       "county": "guilford",
-      "description": "Spring Garden Street to South of Rollins Road in Greensboro. Construct multi-use path. "
+      "description": "Spring Garden Street to South of Rollins Road in Greensboro. Construct multi-use path."
     },
     "EB-6038": {
       "county": "catawba",
@@ -5654,7 +5626,7 @@
     },
     "HB-0001A": {
       "county": "martin",
-      "description": "I-95 interchange to NC 12. Install broadband and ITS."
+      "description": "I-95 interchange to NC 12. Install broadband fiber and ITS for traveler information systems."
     },
     "HE-0002": {
       "county": "wake",
@@ -5670,7 +5642,7 @@
     },
     "HE-0007A": {
       "county": "durham",
-      "description": "First Avenue (Merck Driveway). Construct right turn lane. "
+      "description": "First Avenue (Merck Driveway). Construct right turn lane."
     },
     "HE-0007C": {
       "county": "durham",
@@ -5722,7 +5694,7 @@
     },
     "HI-0003": {
       "county": "randolph",
-      "description": "SR 1009 (Old US Highway 311) to Guilford County line. . Rehabilitate pavement."
+      "description": "SR 1009 (Old US Highway 311) to Guilford County line. Rehabilitate pavement."
     },
     "HI-0004": {
       "county": "randolph",
@@ -5778,7 +5750,7 @@
     },
     "HI-0017": {
       "county": "robeson",
-      "description": "Scotland County line to I-74 / US 74 Business. . Rehabilitate pavement."
+      "description": "Scotland County line to I-74 / US 74 Business. Rehabilitate pavement."
     },
     "HI-0018": {
       "county": "columbus",
@@ -5842,7 +5814,7 @@
     },
     "HL-0027": {
       "county": "wake",
-      "description": "US 401 to SR 1431 (Products Road) in Fuquay-Varina. . Widen to four lane facility."
+      "description": "US 401 to SR 1431 (Products Road) in Fuquay-Varina. Widen to four lane facility."
     },
     "HL-0029": {
       "county": "wake",
@@ -5964,21 +5936,33 @@
       "county": "wake",
       "description": "SR 1004 (East Garner Road) to Southern Boundary of Amazon Fulfillment Center. Widen roadway to 4-lane divided facility."
     },
+    "HL-0170": {
+      "county": "wake",
+      "description": "US 401 to East of Topans Drive. Widen to 2 eastbound lanes."
+    },
+    "HL-0174": {
+      "county": "wake",
+      "description": "NC 55 to North Main Street. Widen to four lane divided facility with bike/ped accommodations."
+    },
+    "HL-0175": {
+      "county": "moore",
+      "description": "Thorne Road to Knoll Road in Southern Pines. Improve roadway."
+    },
     "HO-0002": {
       "county": "columbus",
       "description": "I-40 in Asheville to I-140 in Wilmington. Implement broadband, ITS, and resiliency improvements."
     },
     "HO-0002A": {
       "county": "cleveland",
-      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband."
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband for Traveler Information Systems."
     },
     "HO-0002B": {
       "county": "anson",
-      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS."
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS for Traveler Information Systems."
     },
     "HO-0002C": {
       "county": "columbus",
-      "description": "I-95 in Lumberton to I-140 in Wilmington. Install broadband."
+      "description": "I-95 in Lumberton to I-140 in Wilmington. Install broadband for Traveler Information Systems."
     },
     "HO-0002D": {
       "county": "columbus",
@@ -6058,7 +6042,7 @@
     },
     "HP-0024": {
       "county": "wake",
-      "description": "SR 5056 / SR 2768 (Judd Parkway) to NC 55 / NC 42 (Five Points inersection) . Construct access management improvements."
+      "description": "SR 5056 / SR 2768 (Judd Parkway) to NC 55 / NC 42 (Five Points inersection). Construct access management improvements."
     },
     "HP-0025": {
       "county": "wake",
@@ -6114,7 +6098,7 @@
     },
     "HS-2001I": {
       "county": "pasquotank",
-      "description": "South of airport entrance to SR 1100 (Sawmill Road). . Install rumble stripes and pavement markings."
+      "description": "South of airport entrance to SR 1100 (Sawmill Road). Install rumble stripes and pavement markings."
     },
     "HS-2002A": {
       "county": "pitt",
@@ -6202,7 +6186,7 @@
     },
     "HS-2005G": {
       "county": "wake",
-      "description": "SR 2214 (Southhall Road) / Brintons Cottage Street and Valley Stream Drive intersections in Raleigh. . Revise traffic signals, curb ramps, and pavement markings."
+      "description": "SR 2214 (Southhall Road) / Brintons Cottage Street and Valley Stream Drive intersections in Raleigh. Revise traffic signals, curb ramps, and pavement markings."
     },
     "HS-2006AA": {
       "county": "robeson",
@@ -6266,23 +6250,23 @@
     },
     "HS-2007A": {
       "county": "guilford",
-      "description": "Randolph County line to north of SR 1145 (Riverdale Drive) in High Point. . Install guardrail."
+      "description": "Randolph County line to north of SR 1145 (Riverdale Drive) in High Point. Install guardrail."
     },
     "HS-2007B": {
       "county": "guilford",
-      "description": "North of SR 1145 (Riverdale Drive) to I-85 in High Point. . Install guardrail."
+      "description": "North of SR 1145 (Riverdale Drive) to I-85 in High Point. Install guardrail."
     },
     "HS-2007E": {
       "county": "guilford",
-      "description": "West of SR 1138 (Tom Ball Road) to west of the Alamance County line. . Install pavement markings."
+      "description": "West of SR 1138 (Tom Ball Road) to west of the Alamance County line. Install pavement markings."
     },
     "HS-2007K": {
       "county": "guilford",
-      "description": "Buffalo Creek Bridge east For 1,550 feet and I-40 Exit 219 to US 29 South. . Install guardrail."
+      "description": "Buffalo Creek Bridge east For 1,550 feet and I-40 Exit 219 to US 29 South. Install guardrail."
     },
     "HS-2008A": {
       "county": "scotland",
-      "description": "Richmond County line to SR 1363. . Upgrade guardrail."
+      "description": "Richmond County line to SR 1363. Upgrade guardrail."
     },
     "HS-2008D": {
       "county": "randolph",
@@ -6290,15 +6274,15 @@
     },
     "HS-2009B": {
       "county": "davidson",
-      "description": "SR 2782 (Bowers Road) to east of SR 2012 (Heath Church Road) / SR 2227 (New Bowers Road). . Construct four reduced conflict intersections and leftover with U-turn bulb."
+      "description": "SR 2782 (Bowers Road) to east of SR 2012 (Heath Church Road) / SR 2227 (New Bowers Road). Construct four reduced conflict intersections and leftover with U-turn bulb."
     },
     "HS-2009E": {
       "county": "rowan",
-      "description": "Jake Alexander Boulevard in Salisbury to the Cabarrus County line. . Install pavement markings."
+      "description": "Jake Alexander Boulevard in Salisbury to the Cabarrus County line. Install pavement markings."
     },
     "HS-2009F": {
       "county": "davidson",
-      "description": "Mile marker 0.256 in Forsyth County to mile marker 38.367 in Davidson County. . Install centerline and edgeline sinusoidal rumble stripes."
+      "description": "Mile marker 0.256 in Forsyth County to mile marker 38.367 in Davidson County. Install centerline and edgeline sinusoidal rumble stripes."
     },
     "HS-2010C": {
       "county": "union",
@@ -6378,7 +6362,7 @@
     },
     "HS-2013N": {
       "county": "rutherford",
-      "description": "SR 1007 (Andrews Mill Road / Piney Mountain Church Road) to NC 226 near Bostic. . Install guardrail."
+      "description": "SR 1007 (Andrews Mill Road / Piney Mountain Church Road) to NC 226 near Bostic. Install guardrail."
     },
     "HS-2014A": {
       "county": "macon",
@@ -6434,7 +6418,7 @@
     },
     "HS-2413G": {
       "county": "buncombe",
-      "description": "SR 3116 (Mills Gap Road) to US 74 Alternate near Fairview. Install rumble stripes and 6\" long life pavement markings."
+      "description": "SR 3116 (Mills Gap Road) to US 74 Alternate near Fairview. Install rumble stripes and long life pavement markings."
     },
     "HS-2413I": {
       "county": "buncombe",
@@ -6494,7 +6478,7 @@
     },
     "I-3306AC": {
       "county": "orange",
-      "description": "I-40 interchange ramps C/D to Northwood Drive in Chapel Hill. . Upgrade to reduced conflict intersection."
+      "description": "I-40 interchange ramps C/D to Northwood Drive in Chapel Hill. Upgrade to reduced conflict intersection."
     },
     "I-3802A": {
       "county": "cabarrus",
@@ -6526,7 +6510,7 @@
     },
     "I-4700": {
       "county": "buncombe",
-      "description": "NC 280 (Exit 40) to I-40 at Asheville. . Construct additional lanes."
+      "description": "NC 280 (Exit 40) to I-40 at Asheville. Construct additional lanes."
     },
     "I-4750AA": {
       "county": "iredell",
@@ -6546,7 +6530,7 @@
     },
     "I-5111": {
       "county": "wake",
-      "description": "I-440 / US 64 (Exit 301) to NC 42 (Exit 312). . Add two general purpose lanes in each direction."
+      "description": "I-440 / US 64 (Exit 301) to NC 42 (Exit 312). Add two general purpose lanes in each direction."
     },
     "I-5111REG": {
       "county": "johnston",
@@ -6554,7 +6538,7 @@
     },
     "I-5111SW": {
       "county": "wake",
-      "description": "I-440 / US 64 (Exit 301) to Johnston County line. Construct 2 lanes in each direction. "
+      "description": "I-440 / US 64 (Exit 301) to Johnston County line. Construct 2 lanes in each direction."
     },
     "I-5507": {
       "county": "mecklenburg",
@@ -6562,11 +6546,11 @@
     },
     "I-5701": {
       "county": "wake",
-      "description": "I-440 / US 1 / US 64 to SR 1370 (Lake Wheeler Road) in Raleigh. Construct additional lanes."
+      "description": "I-440 / US 1 / US 64 to SR 1009 (Lake Wheeler Road) in Raleigh. Construct additional lanes."
     },
     "I-5707": {
       "county": "durham",
-      "description": "NC 55 (Alston Avenue) to NC 147 (Durham Freeway / Triangle Expressway) in Durham. . Construct westbound auxiliary lane."
+      "description": "NC 55 (Alston Avenue) to NC 147 (Durham Freeway / Triangle Expressway) in Durham. Construct westbound auxiliary lane."
     },
     "I-5718": {
       "county": "mecklenburg",
@@ -6586,19 +6570,19 @@
     },
     "I-5719FA": {
       "county": "gaston",
-      "description": "US 321 to NC 7 (McAdenville Road / Main Street).   . Install and implement Intelligent Transportation System (ITS) components including Active Traffic Management and Incident Management."
+      "description": "US 321 to NC 7 (McAdenville Road / Main Street). Install and implement Intelligent Transportation System (ITS) components including Active Traffic Management and Incident Management."
     },
     "I-5719FB": {
       "county": "gaston",
-      "description": "NC 7 (McAdenville Road / Main Street) to NC 273.     . Install and implement Intelligent Transportation System (ITS) components including Active Traffic Management and Incident Management."
+      "description": "NC 7 (McAdenville Road / Main Street) to NC 273. Install and implement Intelligent Transportation System (ITS) components including Active Traffic Management and Incident Management."
     },
     "I-5719FC": {
       "county": "cleveland",
-      "description": "South Carolina state line to US 74. . Install broadband."
+      "description": "South Carolina state line to US 74. Install broadband for Traveler Information Systems."
     },
     "I-5719FD": {
       "county": "gaston",
-      "description": "South Carolina state line to NC 273. . Implement Intelligent Transportation System (ITS) Statewide Resilience, connected vehicle technology, and traveler information."
+      "description": "South Carolina state line to NC 273. Implement Intelligent Transportation System (ITS) Statewide Resilience, connected vehicle technology, and traveler information."
     },
     "I-5746C": {
       "county": "mecklenburg",
@@ -6714,7 +6698,7 @@
     },
     "I-5900": {
       "county": "mcdowell",
-      "description": "Mile marker 73.0 to mile marker 81.0. Rehabilitate pavement."
+      "description": "Mile marker 73.0 to mile marker 86.0. Rehabilitate pavement."
     },
     "I-5901": {
       "county": "buncombe",
@@ -6742,7 +6726,7 @@
     },
     "I-5915A": {
       "county": "iredell",
-      "description": "Mile marker 130.7 to mile marker 150.2. Rehabilitate pavement."
+      "description": "East of SR 1007 (1st Street West) to East of NC 115. Rehabilitate pavement."
     },
     "I-5918": {
       "county": "iredell",
@@ -6782,7 +6766,7 @@
     },
     "I-5932A": {
       "county": "halifax",
-      "description": "NC 561 (mile marker 160) to mile marker 167. . Rehabilitate pavement."
+      "description": "NC 561 (mile marker 160) to mile marker 167. Rehabilitate pavement."
     },
     "I-5932B": {
       "county": "halifax",
@@ -6792,17 +6776,13 @@
       "county": "nash",
       "description": "Mile marker 137.4 to mile marker 142.1. Rehabilitate bridge and pavement."
     },
-    "I-5936": {
-      "county": "wilson",
-      "description": "Mile marker 108.2 to mile marker 114.5. Rehabilitate pavement."
-    },
     "I-5939": {
       "county": "robeson",
       "description": "South Carolina state line (mile marker 0.0) to I-74 (mile marker 13). Rehabilitate pavement."
     },
     "I-5940": {
       "county": "duplin",
-      "description": "Duplin County line (mile marker 360) to west of US 117 (mile marker 390). . Rehabilitate bridge and pavement."
+      "description": "Duplin County line (mile marker 360) to west of US 117 (mile marker 390). Rehabilitate bridge and pavement."
     },
     "I-5941": {
       "county": "durham",
@@ -6830,7 +6810,7 @@
     },
     "I-5947A": {
       "county": "montgomery",
-      "description": "Montgomery County line to NC 211. . Rehabilitate pavement."
+      "description": "Montgomery County line to NC 211. Rehabilitate pavement."
     },
     "I-5947B": {
       "county": "montgomery",
@@ -6848,10 +6828,6 @@
       "county": "davidson",
       "description": "I-285 / US 29 / US 52 / US 70 to north of US 64. Rehabilitate pavement."
     },
-    "I-5952": {
-      "county": "forsyth",
-      "description": "SR 1101 (Harper Road) in Clemmons to east of US 421 in Winston-Salem. Rehabilitate pavement."
-    },
     "I-5953": {
       "county": "guilford",
       "description": "I-85 to US 70. Rehabilitate pavement."
@@ -6862,7 +6838,7 @@
     },
     "I-5955A": {
       "county": "guilford",
-      "description": "South Buffalo Creek bridge east of US 220 (Freeman Mill Road) to east of SR 3037 / SR 4240 (East Gate City Boulevard) in Greensboro. . Rehabilitate bridges 400678, 400367, 400364, 400357, 400349, 400348, 400340, 400339, 400336, 400329, 400327, 400299, 400291, and 400285."
+      "description": "South Buffalo Creek bridge east of US 220 (Freeman Mill Road) to east of SR 3037 / SR 4240 (East Gate City Boulevard) in Greensboro. Rehabilitate bridges 400678, 400367, 400364, 400357, 400349, 400348, 400340, 400339, 400336, 400329, 400327, 400299, 400291, and 400285."
     },
     "I-5958": {
       "county": "orange",
@@ -6874,11 +6850,11 @@
     },
     "I-5966": {
       "county": "wake",
-      "description": "SR 1002 (Aviation Parkway) to SR 1652 (Harrison Avenue) in Cary. . Construct auxiliary lanes in both directions."
+      "description": "SR 1002 (Aviation Parkway) to SR 1652 (Harrison Avenue) in Cary. Construct auxiliary lanes in both directions."
     },
     "I-5968": {
       "county": "wake",
-      "description": "US 70 to SR 1829 (Leesville Road) in Raleigh. . Construct eastbound auxiliary lane."
+      "description": "US 70 to SR 1829 (Leesville Road) in Raleigh. Construct eastbound auxiliary lane."
     },
     "I-5981A": {
       "county": "forsyth",
@@ -6894,7 +6870,7 @@
     },
     "I-5986A": {
       "county": "cumberland",
-      "description": "I-95 Business / US 301 (Exit 56) to SR 1001 (Long Branch Road) (Exit 81). Widen to eight lanes."
+      "description": "I-95 Business / US 301 (Exit 56) to SR 1001 (Long Branch Road) (Exit 71). Widen to eight lanes."
     },
     "I-5986B": {
       "county": "harnett",
@@ -6906,7 +6882,7 @@
     },
     "I-5986C": {
       "county": "robeson",
-      "description": "South Carolina state line to Virginia state line. Install broadband fiber."
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber for traveler information systems."
     },
     "I-5987A": {
       "county": "robeson",
@@ -7002,7 +6978,7 @@
     },
     "I-6041": {
       "county": "edgecombe",
-      "description": "SR 1225 (Kingsboro Road) to NC 33. . Rehabilitate pavement."
+      "description": "SR 1225 (Kingsboro Road) to NC 33. Rehabilitate pavement."
     },
     "I-6042": {
       "county": "edgecombe",
@@ -7022,7 +6998,7 @@
     },
     "I-6047": {
       "county": "wayne",
-      "description": "Wilson County line to SR 2075 (Ash Street). Upgrade guardrail, shoulders, and median repairs. "
+      "description": "Wilson County line to SR 2075 (Ash Street). Upgrade guardrail, shoulders, and median repairs."
     },
     "I-6048": {
       "county": "wayne",
@@ -7142,7 +7118,7 @@
     },
     "R-2250": {
       "county": "pitt",
-      "description": "NC 11 to US 264 (Greenville Bypass) in Winterville. . Construct four lane divided facility on new location with bypass of Winterville."
+      "description": "NC 11 to US 264 (Greenville Bypass) in Winterville. Construct four lane divided facility on new location with bypass of Winterville."
     },
     "R-2303A": {
       "county": "cumberland",
@@ -7238,7 +7214,7 @@
     },
     "R-2577A": {
       "county": "forsyth",
-      "description": "Multi-lanes north of US 421 / I-40 Business to SR 1965 (Belews Creek Road). . Widen to a four lane divided facility."
+      "description": "Multi-lanes north of US 421 / I-40 Business to SR 1965 (Belews Creek Road). Widen to a four lane divided facility."
     },
     "R-2577B": {
       "county": "forsyth",
@@ -7258,7 +7234,7 @@
     },
     "R-2603": {
       "county": "wilkes",
-      "description": "NC 18 to SR 1966 (Airport Road). . Construct sidewalk from NC 18 to Shaver Street.  Widen to five lanes from Shaver Street to SR 1971 (Fairplains Road).  Widen to four lanes divided from Fairplains Road to SR 1966 (Airport Road)."
+      "description": "NC 18 to SR 1966 (Airport Road). Construct sidewalk from NC 18 to Shaver Street.  Widen to five lanes from Shaver Street to SR 1971 (Fairplains Road).  Widen to four lanes divided from Fairplains Road to SR 1966 (Airport Road)."
     },
     "R-2615": {
       "county": "watauga",
@@ -7274,39 +7250,39 @@
     },
     "R-2707AA": {
       "county": "cleveland",
-      "description": "West of SR 1162 (Peachtree Road) to east of SR 1318 (Kimbrell Road). Construct four lane divide freeway on new location."
+      "description": "West of SR 1162 (Peachtree Road) to east of SR 1318 (Kimbrell Road). Construct four lane divided freeway on new location."
     },
     "R-2707AB": {
       "county": "cleveland",
-      "description": "East of SR 1318 (Kimbrell Road) to east of SR 1315 (Plato Lee Road). Construct four lane divide freeway on new location."
+      "description": "East of SR 1318 (Kimbrell Road) to east of SR 1315 (Plato Lee Road). Construct four lane divided freeway on new location."
     },
     "R-2707B": {
       "county": "cleveland",
-      "description": "East of SR 1315 (Plato Lee Road) to east of NC 226. Construct four lane divide freeway on new location."
+      "description": "East of SR 1315 (Plato Lee Road) to east of NC 226. Construct four lane divided freeway on new location."
     },
     "R-2707C": {
       "county": "cleveland",
-      "description": "East of NC 226 to east of NC 150. Construct four lane divide freeway on new location."
+      "description": "East of NC 226 to east of NC 150. Construct four lane divided freeway on new location."
     },
     "R-2707D": {
       "county": "cleveland",
-      "description": "East of NC 150 to existing US 74 west of SR 2238 (Long Branch Road). Construct four lane divide freeway on new location."
+      "description": "East of NC 150 to existing US 74 west of SR 2238 (Long Branch Road). Construct four lane divided freeway on new location."
     },
     "R-2707E": {
       "county": "cleveland",
-      "description": "US 74 west of SR 2238 (Long Branch Road) to west of SR 1001 (Stoney Point Road). Construct four lane divide freeway on new location."
+      "description": "US 74 west of SR 2238 (Long Branch Road) to west of SR 1001 (Stoney Point Road). Construct four lane divided freeway on new location."
     },
     "R-2707F": {
       "county": "cleveland",
-      "description": "East of SR 1318 (Kimbrell Road) to east of NC 226. Construct four lane divide freeway on new location."
+      "description": "East of SR 1318 (Kimbrell Road) to east of NC 226. Construct four lane divided freeway on new location."
     },
     "R-2721A": {
       "county": "wake",
-      "description": "NC 55 Bypass to east of SR 1152 (Holly Springs Road). . Construct freeway on new location. This is a toll project."
+      "description": "NC 55 Bypass to east of SR 1152 (Holly Springs Road). Construct freeway on new location. This is a toll project."
     },
     "R-2721B": {
       "county": "wake",
-      "description": "East of SR 1152 (Holly Springs Road) to east of US 401. . Construct freeway on new location. This is a toll project."
+      "description": "East of SR 1152 (Holly Springs Road) to east of US 401. Construct freeway on new location. This is a toll project."
     },
     "R-2814C": {
       "county": "franklin",
@@ -7366,15 +7342,15 @@
     },
     "R-3421A": {
       "county": "richmond",
-      "description": "US 74 Bypass west of Rockingham at SR 1109 (Zion Church Road) to interchange to south of SR 1140 (Old Charlotte Highway). Construct roadway. "
+      "description": "US 74 Bypass west of Rockingham at SR 1109 (Zion Church Road) to interchange to south of SR 1140 (Old Charlotte Highway). Construct roadway."
     },
     "R-3421B": {
       "county": "richmond",
-      "description": "South of SR 1140 (Old Charlotte Highway) to southwest of SR 1304 (Harrington Road). Construct roadway. "
+      "description": "South of SR 1140 (Old Charlotte Highway) to southwest of SR 1304 (Harrington Road). Construct roadway."
     },
     "R-3421C": {
       "county": "richmond",
-      "description": "0.2 miles southwest of SR 1304 (Harrington Road) to I-73 / I-74 Interchange south of Ellerbe. Construct roadway. "
+      "description": "0.2 miles southwest of SR 1304 (Harrington Road) to I-73 / I-74 Interchange south of Ellerbe. Construct roadway."
     },
     "R-3430CA": {
       "county": "caldwell",
@@ -7390,7 +7366,7 @@
     },
     "R-3608": {
       "county": "franklin",
-      "description": "NC 56 / NC 581 (Nash Street) to SR 1229 (Main Street). . Widen to multi-lanes."
+      "description": "NC 56 / NC 581 (Nash Street) to SR 1229 (Main Street). Widen to multi-lanes."
     },
     "R-3822": {
       "county": "halifax",
@@ -7466,7 +7442,7 @@
     },
     "R-5600": {
       "county": "jackson",
-      "description": "NC 116 to US 23 Business; SR 1432 (Skyland Drive) to west of Municipal Drive in Sylva. Construct access management improvements."
+      "description": "US 23 Business to NC 116 (Webster Road); SR 1432 (Skyland Drive) to west of Municipal Drive in Sylva. Construct access management improvements."
     },
     "R-5605": {
       "county": "transylvania",
@@ -7478,11 +7454,11 @@
     },
     "R-5705A": {
       "county": "harnett",
-      "description": "Just south of SR 1532 (Oak Grove Church Road) to NC 210 in Angier.  Widen to multi-lanes, partially on new location."
+      "description": "Just south of SR 1532 (Oak Grove Church Road) to NC 210 in Angier. Widen to multi-lanes, partially on new location."
     },
     "R-5705B": {
       "county": "wake",
-      "description": "NC 210 to SR 4809 (Jicarilla Lane).  Widen to multi-lanes, partially on new location."
+      "description": "NC 210 to SR 4809 (Jicarilla Lane). Widen to multi-lanes, partially on new location."
     },
     "R-5706A": {
       "county": "mecklenburg",
@@ -7498,7 +7474,7 @@
     },
     "R-5709": {
       "county": "hoke",
-      "description": "US 15 / US 501 in Aberdeen to east of SR 1244 (West Palmer Street) / SR 1311 (Mockingbird Hill Road) in Raeford. . Widen to a four lane divided facility."
+      "description": "US 15 / US 501 in Aberdeen to east of SR 1244 (West Palmer Street) / SR 1311 (Mockingbird Hill Road) in Raeford. Widen to a four lane divided facility."
     },
     "R-5709A": {
       "county": "hoke",
@@ -7550,7 +7526,7 @@
     },
     "R-5726": {
       "county": "moore",
-      "description": "NC 73 in west end to west of SR 1241 (Holly Grove School Road). . Widen to a four lane divided facility."
+      "description": "NC 73 in west end to west of SR 1241 (Holly Grove School Road). Widen to a four lane divided facility."
     },
     "R-5726A": {
       "county": "moore",
@@ -7586,7 +7562,7 @@
     },
     "R-5736": {
       "county": "davie",
-      "description": "SR 1301 (Madison Road) to SR 1408 (Cana Road). . Widen to multi-lanes."
+      "description": "SR 1301 (Madison Road) to SR 1408 (Cana Road). Widen to multi-lanes."
     },
     "R-5738": {
       "county": "dare",
@@ -7634,11 +7610,11 @@
     },
     "R-5766": {
       "county": "rockingham",
-      "description": "West of SR 2371 (Old County Home Road) in Wentworth to US 158 / US 29 Business (Freeway Drive) in Reidsville.  . Upgrade roadway."
+      "description": "West of SR 2371 (Old County Home Road) in Wentworth to US 158 / US 29 Business (Freeway Drive) in Reidsville. Upgrade roadway."
     },
     "R-5772": {
       "county": "wilkes",
-      "description": "US 421 to Forest Hills Drive in Wilkesboro. Upgrade roadway."
+      "description": "US 421 to Forest Hill Drive in Wilkesboro. Upgrade roadway."
     },
     "R-5777C": {
       "county": "craven",
@@ -7646,7 +7622,7 @@
     },
     "R-5777D": {
       "county": "craven",
-      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70."
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70 for traveler information systems."
     },
     "R-5779": {
       "county": "madison",
@@ -7722,11 +7698,11 @@
     },
     "R-5824": {
       "county": "moore",
-      "description": "US 1 in Vass to Cumberland County line. . Upgrade roadway, to include turn lanes at various locations and some realignment."
+      "description": "US 1 in Vass to Cumberland County line. Upgrade roadway, to include turn lanes at various locations and some realignment."
     },
     "R-5826B": {
       "county": "montgomery",
-      "description": "SR 1127 (Hearne Farm Road) to SR 1174 (Pee Dee Road). Upgrade roadway, including paved shoulders, turn lanes, and signals."
+      "description": "SR 1127 (Hearne Farm Road) to SR 1174 (Pee Dee Road). Upgrade roadway."
     },
     "R-5829A": {
       "county": "wayne",
@@ -7746,7 +7722,7 @@
     },
     "R-5836": {
       "county": "surry",
-      "description": "I-74 to SR 1104 (Cody Trail). . Widen to four lanes."
+      "description": "I-74 to SR 1104 (Cody Trail). Widen to four lanes."
     },
     "R-5839BA": {
       "county": "graham",
@@ -7774,15 +7750,15 @@
     },
     "R-5860B": {
       "county": "rowan",
-      "description": "Proposed Rockwell bypass. Construct 3-lane facility on new location. "
+      "description": "Proposed Rockwell bypass. Construct 3-lane facility on new location."
     },
     "R-5860C": {
       "county": "rowan",
-      "description": "Proposed Granite Quarry bypass. Construct 3-lane facility on new location. "
+      "description": "Proposed Granite Quarry bypass. Construct 3-lane facility on new location."
     },
     "R-5861": {
       "county": "cherokee",
-      "description": "Georgia state line to US 64. Modernize roadway to include additional paved shoulders and realignment to improve roadway geometry. "
+      "description": "Georgia state line to US 64. Modernize roadway to include additional paved shoulders and realignment to improve roadway geometry."
     },
     "R-5863": {
       "county": "clay",
@@ -7834,7 +7810,7 @@
     },
     "R-5905": {
       "county": "surry",
-      "description": "SR 1387 (Toast Road) to SR 1396 (Pine Ridge Road). . Modernize roadway and construct SR 1396 (Pine Ridge Road) intersection improvements."
+      "description": "SR 1387 (Toast Road) to SR 1396 (Pine Ridge Road). Modernize roadway and construct SR 1396 (Pine Ridge Road) intersection improvements."
     },
     "R-5906": {
       "county": "wilkes",
@@ -7886,11 +7862,11 @@
     },
     "R-5930A": {
       "county": "chatham",
-      "description": "Northern terminus of existing Chatham Park Way just north of US 64 to north of proposed Grant Drive. Construct roadway. "
+      "description": "Northern terminus of existing Chatham Park Way just north of US 64 to north of proposed Grant Drive. Construct roadway."
     },
     "R-5930B": {
       "county": "chatham",
-      "description": "North of proposed Grant Drive to US 15 / US 501. Construct roadway. "
+      "description": "North of proposed Grant Drive to US 15 / US 501. Construct roadway."
     },
     "R-5936": {
       "county": "washington",
@@ -7926,11 +7902,11 @@
     },
     "R-5956A": {
       "county": "randolph",
-      "description": "SR 2269 (Vision Drive) to SR 2149 (Hub Morris Road). Widen roadway. "
+      "description": "SR 2269 (Vision Drive) to SR 2149 (Hub Morris Road). Widen roadway."
     },
     "R-5956B": {
       "county": "randolph",
-      "description": "SR 2149 (Hub Morris Road) to SR 2123 (Caudle Road). Widen roadway. "
+      "description": "SR 2149 (Hub Morris Road) to SR 2123 (Caudle Road). Widen roadway."
     },
     "R-5959": {
       "county": "lee",
@@ -7942,11 +7918,11 @@
     },
     "R-5963A": {
       "county": "chatham",
-      "description": "US 15 / US 501 south of Pittsboro to US 64 Business. Construct roadway. "
+      "description": "US 15 / US 501 south of Pittsboro to US 64 Business. Construct roadway."
     },
     "R-5963C": {
       "county": "chatham",
-      "description": "US 64 Business to just north of US 64. Construct roadway. "
+      "description": "US 64 Business to just north of US 64. Construct roadway."
     },
     "R-5967": {
       "county": "burke",
@@ -7958,11 +7934,11 @@
     },
     "TO-6166A": {
       "county": "wake",
-      "description": "Various locations.  Funding to establish bus rapid transit service from Research Triangle Park to Cary. Construct infrastructures, purchase vehicles"
+      "description": "Various locations. Funding to establish bus rapid transit service from Research Triangle Park to Cary. Construct infrastructures, purchase vehicles"
     },
     "TO-6166B": {
       "county": "wake",
-      "description": "Various locations.  Funding to establish bus rapid transit service from Cary to Raleigh. Construct infrastructures, purchase vehicles"
+      "description": "Various locations. Funding to establish bus rapid transit service from Cary to Raleigh. Construct infrastructures, purchase vehicles"
     },
     "TO-6166C": {
       "county": "wake",
@@ -7986,7 +7962,7 @@
     },
     "U-0071": {
       "county": "durham",
-      "description": "East End Connector, NC 147 (Durham Freeway) to north of NC 98 in Durham. . Construct four-lane divided freeway with auxiliary lanes, part on new location."
+      "description": "East End Connector, NC 147 (Durham Freeway) to north of NC 98 in Durham. Construct four-lane divided freeway with auxiliary lanes, part on new location."
     },
     "U-2307B": {
       "county": "catawba",
@@ -7994,11 +7970,11 @@
     },
     "U-2412A": {
       "county": "guilford",
-      "description": "US 311 Bypass to SR 4228 (Vickrey Chapel Road). Widen roadway. "
+      "description": "US 311 Bypass to SR 4228 (Vickrey Chapel Road). Widen roadway."
     },
     "U-2412B": {
       "county": "guilford",
-      "description": "SR 4228 (Vickrey Chapel Road) to SR 1424 (Hilltop Road). Widen roadway. "
+      "description": "SR 4228 (Vickrey Chapel Road) to SR 1424 (Hilltop Road). Widen roadway."
     },
     "U-2509": {
       "county": "mecklenburg",
@@ -8062,19 +8038,19 @@
     },
     "U-2524C": {
       "county": "guilford",
-      "description": "Greensboro Western Loop, north of SR 2176 (Bryan Boulevard) to US 220 (Battleground Avenue). Construct roadway. "
+      "description": "Greensboro Western Loop, north of SR 2176 (Bryan Boulevard) to US 220 (Battleground Avenue). Construct roadway."
     },
     "U-2524D": {
       "county": "guilford",
-      "description": "Greensboro Western Loop, US 220 (Battleground Avenue) to SR 2303 (Lawndale Drive). Construct roadway. "
+      "description": "Greensboro Western Loop, US 220 (Battleground Avenue) to SR 2303 (Lawndale Drive). Construct roadway."
     },
     "U-2525B": {
       "county": "guilford",
-      "description": "Greensboro Eastern Loop, US 70 relocation to US 29 north of Greensboro. Relocate roadway. "
+      "description": "Greensboro Eastern Loop, US 70 relocation to US 29 north of Greensboro. Relocate roadway."
     },
     "U-2525C": {
       "county": "guilford",
-      "description": "Greensboro Eastern Loop, US 29 north of Greensboro to SR 2303 (Lawndale Drive). Construct roadway. "
+      "description": "Greensboro Eastern Loop, US 29 north of Greensboro to SR 2303 (Lawndale Drive). Construct roadway."
     },
     "U-2530A": {
       "county": "catawba",
@@ -8122,19 +8098,19 @@
     },
     "U-2581BA": {
       "county": "guilford",
-      "description": "SR 3045 (Mount Hope Church Road) to SR 2826 (Birch Creek Road). Widen roadway. "
+      "description": "SR 3045 (Mount Hope Church Road) to SR 2826 (Birch Creek Road). Widen roadway."
     },
     "U-2714": {
       "county": "wayne",
-      "description": "North of US 70 to SR 1571 (Tommy's Road) in Goldsboro. . Widen to four lanes and make safety improvements."
+      "description": "North of US 70 to SR 1571 (Tommy's Road) in Goldsboro. Widen to four lanes and make safety improvements."
     },
     "U-2719": {
       "county": "wake",
-      "description": "South of SR 1313 (Walnut Street) to north of SR 1728 (Wade Avenue) in Raleigh. . Widen from four to six lanes, improve storage at Lake Boone Trail interchange and install ramp meters."
+      "description": "South of SR 1313 (Walnut Street) to north of SR 1728 (Wade Avenue) in Raleigh. Widen from four to six lanes, improve storage at Lake Boone Trail interchange and install ramp meters."
     },
     "U-2729": {
       "county": "forsyth",
-      "description": "Museum Drive to SR 4000 (University Parkway) in Winston-Salem. . Widen to multi-lane divided facility."
+      "description": "Museum Drive to SR 4000 (University Parkway) in Winston-Salem. Widen to multi-lane divided facility."
     },
     "U-2801AA": {
       "county": "buncombe",
@@ -8146,7 +8122,7 @@
     },
     "U-2817": {
       "county": "pitt",
-      "description": "SR 1711 (Worthington Road) in Winterville to US 264 Alternate (Greenville Boulevard) in Greenville. . Widen to four lanes."
+      "description": "SR 1711 (Worthington Road) in Winterville to US 264 Alternate (Greenville Boulevard) in Greenville. Widen to four lanes."
     },
     "U-2901B": {
       "county": "wake",
@@ -8154,19 +8130,19 @@
     },
     "U-2925": {
       "county": "forsyth",
-      "description": "Salem Creek Connector, SR 4326 (Rams Drive) to SR 4325 (Martin Luther King, Jr. Drive) in Winston-Salem. . Construct multi-lane facility on new location."
+      "description": "Salem Creek Connector, SR 4326 (Rams Drive) to SR 4325 (Martin Luther King, Jr. Drive) in Winston-Salem. Construct multi-lane facility on new location."
     },
     "U-2925C": {
       "county": "forsyth",
-      "description": "Salem Creek Connector, SR 4326 (Rams Drive) to SR 4325 (Martin Luther King, Jr. Drive). Improve landscaping and lighting. "
+      "description": "Salem Creek Connector, SR 4326 (Rams Drive) to SR 4325 (Martin Luther King, Jr. Drive). Improve landscaping and lighting."
     },
     "U-3109A": {
       "county": "alamance",
-      "description": "I-40 / I-85 to north of SR 1921 (Mebane Rogers Road). Relocate roadway. "
+      "description": "I-40 / I-85 to north of SR 1921 (Mebane Rogers Road). Relocate roadway."
     },
     "U-3109B": {
       "county": "alamance",
-      "description": "North of SR 1921 (Mebane Rogers Road) to south of SR 1918 (Mrs. White Road). Relocate roadway. "
+      "description": "North of SR 1921 (Mebane Rogers Road) to south of SR 1918 (Mrs. White Road). Relocate roadway."
     },
     "U-3125A": {
       "county": "duplin",
@@ -8194,11 +8170,11 @@
     },
     "U-3301": {
       "county": "buncombe",
-      "description": "SR 1615 (Gilbert Road) to west of SR 1004 (Newfound Road) in Asheville. . Widen to multi-lanes, some relocation."
+      "description": "SR 1615 (Gilbert Road) to west of SR 1004 (Newfound Road) in Asheville. Widen to multi-lanes, some relocation."
     },
     "U-3308": {
       "county": "durham",
-      "description": "NC 147 (Durham Freeway) to US 70 Business / NC 98 (Holloway Street) in Durham. . Widen to four-lane divided facility from NC 147 to Main Street and replace Norfolk Southern Railroad bridges. Modernize from Main Street to US 70 Business / NC 98 (Holloway Street)"
+      "description": "NC 147 (Durham Freeway) to US 70 Business / NC 98 (Holloway Street) in Durham. Widen to four-lane divided facility from NC 147 to Main Street and replace Norfolk Southern Railroad bridges. Modernize from Main Street to US 70 Business / NC 98 (Holloway Street)"
     },
     "U-3338B": {
       "county": "new hanover",
@@ -8210,11 +8186,11 @@
     },
     "U-3415A": {
       "county": "cabarrus",
-      "description": "East of I-85 to George Liles Parkway. Widen to multi-lanes."
+      "description": "Gable Oaks Lane/ Woodhaven Place to Seasons Place. Widen to multi-lanes."
     },
     "U-3422": {
       "county": "cumberland",
-      "description": "Proposed Fayetteville Outer Loop (U-2519) to SR 1596 (Hope Mills Road) in Fayetteville. . Widen to four lanes."
+      "description": "Fayetteville Outer Loop (U-2519) to SR 1596 (Hope Mills Road) in Fayetteville. Widen to four lanes."
     },
     "U-3422A": {
       "county": "cumberland",
@@ -8230,7 +8206,7 @@
     },
     "U-3440": {
       "county": "cabarrus",
-      "description": "West Side Bypass (U-2009) to SR 1691 (Loop Road) in Kannapolis. . Widen to four lanes divided."
+      "description": "West Side Bypass (U-2009) to SR 1691 (Loop Road) in Kannapolis. Widen to four lanes divided."
     },
     "U-3467": {
       "county": "union",
@@ -8250,11 +8226,11 @@
     },
     "U-3618": {
       "county": "lenoir",
-      "description": "SR 1572 (Rouse Road) to US 258. . Construct multi-lanes on new location."
+      "description": "SR 1572 (Rouse Road) to US 258. Construct multi-lanes on new location."
     },
     "U-3628": {
       "county": "moore",
-      "description": "Courthouse west of NC 22 (McNeill Street) to US 15 / US 501 in Carthage. . Widen to three lanes with curb and gutter and bicycle / pedestrian accommodations."
+      "description": "Courthouse west of NC 22 (McNeill Street) to US 15 / US 501 in Carthage. Widen to three lanes with curb and gutter and bicycle / pedestrian accommodations."
     },
     "U-3633": {
       "county": "gaston",
@@ -8282,7 +8258,7 @@
     },
     "U-4404": {
       "county": "cumberland",
-      "description": "McPherson Church Road to SR 1404 (Morganton Road). . Widen roadway."
+      "description": "McPherson Church Road to SR 1404 (Morganton Road). Widen roadway."
     },
     "U-4405A": {
       "county": "cumberland",
@@ -8298,19 +8274,19 @@
     },
     "U-4407": {
       "county": "wayne",
-      "description": "SR 1711 (South Oak Forest Road) to US 70 Bypass. . Widen to three lanes."
+      "description": "SR 1711 (South Oak Forest Road) to US 70. Widen to four lanes."
     },
     "U-4424": {
       "county": "edgecombe",
-      "description": "US 64 Alternate (Western Boulevard) to NC 122 (McNair Road). . Widen to three lanes."
+      "description": "US 64 Alternate (Western Boulevard) to NC 122 (McNair Road). Widen to three lanes."
     },
     "U-4434": {
       "county": "new hanover",
-      "description": "Randall Parkway to US 74 (Martin Luther King, Jr. Parkway) in Wilmington. . Extend roadway on new location."
+      "description": "Randall Parkway to US 74 (Martin Luther King, Jr. Parkway) in Wilmington. Extend roadway on new location."
     },
     "U-4700A": {
       "county": "catawba",
-      "description": "North of US 70 in Hickory to US 321A. Widen to six lanes."
+      "description": "North of US 70 in Hickory to US 321A. Widen to six lanes and replace bridges 130366 and 130367 over the Catawba River on US 321."
     },
     "U-4709": {
       "county": "cumberland",
@@ -8354,7 +8330,7 @@
     },
     "U-4751": {
       "county": "new hanover",
-      "description": "SR 1409 (Military Cutoff Road) to US 17 (Market Street) in Wilmington.  . Construct roadway on new location."
+      "description": "SR 1409 (Military Cutoff Road) to US 17 (Market Street) in Wilmington. Construct roadway on new location."
     },
     "U-4751A": {
       "county": "new hanover",
@@ -8362,19 +8338,19 @@
     },
     "U-4753": {
       "county": "wayne",
-      "description": "SR 1003 (New Hope Road) to US 70 in Goldsboro. . Widen to four lanes."
+      "description": "SR 1003 (New Hope Road) to I-42 (formerly US 70) in Goldsboro. Widen to four lanes."
     },
     "U-4758": {
       "county": "guilford",
-      "description": "SR 1820 (Skeet Club Road) to south of I-40 in High Point. . Widen to four lanes."
+      "description": "SR 1820 (Skeet Club Road) to south of I-40 in High Point. Widen to four lanes."
     },
     "U-4762": {
       "county": "edgecombe",
-      "description": "US 64 Alternate to SR 1243 (Leggett Road). . Widen to three lanes."
+      "description": "US 64 Alternate to SR 1243 (Leggett Road). Widen to three lanes."
     },
     "U-4900": {
       "county": "cumberland",
-      "description": "I-295 to south of US 401 Bypass. . Add additional lanes."
+      "description": "I-295 to south of US 401 Bypass. Add additional lanes."
     },
     "U-4902B": {
       "county": "new hanover",
@@ -8386,7 +8362,7 @@
     },
     "U-4902D": {
       "county": "new hanover",
-      "description": "SR 1403 (Middle Sound Loop Road) to SR 2290 (Mendehnall Drive) / SR 2734 (Marsh Oaks Drive). Construct access management improvements."
+      "description": "SR 1403 (Middle Sound Loop Road) to SR 2290 (Mendenhall Drive) / SR 2734 (Marsh Oaks Drive). Construct access management improvements."
     },
     "U-4906": {
       "county": "onslow",
@@ -8406,7 +8382,7 @@
     },
     "U-4913A": {
       "county": "mecklenburg",
-      "description": "SR 1375 (Stallings Road) to I-485. Widen to four lanes."
+      "description": "SR 3175 (Stallings Road) to I-485. Widen to four lanes."
     },
     "U-4913B": {
       "county": "union",
@@ -8426,11 +8402,11 @@
     },
     "U-5019E": {
       "county": "buncombe",
-      "description": "Bridge 110743 over French Broad River. Construct bridge improvements."
+      "description": "Bridge 100743 over French Broad River. Construct bridge improvements."
     },
     "U-5101A": {
       "county": "cumberland",
-      "description": "NC 24 (Bragg Boulevard) to NC 210 (Murchison Road). . Widen roadway and construct partially on new location."
+      "description": "NC 24 (Bragg Boulevard) to NC 210 (Murchison Road). Widen roadway and construct partially on new location."
     },
     "U-5108": {
       "county": "mecklenburg",
@@ -8438,11 +8414,11 @@
     },
     "U-5301": {
       "county": "wake",
-      "description": "West of SR 1308 (Laura Duncan Road) to US 1 in Apex and Cary.  . Upgrade and improve corridor."
+      "description": "West of SR 1308 (Laura Duncan Road) to US 1 in Apex and Cary. Upgrade and improve corridor."
     },
     "U-5302": {
       "county": "wake",
-      "description": "South of SR 1006 (Old Stage Road) to south of SR 2538 (Mechanical Boulevard) / Garner Station Boulevard in Garner. . Construct reduced conflict intersections."
+      "description": "South of SR 1006 (Old Stage Road) to south of SR 2538 (Mechanical Boulevard) / Garner Station Boulevard in Garner. Construct reduced conflict intersections."
     },
     "U-5304B": {
       "county": "orange",
@@ -8456,13 +8432,25 @@
       "county": "orange",
       "description": "SR 1742 (Ephesus Church Road) to I-40. Construct corridor capacity improvements."
     },
-    "U-5307": {
+    "U-5307A": {
       "county": "wake",
-      "description": "I-540 in Raleigh to SR 1909 (Purnell Road) / SR 1931 (Harris Road) in Wake Forest. Upgrade roadway to 6 and 8 lane expressway. All lanes tolled. This is a toll project.\nCapital Area MPO approved toll project in May 2025.  Toll status dependent on statutory amendment."
+      "description": "I-540 to north of SR 2006 (Durant Road). Upgrade roadway to controlled access facility."
+    },
+    "U-5307B": {
+      "county": "wake",
+      "description": "North of SR 2006 (Durant Road) in Raleigh to north of SR 2045 (Burlington Mills Road) in Wake Forest. Upgrade roadway to controlled access facility."
+    },
+    "U-5307C": {
+      "county": "wake",
+      "description": "North of SR 2045 (Burlington Mills Road) to south of NC 98 Business. Upgrade roadway to controlled access facility."
+    },
+    "U-5307D": {
+      "county": "wake",
+      "description": "South of NC 98 Business to SR 1909 (Purnell Road) / SR 1931 (Harris Road) in Wake Forest. Upgrade roadway to controlled access facility."
     },
     "U-5308": {
       "county": "randolph",
-      "description": "SR 3106 (Kennedy Road) to I-85 in Trinity. . Widen to multi-lanes."
+      "description": "SR 3106 (Kennedy Road) to I-85 in Trinity. Widen to multi-lanes."
     },
     "U-5312": {
       "county": "wilkes",
@@ -8474,19 +8462,19 @@
     },
     "U-5518": {
       "county": "wake",
-      "description": "West of SR 3067 (T.W. Alexander Drive) to I-540 in Raleigh. . Upgrade roadway to improve capacity, safety and traffic operations including interchanges at various locations."
+      "description": "West of SR 3067 (T.W. Alexander Drive) to I-540 in Raleigh. Upgrade roadway to improve capacity, safety and traffic operations including interchanges at various locations."
     },
     "U-5529": {
       "county": "wake",
-      "description": "West of SR 1101 (Piney Grove - Wilbon Road) to Village Walk Drive in Holly Springs. . Construct operational improvements."
+      "description": "West of SR 1101 (Piney Grove - Wilbon Road) to Village Walk Drive in Holly Springs. Construct operational improvements."
     },
     "U-5536": {
       "county": "forsyth",
-      "description": "Proposed Great Wagon Road from SR 1001 (Shallowford Road) to SR 1308 (Lewisville-Vienna Road) in Lewisville.  . Construct two lane facility on new location with bicycle and pedestrian accommodations."
+      "description": "Proposed Great Wagon Road from SR 1001 (Shallowford Road) to SR 1308 (Lewisville-Vienna Road) in Lewisville. Construct two lane facility on new location with bicycle and pedestrian accommodations."
     },
     "U-5537": {
       "county": "wake",
-      "description": "North of MacGregor Pines Road to north of Versailles Drive. . Widen to 3 lanes including 10 ft multi-use path on east side and 5 ft sidewalk west side."
+      "description": "North of MacGregor Pines Road to north of Versailles Drive. Widen to 3 lanes including 10 ft multi-use path on east side and 5 ft sidewalk west side."
     },
     "U-5539A": {
       "county": "forsyth",
@@ -8494,7 +8482,7 @@
     },
     "U-5606": {
       "county": "pitt",
-      "description": "NC 11 to Reade Circle. . Improve roadway."
+      "description": "NC 11 to Reade Circle. Improve roadway."
     },
     "U-5608": {
       "county": "rowan",
@@ -8506,7 +8494,7 @@
     },
     "U-5618": {
       "county": "wake",
-      "description": "SR 1613 (Davis Drive) to west of NC 54 in Morrisville. . Widen to 4-lane divided facility."
+      "description": "SR 1613 (Davis Drive) to west of NC 54 in Morrisville. Widen to 4-lane divided facility."
     },
     "U-5702A": {
       "county": "new hanover",
@@ -8530,7 +8518,7 @@
     },
     "U-5710A": {
       "county": "new hanover",
-      "description": "SR 1409 (Military Cutoff Road) at Drysdale Drive to US 74 (Eastwood Road). . Construct roadway on new location."
+      "description": "SR 1409 (Military Cutoff Road) at Drysdale Drive to US 74 (Eastwood Road). Construct roadway on new location."
     },
     "U-5711": {
       "county": "randolph",
@@ -8542,19 +8530,19 @@
     },
     "U-5722": {
       "county": "lee",
-      "description": "US 1 / US 15 / US 501 to former Atlantic Coast Line Railroad crossing east of Washington Avenue in Sanford. . Reconstruct as a \"complete street\" with improvements such as medians, sidewalks, bicycle facilities, and streetscaping."
+      "description": "US 1 / US 15 / US 501 to former Atlantic Coast Line Railroad crossing east of Washington Avenue in Sanford. Reconstruct as a \"complete street\" with improvements such as medians, sidewalks, bicycle facilities, and streetscaping."
     },
     "U-5725": {
       "county": "halifax",
-      "description": "I-95 to SR 1745 (Old Farm Road). . Widen to four lanes."
+      "description": "I-95 to SR 1745 (Old Farm Road). Widen to four lanes."
     },
     "U-5726": {
       "county": "johnston",
-      "description": "SR 1623 (Booker Dairy Road) to SR 2302 (Ricks Road). . Construct access management improvements."
+      "description": "SR 1623 (Booker Dairy Road) to SR 2302 (Ricks Road). Construct access management improvements."
     },
     "U-5727": {
       "county": "lee",
-      "description": "South of SR 1198 (Bryan Drive) to SR 1237 (Carthage Street) in Sanford. . Construct reduced conflict intersection and relocate NC 78 (Tramway Road)."
+      "description": "South of SR 1198 (Bryan Drive) to SR 1237 (Carthage Street) in Sanford. Construct reduced conflict intersection and relocate NC 78 (Tramway Road)."
     },
     "U-5729REG": {
       "county": "new hanover",
@@ -8562,35 +8550,35 @@
     },
     "U-5732": {
       "county": "pender",
-      "description": "SR 1582 (Washington Acres Road) to Vista Lane.  . Construct reduced conflict intersections."
+      "description": "SR 1582 (Washington Acres Road) to Vista Lane. Construct reduced conflict intersections."
     },
     "U-5734": {
       "county": "new hanover",
-      "description": "US 17 Business / US 76 / US 421 (Cape Fear Memorial Bridge) to US 421 (Burnett Boulevard) in Wilmington. . Widen to multi-lanes."
+      "description": "US 17 Business / US 76 / US 421 (Cape Fear Memorial Bridge) to US 421 (Burnett Boulevard) in Wilmington. Widen to multi-lanes."
     },
     "U-5736": {
       "county": "onslow",
-      "description": "US 17 (Marine Boulevard) to NC 24 (Lejeune Boulevard) in Jacksonville. . Construct access management improvements."
+      "description": "US 17 (Marine Boulevard) to NC 24 (Lejeune Boulevard) in Jacksonville. Construct access management improvements."
     },
     "U-5737": {
       "county": "chatham",
-      "description": "North Glenn Avenue to east of US 421 (Future I-685) in Siler City. Upgrade roadway to include median for access control, sidewalks, crosswalks, bicycle lanes and / or multi-use side path."
+      "description": "North Glenn Avenue to US 421 (Future I-685) in Siler City. Upgrade roadway to include median for access control, sidewalks, crosswalks, bicycle lanes and / or multi-use side path."
     },
     "U-5738": {
       "county": "rowan",
-      "description": "US 601 (Jake Alexander Boulevard) to SR 2667 (Summit Park Drive) in Salisbury.  . Widen to four lane divided facility with bike-ped accommodations."
+      "description": "US 601 (Jake Alexander Boulevard) to SR 2667 (Summit Park Drive) in Salisbury. Widen to four lane divided facility with bike-ped accommodations."
     },
     "U-5739": {
       "county": "onslow",
-      "description": "SR 1212 (Pony Farm Road) to SR 1213 (Blue Creek Road).  . Construct reduced conflict intersections."
+      "description": "SR 1212 (Pony Farm Road) to SR 1213 (Blue Creek Road). Construct reduced conflict intersections."
     },
     "U-5743": {
       "county": "randolph",
-      "description": "SR 2237 (East Salisbury Street) to north of US 64 / NC 49 (Dixie Drive) in Asheboro.  . Widen to three lanes."
+      "description": "SR 2237 (East Salisbury Street) to north of US 64 / NC 49 (Dixie Drive) in Asheboro. Widen to three lanes."
     },
     "U-5746": {
       "county": "wake",
-      "description": "SR 1467 / SR 2839 (Allen Street) to SR 1010 (Ten-Ten road).  . Construct additional lanes."
+      "description": "SR 1467 / SR 2839 (Allen Street) to SR 1010 (Ten-Ten road). Construct additional lanes."
     },
     "U-5747A": {
       "county": "wake",
@@ -8602,19 +8590,19 @@
     },
     "U-5753": {
       "county": "hoke",
-      "description": "SR 1305 (Wayside Road) / US 401 to Plank Road, and SR 1418 (Lindsay Road) / US 401 to SR 1406 (Rockfish Road). . Widen to multi-lanes."
+      "description": "SR 1305 (Wayside Road) / US 401 to Plank Road, and SR 1418 (Lindsay Road) / US 401 to SR 1406 (Rockfish Road). Widen to multi-lanes."
     },
     "U-5754": {
       "county": "guilford",
-      "description": "I-40 /I-85 Business to south of Florida Street in Greensboro. . Construct additional lane on I-40 / I-85 Business eastbound ramp onto northbound US 29 / US 70 / US 220 and extend US 29 / US 70 / US 220 southbound ramp onto SR 3762 (Martin Luther King, Jr. Drive)"
+      "description": "I-40 /I-85 Business to south of Florida Street in Greensboro. Construct additional lane on I-40 / I-85 Business eastbound ramp onto northbound US 29 / US 70 / US 220 and extend US 29 / US 70 / US 220 southbound ramp onto SR 3762 (Martin Luther King, Jr. Drive)"
     },
     "U-5756": {
       "county": "moore",
-      "description": "US 1 in Aberdeen to the intersection of Trotter Drive / Blake Boulevard in Pinehurst.  . Widen to four lane divided facility from US 1 to Linden Road and a three lane facility from Linden Road to Trotter Drive."
+      "description": "US 1 in Aberdeen to the intersection of Trotter Drive / Blake Boulevard in Pinehurst. Widen to four lane divided facility from US 1 to Linden Road and a three lane facility from Linden Road to Trotter Drive."
     },
     "U-5757": {
       "county": "davidson",
-      "description": "9th Street to SR 1408 (Biesecker Road) in Lexington.  . Widen to four lane divided facility with bike-ped accommodations."
+      "description": "9th Street to SR 1408 (Biesecker Road) in Lexington. Widen to four lane divided facility with bike-ped accommodations."
     },
     "U-5760": {
       "county": "forsyth",
@@ -8654,7 +8642,7 @@
     },
     "U-5769B": {
       "county": "union",
-      "description": "SR 1307 (Bonds Grove Church Road) to SR 3530 (Waxhaw Parkway) in Waxhaw. . Widen to multi-lanes."
+      "description": "SR 1307 (Bonds Grove Church Road) to SR 3530 (Waxhaw Parkway) in Waxhaw. Widen to multi-lanes."
     },
     "U-5770A": {
       "county": "randolph",
@@ -8666,7 +8654,7 @@
     },
     "U-5771": {
       "county": "mecklenburg",
-      "description": "SR 2136 (Gilead Road) to Holly Point Drive in Huntersville. Widen to four lanes."
+      "description": "SR 2136 (Gilead Road) to SR 6028 (Holly Point Drive) in Huntersville. Widen to four lanes."
     },
     "U-5772": {
       "county": "mecklenburg",
@@ -8714,11 +8702,11 @@
     },
     "U-5798A": {
       "county": "cumberland",
-      "description": "North of SR 1112 (Stoney Point Road) to US 401 (Raeford Road). . Widen to four lanes and replace bridge 250075 over Little Rockfish Creek."
+      "description": "North of SR 1112 (Stoney Point Road) to US 401 (Raeford Road). Widen to four lanes and replace bridge 250075 over Little Rockfish Creek."
     },
     "U-5798B": {
       "county": "cumberland",
-      "description": "SR 1418 (Lindsay Road) to north of SR 1112 (Stoney Point Road). . Widen to four lanes."
+      "description": "SR 1418 (Lindsay Road) to north of SR 1112 (Stoney Point Road). Widen to four lanes."
     },
     "U-5799": {
       "county": "iredell",
@@ -8742,11 +8730,11 @@
     },
     "U-5811": {
       "county": "wake",
-      "description": "NC 54 to I-40 in Morrisville.  . Widen to multi-lanes."
+      "description": "NC 54 to I-40 in Morrisville. Widen to multi-lanes."
     },
     "U-5813": {
       "county": "randolph",
-      "description": "Asheboro Bypass to east of I-73 / I-74 / US 220 in Asheboro. . Widen to a four lane divided facility, reconstruct interchange at NC 49, modify interchange at I-73 / I-74 / US 220 and replace bridge 750171 over US 64 and NC 49."
+      "description": "Asheboro Bypass to east of I-73 / I-74 / US 220 in Asheboro. Widen to a four lane divided facility, reconstruct interchange at NC 49, modify interchange at I-73 / I-74 / US 220 and replace bridge 750171 over US 64 and NC 49."
     },
     "U-5814": {
       "county": "moore",
@@ -8758,7 +8746,7 @@
     },
     "U-5815B": {
       "county": "moore",
-      "description": "Knight Street in Aberdeen to SR 2080 (Old US 1) in Southern Pines, to include SR 1112 (Roseland Road) realignment at US 1 and radii improvement at US 15 / US 501 / NC 211. Construct access management improvements, realignment, and radii improvements. "
+      "description": "Knight Street in Aberdeen to SR 2080 (Old US 1) in Southern Pines, to include SR 1112 (Roseland Road) realignment at US 1 and radii improvement at US 15 / US 501 / NC 211. Construct access management improvements, realignment, and radii improvements."
     },
     "U-5815BA": {
       "county": "moore",
@@ -8810,11 +8798,11 @@
     },
     "U-5827": {
       "county": "wake",
-      "description": "Poplar Pike Lane in Morrisville to SR 2153 (Little Drive) in Research Triangle Park. . Construct roadway on new location."
+      "description": "Poplar Pike Lane in Morrisville to SR 2153 (Little Drive) in Research Triangle Park. Construct roadway on new location."
     },
     "U-5828": {
       "county": "wake",
-      "description": "SR 3015 (Airport Boulevard) to SR 1002 (Aviation Parkway) in Morrisville.  . Widen to a four lane divided facility, part on new location."
+      "description": "SR 3015 (Airport Boulevard) to SR 1002 (Aviation Parkway) in Morrisville. Widen to a four lane divided facility, part on new location."
     },
     "U-5832": {
       "county": "buncombe",
@@ -8846,15 +8834,15 @@
     },
     "U-5844": {
       "county": "alamance",
-      "description": "SR 1430 (Ramada Road) to US 70 (Church Street) in Burlington. . Widen to a three lane facility."
+      "description": "SR 1430 (Ramada Road) to US 70 (Church Street) in Burlington. Widen to a three lane facility."
     },
     "U-5845": {
       "county": "orange",
-      "description": "I-40 to Eno River in Hillsborough. . Widen to multi-lanes."
+      "description": "I-40 to Eno River in Hillsborough. Widen to multi-lanes."
     },
     "U-5850": {
       "county": "guilford",
-      "description": "Elmsley Drive to Glendale Drive in Greensboro. . Widen to multi-lanes."
+      "description": "Elmsley Drive to Glendale Drive in Greensboro. Widen to multi-lanes."
     },
     "U-5851": {
       "county": "guilford",
@@ -8866,11 +8854,11 @@
     },
     "U-5860": {
       "county": "beaufort",
-      "description": "US 17 Business (Carolina Avenue) to Brown Street. . Widen to multi-lanes."
+      "description": "US 17 Business (Carolina Avenue) to Brown Street. Widen to multi-lanes."
     },
     "U-5864": {
       "county": "randolph",
-      "description": "I-85 in Trinity to SR 1300 (West Fairfield Road) in High Point.  . Widen to multi-lanes."
+      "description": "I-85 in Trinity to SR 1300 (West Fairfield Road) in High Point. Widen to multi-lanes."
     },
     "U-5866": {
       "county": "graham",
@@ -8882,11 +8870,11 @@
     },
     "U-5875": {
       "county": "pitt",
-      "description": "SR 1467 (Stantonsburg Road) to US 13 (Dickinson Avenue Extension). . Widen to four lanes."
+      "description": "SR 1467 (Stantonsburg Road) to US 13 (Dickinson Avenue Extension). Widen to four lanes."
     },
     "U-5878": {
       "county": "onslow",
-      "description": "Commerce Drive to SR 1406 (Piney Green Road).  . Construct roadway on new location."
+      "description": "Commerce Drive to SR 1406 (Piney Green Road). Construct roadway on new location."
     },
     "U-5886": {
       "county": "henderson",
@@ -8894,15 +8882,15 @@
     },
     "U-5887": {
       "county": "henderson",
-      "description": "NC 225 to US 176 in Flat Rock. . Upgrade roadway."
+      "description": "NC 225 to US 176 in Flat Rock. Upgrade roadway."
     },
     "U-5889": {
       "county": "wake",
-      "description": "SR 1116 (Cass Holt Road) to NC 55 Bypass in Holly Springs. . Widen to multi-lanes, with intersection improvements at SR 1116 (Cass Holt Road), SR 1101 (Piney Grove-Wilbon Road) and NC 55 Bypass."
+      "description": "SR 1116 (Cass Holt Road) to NC 55 Bypass in Holly Springs. Widen to multi-lanes, with intersection improvements at SR 1116 (Cass Holt Road), SR 1101 (Piney Grove-Wilbon Road) and NC 55 Bypass."
     },
     "U-5890": {
       "county": "vance",
-      "description": "Coble Boulevard to US 158 Business in Henderson. Upgrade corridor."
+      "description": "South Cooper Drive to US 158 Business in Henderson. Upgrade corridor."
     },
     "U-5891": {
       "county": "wake",
@@ -8914,15 +8902,15 @@
     },
     "U-5899": {
       "county": "forsyth",
-      "description": "Forum Parkway connector, SR 3955 (Forum Parkway) to NC 66 (University Parkway) in Rural Hall. . Construct 2-lane roadway on new location."
+      "description": "Forum Parkway connector, SR 3955 (Forum Parkway) to NC 66 (University Parkway) in Rural Hall. Construct 2-lane roadway on new location."
     },
     "U-5901": {
       "county": "rowan",
-      "description": "Airport Parkway, SR 1710 (Harrison Road) near US 70 / US 601 (Jake Alexander Boulevard) to SR 2539 (Peach Orchard Road) at US 29 in Salisbury.  . Construct 2-lane roadway."
+      "description": "Airport Parkway, SR 1710 (Harrison Road) near US 70 / US 601 (Jake Alexander Boulevard) to SR 2539 (Peach Orchard Road) at US 29 in Salisbury. Construct 2-lane roadway."
     },
     "U-5903": {
       "county": "onslow",
-      "description": "SR 1308 (Gum Branch Road) to NC 53 (Western Boulevard). . Upgrade to reduced conflict intersections."
+      "description": "SR 1308 (Gum Branch Road) to NC 53 (Western Boulevard). Upgrade to reduced conflict intersections."
     },
     "U-5905A": {
       "county": "mecklenburg",
@@ -8942,15 +8930,15 @@
     },
     "U-5914": {
       "county": "brunswick",
-      "description": "US 17 / US 74 / US 76 to SR 1554 (Old River Road).  . Modernize roadway."
+      "description": "US 17 / US 74 / US 76 to SR 1554 (Old River Road). Modernize roadway."
     },
     "U-5917": {
       "county": "pitt",
-      "description": "Red Banks Road to SR 1708 (Firetower Road). . Widen to add median and protected left-turn lanes."
+      "description": "Red Banks Road to SR 1708 (Firetower Road). Widen to add median and protected left-turn lanes."
     },
     "U-5928": {
       "county": "wake",
-      "description": "James Street to Towhee Drive. . Construct grade separated interchange for Apex Peakway at South Salem Street and CSX Railroad."
+      "description": "James Street to Towhee Drive. Construct grade separated interchange for Apex Peakway at South Salem Street and CSX Railroad."
     },
     "U-5934": {
       "county": "durham",
@@ -8974,7 +8962,7 @@
     },
     "U-5955B": {
       "county": "mecklenburg",
-      "description": "Idaho Drive intersection in Charlotte. . Upgrade intersection to an interchange."
+      "description": "Idaho Drive intersection in Charlotte. Upgrade intersection to an interchange."
     },
     "U-5957": {
       "county": "mecklenburg",
@@ -8998,7 +8986,7 @@
     },
     "U-5974": {
       "county": "guilford",
-      "description": "SR 1523 (Hickswood Road) to SR 1823 (Williard Dairy Road) in High Point. . Construct reduced conflict intersections."
+      "description": "SR 1523 (Hickswood Road) to SR 1823 (Williard Dairy Road) in High Point. Construct reduced conflict intersections."
     },
     "U-5975": {
       "county": "lee",
@@ -9034,27 +9022,27 @@
     },
     "U-6004": {
       "county": "forsyth",
-      "description": "US 158 to SR 1891 (Peace Haven Road) in Clemmons. . Construct access management and operational improvements."
+      "description": "US 158 to SR 1891 (Peace Haven Road) in Clemmons. Construct access management and operational improvements."
     },
     "U-6005": {
       "county": "forsyth",
-      "description": "US 52 to SR 3983 (Northridge Drive) in Rural Hall. . Widen to two lane divided facility with bike-ped accommodations."
+      "description": "US 52 to SR 3983 (Northridge Drive) in Rural Hall. Widen to two lane divided facility with bike-ped accommodations."
     },
     "U-6006": {
       "county": "randolph",
-      "description": "SR 2123 (Caudle Road) to SR 2270 (US 311 extension) in Randleman. . Widen to 4-lane divided facility."
+      "description": "SR 2123 (Caudle Road) to SR 2270 (US 311 extension) in Randleman. Widen to 4-lane divided facility."
     },
     "U-6007": {
       "county": "randolph",
-      "description": "South of SR 2915 (Ridge Street) to south of SR 1453 (Walker Avenue) in Asheboro.  . Construct right turn lane on SR 2915, construct left-overs at SR 1154 (Country Club Drive) / SR 2800 (Atlantic Avenue), and reduce number of lanes from SR 2800 (Atlantic Avenue) to south of SR 1453 (Walker Avenue)."
+      "description": "South of SR 2915 (Ridge Street) to south of SR 1453 (Walker Avenue) in Asheboro. Construct right turn lane on SR 2915, construct left-overs at SR 1154 (Country Club Drive) / SR 2800 (Atlantic Avenue), and reduce number of lanes from SR 2800 (Atlantic Avenue) to south of SR 1453 (Walker Avenue)."
     },
     "U-6009": {
       "county": "alamance",
-      "description": "Tarleton Avenue to Fifth Street in Burlington.  . Widen and construct center turn lane."
+      "description": "Tarleton Avenue to Fifth Street in Burlington. Widen and construct center turn lane."
     },
     "U-6013": {
       "county": "alamance",
-      "description": "SR 1981 (Trollingwood-Hawfields Road) / SR 2126 (Old Hillsborough Road) to Lowes Boulevard in Mebane.  . Widen to a four lane divided facility."
+      "description": "SR 1981 (Trollingwood-Hawfields Road) / SR 2126 (Old Hillsborough Road) to Lowes Boulevard in Mebane. Widen to a four lane divided facility."
     },
     "U-6014": {
       "county": "alamance",
@@ -9066,7 +9054,7 @@
     },
     "U-6027": {
       "county": "richmond",
-      "description": "US 220 to US 1 in Rockingham.  . Widen to 3-lane facility and re-route US 1 along project."
+      "description": "US 220 to US 1 in Rockingham. Widen to 3-lane facility and re-route US 1 along project."
     },
     "U-6028": {
       "county": "mecklenburg",
@@ -9086,23 +9074,23 @@
     },
     "U-6036": {
       "county": "caldwell",
-      "description": "US 321 to SR 1931 (Bert Huffman Road).  . Upgrade roadway."
+      "description": "US 321 to SR 1931 (Bert Huffman Road). Upgrade roadway."
     },
     "U-6037": {
       "county": "iredell",
-      "description": "NC 150 (Plaza Drive) to SR 1245 (Medical Park Road).  . Widen to four lanes divided."
+      "description": "NC 150 (Plaza Drive) to SR 1245 (Medical Park Road). Widen to four lanes divided."
     },
     "U-6038": {
       "county": "gaston",
-      "description": "NC 7 (Catawba Street) to SR 2209 (Wesleyan Drive).  . Implement adaptive signal system."
+      "description": "NC 7 (Catawba Street) to SR 2209 (Wesleyan Drive). Implement adaptive signal system."
     },
     "U-6039": {
       "county": "iredell",
-      "description": "Vine Street to SR 2422 (Signal Hill Drive).  . Upgrade roadway and implement access management solutions."
+      "description": "Vine Street to SR 2422 (Signal Hill Drive). Upgrade roadway and implement access management solutions."
     },
     "U-6043": {
       "county": "gaston",
-      "description": "SR 2200 (Cox Road) to 400 feet east of Lineberger Road.  . Construct additional lane in the eastbound direction."
+      "description": "SR 2200 (Cox Road) to 400 feet east of Lineberger Road. Construct additional lane in the eastbound direction."
     },
     "U-6044": {
       "county": "gaston",
@@ -9110,7 +9098,7 @@
     },
     "U-6045": {
       "county": "guilford",
-      "description": "I-40 to SR 1008 (West Market Street) in Greensboro. . Widen to multi-lanes."
+      "description": "I-40 to SR 1008 (West Market Street) in Greensboro. Widen to multi-lanes."
     },
     "U-6047": {
       "county": "buncombe",
@@ -9122,11 +9110,7 @@
     },
     "U-6049": {
       "county": "henderson",
-      "description": "South Main Street at South King Street to US 176.  . Widen bridge 440143 to five lanes."
-    },
-    "U-6054": {
-      "county": "iredell",
-      "description": "Brookdale Drive to US 21. Construct roadway."
+      "description": "South Main Street at South King Street to US 176. Widen bridge 440143 to five lanes."
     },
     "U-6062": {
       "county": "rowan",
@@ -9146,19 +9130,19 @@
     },
     "U-6093": {
       "county": "wake",
-      "description": "Olde Birch Road to SR 2544 (Sunnybrook Road) in Raleigh. . Widen to 4-lane divided facility."
+      "description": "Olde Birch Road to SR 2544 (Sunnybrook Road) in Raleigh. Widen to 4-lane divided facility."
     },
     "U-6094": {
       "county": "wake",
-      "description": "East of NC 55 to Flint Point Lane in Holly Springs. . Widen from 2 to 4 lanes."
+      "description": "North Main Street to Flint Point Lane in Holly Springs. Widen from 2 to 4 lanes."
     },
     "U-6099": {
       "county": "wake",
-      "description": "SR 1004 (West Garner Road) to I-40 in Garner.  . Widen roadway from south of SR 2585 (Wilmington Road) to I-40, including access point improvements, and construct improvements at SR 1004 intersection and I-40 interchange."
+      "description": "SR 1004 (West Garner Road) to I-40 in Garner. Widen roadway from south of SR 2585 (Wilmington Road) to I-40, including access point improvements, and construct improvements at SR 1004 intersection and I-40 interchange."
     },
     "U-6100": {
       "county": "guilford",
-      "description": "SR 4240 (Gate City Boulevard) to south of I-785 in Greensboro. . Construct access management improvements and safety enhancements, including ramp closures and consolidations, reconfigure SR 2526 (Summit Avenue) / Phillips Avenue interchange, and replace bridges 400283 and 400342."
+      "description": "SR 4240 (Gate City Boulevard) to south of I-785 in Greensboro. Construct access management improvements and safety enhancements, including ramp closures and consolidations, reconfigure SR 2526 (Summit Avenue) / Phillips Avenue interchange, and replace bridges 400283 and 400342."
     },
     "U-6103": {
       "county": "mecklenburg",
@@ -9178,7 +9162,7 @@
     },
     "U-6120": {
       "county": "durham",
-      "description": "SR 1938 (Junction Road) to SR 1919 (Lynn Road) in Durham. . Construct safety improvements and widen to add median, bicycle lanes, sidewalks, transit stop improvements, and traffic signals where needed."
+      "description": "SR 1938 (Junction Road) to SR 1919 (Lynn Road) in Durham. Construct safety improvements and widen to add median, bicycle lanes, sidewalks, transit stop improvements, and traffic signals where needed."
     },
     "U-6120A": {
       "county": "durham",
@@ -9186,23 +9170,23 @@
     },
     "U-6122": {
       "county": "guilford",
-      "description": "SR 1556 (Gallimore Dairy Road) to Triad Center Drive in Greensboro. . Construct reduced conflict intersections."
+      "description": "SR 1556 (Gallimore Dairy Road) to Triad Center Drive in Greensboro. Construct reduced conflict intersections."
     },
     "U-6146": {
       "county": "gaston",
-      "description": "Market Street to SR 2015 (Alberta Avenue).  . Widen to six lanes. Replace bridge 350082 over South Fork of Catawba River."
+      "description": "Market Street to SR 2015 (Alberta Avenue). Widen to six lanes. Replace bridge 350082 over South Fork of Catawba River."
     },
     "U-6152": {
       "county": "cumberland",
-      "description": "US 401 (Raeford Road) to Walter Street. . Construct access management."
+      "description": "US 401 (Raeford Road) to Saint Avold Avenue. Construct access management."
     },
     "U-6153": {
       "county": "iredell",
-      "description": "Aviation Drive to Bethlehem Road. . Relocate roadway adjacent to Statesville Regional Airport."
+      "description": "Aviation Drive to Bethlehem Road. Relocate roadway adjacent to Statesville Regional Airport."
     },
     "U-6157": {
       "county": "caldwell",
-      "description": "SR 1001 (Connelly Springs Road) to US 321 Alternate.  . Modernize roadway."
+      "description": "SR 1001 (Connelly Springs Road) to US 321 Alternate. Modernize roadway."
     },
     "U-6159": {
       "county": "haywood",
@@ -9214,27 +9198,27 @@
     },
     "U-6187": {
       "county": "davie",
-      "description": "SR 1630 (Baltimore Road) to I-40.  . Construct 2-lane extension of Baltimore road and interchange at I-40."
+      "description": "SR 1630 (Baltimore Road) to I-40. Construct 2-lane extension of Baltimore road and interchange at I-40."
     },
     "U-6188": {
       "county": "forsyth",
-      "description": "North of Nelson Street to SR 2031 (Brown Road) in Kernersville. . Widen to 3 lanes with bicycle / pedestrian accommodations."
+      "description": "North of Nelson Street to SR 2031 (Brown Road) in Kernersville. Widen to 3 lanes with bicycle / pedestrian accommodations."
     },
     "U-6189": {
       "county": "forsyth",
-      "description": "SR 1103 (Styers Ferry Road) to SR 1101 (Shallowford Road) in Lewisville. . Widen to 3 lanes with bicycle and pedestrian accommodations."
+      "description": "SR 1103 (Styers Ferry Road) to SR 1101 (Shallowford Road) in Lewisville. Widen to 3 lanes with bicycle and pedestrian accommodations."
     },
     "U-6190": {
       "county": "forsyth",
-      "description": "SR 1647 (Glade Street) to NC 66 in Rural Hall. . Widen to 3 lanes."
+      "description": "SR 1647 (Glade Street) to NC 66 in Rural Hall. Widen to 3 lanes."
     },
     "U-6191": {
       "county": "randolph",
-      "description": "SR 3252 (Surrett Drive) in Trinity to SR 1009 (North Main Street) in Archdale. . Modernize roadway."
+      "description": "SR 3252 (Surrett Drive) in Trinity to SR 1009 (North Main Street) in Archdale. Modernize roadway."
     },
     "U-6192": {
       "county": "chatham",
-      "description": "US 64 Bypass to SR 1919 (Smith Level Road). . Upgrade remaining non-synchronized sections of facility to synchronized street."
+      "description": "US 64 Bypass to SR 1919 (Smith Level Road). Upgrade remaining non-synchronized sections of facility to synchronized street."
     },
     "U-6202": {
       "county": "new hanover",
@@ -9242,11 +9226,11 @@
     },
     "U-6203": {
       "county": "johnston",
-      "description": "NC 50 to SR 1330 (Raleigh Road).  . Construct reduced conflict intersections."
+      "description": "NC 50 to SR 1330 (Raleigh Road). Construct reduced conflict intersections."
     },
     "U-6204": {
       "county": "wayne",
-      "description": "Country Day Road to New Hope Road. Construct access management."
+      "description": "SR 1569 (Country Day Road) to SR 1003 (New Hope Road). Construct access management."
     },
     "U-6205": {
       "county": "wayne",
@@ -9254,7 +9238,7 @@
     },
     "U-6206": {
       "county": "wayne",
-      "description": "US 70 to SR 1712 (Thoroughfare Road). . Modernize roadway."
+      "description": "US 70 to SR 1712 (Thoroughfare Road). Modernize roadway."
     },
     "U-6207": {
       "county": "wayne",
@@ -9262,7 +9246,7 @@
     },
     "U-6208": {
       "county": "johnston",
-      "description": "SR 1010 (Cleveland Road) to NC 42. . Construct roadway on new location."
+      "description": "SR 1010 (Cleveland Road) to NC 42. Construct roadway on new location."
     },
     "U-6216": {
       "county": "johnston",
@@ -9270,23 +9254,23 @@
     },
     "U-6217": {
       "county": "wake",
-      "description": "SR 1010 (Ten-Ten Road) to SR 3977 (Cary Parkway). . Construct intersection improvements at SR 1010, SR 1379 (Penny Road), and SR 3977 (Cary Parkway)."
+      "description": "SR 1010 (Ten-Ten Road) to SR 3977 (Cary Parkway). Construct intersection improvements at SR 1010, SR 1379 (Penny Road), and SR 3977 (Cary Parkway)."
     },
     "U-6222": {
       "county": "wake",
-      "description": "Camp Kanata Road intersection in Wake Forest. . Construct intersection improvements and add turn lanes on NC 98."
+      "description": "Camp Kanata Road intersection in Wake Forest. Construct intersection improvements and add turn lanes on NC 98."
     },
     "U-6223": {
       "county": "johnston",
-      "description": "US 70 Business / NC 42 to SR 1560 (Ranch Road) in Clayton. . Construct roadway extension on new location."
+      "description": "US 70 Business / NC 42 to SR 1560 (Ranch Road) in Clayton. Construct roadway extension on new location."
     },
     "U-6225": {
       "county": "wake",
-      "description": "SR 2709 (Ackerman Road) and SR 2547 (Hebron Church Road) intersection in Garner. . Construct intersection improvements and add multi-lane roundabout."
+      "description": "SR 2709 (Ackerman Road) and SR 2547 (Hebron Church Road) intersection in Garner. Construct intersection improvements and add multi-lane roundabout."
     },
     "U-6227": {
       "county": "wake",
-      "description": "NC 55 to Cameron Pond Drive in Cary. . Widen to multi lanes."
+      "description": "NC 55 to Cameron Pond Drive in Cary. Widen to multi lanes."
     },
     "U-6229": {
       "county": "cumberland",
@@ -9314,11 +9298,11 @@
     },
     "U-6240": {
       "county": "pitt",
-      "description": "Cadillac Street to Reade Circle in Greenville. . Rehabilitate and realign roadway."
+      "description": "Cadillac Street to Reade Circle in Greenville. Rehabilitate and realign roadway."
     },
     "U-6242": {
       "county": "wake",
-      "description": "SR 2015 / SR 2041 (Spring Forest Road) to US 1 (Capital Boulevard) in Raleigh. . Upgrade to a complete street."
+      "description": "SR 2015 / SR 2041 (Spring Forest Road) to US 1 (Capital Boulevard) in Raleigh. Upgrade to a complete street."
     },
     "U-6243": {
       "county": "wake",
@@ -9326,7 +9310,7 @@
     },
     "U-6245": {
       "county": "orange",
-      "description": "SR 1114 (Buckhorn Road) to West of SR 1137 (Bushy Cook Road) in Mebane. . Construct overlay, paved shoulders and turn lanes."
+      "description": "SR 1114 (Buckhorn Road) to West of SR 1137 (Bushy Cook Road) in Mebane. Construct overlay, paved shoulders and turn lanes."
     },
     "U-6251": {
       "county": "buncombe",
@@ -9366,23 +9350,15 @@
     },
     "W-5703C": {
       "county": "new hanover",
-      "description": "US 117 / NC 132 (College Road) to 200 feet north of Wiloughby Park. . Install curb and gutter, multi-use path, sidewalk, pedestrian signals, crosswalks, and lighting."
+      "description": "US 117 / NC 132 (College Road) to 200 feet north of Wiloughby Park. Install curb and gutter, sidewalk, pedestrian signals, crosswalks, and lighting."
     },
     "W-5704E": {
       "county": "johnston",
-      "description": "East of SR 1003 (Buffalo Road) to west of SR 2685 (Helena Lane). Construct safety improvement."
+      "description": "West of SR 2685 (Helena Lane)  to east of SR 1003 (Buffalo Road). Construct safety improvement."
     },
     "W-5704K": {
       "county": "wayne",
       "description": "Crescent drive intersection. Construct intersection improvements."
-    },
-    "W-5708L": {
-      "county": "randolph",
-      "description": "Beasley Street to Balfour Avenue in Asheboro. Construct two-way left turn lane."
-    },
-    "W-5712U": {
-      "county": "cleveland",
-      "description": "Mile marker 19.3 to Gaston County line and from the Cleveland County line to mile marker 1.2. Construct safety improvements."
     },
     "W-5714E": {
       "county": "jackson",
@@ -9402,7 +9378,7 @@
     },
     "W-5809A": {
       "county": "davidson",
-      "description": "Denton northern municipal boundary to SR 2067 (Lambeth Road).  Also, SR 1798 (Old Greensboro Road) / SR 1756 (West Lexington Avenue Extension) to SR 1711 (Gumtree  Road). . Install rumble stripes and long-life pavement markings."
+      "description": "Denton northern municipal boundary to SR 2067 (Lambeth Road).  Also, SR 1798 (Old Greensboro Road) / SR 1756 (West Lexington Avenue Extension) to SR 1711 (Gumtree  Road). Install rumble stripes and long-life pavement markings."
     },
     "W-5813H": {
       "county": "yancey",
@@ -9425,6 +9401,6 @@
       "description": "I-26 to the Rutherford County line. Upgrade guardrail end terminals to current standards."
     }
   },
-  "last_updated": "2026-03-22T12:54:02.911666+00:00",
-  "tip_count": 2356
+  "last_updated": "2026-03-29T12:57:58.456847+00:00",
+  "tip_count": 2350
 }

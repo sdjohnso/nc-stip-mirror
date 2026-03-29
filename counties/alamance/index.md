@@ -21,8 +21,8 @@
 | [EB-5988](EB-5988.md) | West Lebanon Avenue to SR 1454 (West Haggard Av... | Lee Avenue | 📅 Planned |
 | [HP-0022](HP-0022.md) | I-85 / I-40 to NC 54 (Chapel Hill Road) interse... | NC 49 (Maple Avenue) | 📅 Planned |
 | [HP-0030](HP-0030.md) | NC 62 intersection. Construct intersection impr... | US 70 (Church Street) | 📅 Planned |
-| [HS-2007F](HS-2007F.md) | I-40 Eastbound on-ramp. . Install pedestrian ac... | NC 87 | 🚧 Under Construction |
-| [I-5711](I-5711.md) | SR 1007 (Mebane-Oaks Road) in Mebane. . Improve... | I-40 / I-85 | 🚧 Under Construction |
+| [HS-2007F](HS-2007F.md) | I-40 Eastbound on-ramp. Install pedestrian acco... | NC 87 | 🚧 Under Construction |
+| [I-5711](I-5711.md) | SR 1007 (Mebane-Oaks Road) in Mebane. Improve i... | I-40 / I-85 | 🚧 Under Construction |
 | [I-6009](I-6009.md) | SR 1158 (Huffman Mill Road) interchange in Burl... | I-40 / I-85 | 📅 Planned |
 | [I-6059](I-6059.md) | SR 1981 (Trollingwood-Hawfields Road) in Mebane... | I-40 / I-85 | 📅 Planned |
 | [U-3109A](U-3109A.md) | I-40 / I-85 to north of SR 1921 (Mebane Rogers ... | NC 119 | 🚧 Under Construction |
@@ -46,5 +46,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

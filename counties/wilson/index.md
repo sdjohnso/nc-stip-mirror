@@ -1,14 +1,14 @@
 # Wilson County - STIP Projects
 
-> **22 projects** in the State Transportation Improvement Program
+> **19 projects** in the State Transportation Improvement Program
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
 | 🏗️ Active Construction | 2 |
-| 🚧 Under Construction | 9 |
-| 📅 Planned | 11 |
+| 🚧 Under Construction | 8 |
+| 📅 Planned | 9 |
 
 ## All Projects
 
@@ -23,11 +23,8 @@
 | [HL-0034](HL-0034.md) | Atlantic Christian College Drive to NC 42 / NC ... | SR 1356 (Raleigh Road ... | 🚧 Under Construction |
 | [HS-2004F](HS-2004F.md) | SR 1169 (Radford Road) intersection. Install al... | SR 1103 (Wiggins Mill ... | 🏗️ Active Construction (44%) |
 | [HS-2004O](HS-2004O.md) | Chelsea Drive and Jetstream Drive intersections... | SR 1320 (Airport Boule... | 🏗️ Active Construction (44%) |
-| [I-5936](I-5936.md) | Mile marker 108.2 to mile marker 114.5. Rehabil... | I-95 | 🚧 Under Construction |
 | [RC-2004A](RC-2004A.md) | CSX Crossing 629 847Y. Improve at-grade crossin... | SR 1163 (Goldsboro Str... | 📅 Planned |
-| [RX-2004A](RX-2004A.md) | CSX Crossing 629847Y in Wilson. Install active ... | SR 1163 (Goldsboro Str... | 📅 Planned |
 | [RX-2004B](RX-2004B.md) | CSX Crossing 629847Y in Wilson. Install active ... | SR 1100 (Chicopee Road) | 🚧 Under Construction |
-| [RX-2004E](RX-2004E.md) | CSX Crossing 629843W in Wilson. Construct safet... | SR 1329 (Van Slyke Road) | 📅 Planned |
 | [RX-2004I](RX-2004I.md) | CSX Crossing 629849M in Wilson. Construct safet... | Green Street | 📅 Planned |
 | [RX-2404A](RX-2404A.md) | Carolina Coastal Railway Crossing. Construct hi... | NC 58 | 📅 Planned |
 | [RX-2404B](RX-2404B.md) | Carolina Coastal Railway Crossing. Construct hi... | SR 1607 (Charleston St... | 📅 Planned |
@@ -48,5 +45,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

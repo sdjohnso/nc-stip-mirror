@@ -1,6 +1,6 @@
 # Brunswick County - STIP Projects
 
-> **25 projects** in the State Transportation Improvement Program
+> **24 projects** in the State Transportation Improvement Program
 
 ## Summary
 
@@ -8,7 +8,7 @@
 |--------|-------|
 | 🚧 Under Construction | 13 |
 | 📋 Right-of-Way | 2 |
-| 📅 Planned | 9 |
+| 📅 Planned | 8 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -25,8 +25,7 @@
 | [EB-6025](EB-6025.md) | Along NC 133 from Morecamble Boulevard to Rice ... | Rice Hope Multi-Use Path | 🚧 Under Construction |
 | [EB-6026](EB-6026.md) | Along NC 133 connecting north and south entranc... | Belville Elementary Mu... | 🚧 Under Construction |
 | [EB-6034](EB-6034.md) | East of West First Street Extension to east of ... | SR 1144 (First Street) | 🚧 Under Construction |
-| [F-5707](F-5707.md) | 🗺️ South Port Ferry Terminal . Construct mooring f... | South Port to Fort Fis... | 📅 Planned |
-| [HE-0016](HE-0016.md) | Along north side of US 74 east of Brunswick Cou... | New Route | 📅 Planned |
+| [HE-0016](HE-0016.md) | 0.5 miles east of Brunswick County line to 1.5 ... | New Route | 📅 Planned |
 | [HL-0131](HL-0131.md) | Belville Riverwalk Park entrance. Construct tra... | NC 133 | 📅 Planned |
 | [HS-2003AR](HS-2003AR.md) | NC 906 (Midway Road) intersection. Install traf... | US 17 Business | 📋 Right-of-Way |
 | [HS-2003AS](HS-2003AS.md) | SR 1426 (Lanvale Road) eastbound ramp. Install ... | US 74 / US 76 (Andrew ... | 📅 Planned |
@@ -57,5 +56,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

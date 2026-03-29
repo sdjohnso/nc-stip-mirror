@@ -1,14 +1,14 @@
 # Mecklenburg County - STIP Projects
 
-> **149 projects** in the State Transportation Improvement Program
+> **147 projects** in the State Transportation Improvement Program
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
-| 🚧 Under Construction | 32 |
+| 🚧 Under Construction | 31 |
 | 📋 Right-of-Way | 22 |
-| 📅 Planned | 86 |
+| 📅 Planned | 85 |
 | ✅ Completed | 9 |
 
 ## All Projects
@@ -41,7 +41,6 @@
 | [EB-5949](EB-5949.md) | Johnston Drive intersection in Pineville. Reloc... | NC 51 | 🚧 Under Construction |
 | [EB-5969](EB-5969.md) | Trade Street to Independence Point Parkway in M... | NC 51 | 📅 Planned |
 | [EB-5970](EB-5970.md) | Existing Irwin Creek Greenway to Hamilton Stree... | Irwin Creek Greenway | 📅 Planned |
-| [EB-5971](EB-5971.md) | Griffith Street to SR 6037 (Potts Street) in Da... | SR 2151 (Jetton Street) | 📅 Planned |
 | [EB-6036](EB-6036.md) | SR 2025 (Oakdale Road / Miranda Road) to Kiev D... | Hornets Nest Park | 📅 Planned |
 | [EB-6051](EB-6051.md) | Lawyers Road from Lebanon Road / Wilson Grove R... | Various | 📅 Planned |
 | [EB-6052](EB-6052.md) | SR 2940 (North Tryon Street) to JW Clay Bouleva... | NC 24 (W.T. Harris Bou... | 📅 Planned |
@@ -72,7 +71,6 @@
 | [I-5796](I-5796.md) | North of SR 5901 (Billy Graham Parkway) to sout... | I-85 | 🚧 Under Construction |
 | [I-5826](I-5826.md) | Concrete pavement joint at US 29 / NC 49 connec... | I-85 | 🚧 Under Construction |
 | [I-5828](I-5828.md) | I-77 to NC 49; Bridges 590661, 590662, 590663, ... | I-485 | 📅 Planned |
-| [I-5838](I-5838.md) | Bridges 590203 (I-85 NB) and 590204 (I-85 SB) o... | I-85 | 🚧 Under Construction |
 | [I-5861](I-5861.md) | Oakdale Road Interchange at mile marker 17.2. R... | I-485 | 🚧 Under Construction |
 | [I-5902](I-5902.md) | SR 1786 (Old Gum Branch Road) to NC 27. Rehabil... | I-485 | 📅 Planned |
 | [I-5904](I-5904.md) | Blair Road to Idlewild Road. Rehabilitate pavem... | I-485 | ✅ Completed |
@@ -106,7 +104,7 @@
 | [RX-2010D](RX-2010D.md) | CSX Crossing 631391N in Charlotte. Construct sa... | Pecan Avenue | 📅 Planned |
 | [RX-2010E](RX-2010E.md) | Norfolk Southern Crossing 716055T in Pineville.... | Pecan Avenue | 📅 Planned |
 | [RX-2410B](RX-2410B.md) | ACWR Crossing 726797N in Charlotte. Construct h... | SR 2940 (Eastway Drive) | 📅 Planned |
-| [RX-2410C](RX-2410C.md) | ACWR Crossing 726808Y in Charlotte. Construct h... | SR 2805 (Harrisburg Hi... | 📅 Planned |
+| [RX-2410C](RX-2410C.md) | ACWR Crossing 726808Y in Charlotte. Construct h... | SR 2805 (Harrisburg Road) | 📅 Planned |
 | [RX-2410D](RX-2410D.md) | ACWR Crossing 726798V in Charlotte. Construct h... | Tipperary Place | 📅 Planned |
 | [TA-6724](TA-6724.md) | I-77 and Hambright Road Park. Construct park an... | Charlotte Area Transit... | 📅 Planned |
 | [TM-0041](TM-0041.md) | Charlotte Transportation Center in Uptown Charl... | Charlotte Area Transit... | 📅 Planned |
@@ -126,7 +124,7 @@
 | [U-4713A](U-4713A.md) | SR 3448 (Pleasant Plains Road) to SR 1010 (East... | SR 3440 (McKee Road) E... | 🚧 Under Construction |
 | [U-4714AA](U-4714AA.md) | SR 3348 / SR 3474 (Trade Street) to west of I-4... | SR 1009 (John Street /... | 📅 Planned |
 | [U-4714AB](U-4714AB.md) | I-485 interchange in Matthews. Construct interc... | SR 1009 (John Street /... | 🚧 Under Construction |
-| [U-4913A](U-4913A.md) | SR 1375 (Stallings Road) to I-485. Widen to fou... | SR 3174 (Idlewild Road) | 📋 Right-of-Way |
+| [U-4913A](U-4913A.md) | SR 3175 (Stallings Road) to I-485. Widen to fou... | SR 3174 (Idlewild Road) | 📋 Right-of-Way |
 | [U-5008A](U-5008A.md) | East 37th Street to Bearwood Avenue in Charlott... | North Davidson Street | 🚧 Under Construction |
 | [U-5108](U-5108.md) | NC 73 in Huntersville to Westmoreland Road in C... | Northcross Drive Exten... | 📋 Right-of-Way |
 | [U-5114](U-5114.md) | SR 2136 (Gilead Road) intersection in Huntersvi... | US 21 | 🚧 Under Construction |
@@ -136,7 +134,7 @@
 | [U-5766B](U-5766B.md) | NC 49 (South Tryon Road) to I-485. Widen to mul... | NC 160 | 📅 Planned |
 | [U-5767](U-5767.md) | Northcross Center Court to SR 2147 (Westmorelan... | US 21 (Statesville Road) | 📅 Planned |
 | [U-5768](U-5768.md) | John Kirk Drive to I-485; Existing SR 2827 (Bac... | NC 49; SR 2827 (Back C... | 📅 Planned |
-| [U-5771](U-5771.md) | SR 2136 (Gilead Road) to Holly Point Drive in H... | US 21 | 📋 Right-of-Way |
+| [U-5771](U-5771.md) | SR 2136 (Gilead Road) to SR 6028 (Holly Point D... | US 21 | 📋 Right-of-Way |
 | [U-5772](U-5772.md) | NC 24 (Harris Boulevard) to I-485 in Charlotte.... | NC 115 (Old Statesvill... | 📅 Planned |
 | [U-5803](U-5803.md) | Shamrock Drive intersection in Charlotte. Const... | SR 2940 (Eastway Drive) | 📋 Right-of-Way |
 | [U-5804A](U-5804A.md) | Fullwood Lane to Four Mile Creek in Matthews. W... | SR 3448 (South Trade S... | ✅ Completed |
@@ -146,13 +144,13 @@
 | [U-5874](U-5874.md) | SR 2722 (Louis Rose Place) to Doug Mayes Place.... | North University Resea... | 🚧 Under Construction |
 | [U-5905A](U-5905A.md) | Reames Road to NC 115. Upgrade roadway. | SR 2112 (Lakeview Road) | 📋 Right-of-Way |
 | [U-5905B](U-5905B.md) | NC 24 (Harris Boulevard) and US 21 (Statesville... | SR 2112 (Lakeview Road) | 📅 Planned |
-| [U-5906](U-5906.md) | SR 5544 (West Catawba Avenue) intersection in C... | SR 2195 (Torrence Chap... | 🚧 Under Construction |
+| [U-5906](U-5906.md) | Various intersections in Cornelius. Construct i... | SR 2195 (Torrence Chap... | 🚧 Under Construction |
 | [U-5907](U-5907.md) | SR 6037 (Potts Street), Sloan Street, and Beaty... | New Route | 📋 Right-of-Way |
 | [U-5908A](U-5908A.md) | NC 115 (Old Statesville Road) / SR 2004 (Mount ... | Main Street | 🚧 Under Construction |
 | [U-5908B](U-5908B.md) | Realigned Main Street south of SR 2439 (Ramah C... | NC 115 | 🚧 Under Construction |
 | [U-5955](U-5955.md) | I-85 to Idaho Drive in Charlotte. Construct add... | NC 16 (Brookshire Boul... | 📅 Planned |
 | [U-5955A](U-5955A.md) | I-85 northbound ramp to eastbound NC 16 in Char... | NC 16 (Brookshire Boul... | 🚧 Under Construction |
-| [U-5955B](U-5955B.md) | Idaho Drive intersection in Charlotte. . Upgrad... | NC 16 (Brookshire Boul... | 📅 Planned |
+| [U-5955B](U-5955B.md) | Idaho Drive intersection in Charlotte. Upgrade ... | NC 16 (Brookshire Boul... | 📅 Planned |
 | [U-5957](U-5957.md) | SR 1644 (Toddville Road) to SR 1600 (Moores Cha... | NC 27 (Freedom Drive) | 📅 Planned |
 | [U-6028](U-6028.md) | SR 2472 (Mallard Creek Church Road) to Breezewo... | SR 2467 (Mallard Creek... | 📅 Planned |
 | [U-6032](U-6032.md) | 🗺️ I-485 to SR 2894 (Concord Mills Boulevard). Wid... | SR 2467 (Mallard Creek... | 📋 Right-of-Way |
@@ -163,7 +161,7 @@
 | [U-6105](U-6105.md) | Poole Place Drive to US 21 (Statesville Road). ... | SR 2415 (Bailey Road) | 🚧 Under Construction |
 | [U-6106](U-6106.md) | SR 2120 (McCoy Road) to Wynfield Creek Parkway.... | SR 2136 (Gilead Road) | 📋 Right-of-Way |
 | [U-6109](U-6109.md) | South Carolina State Line to SR 4979 (Ballantyn... | US 521 (Lancaster High... | 📅 Planned |
-| [W-5710X](W-5710X.md) | SR 2108 (Sunset Boulevard) / SR 2025 (Miranda R... | SR 2025 (Oakdale Road) | 📋 Right-of-Way |
+| [W-5710X](W-5710X.md) | SR 2108 (Sunset Road) / SR 2025 (Miranda Road) ... | SR 2025 (Oakdale Road) | 📋 Right-of-Way |
 
 ## Projects Spanning This County
 
@@ -183,5 +181,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

@@ -7,14 +7,14 @@
 | Status | Count |
 |--------|-------|
 | 🚧 Under Construction | 3 |
-| 📋 Right-of-Way | 3 |
-| 📅 Planned | 9 |
+| 📋 Right-of-Way | 2 |
+| 📅 Planned | 10 |
 
 ## All Projects
 
 | TIP | Description | Route | Status |
 |-----|-------------|-------|--------|
-| [B-5979](B-5979.md) | Bridge 940346 over South Fork of New River in B... | Hunting Hills Lane | 📋 Right-of-Way |
+| [B-5979](B-5979.md) | Bridge 940346 over South Fork of New River in B... | Hunting Hills Lane | 📅 Planned |
 | [BN-0010](BN-0010.md) | SR 1180 (Poplar Grove Connector Road) to Westwo... | US 421 / US 321 (West ... | 📅 Planned |
 | [EB-5983](EB-5983.md) | Grove Street to SR 1328 (Brookshire Road) in Bo... | US 421 (KING STREET) | 📅 Planned |
 | [HB-0062](HB-0062.md) | Bridge 940319 over Watauga River. Replace bridge. | SR 1594 (Aldridge Road) | 📅 Planned |
@@ -33,5 +33,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

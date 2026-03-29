@@ -1,15 +1,15 @@
 # Forsyth County - STIP Projects
 
-> **87 projects** in the State Transportation Improvement Program
+> **85 projects** in the State Transportation Improvement Program
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
 | 🏗️ Active Construction | 1 |
-| 🚧 Under Construction | 20 |
+| 🚧 Under Construction | 19 |
 | 📋 Right-of-Way | 15 |
-| 📅 Planned | 50 |
+| 📅 Planned | 49 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -45,20 +45,18 @@
 | [EB-6040](EB-6040.md) | North of Fair Oaks Drive to Morgan Elementary S... | SR 1101 (Harper Road) | 📅 Planned |
 | [HB-0031](HB-0031.md) | Bridges 330185, 330191, and 330203 over US 52 (... | Third Street, Fourth S... | 📅 Planned |
 | [HB-0033](HB-0033.md) | Bridge 330284 over SR 4000 (University Parkway)... | Polo Road | 📅 Planned |
-| [HB-0036](HB-0036.md) | Bridge 330244 over US 52( Future I-285) / NC 8 ... | Sixteenth Street | 📅 Planned |
+| [HB-0036](HB-0036.md) | Bridge 330390 over rail corridor and Bridge 330... | Sixteenth Street | 📅 Planned |
 | [HI-0005](HI-0005.md) | 🗺️ SR 4205 (S. Main Street) in Forsyth County to S... | I-285 / US 52 (Future ... | 📅 Planned |
 | [HL-0015](HL-0015.md) | Beaucrest Street to Asbury Drive in Kernersvill... | NC 66 / SR 4309 (West ... | 📅 Planned |
 | [HL-0059](HL-0059.md) | SR 1686 (Oak Summit Road) intersection in Winst... | NC 8 (Germanton Road) | 📅 Planned |
-| [HL-0125](HL-0125.md) | Holder Road intersection in Clemmons. Install t... | SR 1103 (Lewisville-Cl... | 📅 Planned |
 | [HM-0004](HM-0004.md) | Bridge 330330 over Brushy Fork Creek. Replace b... | Old Greensboro Road | 📅 Planned |
 | [HP-0026](HP-0026.md) | US 158 (Stratford Road). Improve westbound exit... | I 40 | 📅 Planned |
 | [HP-0027](HP-0027.md) | US 421 (Salem Parkway) - Exit 109 to Exit 112. ... | US 52 (Future I-285) | 📅 Planned |
 | [HP-0031](HP-0031.md) | SR 1122 (Jamestown Road) intersection in Winsto... | US 421 | 📅 Planned |
 | [HS-2009H](HS-2009H.md) | University Plaza Shopping Center main driveway ... | SR 1528 (North Point B... | 📅 Planned |
-| [HS-2409A](HS-2409A.md) | Winston-Salem. Construct reduced conflict inter... | NC 150 | 🏗️ Active Construction (0%) |
+| [HS-2409A](HS-2409A.md) | SR 2983 (Fishel Road) intersection. Construct r... | NC 150 | 🏗️ Active Construction (0%) |
 | [I-5795](I-5795.md) | 0.3 mile east of SR 3153 (Hanes Mall Boulevard)... | I-40 | 🚧 Under Construction |
 | [I-5880](I-5880.md) | NC 109 (Thomasville Road) / Clemmonsville Road ... | I-40 / US 311 | 📋 Right-of-Way |
-| [I-5952](I-5952.md) | SR 1101 (Harper Road) in Clemmons to east of US... | I-40 | 🚧 Under Construction |
 | [I-5981A](I-5981A.md) | I-74 / US 311 to SR 2643 (Union Cross Road). Wi... | I-40 | 📅 Planned |
 | [I-5981B](I-5981B.md) | SR 2643 (Union Cross Road) to NC 66. Widen to s... | I-40 | 📅 Planned |
 | [R-2247A](R-2247A.md) | Winston-Salem Northern Beltway, western section... | New Route (Future NC 4... | 📅 Planned |
@@ -117,5 +115,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

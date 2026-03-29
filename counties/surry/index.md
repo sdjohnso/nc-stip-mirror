@@ -26,7 +26,7 @@
 | [I-5829A](I-5829A.md) | Mile marker 91.0 to mile marker 95.0. Perform d... | I-77 | 🚧 Under Construction |
 | [I-5907](I-5907.md) | I-77 to US 601. Rehabilitate pavement. | I-74 | 🚧 Under Construction |
 | [R-5714](R-5714.md) | US 52 to SR 1365 (Forrest Drive). Upgrade roadway. | US 601 | 📋 Right-of-Way |
-| [R-5836](R-5836.md) | I-74 to SR 1104 (Cody Trail). . Widen to four l... | US 601 | 📅 Planned |
+| [R-5836](R-5836.md) | I-74 to SR 1104 (Cody Trail). Widen to four lanes. | US 601 | 📅 Planned |
 | [R-5901](R-5901.md) | SR 1397 (Round Peak Church Road) intersection n... | NC 89 (West Pine Street) | 📋 Right-of-Way |
 | [R-5905](R-5905.md) | SR 1387 (Toast Road) to SR 1396 (Pine Ridge Roa... | NC 89 (West Pine Street) | 📅 Planned |
 | [R-5910](R-5910.md) | NC 268 (CC Camp Road) intersection in Elkin. Im... | US 21 Business (North ... | 🚧 Under Construction |
@@ -44,5 +44,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

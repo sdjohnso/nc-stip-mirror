@@ -24,7 +24,7 @@
 | [HS-2013M](HS-2013M.md) | SR 1103 (Bat Cave Road) to SR 1001 (Sugar Hill ... | SR 1135 (Old Fort / Su... | 📅 Planned |
 | [HS-2413C](HS-2413C.md) | US 221 Business to north of NC 226 near Marion.... | US 221 | 🏗️ Active Construction (0%) |
 | [HS-2413D](HS-2413D.md) | Mile marker 7.0 to mile marker 15.0 and mile ma... | US 70 | 🏗️ Active Construction (0%) |
-| [I-5900](I-5900.md) | Mile marker 73.0 to mile marker 81.0. Rehabilit... | I-40 | 📅 Planned |
+| [I-5900](I-5900.md) | Mile marker 73.0 to mile marker 86.0. Rehabilit... | I-40 | 📅 Planned |
 | [R-0204EA](R-0204EA.md) | I-40 interchange. Construct interchange improve... | US 221 | 📅 Planned |
 | [R-0204EB](R-0204EB.md) | North of I-40 to SR 1153 (Goose Creek Road). Wi... | US 221 | 📅 Planned |
 | [R-5964](R-5964.md) | Universal Property. Construct access road. | New Route | 🚧 Under Construction |
@@ -43,5 +43,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

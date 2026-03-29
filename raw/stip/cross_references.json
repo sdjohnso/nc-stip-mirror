@@ -51,7 +51,7 @@
     {
       "tip": "U-5518",
       "primary_county": "wake",
-      "description": "West of SR 3067 (T.W. Alexander Drive) to I-540 in Raleigh. . Upgrade roadway to improve capacity, safety and traffic operations including interchanges at various locations.",
+      "description": "West of SR 3067 (T.W. Alexander Drive) to I-540 in Raleigh. Upgrade roadway to improve capacity, safety and traffic operations including interchanges at various locations.",
       "route": "US 70 (Glenwood Avenue)"
     },
     {
@@ -71,13 +71,13 @@
     {
       "tip": "HB-0001A",
       "primary_county": "martin",
-      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "description": "I-95 interchange to NC 12. Install broadband fiber and ITS for traveler information systems.",
       "route": "US 64 (Future I-87)"
     },
     {
       "tip": "I-5986C",
       "primary_county": "robeson",
-      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber for traveler information systems.",
       "route": "I-95"
     },
     {
@@ -138,40 +138,20 @@
       "tip": "HS-2004X",
       "primary_county": "nash",
       "description": "North of SR 1425 (Castalia Road) in Nash County to NC 561 in Halifax County. Install rumble stripes.",
-      "route": "NC 43 "
+      "route": "NC 43"
     },
     {
       "tip": "I-5986C",
       "primary_county": "robeson",
-      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber for traveler information systems.",
       "route": "I-95"
-    }
-  ],
-  "new hanover": [
-    {
-      "tip": "F-5707",
-      "primary_county": "brunswick",
-      "description": "South Port Ferry Terminal . Construct mooring facilities.",
-      "route": "South Port to Fort Fisher Ferry"
-    },
-    {
-      "tip": "R-2633D",
-      "primary_county": "brunswick",
-      "description": "US 17 south of NC 87 in Brunswick County to I-40 in New Hanover County. Implementation of Intelligent Transportation Systems (ITS).",
-      "route": "I-140/US 17 (Wilmington Bypass)."
-    },
-    {
-      "tip": "R-3300A",
-      "primary_county": "pender",
-      "description": "US 17 Bypass south of Hampstead to NC 210. Construct freeway on new location.",
-      "route": "US 17"
     }
   ],
   "edgecombe": [
     {
       "tip": "HB-0001A",
       "primary_county": "martin",
-      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "description": "I-95 interchange to NC 12. Install broadband fiber and ITS for traveler information systems.",
       "route": "US 64 (Future I-87)"
     },
     {
@@ -185,7 +165,7 @@
     {
       "tip": "HB-0001A",
       "primary_county": "martin",
-      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "description": "I-95 interchange to NC 12. Install broadband fiber and ITS for traveler information systems.",
       "route": "US 64 (Future I-87)"
     }
   ],
@@ -193,7 +173,7 @@
     {
       "tip": "HB-0001A",
       "primary_county": "martin",
-      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "description": "I-95 interchange to NC 12. Install broadband fiber and ITS for traveler information systems.",
       "route": "US 64 (Future I-87)"
     }
   ],
@@ -201,7 +181,7 @@
     {
       "tip": "HB-0001A",
       "primary_county": "martin",
-      "description": "I-95 interchange to NC 12. Install broadband and ITS.",
+      "description": "I-95 interchange to NC 12. Install broadband fiber and ITS for traveler information systems.",
       "route": "US 64 (Future I-87)"
     }
   ],
@@ -251,7 +231,7 @@
     {
       "tip": "R-5777D",
       "primary_county": "craven",
-      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70 for traveler information systems.",
       "route": "US 70 (Future I-42)"
     },
     {
@@ -271,7 +251,7 @@
     {
       "tip": "I-5111",
       "primary_county": "wake",
-      "description": "I-440 / US 64 (Exit 301) to NC 42 (Exit 312). . Add two general purpose lanes in each direction.",
+      "description": "I-440 / US 64 (Exit 301) to NC 42 (Exit 312). Add two general purpose lanes in each direction.",
       "route": "I-40"
     },
     {
@@ -289,7 +269,7 @@
     {
       "tip": "I-5986C",
       "primary_county": "robeson",
-      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber for traveler information systems.",
       "route": "I-95"
     },
     {
@@ -301,7 +281,7 @@
     {
       "tip": "R-5777D",
       "primary_county": "craven",
-      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70 for traveler information systems.",
       "route": "US 70 (Future I-42)"
     },
     {
@@ -327,13 +307,13 @@
     {
       "tip": "HO-0002B",
       "primary_county": "anson",
-      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS.",
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS for Traveler Information Systems.",
       "route": "US 74"
     },
     {
       "tip": "HO-0002C",
       "primary_county": "columbus",
-      "description": "I-95 in Lumberton to I-140 in Wilmington. Install broadband.",
+      "description": "I-95 in Lumberton to I-140 in Wilmington. Install broadband for Traveler Information Systems.",
       "route": "US 74"
     },
     {
@@ -365,7 +345,7 @@
     {
       "tip": "I-5719FD",
       "primary_county": "gaston",
-      "description": "South Carolina state line to NC 273. . Implement Intelligent Transportation System (ITS) Statewide Resilience, connected vehicle technology, and traveler information.",
+      "description": "South Carolina state line to NC 273. Implement Intelligent Transportation System (ITS) Statewide Resilience, connected vehicle technology, and traveler information.",
       "route": "I-85"
     }
   ],
@@ -399,20 +379,14 @@
     {
       "tip": "HO-0002A",
       "primary_county": "cleveland",
-      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband for Traveler Information Systems.",
       "route": "U 74"
     },
     {
       "tip": "I-5719FC",
       "primary_county": "cleveland",
-      "description": "South Carolina state line to US 74. . Install broadband.",
+      "description": "South Carolina state line to US 74. Install broadband for Traveler Information Systems.",
       "route": "I-85"
-    },
-    {
-      "tip": "W-5712U",
-      "primary_county": "cleveland",
-      "description": "Mile marker 19.3 to Gaston County line and from the Cleveland County line to mile marker 1.2. Construct safety improvements.",
-      "route": "NC 150"
     }
   ],
   "polk": [
@@ -425,7 +399,7 @@
     {
       "tip": "HO-0002A",
       "primary_county": "cleveland",
-      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband for Traveler Information Systems.",
       "route": "U 74"
     }
   ],
@@ -439,7 +413,7 @@
     {
       "tip": "HO-0002B",
       "primary_county": "anson",
-      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS.",
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS for Traveler Information Systems.",
       "route": "US 74"
     },
     {
@@ -459,13 +433,13 @@
     {
       "tip": "HO-0002A",
       "primary_county": "cleveland",
-      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband for Traveler Information Systems.",
       "route": "U 74"
     },
     {
       "tip": "I-4700",
       "primary_county": "buncombe",
-      "description": "NC 280 (Exit 40) to I-40 at Asheville. . Construct additional lanes.",
+      "description": "NC 280 (Exit 40) to I-40 at Asheville. Construct additional lanes.",
       "route": "I-26"
     }
   ],
@@ -479,7 +453,7 @@
     {
       "tip": "HO-0002B",
       "primary_county": "anson",
-      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS.",
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS for Traveler Information Systems.",
       "route": "US 74"
     },
     {
@@ -505,7 +479,7 @@
     {
       "tip": "HO-0002A",
       "primary_county": "cleveland",
-      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband for Traveler Information Systems.",
       "route": "U 74"
     },
     {
@@ -525,7 +499,7 @@
     {
       "tip": "HO-0002A",
       "primary_county": "cleveland",
-      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband for Traveler Information Systems.",
       "route": "U 74"
     },
     {
@@ -575,7 +549,7 @@
     {
       "tip": "HO-0002C",
       "primary_county": "columbus",
-      "description": "I-95 in Lumberton to I-140 in Wilmington. Install broadband.",
+      "description": "I-95 in Lumberton to I-140 in Wilmington. Install broadband for Traveler Information Systems.",
       "route": "US 74"
     },
     {
@@ -613,7 +587,7 @@
     {
       "tip": "HO-0002A",
       "primary_county": "cleveland",
-      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband.",
+      "description": "I-40 in Asheville to I-77 at I-485 (south) in Charlotte. Install broadband for Traveler Information Systems.",
       "route": "U 74"
     },
     {
@@ -639,7 +613,7 @@
     {
       "tip": "HO-0002B",
       "primary_county": "anson",
-      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS.",
+      "description": "Eastern end of Monroe Bypass to I-95 in Lumberton. Install broadband and ITS for Traveler Information Systems.",
       "route": "US 74"
     },
     {
@@ -659,19 +633,19 @@
     {
       "tip": "I-5986A",
       "primary_county": "cumberland",
-      "description": "I-95 Business / US 301 (Exit 56) to SR 1001 (Long Branch Road) (Exit 81). Widen to eight lanes.",
+      "description": "I-95 Business / US 301 (Exit 56) to SR 1001 (Long Branch Road) (Exit 71). Widen to eight lanes.",
       "route": "I-95"
     },
     {
       "tip": "I-5986C",
       "primary_county": "robeson",
-      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber for traveler information systems.",
       "route": "I-95"
     },
     {
       "tip": "R-5705B",
       "primary_county": "wake",
-      "description": "NC 210 to SR 4809 (Jicarilla Lane).  Widen to multi-lanes, partially on new location.",
+      "description": "NC 210 to SR 4809 (Jicarilla Lane). Widen to multi-lanes, partially on new location.",
       "route": "NC 55"
     }
   ],
@@ -696,12 +670,12 @@
       "tip": "HS-2002AD",
       "primary_county": "lenoir",
       "description": "West of NC 903 to NC 11. Install rumble stripes.",
-      "route": "NC 55 "
+      "route": "NC 55"
     },
     {
       "tip": "R-5777D",
       "primary_county": "craven",
-      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70 for traveler information systems.",
       "route": "US 70 (Future I-42)"
     }
   ],
@@ -767,7 +741,7 @@
     {
       "tip": "HS-2009F",
       "primary_county": "davidson",
-      "description": "Mile marker 0.256 in Forsyth County to mile marker 38.367 in Davidson County. . Install centerline and edgeline sinusoidal rumble stripes.",
+      "description": "Mile marker 0.256 in Forsyth County to mile marker 38.367 in Davidson County. Install centerline and edgeline sinusoidal rumble stripes.",
       "route": "NC 109"
     },
     {
@@ -807,7 +781,7 @@
     {
       "tip": "U-4700A",
       "primary_county": "catawba",
-      "description": "North of US 70 in Hickory to US 321A. Widen to six lanes.",
+      "description": "North of US 70 in Hickory to US 321A. Widen to six lanes and replace bridges 130366 and 130367 over the Catawba River on US 321.",
       "route": "US 321"
     }
   ],
@@ -853,13 +827,13 @@
     {
       "tip": "I-5915A",
       "primary_county": "iredell",
-      "description": "Mile marker 130.7 to mile marker 150.2. Rehabilitate pavement.",
+      "description": "East of SR 1007 (1st Street West) to East of NC 115. Rehabilitate pavement.",
       "route": "I-40"
     },
     {
       "tip": "I-5915B",
       "primary_county": "iredell",
-      "description": "Mile marker 130.7 to mile marker 150.2. Rehabilitate bridge.",
+      "description": "East of SR 1007 (1st Street West) to East of NC 115. Rehabilitate bridge.",
       "route": "I-40"
     },
     {
@@ -879,7 +853,7 @@
     {
       "tip": "I-5940",
       "primary_county": "duplin",
-      "description": "Duplin County line (mile marker 360) to west of US 117 (mile marker 390). . Rehabilitate bridge and pavement.",
+      "description": "Duplin County line (mile marker 360) to west of US 117 (mile marker 390). Rehabilitate bridge and pavement.",
       "route": "I-40"
     },
     {
@@ -893,7 +867,7 @@
     {
       "tip": "I-5986C",
       "primary_county": "robeson",
-      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber for traveler information systems.",
       "route": "I-95"
     },
     {
@@ -913,7 +887,7 @@
     {
       "tip": "I-5986C",
       "primary_county": "robeson",
-      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber for traveler information systems.",
       "route": "I-95"
     }
   ],
@@ -921,7 +895,7 @@
     {
       "tip": "I-5986C",
       "primary_county": "robeson",
-      "description": "South Carolina state line to Virginia state line. Install broadband fiber.",
+      "description": "South Carolina state line to Virginia state line. Install broadband fiber for traveler information systems.",
       "route": "I-95"
     }
   ],
@@ -950,6 +924,14 @@
       "tip": "P-5753BA",
       "primary_county": "wake",
       "description": "NC 98 to Franklinton. Improve rail-line.",
+      "route": "CXS S Line"
+    }
+  ],
+  "vance": [
+    {
+      "tip": "P-5753BG",
+      "primary_county": "franklin",
+      "description": "South Kitrell. Improve roadway.",
       "route": "CXS S Line"
     }
   ],
@@ -983,6 +965,20 @@
       "route": "US 17"
     }
   ],
+  "new hanover": [
+    {
+      "tip": "R-2633D",
+      "primary_county": "brunswick",
+      "description": "US 17 south of NC 87 in Brunswick County to I-40 in New Hanover County. Implementation of Intelligent Transportation Systems (ITS).",
+      "route": "I-140/US 17 (Wilmington Bypass)."
+    },
+    {
+      "tip": "R-3300A",
+      "primary_county": "pender",
+      "description": "US 17 Bypass south of Hampstead to NC 210. Construct freeway on new location.",
+      "route": "US 17"
+    }
+  ],
   "cabarrus": [
     {
       "tip": "R-5706A",
@@ -1013,7 +1009,7 @@
     {
       "tip": "R-5709",
       "primary_county": "hoke",
-      "description": "US 15 / US 501 in Aberdeen to east of SR 1244 (West Palmer Street) / SR 1311 (Mockingbird Hill Road) in Raeford. . Widen to a four lane divided facility.",
+      "description": "US 15 / US 501 in Aberdeen to east of SR 1244 (West Palmer Street) / SR 1311 (Mockingbird Hill Road) in Raeford. Widen to a four lane divided facility.",
       "route": "NC 211"
     },
     {
@@ -1041,7 +1037,7 @@
     {
       "tip": "R-5777D",
       "primary_county": "craven",
-      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70 for traveler information systems.",
       "route": "US 70 (Future I-42)"
     }
   ],
@@ -1049,7 +1045,7 @@
     {
       "tip": "R-5777D",
       "primary_county": "craven",
-      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70.",
+      "description": "I-40 to Port of Morehead City. Install broadband fiber along US 70 for traveler information systems.",
       "route": "US 70 (Future I-42)"
     }
   ],
@@ -1089,7 +1085,7 @@
     {
       "tip": "U-5864",
       "primary_county": "randolph",
-      "description": "I-85 in Trinity to SR 1300 (West Fairfield Road) in High Point.  . Widen to multi-lanes.",
+      "description": "I-85 in Trinity to SR 1300 (West Fairfield Road) in High Point. Widen to multi-lanes.",
       "route": "SR 1595 / SR 4053 (Surrett Drive)"
     }
   ],
@@ -1105,7 +1101,7 @@
     {
       "tip": "U-4700A",
       "primary_county": "catawba",
-      "description": "North of US 70 in Hickory to US 321A. Widen to six lanes.",
+      "description": "North of US 70 in Hickory to US 321A. Widen to six lanes and replace bridges 130366 and 130367 over the Catawba River on US 321.",
       "route": "US 321"
     },
     {
@@ -1119,7 +1115,7 @@
     {
       "tip": "U-5798B",
       "primary_county": "cumberland",
-      "description": "SR 1418 (Lindsay Road) to north of SR 1112 (Stoney Point Road). . Widen to four lanes.",
+      "description": "SR 1418 (Lindsay Road) to north of SR 1112 (Stoney Point Road). Widen to four lanes.",
       "route": "SR 1102 (Gillis Hill Road)"
     }
   ]

@@ -1,6 +1,6 @@
 # Randolph County - STIP Projects
 
-> **30 projects** in the State Transportation Improvement Program
+> **29 projects** in the State Transportation Improvement Program
 
 ## Summary
 
@@ -8,7 +8,7 @@
 |--------|-------|
 | 🚧 Under Construction | 3 |
 | 📋 Right-of-Way | 6 |
-| 📅 Planned | 20 |
+| 📅 Planned | 19 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -33,7 +33,7 @@
 | [R-5958](R-5958.md) | Ridge Street intersection in Asheboro. Construc... | NC 159 (Zoo Parkway) | 📅 Planned |
 | [RX-2008F](RX-2008F.md) | Crossing 720943W in Liberty. Construct safety i... | SR 2502 (Julian Airpor... | 📅 Planned |
 | [U-3400](U-3400.md) | 🗺️ US 311 (Main Street) to east of Springwood Lane... | SR 1577 / SR 1004 (Arc... | 📅 Planned |
-| [U-5308](U-5308.md) | SR 3106 (Kennedy Road) to I-85 in Trinity. . Wi... | SR 1547 (Finch Farm Road) | 📋 Right-of-Way |
+| [U-5308](U-5308.md) | SR 3106 (Kennedy Road) to I-85 in Trinity. Wide... | SR 1547 (Finch Farm Road) | 📋 Right-of-Way |
 | [U-5711](U-5711.md) | West of Sylvan Drive to US 220 Business in Ashe... | SR 1712 (Pineview Street) | 📋 Right-of-Way |
 | [U-5743](U-5743.md) | SR 2237 (East Salisbury Street) to north of US ... | NC 42 | 📋 Right-of-Way |
 | [U-5770](U-5770.md) | SR 1009 (South Main Street) intersection in Arc... | I-85 | 📅 Planned |
@@ -44,10 +44,9 @@
 | [U-6006](U-6006.md) | SR 2123 (Caudle Road) to SR 2270 (US 311 extens... | US 220 Business | 📋 Right-of-Way |
 | [U-6007](U-6007.md) | South of SR 2915 (Ridge Street) to south of SR ... | US 220 Business (South... | 📋 Right-of-Way |
 | [U-6191](U-6191.md) | SR 3252 (Surrett Drive) in Trinity to SR 1009 (... | NC 62 | 📅 Planned |
-| [W-5708L](W-5708L.md) | Beasley Street to Balfour Avenue in Asheboro. C... | US 220 Business (North... | 📅 Planned |
 
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

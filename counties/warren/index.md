@@ -20,7 +20,7 @@
 | [P-5753CJ](P-5753CJ.md) | SR 1101 (Kimball Road). Construct grade separat... | CXS S Line | 📅 Planned |
 | [P-5753DA](P-5753DA.md) | Ridgeway to VA State Line. Improve rail-line. | CXS S Line | 📅 Planned |
 | [P-5753DC](P-5753DC.md) | Various. Construct grade separation in Drewry a... | CXS S Line | 📅 Planned |
-| [P-5753DD](P-5753DD.md) | Norlina. Construct roadway improvements.  | CXS S Line | 📅 Planned |
+| [P-5753DD](P-5753DD.md) | Norlina. Construct roadway improvements. | CXS S Line | 📅 Planned |
 | [P-5753DE](P-5753DE.md) | Various. Construct roadway improvements in Wise... | CXS S Line | 📅 Planned |
 
 ## Projects Spanning This County
@@ -34,5 +34,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

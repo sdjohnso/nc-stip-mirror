@@ -42,18 +42,18 @@
 | [RX-2402B](RX-2402B.md) | Carolina Coastal Railway Crossing. Construct hi... | SR 1139 (Wilson Street... | 📅 Planned |
 | [RX-2402C](RX-2402C.md) | Carolina Coastal Railway Crossing. Construct hi... | US 264 (Marlboro Road) | 📅 Planned |
 | [U-2817](U-2817.md) | SR 1711 (Worthington Road) in Winterville to US... | SR 1700 (Evans Street ... | 📋 Right-of-Way |
-| [U-5606](U-5606.md) | NC 11 to Reade Circle. . Improve roadway. | SR 1620 (Dickinson Ave... | 🚧 Under Construction |
+| [U-5606](U-5606.md) | NC 11 to Reade Circle. Improve roadway. | SR 1620 (Dickinson Ave... | 🚧 Under Construction |
 | [U-5730](U-5730.md) | NC 43 (5th Street) intersection in Greenville. ... | US 13 (Memorial Drive) | 📋 Right-of-Way |
 | [U-5785](U-5785.md) | West of East Arlington Boulevard to NC 33 (East... | SR 1708 (Firetower Road) | 📋 Right-of-Way |
 | [U-5875](U-5875.md) | SR 1467 (Stantonsburg Road) to US 13 (Dickinson... | SR 1203 (Allen Road) | 📋 Right-of-Way |
-| [U-5917](U-5917.md) | Red Banks Road to SR 1708 (Firetower Road). . W... | SR 1704 (Fourteenth  S... | 📋 Right-of-Way |
+| [U-5917](U-5917.md) | Red Banks Road to SR 1708 (Firetower Road). Wid... | SR 1704 (Fourteenth  S... | 📋 Right-of-Way |
 | [U-5952](U-5952.md) | Routes in Greenville. Upgrade signal system. | Various | 📅 Planned |
-| [U-5991](U-5991.md) | SR 1708 (Fire Tower Road) to SR 1711 (Worthingt... | NC 43  | 📅 Planned |
+| [U-5991](U-5991.md) | SR 1708 (Fire Tower Road) to SR 1711 (Worthingt... | NC 43 | 📅 Planned |
 | [U-6197](U-6197.md) | SR 1725 (County Home Road) intersection in Gree... | SR 1711 (Worthington R... | 📅 Planned |
 | [U-6240](U-6240.md) | Cadillac Street to Reade Circle in Greenville. ... | SR 1571 (West 5th Street) | 🚧 Under Construction |
 
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

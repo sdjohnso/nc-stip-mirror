@@ -44,7 +44,7 @@
 | [HS-2006G](HS-2006G.md) | SR 1838 (Dunn Road) intersection in Eastover. R... | SR 1835 (Rock Hill Road) | 🏗️ Active Construction (92%) |
 | [HS-2006N](HS-2006N.md) | US 401 (Raeford Road) to SR 1400 (Cliffdale Roa... | SR 1596 (Glensford Drive) | 🏗️ Active Construction (92%) |
 | [HS-2006O](HS-2006O.md) | Berean Baptist Academy Entrance and Chambersbur... | SR 1596 (Glensford Drive) | 🏗️ Active Construction (92%) |
-| [HS-2006P](HS-2006P.md) | Bridge 250216 in Fayetteville. . Install Guardr... | SR 3950 (Ramsey Street) | 🏗️ Active Construction (92%) |
+| [HS-2006P](HS-2006P.md) | Bridge 250216 in Fayetteville. Install Guardrail. | SR 3950 (Ramsey Street) | 🏗️ Active Construction (92%) |
 | [HS-2006V](HS-2006V.md) | SR 1615 (Rosehill Road / Stacy Weaver Road) in ... | SR 1600 (McArthur Road) | 🏗️ Active Construction (92%) |
 | [HS-2006X](HS-2006X.md) | SR 1007 (All American Freeway) northbound and s... | US 401 (Skibo Road) | 🏗️ Active Construction (92%) |
 | [HS-2006Z](HS-2006Z.md) | Arsenal Avenue intersection in Fayetteville. In... | SR 1414 (Broadfoot Road) | 🏗️ Active Construction (92%) |
@@ -61,7 +61,7 @@
 | [U-2519CA](U-2519CA.md) | South of US 401 to south of SR 1400 (Cliffdale ... | I-295 (Fayetteville Ou... | 🚧 Under Construction |
 | [U-2519CB](U-2519CB.md) | South of SR 1400 (Cliffdale Road) to east of SR... | I-295 (Fayetteville Ou... | ✅ Completed |
 | [U-2519F](U-2519F.md) | 🗺️ Fayetteville outer loop. Install ITS for Fayett... | I-295 (Fayetteville Ou... | 📅 Planned |
-| [U-3422](U-3422.md) | Proposed Fayetteville Outer Loop (U-2519) to SR... | SR 1003 (Camden Road) | 📋 Right-of-Way |
+| [U-3422](U-3422.md) | Fayetteville Outer Loop (U-2519) to SR 1596 (Ho... | SR 1003 (Camden Road) | 📋 Right-of-Way |
 | [U-3422A](U-3422A.md) | Proposed Fayetteville Outer Loop (U-2519) to ju... | SR 1003 (Camden Road) | 🚧 Under Construction |
 | [U-3422B](U-3422B.md) | West of SR 1112 (Rockfish Road) to SR 1596 (Hop... | SR 1003 (Camden Road) | 📅 Planned |
 | [U-4403B](U-4403B.md) | US 401 Business (Martin Luther King, Jr. Freewa... | US 401 Business | 📅 Planned |
@@ -71,7 +71,7 @@
 | [U-4405B](U-4405B.md) | East of Brighton Road to east of Glensford Driv... | US 401 (Raeford Road) | 🚧 Under Construction |
 | [U-4405C](U-4405C.md) | East of SR 1596 (Glensford Drive) to east of Ro... | US 401 (Raeford Road) | 📅 Planned |
 | [U-4709](U-4709.md) | SR 1115 (Golfview Road) to SR 1596 (Main Street... | SR 1112 (Rockfish Road... | 🚧 Under Construction |
-| [U-4900](U-4900.md) | I-295 to south of US 401 Bypass. . Add addition... | NC 210 (Murchison Road) | 📋 Right-of-Way |
+| [U-4900](U-4900.md) | I-295 to south of US 401 Bypass. Add additional... | NC 210 (Murchison Road) | 📋 Right-of-Way |
 | [U-5101A](U-5101A.md) | NC 24 (Bragg Boulevard) to NC 210 (Murchison Ro... | SR 1437 (Shaw Road) | 📅 Planned |
 | [U-5742](U-5742.md) | Routes in Fayetteville. Install computerized tr... | Various | ✅ Completed |
 | [U-5798A](U-5798A.md) | North of SR 1112 (Stoney Point Road) to US 401 ... | SR 1102 (Gillis Hill R... | 🚧 Under Construction |
@@ -81,7 +81,7 @@
 | [U-6072A](U-6072A.md) | SR 1102 (Gillis Hill Road) to Camden Road. Wide... | SR 1112 (Rockfish Road) | 📅 Planned |
 | [U-6073](U-6073.md) | SR 1104 (Strickland Bridge Road) to NC 162 (Bin... | SR 1107 (Fisher Road) | 📅 Planned |
 | [U-6133](U-6133.md) | SR 1400 (Cliffdale Road) intersection in Fayett... | US 401 Business (Skibo... | 📅 Planned |
-| [U-6152](U-6152.md) | US 401 (Raeford Road) to Walter Street. . Const... | US 401 (Robeson Street) | 📅 Planned |
+| [U-6152](U-6152.md) | US 401 (Raeford Road) to Saint Avold Avenue. Co... | US 401 (Robeson Street) | 📅 Planned |
 | [U-6229](U-6229.md) | US 401 (Skibo Road) to Glenville Avenue. Replac... | NC 24 (Bragg Boulevard) | 🚧 Under Construction |
 | [W-5519](W-5519.md) | NC 87 South to NC 59. Construct safety improvem... | I-95 Business / US 301 | ✅ Completed |
 | [W-5706U](W-5706U.md) | SR 3578 (Fort Bragg Road), Oakridge Avenue, and... | SR 1404 (Hay Street / ... | 🚧 Under Construction |
@@ -100,5 +100,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

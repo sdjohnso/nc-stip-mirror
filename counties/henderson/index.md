@@ -47,7 +47,7 @@
 | [U-5783](U-5783.md) | SR 1180 (Blythe Street) to SR 1173 (White Pine ... | US 64 | 📋 Right-of-Way |
 | [U-5840](U-5840.md) | US 25 to Mills Gap Road in Fletcher. Widen exis... | SR 1547 (Old Airport R... | ✅ Completed |
 | [U-5886](U-5886.md) | SR 1171 (Willow Road) to US 176 (Spartanburg Hi... | SR 1170 (White Street) | 📋 Right-of-Way |
-| [U-5887](U-5887.md) | NC 225 to US 176 in Flat Rock. . Upgrade roadway. | SR 1783 (Highland Lake... | 🚧 Under Construction |
+| [U-5887](U-5887.md) | NC 225 to US 176 in Flat Rock. Upgrade roadway. | SR 1783 (Highland Lake... | 🚧 Under Construction |
 | [U-6049](U-6049.md) | South Main Street at South King Street to US 17... | NC 225 (South Main Str... | 📋 Right-of-Way |
 
 ## Projects Spanning This County
@@ -63,5 +63,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

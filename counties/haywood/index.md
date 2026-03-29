@@ -1,13 +1,13 @@
 # Haywood County - STIP Projects
 
-> **37 projects** in the State Transportation Improvement Program
+> **36 projects** in the State Transportation Improvement Program
 
 ## Summary
 
 | Status | Count |
 |--------|-------|
 | 🏗️ Active Construction | 4 |
-| 🚧 Under Construction | 12 |
+| 🚧 Under Construction | 11 |
 | 📋 Right-of-Way | 3 |
 | 📅 Planned | 18 |
 
@@ -48,7 +48,6 @@
 | [U-5839](U-5839.md) | US 23 / US 74 to US 23 Business (Main Street) i... | US 276 (Russ Avenue) | 📅 Planned |
 | [U-5888](U-5888.md) | Walnut Street intersection in Waynesville. Cons... | US 23 Business (North ... | 🚧 Under Construction |
 | [U-6048](U-6048.md) | 🗺️ SR 1836 (Chestnut Mountain Road) to SR 1200 (Wi... | US 19 / US 23 | 📅 Planned |
-| [U-6055](U-6055.md) | Locust Street intersection in Canton. Construct... | NC 110 (Pisgah Drive) | 🚧 Under Construction |
 | [U-6158](U-6158.md) | SR 1134 (Crymes Cove Road) and SR 1812 (Raccoon... | US 276 | 📅 Planned |
 | [U-6159](U-6159.md) | US 23 / US 74 (Great Smokey Mountain Expressway... | US 276 (Russ Avenue) | 📅 Planned |
 | [W-5814A](W-5814A.md) | South of SR 1326 (Bob Boyd Road). Construct lef... | US 276 | 🚧 Under Construction |
@@ -56,5 +55,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

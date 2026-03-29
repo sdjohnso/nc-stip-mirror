@@ -30,9 +30,9 @@
 | [HB-0065](HB-0065.md) | Bridge 960691 over Stony Fork Creek. Replace br... | SR 1170 (Casper Hawkin... | 📅 Planned |
 | [HB-0066](HB-0066.md) | Bridge 960340 over South Fork Reddies River. Re... | SR 1355 (White Oak Road) | 📅 Planned |
 | [HB-0069](HB-0069.md) | Bridge 960012 over Reddies River. Replace bridge. | US 421 Business | 📅 Planned |
-| [R-2603](R-2603.md) | NC 18 to SR 1966 (Airport Road). . Construct si... | NC 268 | 🚧 Under Construction |
+| [R-2603](R-2603.md) | NC 18 to SR 1966 (Airport Road). Construct side... | NC 268 | 🚧 Under Construction |
 | [R-5759](R-5759.md) | US 421 to 2nd Street in North Wilkesboro. Widen... | NC 115 | 📋 Right-of-Way |
-| [R-5772](R-5772.md) | US 421 to Forest Hills Drive in Wilkesboro. Upg... | SR 1001 (Oakwoods Road) | 📅 Planned |
+| [R-5772](R-5772.md) | US 421 to Forest Hill Drive in Wilkesboro. Upgr... | SR 1001 (Oakwoods Road) | 📅 Planned |
 | [R-5906](R-5906.md) | SR 1966 to four lanes west of SR 2026 (Austin T... | NC 268 | 📅 Planned |
 | [U-5312](U-5312.md) | NC 16 to US 421 Business. Construct reduced con... | US 421 | 🚧 Under Construction |
 | [W-5503A](W-5503A.md) | SR 1966 (Airport Road) to SR 2026 (Austin Traph... | NC 268 | 🚧 Under Construction |
@@ -40,5 +40,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*

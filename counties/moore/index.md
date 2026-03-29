@@ -1,6 +1,6 @@
 # Moore County - STIP Projects
 
-> **23 projects** in the State Transportation Improvement Program
+> **24 projects** in the State Transportation Improvement Program
 
 ## Summary
 
@@ -8,7 +8,7 @@
 |--------|-------|
 | 🚧 Under Construction | 5 |
 | 📋 Right-of-Way | 5 |
-| 📅 Planned | 13 |
+| 📅 Planned | 14 |
 
 ## All Projects
 
@@ -20,10 +20,11 @@
 | [EB-5864](EB-5864.md) | NC 2 (Midland Road) to SR 1843 (Airport Road) n... | Knoll Road | 📅 Planned |
 | [EB-5869](EB-5869.md) | US 15 / US 501 to Mike Place in Aberdeen. Const... | SR 1203 (Johnson Street) | 📅 Planned |
 | [EB-6001](EB-6001.md) | Johnson Street to US 1 (Sandhills Boulevard) in... | SR 2055 (North Poplar ... | 📅 Planned |
-| [HS-2008F](HS-2008F.md) | SR 1205 (Morganton Road) intersection. . Realig... | NC 5 | 📅 Planned |
+| [HL-0175](HL-0175.md) | Thorne Road to Knoll Road in Southern Pines. Im... | Airport Road | 📅 Planned |
+| [HS-2008F](HS-2008F.md) | SR 1205 (Morganton Road) intersection. Improve ... | NC 5 | 📅 Planned |
 | [R-5726](R-5726.md) | NC 73 in west end to west of SR 1241 (Holly Gro... | NC 211 | 🚧 Under Construction |
 | [R-5726A](R-5726A.md) | NC 73 in West End to west of SR 1241 (Holly Gro... | NC 211 | 📅 Planned |
-| [R-5824](R-5824.md) | US 1 in Vass to Cumberland County line. . Upgra... | NC 690 (Lobelia Road) | 📋 Right-of-Way |
+| [R-5824](R-5824.md) | US 1 in Vass to Cumberland County line. Upgrade... | NC 690 (Lobelia Road) | 📋 Right-of-Way |
 | [R-5891](R-5891.md) | SR 1205 / SR 1309 (Morganton Road) in Southern ... | US 15 / US 501 / NC 211 | 📅 Planned |
 | [R-5892](R-5892.md) | Trotter Drive / Blake Boulevard to NC 211 in Pi... | NC 5 (Beulah Hill Road) | 📅 Planned |
 | [R-5927](R-5927.md) | NC 2 and NC 211 traffic circle in Pinehurst to ... | US 15 / US 501 | 📅 Planned |
@@ -36,7 +37,7 @@
 | [U-5815B](U-5815B.md) | Knight Street in Aberdeen to SR 2080 (Old US 1)... | US 1 (Sandhills Boulev... | 📋 Right-of-Way |
 | [U-5815BA](U-5815BA.md) | Knight Street in Aberdeen to SR 2080 (Old US 1)... | US 1 (Sandhills Boulev... | 🚧 Under Construction |
 | [U-5976](U-5976.md) | SR 1905 (Voit Gilmore Lane) in Southern Pines t... | US 15 / US 501 | 📅 Planned |
-| [W-5808C](W-5808C.md) | West Maple Avenue intersection in Aberdeen. . I... | SR 2055 (North Poplar ... | 🚧 Under Construction |
+| [W-5808C](W-5808C.md) | West Maple Avenue intersection in Aberdeen. Ins... | SR 2055 (North Poplar ... | 🚧 Under Construction |
 
 ## Projects Spanning This County
 
@@ -51,5 +52,5 @@
 ---
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
-*Last NCDOT Update: 2026-03-22*  
+*Last NCDOT Update: 2026-03-29*  
 *Mirror Updated: 2026-03-29*
