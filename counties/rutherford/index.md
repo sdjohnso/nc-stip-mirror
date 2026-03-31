@@ -6,10 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 2 |
 | 🚧 Under Construction | 2 |
 | 📋 Right-of-Way | 1 |
-| 📅 Planned | 8 |
+| 📅 Planned | 10 |
 
 ## All Projects
 
@@ -23,8 +22,8 @@
 | [HN-0019](HN-0019.md) | North Washington Street Intersection in Rutherf... | US 64 / US 74A | 📅 Planned |
 | [HS-2013G](HS-2013G.md) | US 221A to NC 64. Upgrade guardrail. | SR 1510 (Hudlow Road) | 🚧 Under Construction |
 | [HS-2013N](HS-2013N.md) | SR 1007 (Andrews Mill Road / Piney Mountain Chu... | SR 1006 (Bostic-Sunshi... | 📅 Planned |
-| [HS-2413A](HS-2413A.md) | 🗺️ SR 1008 (Bills Creek Road) to Rutherfordton wes... | US 64 / NC 18; US 64 /... | 🏗️ Active Construction (0%) |
-| [HS-2413B](HS-2413B.md) | 🗺️ Rutherfordton Northeast Municipal Limit to Morg... | US 64 | 🏗️ Active Construction (0%) |
+| [HS-2413A](HS-2413A.md) | 🗺️ SR 1008 (Bills Creek Road) to Rutherfordton wes... | US 64 / NC 18; US 64 /... | 📅 Planned |
+| [HS-2413B](HS-2413B.md) | 🗺️ Rutherfordton Northeast Municipal Limit to Morg... | US 64 | 📅 Planned |
 | [R-2233BA](R-2233BA.md) | North of US 74 Bypass in Rutherfordton to south... | US 221 | 📅 Planned |
 | [R-2233BB](R-2233BB.md) | South of US 74 Business to north of SR 1366 (Ro... | US 221 | 🚧 Under Construction |
 | [U-5833](U-5833.md) | SR 2159 (Pine Ridge Road) to US 74 in Forest Ci... | SR 2241 (Oak Street) | 📅 Planned |
@@ -43,4 +42,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-29*  
-*Mirror Updated: 2026-03-30*
+*Mirror Updated: 2026-03-31*

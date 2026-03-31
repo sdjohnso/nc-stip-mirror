@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-30T11:45:09.889735+00:00",
-  "feature_count": 259,
+  "pull_timestamp": "2026-03-31T11:39:19.784470+00:00",
+  "feature_count": 260,
   "features": [
     {
       "attributes": {
@@ -402,7 +402,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #19 OVER CUB CREEK ON NC-226.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #19 Over Cub Creek on NC 226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693230840000
@@ -452,7 +452,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #9 ON US-64 IN MANNS HARBOR.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Mann Harbor Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675934220000
@@ -839,7 +839,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DUAL ROUNDABOUTS NORTH AND SOUTH OF SR-5544 (CATAWBA AVE) AN D US-21 INTERSECTION IN CORNELIUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DUAL ROUNDABOUTS CORNELIUS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706269200000
@@ -1047,7 +1047,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS AT NC-115/DAVIDSON ST/POTTS ST AND AT SR-6038/GR IFFITH ST/BEATY ST AND NEW LOCATION FROM SR-6037 TO SR-6038.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Cornelius & Davidson Roundabouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-115",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1712049960000
@@ -2781,7 +2781,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100716 ON SR-2832, BRG #100394 ON SR-2783, BRG #100396 ON SR-2810, BRG #100118 ON SR-2782, BRG #100464 ON SR-2782.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.53,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746698160000
@@ -3556,7 +3556,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE AT I-85 AND I-485 WEST OF CHARLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-6016  I-485 and I-85 CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753344600000
@@ -5293,7 +5293,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-5943A   ",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TOWN OF CLAYTON",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "ToC Signal Upgrades",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Town of Clayton Signals (TCD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
@@ -6823,6 +6823,31 @@
           [
             -82.34890252932618,
             35.91170436325414
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 161250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205071",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BR-0155   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BR-0155   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780163 OVER HOGAN'S CREEK ON US-158.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-158",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774610280000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.52980255369424,
+            36.39862788577665
           ]
         ]
       }
