@@ -6,9 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 6 |
+| 🏗️ Active Construction | 5 |
 | 🚧 Under Construction | 10 |
-| 📋 Right-of-Way | 7 |
+| 📋 Right-of-Way | 8 |
 | 📅 Planned | 29 |
 
 ## All Projects
@@ -58,7 +58,7 @@
 | [TA-6720](TA-6720.md) | Systemwide. Purchase expansion vehicle. | Johnston County | 📅 Planned |
 | [TO-6166D](TO-6166D.md) | 🗺️ Various locations. Construct infrastructure, pu... | Various | 📅 Planned |
 | [U-5726](U-5726.md) | SR 1623 (Booker Dairy Road) to SR 2302 (Ricks R... | US 301 / NC 39 / NC 96 | 📅 Planned |
-| [U-5943](U-5943.md) | Routes in Clayton. Upgrade signal system. | Various | 🏗️ Active Construction (0%) |
+| [U-5943](U-5943.md) | Routes in Clayton. Upgrade signal system. | Various | 📋 Right-of-Way |
 | [U-5998](U-5998.md) | SR 1003 (Buffalo Road) to Wilson County line. M... | NC 42 | 📅 Planned |
 | [U-6203](U-6203.md) | NC 50 to SR 1330 (Raleigh Road). Construct redu... | NC 210 | 📅 Planned |
 | [U-6208](U-6208.md) | SR 1010 (Cleveland Road) to NC 42. Construct ro... | New Route | 📅 Planned |
@@ -88,4 +88,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-29*  
-*Mirror Updated: 2026-03-31*
+*Mirror Updated: 2026-04-01*

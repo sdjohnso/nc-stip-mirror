@@ -10,9 +10,9 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 117 |
+| 🏗️ Active Construction | 115 |
 | 🚧 Under Construction | 587 |
-| 📋 Right-of-Way | 284 |
+| 📋 Right-of-Way | 286 |
 | 📅 Planned | 1,226 |
 | ✅ Completed | 136 |
 
@@ -70,7 +70,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Hyde](counties/hyde/index.md) | 2 (+3) | 0 | 0 |
 | [Iredell](counties/iredell/index.md) | 51 (+2) | 0 | 29 |
 | [Jackson](counties/jackson/index.md) | 17 (+1) | 4 | 6 |
-| [Johnston](counties/johnston/index.md) | 52 (+9) | 6 | 29 |
+| [Johnston](counties/johnston/index.md) | 52 (+9) | 5 | 29 |
 | [Jones](counties/jones/index.md) | 4 (+2) | 0 | 2 |
 | [Lee](counties/lee/index.md) | 15 (+1) | 0 | 8 |
 | [Lenoir](counties/lenoir/index.md) | 15 (+1) | 0 | 9 |
@@ -97,7 +97,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Polk](counties/polk/index.md) | 9 (+2) | 1 | 2 |
 | [Randolph](counties/randolph/index.md) | 29 | 0 | 19 |
 | [Richmond](counties/richmond/index.md) | 14 (+4) | 0 | 6 |
-| [Robeson](counties/robeson/index.md) | 47 (+6) | 10 | 16 |
+| [Robeson](counties/robeson/index.md) | 47 (+6) | 9 | 16 |
 | [Rockingham](counties/rockingham/index.md) | 15 | 0 | 10 |
 | [Rowan](counties/rowan/index.md) | 39 (+1) | 0 | 25 |
 | [Rutherford](counties/rutherford/index.md) | 13 (+3) | 0 | 10 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-03-29*  
-*Mirror Updated: 2026-03-31*
+*Mirror Updated: 2026-04-01*

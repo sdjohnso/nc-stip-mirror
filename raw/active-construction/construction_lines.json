@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-03-31T11:39:19.784470+00:00",
-  "feature_count": 167,
+  "pull_timestamp": "2026-04-01T11:41:46.227780+00:00",
+  "feature_count": 168,
   "features": [
     {
       "attributes": {
@@ -2035,7 +2035,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26 FROM NC-280 (EXIT 40) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-4700/Fluor-United JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.68,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1568210520000
@@ -49447,7 +49447,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM SOUTH OF NC-20 TO SOUTH OF PROPOSED I-295.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 (From S of NC 20 to I-295 )",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1661511300000
@@ -52857,7 +52857,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-540 (TRIANGLE EXPRESSWAY SOUTHEAST EXTENSION) FROM I-40 T O SOUTH OF SR-2542 (ROCK QUARRY ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-2829A - Branch/S.T. Wooten JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.53,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-540",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1701099240000
@@ -66165,7 +66165,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-15/501 FROM US-1 TO BRUCEWOOD RD, US-1 FROM KNIGHT ST TO OLD US-1, AND NC-5 FROM US-1 TO TROTTER DR/BLAKE BLVD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2024 CMGC Project US 1-US15/501 NC 5",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728645180000
@@ -117064,7 +117064,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US HWY 64 NEAR STILLMONT CIRCLE NEAR CASHIERS IN JACKSON COU NTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 64 Slope Repair",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767878580000
@@ -131702,6 +131702,257 @@
             [
               -78.83701295294239,
               35.83607344758519
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 105461,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C205036",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-5797    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-5797    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1997 (FAYETTEVILLE RD) FROM FARRINGDOM ST TO EAST 22ND ST .",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "FAYETTEVILLE RD from 22nd to Farringdom",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1997",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774861860000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -79.00383454281454,
+              34.63261215877764
+            ],
+            [
+              -79.00382026103641,
+              34.632667495110915
+            ],
+            [
+              -79.00349798322661,
+              34.63339291477707
+            ],
+            [
+              -79.00349324482663,
+              34.633403581401204
+            ],
+            [
+              -79.003313746158,
+              34.63383762484884
+            ],
+            [
+              -79.00323861177145,
+              34.634054858916684
+            ],
+            [
+              -79.00323397152792,
+              34.63406827702314
+            ],
+            [
+              -79.00250851772505,
+              34.63586024089822
+            ],
+            [
+              -79.0022770108468,
+              34.636432075696554
+            ],
+            [
+              -79.00222674917748,
+              34.63656748647179
+            ],
+            [
+              -79.00173746676782,
+              34.63778330461786
+            ],
+            [
+              -79.00160086957102,
+              34.6381056950003
+            ],
+            [
+              -79.00158606953678,
+              34.638112167050274
+            ],
+            [
+              -79.00157251847217,
+              34.638120293316064
+            ],
+            [
+              -79.00156048459317,
+              34.63812991434865
+            ],
+            [
+              -79.00155020697639,
+              34.6381408379108
+            ],
+            [
+              -79.00154188695817,
+              34.6381528460859
+            ],
+            [
+              -79.00153569199624,
+              34.63816570340283
+            ],
+            [
+              -79.00123715558875,
+              34.6388742613529
+            ],
+            [
+              -79.00119436613214,
+              34.6389585998688
+            ],
+            [
+              -79.00113264388249,
+              34.63907875339974
+            ],
+            [
+              -79.00082899915539,
+              34.6397720542148
+            ],
+            [
+              -79.0007286052491,
+              34.64001962691783
+            ],
+            [
+              -79.00060516697212,
+              34.64033929623477
+            ],
+            [
+              -79.00053275059697,
+              34.640539258549516
+            ],
+            [
+              -79.0004126047745,
+              34.640849404131764
+            ],
+            [
+              -79.000361582632,
+              34.64097727143158
+            ],
+            [
+              -79.0003545165785,
+              34.640989404727804
+            ],
+            [
+              -79.00034965288096,
+              34.64100225472619
+            ],
+            [
+              -79.00034709300262,
+              34.64101555273349
+            ],
+            [
+              -79.00034689118594,
+              34.64102901670865
+            ],
+            [
+              -79.0003490521706,
+              34.64104236243441
+            ],
+            [
+              -79.00035353084209,
+              34.64105530801494
+            ],
+            [
+              -79.00036023047633,
+              34.64106758374136
+            ],
+            [
+              -79.00015021807778,
+              34.641557064998764
+            ],
+            [
+              -79.00008329260034,
+              34.641716435046895
+            ],
+            [
+              -79.00005004464873,
+              34.64182582503659
+            ],
+            [
+              -78.99999684949698,
+              34.64201292166124
+            ],
+            [
+              -78.99997686855757,
+              34.642413849733245
+            ],
+            [
+              -78.99997650193446,
+              34.64272709614306
+            ],
+            [
+              -78.9999627708974,
+              34.64312321748072
+            ],
+            [
+              -78.99996193950375,
+              34.64352387063123
+            ],
+            [
+              -78.99998853758844,
+              34.6438485489985
+            ],
+            [
+              -78.99999393813933,
+              34.64425440467997
+            ],
+            [
+              -78.9999948216762,
+              34.6443207272578
+            ],
+            [
+              -79.00000765403573,
+              34.64470025012098
+            ],
+            [
+              -79.00002344911815,
+              34.64509112208834
+            ],
+            [
+              -79.00000765411352,
+              34.645403188413006
+            ],
+            [
+              -79.00003382223905,
+              34.645859319940925
+            ],
+            [
+              -79.00002712143879,
+              34.646507118798404
+            ],
+            [
+              -79.0000267745553,
+              34.646540797018886
+            ],
+            [
+              -79.00003888996142,
+              34.647726585623175
+            ],
+            [
+              -79.00003924232102,
+              34.647761113013985
+            ],
+            [
+              -79.0000720603712,
+              34.648519062675845
+            ],
+            [
+              -79.00007700477832,
+              34.649046854557525
+            ],
+            [
+              -79.0000778786288,
+              34.64914025191771
+            ],
+            [
+              -79.00007748120989,
+              34.649920787818964
             ]
           ]
         ]

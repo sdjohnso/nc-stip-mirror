@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-03-31T11:39:19.784470+00:00",
-  "feature_count": 260,
+  "pull_timestamp": "2026-04-01T11:41:46.227780+00:00",
+  "feature_count": 259,
   "features": [
     {
       "attributes": {
@@ -566,31 +566,6 @@
           [
             -78.27741423187136,
             34.376316211612455
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 20452,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204892",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Design Build",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HO-0001AA ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HO-0001AA ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 92,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS ON NCSU CAMPUS.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NCSU CAMPUS CONNECTED VEHICLE INFR",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1012",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690386300000
-      },
-      "geometry": {
-        "points": [
-          [
-            -78.68097355235601,
-            35.784531200314944
           ]
         ]
       }
@@ -4010,7 +3985,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF NC 180 & SR 2202",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 180 and Joe's Lake Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-180",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755506160000
@@ -4702,31 +4677,6 @@
           [
             -83.52014044100407,
             35.37419776438412
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 134450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DH00548",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 77,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1148 (GRASSY ISLAND ROAD) OVER COLEMAN'S CREEK",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Richmond Co Brdg 91 Replacement",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1148",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761042600000
-      },
-      "geometry": {
-        "points": [
-          [
-            -79.89216608185819,
-            35.064328897876294
           ]
         ]
       }
@@ -6848,6 +6798,51 @@
           [
             -79.52980255369424,
             36.39862788577665
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 161650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DD00505",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-5943B   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-5943B   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TOWN OF CLAYTON",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Town of Clayton Signals (Fulcher)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774865520000
+      },
+      "geometry": {
+        "points": [
+          [
+            -78.47662773864843,
+            35.668892106664266
+          ],
+          [
+            -78.42301567861074,
+            35.64443651274697
+          ],
+          [
+            -78.4399888193415,
+            35.64007186575857
+          ],
+          [
+            -78.43945682216646,
+            35.63957624885505
+          ],
+          [
+            -78.42495205434265,
+            35.64394152517756
+          ],
+          [
+            -78.3467730820843,
+            35.65710621408376
           ]
         ]
       }
