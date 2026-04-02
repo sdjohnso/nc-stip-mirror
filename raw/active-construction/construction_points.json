@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-01T14:25:24.827360+00:00",
-  "feature_count": 259,
+  "pull_timestamp": "2026-04-02T11:37:00.741593+00:00",
+  "feature_count": 260,
   "features": [
     {
       "attributes": {
@@ -735,7 +735,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 AND US-70 BUSINESS (MARKET STREET), EXIT 95 INTERCHANGE  FROM OUTLET CENTER DRIVE TO WEST OF YELVERTON GROVE ROAD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95, Exit 95 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703235060000
@@ -2569,7 +2569,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #560067 OVER THE FRENCH BROAD RIVER ON US-25/70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 67 over the French Broad River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-25",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745929200000
@@ -3481,7 +3481,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #400224 OVER SOUTH BUFFALO CREEK ON SR-3000 (MCCONNEL L RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MCCONNELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3000",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1752141780000
@@ -3506,7 +3506,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 129 ON BELLAMY MILL RD OVER FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "FISHING CREEK BR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1518",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753086480000
@@ -3935,7 +3935,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 100086 ON NC 151 OVER STONY FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stony Fork Bridge #100086",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-151",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755006180000
@@ -5370,7 +5370,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT #580382 ON SR-1448, CULVERT #800573 ON SR-1312, AND BRIDGE #800572 ON SR-1312.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DB Brg 382,573 and 572",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.65,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1312",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767864540000
@@ -6472,7 +6472,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT ON SR-2776, BRIDGE ON SR-2427, AND BRIDGE ON SR-2788 .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-0199",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773066420000
@@ -6843,6 +6843,31 @@
           [
             -78.3467730820843,
             35.65710621408376
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 162050,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204955",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #060353 OVER US-17 BUS/TAR RIVER ON US-17.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 353 Preservation",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774975800000
+      },
+      "geometry": {
+        "points": [
+          [
+            -77.0847874937995,
+            35.523439825465864
           ]
         ]
       }
