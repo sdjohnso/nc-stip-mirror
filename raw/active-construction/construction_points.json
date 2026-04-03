@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-02T11:37:00.741593+00:00",
-  "feature_count": 260,
+  "pull_timestamp": "2026-04-03T11:29:27.417090+00:00",
+  "feature_count": 259,
   "features": [
     {
       "attributes": {
@@ -839,7 +839,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #155 AND 158 OVER RICHLAND CREEK ON US-23/74 AND BRI DGE #168 OVER US-19 AND US-23 ON US-23/74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 Bridges 155, 158, 168 (US19 Split)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-2374",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1707216840000
@@ -1147,7 +1147,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #28 OVER LONG CREEK ON NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pender Bridge #28 - NC 210 on Long Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.89,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-210",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1717066620000
@@ -1560,31 +1560,6 @@
           [
             -82.92189631552112,
             35.532829364069386
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 78450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DL00333",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " B-5853    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "B-5853    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 55,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 71 ON SR 1168 JOHNSTOWN RD",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "JOHNSTOWN ROAD BRIDGE REPLACEMENT",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.57,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1168",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1729250580000
-      },
-      "geometry": {
-        "points": [
-          [
-            -81.37164662808667,
-            35.427137463860454
           ]
         ]
       }
@@ -5220,7 +5195,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DARE COUNTY REST AREA ON US-64 IN MANTEO, NC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Dare County Rest Area Renovation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.94,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767018180000
@@ -5653,7 +5628,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 413 ON SR-2174 (WILLIAMS BRANCH RD) AND BRIDGE 146 ON  SR-2173 (DILLINGHAM RD) IN BUNCOMBE COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Permanent Repairs STRs 413 and 146",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.02,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2174",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769092620000
