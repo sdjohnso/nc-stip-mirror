@@ -10,10 +10,10 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 115 |
+| 🏗️ Active Construction | 107 |
 | 🚧 Under Construction | 587 |
 | 📋 Right-of-Way | 286 |
-| 📅 Planned | 1,226 |
+| 📅 Planned | 1,234 |
 | ✅ Completed | 136 |
 
 ## Counties
@@ -51,14 +51,14 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Davidson](counties/davidson/index.md) | 24 (+2) | 0 | 13 |
 | [Davie](counties/davie/index.md) | 9 | 0 | 3 |
 | [Duplin](counties/duplin/index.md) | 13 (+2) | 0 | 6 |
-| [Durham](counties/durham/index.md) | 52 (+10) | 9 | 25 |
+| [Durham](counties/durham/index.md) | 52 (+10) | 7 | 27 |
 | [Edgecombe](counties/edgecombe/index.md) | 25 (+2) | 2 | 6 |
 | [Forsyth](counties/forsyth/index.md) | 85 (+3) | 1 | 49 |
 | [Franklin](counties/franklin/index.md) | 16 (+2) | 0 | 14 |
 | [Gaston](counties/gaston/index.md) | 48 (+3) | 6 | 28 |
 | [Gates](counties/gates/index.md) | 2 (+1) | 0 | 1 |
 | [Graham](counties/graham/index.md) | 12 | 1 | 6 |
-| [Granville](counties/granville/index.md) | 13 | 2 | 4 |
+| [Granville](counties/granville/index.md) | 13 | 1 | 5 |
 | [Greene](counties/greene/index.md) | 3 (+2) | 0 | 1 |
 | [Guilford](counties/guilford/index.md) | 120 (+5) | 0 | 69 |
 | [Halifax](counties/halifax/index.md) | 11 (+4) | 2 | 2 |
@@ -111,7 +111,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Tyrrell](counties/tyrrell/index.md) | 3 (+1) | 0 | 2 |
 | [Union](counties/union/index.md) | 51 (+3) | 0 | 34 |
 | [Vance](counties/vance/index.md) | 14 (+1) | 0 | 13 |
-| [Wake](counties/wake/index.md) | 216 (+4) | 11 | 120 |
+| [Wake](counties/wake/index.md) | 216 (+4) | 6 | 125 |
 | [Warren](counties/warren/index.md) | 8 (+1) | 2 | 5 |
 | [Washington](counties/washington/index.md) | 3 (+1) | 0 | 3 |
 | [Watauga](counties/watauga/index.md) | 15 | 0 | 10 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-05*  
-*Mirror Updated: 2026-04-06*
+*Mirror Updated: 2026-04-07*

@@ -6,10 +6,10 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 9 |
+| 🏗️ Active Construction | 7 |
 | 🚧 Under Construction | 6 |
 | 📋 Right-of-Way | 12 |
-| 📅 Planned | 25 |
+| 📅 Planned | 27 |
 
 ## All Projects
 
@@ -44,8 +44,8 @@
 | [HS-2005L](HS-2005L.md) | Knox Street intersection. Install traffic signal. | SR 1327 (Gregson Street) | 🏗️ Active Construction (88%) |
 | [HS-2005M](HS-2005M.md) | SR 1670 (Geer Street) intersection in Durham. R... | NC 55 (Alston Avenue) | 🏗️ Active Construction (88%) |
 | [HS-2005S](HS-2005S.md) | SR 1815 (Mineral Springs Road) intersection. Co... | NC 98 | 🏗️ Active Construction (88%) |
-| [HS-2405I](HS-2405I.md) | Downing Creek Parkway; Hales Wood Road intersec... | SR 1110 (Barbee Chapel... | 🏗️ Active Construction (56%) |
-| [HS-2405M](HS-2405M.md) | Maynard Avenue intersection. Install traffic si... | US 501 Business (Roxbo... | 🏗️ Active Construction (56%) |
+| [HS-2405I](HS-2405I.md) | Downing Creek Parkway; Hales Wood Road intersec... | SR 1110 (Barbee Chapel... | 📅 Planned |
+| [HS-2405M](HS-2405M.md) | Maynard Avenue intersection. Install traffic si... | US 501 Business (Roxbo... | 📅 Planned |
 | [I-5707](I-5707.md) | NC 55 (Alston Avenue) to NC 147 (Durham Freeway... | I-40 | 📋 Right-of-Way |
 | [I-5941](I-5941.md) | Orange County line to US 15 / US 501 in Durham.... | I-85 | 📅 Planned |
 | [I-5993](I-5993.md) | US 15 / US 501 to east of NC 147. Rehabilitate ... | I-40 | 📅 Planned |
@@ -89,4 +89,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-05*  
-*Mirror Updated: 2026-04-06*
+*Mirror Updated: 2026-04-07*

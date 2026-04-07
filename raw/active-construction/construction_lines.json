@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-06T11:39:56.070852+00:00",
-  "feature_count": 166,
+  "pull_timestamp": "2026-04-07T11:43:20.062663+00:00",
+  "feature_count": 165,
   "features": [
     {
       "attributes": {
@@ -1531,175 +1531,6 @@
             [
               -84.0344868891479,
               35.08029395853041
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 99,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C204252",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " I-5714    , U-5114    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "I-5714    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 60,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-77/SR-2136/US-21 DIVERGING DIAMOND INTERCHANGE IN HUNTERSVILLE.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77/ Gilead Road",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.95,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1542615720000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -80.85680395900677,
-              35.40556321494668
-            ],
-            [
-              -80.85688075800395,
-              35.40595609733911
-            ],
-            [
-              -80.85740773883515,
-              35.4091561638127
-            ]
-          ],
-          [
-            [
-              -80.85740773883515,
-              35.4091561638127
-            ],
-            [
-              -80.85771364627352,
-              35.409051062263195
-            ],
-            [
-              -80.8580448234603,
-              35.40894568439128
-            ],
-            [
-              -80.85904837068888,
-              35.40859228879712
-            ],
-            [
-              -80.86007508018214,
-              35.40824809276088
-            ],
-            [
-              -80.86058459855575,
-              35.40805735302528
-            ],
-            [
-              -80.86058460505784,
-              35.40805735060392
-            ],
-            [
-              -80.8614772690366,
-              35.407723170864024
-            ]
-          ],
-          [
-            [
-              -80.85740773883515,
-              35.4091561638127
-            ],
-            [
-              -80.85761449173721,
-              35.41030363624509
-            ],
-            [
-              -80.85767306099916,
-              35.410608871189
-            ],
-            [
-              -80.85772320536323,
-              35.41088466723167
-            ],
-            [
-              -80.85777914569822,
-              35.41118782831081
-            ],
-            [
-              -80.85781198827117,
-              35.41138367376153
-            ],
-            [
-              -80.85787038033526,
-              35.4116825647187
-            ],
-            [
-              -80.85790839156367,
-              35.41187833092855
-            ],
-            [
-              -80.85793269658862,
-              35.41203841731731
-            ],
-            [
-              -80.85797296637813,
-              35.412221480436635
-            ],
-            [
-              -80.85800163116284,
-              35.41239603729888
-            ],
-            [
-              -80.85804408099563,
-              35.41262001200059
-            ]
-          ],
-          [
-            [
-              -80.85300071841384,
-              35.41036736744096
-            ],
-            [
-              -80.85308300362021,
-              35.41035168134852
-            ],
-            [
-              -80.85314943096085,
-              35.41033829941341
-            ],
-            [
-              -80.8532232976659,
-              35.41032153468799
-            ],
-            [
-              -80.85329632664755,
-              35.41030324323993
-            ],
-            [
-              -80.85343974933615,
-              35.41026309918053
-            ],
-            [
-              -80.8536211456543,
-              35.410214462240624
-            ],
-            [
-              -80.85487595539588,
-              35.40987633171056
-            ],
-            [
-              -80.85573449849974,
-              35.40963955678763
-            ],
-            [
-              -80.85636904723442,
-              35.40946171691078
-            ],
-            [
-              -80.85691139925575,
-              35.40930655559506
-            ],
-            [
-              -80.85740773883515,
-              35.4091561638127
             ]
           ]
         ]
@@ -99509,7 +99340,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1568 (OLD SHULLS MILL ROAD) FROM NC 105 TO WEST OF SR 155 7 (SHULLS MILL ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-2566BB _ Old Shulls Mill Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-105",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755874080000
@@ -116652,7 +116483,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS SITES ALONG SR 1594 & SR 1569 BEARWALLOW MOUNTAIN  RD BETWEEN US74A AND OLD CLEAR CREEK RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bearwallow Mtn Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 1.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1594",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768468680000

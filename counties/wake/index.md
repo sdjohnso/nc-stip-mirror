@@ -6,10 +6,10 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 11 |
+| 🏗️ Active Construction | 6 |
 | 🚧 Under Construction | 53 |
 | 📋 Right-of-Way | 31 |
-| 📅 Planned | 120 |
+| 📅 Planned | 125 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -122,11 +122,11 @@
 | [HS-2005J](HS-2005J.md) | Mingo Creek Trail crossing. Relocate crosswalk. | SR 2516 (Hodge Road) | 🏗️ Active Construction (85%) |
 | [HS-2005K](HS-2005K.md) | SR 2108 / SR 2036 (New Hope Road) intersection ... | US 401 | 🏗️ Active Construction (90%) |
 | [HS-2005Q](HS-2005Q.md) | Blazing Trail Drive / Driveway access to Apex F... | SR 1142 (Humie Olive R... | 🏗️ Active Construction (90%) |
-| [HS-2405G](HS-2405G.md) | Dillard Drive Middle School driveway; Orabelle ... | SR 1349 (Dillard Drive) | 🏗️ Active Construction (56%) |
-| [HS-2405H](HS-2405H.md) | Cashew Drive intersection. Install traffic sign... | SR 2049 (Forestville R... | 🏗️ Active Construction (56%) |
-| [HS-2405J](HS-2405J.md) | I-40 / I-440 ramp terminals. Uprade ramp traffi... | US 70 / US 401 (South ... | 🏗️ Active Construction (56%) |
-| [HS-2405K](HS-2405K.md) | Polk street intersection. Install traffic signa... | SR 2026 (North Person ... | 🏗️ Active Construction (56%) |
-| [HS-2405O](HS-2405O.md) | SR 2763 (Maude Stewart Road) intersection. Cons... | SR 2754 (Kennebec Road) | 🏗️ Active Construction (56%) |
+| [HS-2405G](HS-2405G.md) | Dillard Drive Middle School driveway; Orabelle ... | SR 1349 (Dillard Drive) | 📅 Planned |
+| [HS-2405H](HS-2405H.md) | Cashew Drive intersection. Install traffic sign... | SR 2049 (Forestville R... | 📅 Planned |
+| [HS-2405J](HS-2405J.md) | I-40 / I-440 ramp terminals. Uprade ramp traffi... | US 70 / US 401 (South ... | 📅 Planned |
+| [HS-2405K](HS-2405K.md) | Polk street intersection. Install traffic signa... | SR 2026 (North Person ... | 📅 Planned |
+| [HS-2405O](HS-2405O.md) | SR 2763 (Maude Stewart Road) intersection. Cons... | SR 2754 (Kennebec Road) | 📅 Planned |
 | [I-5111](I-5111.md) | 🗺️ I-440 / US 64 (Exit 301) to NC 42 (Exit 312). A... | I-40 | 🚧 Under Construction |
 | [I-5111SW](I-5111SW.md) | I-440 / US 64 (Exit 301) to Johnston County lin... | I-40 | 📅 Planned |
 | [I-5506](I-5506.md) | SR 1002 (Aviation Parkway) interchange in Cary.... | I-40 | ✅ Completed |
@@ -248,4 +248,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-05*  
-*Mirror Updated: 2026-04-06*
+*Mirror Updated: 2026-04-07*

@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-06T11:39:56.070852+00:00",
-  "feature_count": 259,
+  "pull_timestamp": "2026-04-07T11:43:20.062663+00:00",
+  "feature_count": 258,
   "features": [
     {
       "attributes": {
@@ -25,31 +25,6 @@
           [
             -83.39169191481582,
             35.15846415826811
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 66,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204252",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " I-5714    , U-5114    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "I-5714    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 60,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-77/SR-2136/US-21 DIVERGING DIAMOND INTERCHANGE IN HUNTERSVILLE.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77/ Gilead Road",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.95,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1542615720000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.85728491289365,
-            35.40919338041825
           ]
         ]
       }
@@ -1987,7 +1962,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT BRIDGES # 440245 & # 440186 IN HENDERSON, & # 870066 IN T RANSYLVANIA",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Replace Bridges 440186, 440245, 870066",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1528",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741016880000
@@ -5657,7 +5632,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 120292 OVER LITTLE MEADOW CREEK ON SR-2625 (MAUNE Y RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge-Little Meadow Creek (Mauney Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2625",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769082000000
