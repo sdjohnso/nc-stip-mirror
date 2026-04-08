@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-07T11:43:20.062663+00:00",
-  "feature_count": 258,
+  "pull_timestamp": "2026-04-08T11:43:51.833935+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -54,31 +54,6 @@
           [
             -82.37360247230689,
             35.27406133949004
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 373,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204499",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " R-4707    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "R-4707    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 41,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE OF US-29 AND SR-4771 (REEDY FORK PARKWAY).",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Reedy Fork / US 29",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.67,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1623853740000
-      },
-      "geometry": {
-        "points": [
-          [
-            -79.71178030550816,
-            36.175920738427386
           ]
         ]
       }
@@ -269,7 +244,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #370 AND #373 OVER REEMS CREEK ON US-19/23, US-25, A ND US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1667220780000
@@ -834,31 +809,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 45250,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00361",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 57,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER BIG PINE CREEK ON SR-1511 (BIG PINE RD)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "REPLACE BRIDGE NUMBER 143 OVER BIG PINE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.38,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1151",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1707986400000
-      },
-      "geometry": {
-        "points": [
-          [
-            -82.80889240386188,
-            35.79356147636792
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 46850,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204828",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -1363,7 +1313,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #030014 OVER S FORK JONES CREEK ON US-52.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Brdge #030014 Over S.Fork Jones Crk-US52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723646460000
@@ -1725,7 +1675,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #030087 OVER RICHARDSON CREEK ON NC-742.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 030087 NC742 over Richardson Ck",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-742",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738332120000
@@ -2224,7 +2174,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 63 OVER BLAIR CREEK AND BRIDGE NO. 88 OVER HYATT MILL CREEK ON SR 1140 (MYERS CHAPEL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Myers Chapel Bridges 63 & 88",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743433080000
@@ -3162,7 +3112,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 10",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569520000
@@ -3323,7 +3273,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-127 FROM 1ST AVENUE SOUTHEAST TO 2ND AVENUE SOUTHEAST.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Hwy 127 1st and 2nd Ave Hickory",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-127",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750850760000
@@ -3581,7 +3531,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 64/90 AT SR 1124",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 64 and Church Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753700040000
@@ -3781,7 +3731,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 552 OVER BIG LAUREL CREEK ON SR-1460 (ACCESS RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "SR-1460 (ACCESS RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1460",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754315520000
@@ -3860,7 +3810,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 16 OVER INTERCOASTAL WATERWAY ON NC-50/NC-210",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 16 Repair Lighting -- Surf City",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754906100000
@@ -3910,7 +3860,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 254 ON SR 1512",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Wood Bridge Rd. Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1512",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755167700000
@@ -4642,7 +4592,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #305 OVER MEADOW CREEK ON SR 2863 (UNION GROVE CHURCH  ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Union Grove Church Road Bridge 305",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2863",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761124020000
@@ -4692,7 +4642,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #940058 OVER BEECH CREEK ON SR 1139 (KELLERSVILLE ROA D)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Kellersville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.55,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761567540000
@@ -4742,7 +4692,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #070024 OVER CASHIE RIVER ON NC-11.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bertie Bridge 11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.61,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762175340000
@@ -4817,7 +4767,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 150 OVER BUCK CREEK ON SR 1843 (MAGNOLIA CHURCH RO AD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.09,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1843",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762421880000
@@ -5374,7 +5324,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40/US-311 AT NC-109 INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-109 at I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.52,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768218360000
@@ -5424,7 +5374,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #040156 OVER W. FORK PINE SWAMP ON SR 1163 (PINE SWAM P ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pine Swamp Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1169",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768299000000
@@ -5528,7 +5478,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 550055 ON SR 1679 (PEEKS CREEK RD) OVER CULLASAJA  RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Peeks Creek Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1679",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768909800000
@@ -5682,7 +5632,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT BRIDGE #740009 ON SR 1102 (PEARSON FALLS ROAD) OVER NORTH  PACOLET RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pearson Falls Bridge 9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770044880000
@@ -5707,7 +5657,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 740112 OVER PACOLET RIVER ON SR 1179 (EDNEY ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 112 - Edney Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1179",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770045000000
@@ -5832,7 +5782,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE REHABILITATION, BRIDGES 070155, 070156, 070158, AND 0 70159",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bertie Bridge Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.52,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-13 /",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770711900000
@@ -6297,7 +6247,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DISMAL SWAMP VISITORS CENTER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Dismal Swamp Visitors Center",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772531400000
@@ -6818,6 +6768,31 @@
           [
             -77.0847874937995,
             35.523439825465864
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 162450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205128",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BR-0096   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BR-0096   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780176 OVER NC-14/NC-87 ON SR-1700 (FISHER HILL RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1700",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1775217000000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.77826176261088,
+            36.53197773186311
           ]
         ]
       }
