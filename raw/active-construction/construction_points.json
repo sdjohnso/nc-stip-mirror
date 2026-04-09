@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-08T11:43:51.833935+00:00",
+  "pull_timestamp": "2026-04-09T11:43:12.706762+00:00",
   "feature_count": 257,
   "features": [
     {
@@ -94,7 +94,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GRADE SEPARATION AT SR-1625 (ROGERS LAKE RD) OVER NS/NCRR AN D CLOSURE OF AT-GRADE CROSSING #724408Y IN KANNAPOLIS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rogers Lake Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.72,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.95,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1625",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1674052980000
@@ -710,7 +710,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-64 / US-276 (HENDERSONVILLE HWY), AND US -64 / NC-280 (ASHEVILLE HWY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Transylvania Culvert & Roadway",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703853000000
@@ -2074,7 +2074,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #800040 OVER NORTH FORK FIRST BROAD CREEK ON NC-226.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 40 over North Fork NC 226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742836620000
@@ -3756,7 +3756,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1010 (TEN TEN ROAD) AT SR 1386 (GRAHAM NEWTON/BELLS LAKE ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ten Ten and Bells Lake Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.61,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1010",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754906580000
@@ -3910,7 +3910,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS AT US-17 AND US-17 BUSINESS NORTH AND SOUTH OF  SHALLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Shallotte RCI",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.89,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756214880000
@@ -3989,7 +3989,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-101 FROM S OF SR-1170 (W BEAUFORT RD) TO N OF US-70 AND S R-1493 (LIVE OAK STREET) AT NC-101.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Beaufort Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.94,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-101",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756305600000
@@ -4817,7 +4817,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 48 OVER LANIER SWAMP SR-1510 (MILL RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #48",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1510",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762959300000
@@ -4867,7 +4867,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 125 OVER ELK RIVER ON SR 1306 (HICKS HOLL OW ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Avery 125 Hick's Hollow",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.09,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1306",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763729160000
@@ -5399,7 +5399,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 262 ON SR 1317 (RICH HILL ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "REPLACE BRIDGE #262 RICH HILL RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1317",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768494360000

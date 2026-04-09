@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-08T11:43:51.833935+00:00",
-  "feature_count": 164,
+  "pull_timestamp": "2026-04-09T11:43:12.706762+00:00",
+  "feature_count": 163,
   "features": [
     {
       "attributes": {
@@ -2873,7 +2873,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-17 BUS (MARKET ST) FROM SR-1403 TO SR-2734 IN WILMINGTON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Market St Median D Section",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.88,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1553176680000
@@ -12115,7 +12115,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FAYETTEVILLE OUTER LOOP FROM SOUTH OF SR-1003 (CAMDEN ROAD) TO SOUTH OF US-401.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "U-2519 BA & BB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.95,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-295",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1660139160000
@@ -31478,393 +31478,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 5061,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C204380",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-5826    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-5826    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 92,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2000 (FALLS OF NEUSE RD) FROM I-540 TO SR-2006 (DURANT RD ).",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Falls of Neuse Widening",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.66,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-540",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687338540000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -78.60997890715356,
-              35.89777101848633
-            ],
-            [
-              -78.60985681899008,
-              35.89788205487873
-            ],
-            [
-              -78.60973642703499,
-              35.89799207902649
-            ],
-            [
-              -78.60872131206744,
-              35.898937935595654
-            ],
-            [
-              -78.60866371142336,
-              35.898984434314634
-            ],
-            [
-              -78.6086080289997,
-              35.899029383614675
-            ],
-            [
-              -78.60850531064071,
-              35.899120343526825
-            ],
-            [
-              -78.60840183249829,
-              35.899210733175565
-            ],
-            [
-              -78.6082976059908,
-              35.89930055070996
-            ],
-            [
-              -78.60819262865307,
-              35.89938978973806
-            ],
-            [
-              -78.608086910672,
-              35.89947844506863
-            ],
-            [
-              -78.60798045419651,
-              35.89956651467609
-            ],
-            [
-              -78.60787326708758,
-              35.899653995102504
-            ],
-            [
-              -78.60776535026267,
-              35.89974088098205
-            ],
-            [
-              -78.60765670944913,
-              35.8998271676896
-            ],
-            [
-              -78.60754735232146,
-              35.89991285350721
-            ],
-            [
-              -78.60743728247074,
-              35.8999979332228
-            ],
-            [
-              -78.6073265050997,
-              35.90008240017875
-            ],
-            [
-              -78.60721502483392,
-              35.90016625641885
-            ],
-            [
-              -78.60710284724833,
-              35.90024949209561
-            ],
-            [
-              -78.60698997680103,
-              35.90033210707642
-            ],
-            [
-              -78.60687642011487,
-              35.90041409601388
-            ],
-            [
-              -78.60671163207488,
-              35.900534454530934
-            ],
-            [
-              -78.6065558331414,
-              35.90065068764808
-            ],
-            [
-              -78.60640151410892,
-              35.90076822138159
-            ],
-            [
-              -78.60624869180961,
-              35.90088704041573
-            ],
-            [
-              -78.60609738251772,
-              35.901007134219626
-            ],
-            [
-              -78.60594760322324,
-              35.901128491829624
-            ],
-            [
-              -78.60579890336534,
-              35.901251486901415
-            ],
-            [
-              -78.60565149407658,
-              35.90137596317425
-            ],
-            [
-              -78.60556797402472,
-              35.9014476486959
-            ],
-            [
-              -78.60547808357926,
-              35.901525760565896
-            ],
-            [
-              -78.60539565594893,
-              35.90159827861929
-            ],
-            [
-              -78.60530695618053,
-              35.90167728642893
-            ],
-            [
-              -78.60482751358656,
-              35.90211180871774
-            ],
-            [
-              -78.6044893401721,
-              35.90241727275283
-            ],
-            [
-              -78.60411649466279,
-              35.902752653404306
-            ],
-            [
-              -78.60374275196543,
-              35.90308737564002
-            ],
-            [
-              -78.60364886228017,
-              35.90317312886324
-            ],
-            [
-              -78.60356288353921,
-              35.90325386583728
-            ],
-            [
-              -78.60347824379704,
-              35.90333553543613
-            ],
-            [
-              -78.60338860733697,
-              35.90342451185069
-            ],
-            [
-              -78.60330679844908,
-              35.903508067942184
-            ],
-            [
-              -78.60322024580856,
-              35.903599039877626
-            ],
-            [
-              -78.60314133013463,
-              35.90368441957828
-            ],
-            [
-              -78.60306382820534,
-              35.90377065209152
-            ],
-            [
-              -78.60302287604586,
-              35.903838539894195
-            ],
-            [
-              -78.6029797858929,
-              35.90391246230369
-            ],
-            [
-              -78.60294210838009,
-              35.90397941005775
-            ],
-            [
-              -78.6029014807349,
-              35.90405424804262
-            ],
-            [
-              -78.60286991839105,
-              35.90411445303899
-            ],
-            [
-              -78.60283541691365,
-              35.904182524080056
-            ],
-            [
-              -78.6028056451088,
-              35.9042433288752
-            ],
-            [
-              -78.60277316655095,
-              35.90431205631565
-            ],
-            [
-              -78.60274176869726,
-              35.904381116243336
-            ],
-            [
-              -78.6027147699666,
-              35.904442770039246
-            ],
-            [
-              -78.60268863164902,
-              35.904504671768166
-            ],
-            [
-              -78.60266335649615,
-              35.904566806064
-            ],
-            [
-              -78.60261820152135,
-              35.90468983590887
-            ],
-            [
-              -78.6026083604437,
-              35.90471664957419
-            ],
-            [
-              -78.6025573348114,
-              35.90485886535073
-            ],
-            [
-              -78.60250735667782,
-              35.90500132616875
-            ],
-            [
-              -78.6024557463361,
-              35.905151963755465
-            ],
-            [
-              -78.60239745079836,
-              35.905326713920225
-            ],
-            [
-              -78.60233819125432,
-              35.90550977370997
-            ],
-            [
-              -78.60228065890436,
-              35.9056931978039
-            ],
-            [
-              -78.60222485523518,
-              35.90587697620037
-            ],
-            [
-              -78.60219106090534,
-              35.905962946750975
-            ],
-            [
-              -78.60215534579142,
-              35.90604840261861
-            ],
-            [
-              -78.60212121771269,
-              35.90612561843959
-            ],
-            [
-              -78.60208186390611,
-              35.90621001151207
-            ],
-            [
-              -78.60204062518798,
-              35.90629380718881
-            ],
-            [
-              -78.60200151157831,
-              35.9063694401451
-            ],
-            [
-              -78.6019567114083,
-              35.906452014581404
-            ],
-            [
-              -78.6019100664714,
-              35.90653391066307
-            ],
-            [
-              -78.60186159365695,
-              35.906615101173465
-            ],
-            [
-              -78.6018113075382,
-              35.90669555859801
-            ],
-            [
-              -78.60176403192096,
-              35.906768041857354
-            ],
-            [
-              -78.60171528918363,
-              35.90683987946692
-            ],
-            [
-              -78.60165998611329,
-              35.90691812754731
-            ],
-            [
-              -78.60161343967935,
-              35.90698152966025
-            ],
-            [
-              -78.60157109259885,
-              35.90703740695465
-            ],
-            [
-              -78.60146314656515,
-              35.90717578967695
-            ],
-            [
-              -78.60139247182106,
-              35.90726533761536
-            ],
-            [
-              -78.60130447024348,
-              35.9073750127737
-            ],
-            [
-              -78.6012209520211,
-              35.90747729005708
-            ],
-            [
-              -78.6011364577245,
-              35.90757903508401
-            ],
-            [
-              -78.60104525667803,
-              35.90768696911337
-            ],
-            [
-              -78.6009529594299,
-              35.90779428286917
-            ],
-            [
-              -78.60086543419972,
-              35.907894317049326
-            ],
-            [
-              -78.60077102651728,
-              35.90800040169272
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 5461,
         "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C204397",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -44450,7 +44063,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-129 FROM SOUTH OF SR-1275 (FIVE POINTS RD) TO NC-143 AND NC-143 FROM US-129 TO SR-1223 (BEECH CREEK RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION A",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.88,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1666869720000
@@ -61188,7 +60801,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-77 FROM MILEMARKER 36.5 TO MILEMARKER 48.85.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724670540000
@@ -73218,7 +72831,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS LOCATIONS ALONG SR-1836 (POT SHOALS RD) IN HENDER SON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pot Shoals Road - Emergency Repair",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1836",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741441200000
@@ -85626,7 +85239,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "Intersection of NC 150 and SR 2399 Wiggins Rd, U-5780 and In tersection of NC 150 & NC 152, W-5601U",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 150, Wiggins Rd, and NC 152",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744378860000
@@ -88309,7 +87922,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-45 FROM WASHINGTON COUNTY LINE TO US-17.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 45",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-45",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748614980000
@@ -112019,7 +111632,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 200 FROM N. LOVE CHAPEL RD. TO CARMEL RD. IN STANFIELD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stanfield Sidewalks",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-200",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764773340000
