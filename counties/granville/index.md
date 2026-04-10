@@ -24,7 +24,7 @@
 | [HN-0015](HN-0015.md) | SR 1611 (Dorsey Road) intersection. Construct r... | US 158 | 📅 Planned |
 | [HN-0017](HN-0017.md) | SR 1129 (Hester Road) intersection in Creedmoor... | US 15 | 📅 Planned |
 | [HN-0024](HN-0024.md) | SR 1239 (Central Avenue) and SR 1174 (Westbrook... | SR 1120 (Veazey Road) | 📅 Planned |
-| [HS-2005A](HS-2005A.md) | SR 1207 (Spring Street) intersection in Oxford.... | SR 1602 (Main Street) | 🏗️ Active Construction (88%) |
+| [HS-2005A](HS-2005A.md) | SR 1207 (Spring Street) intersection in Oxford.... | SR 1602 (Main Street) | 🏗️ Active Construction (90%) |
 | [HS-2405N](HS-2405N.md) | SR 1646 (East Industry Drive) intersection. Ins... | NC 96 (Martin Luther K... | 📅 Planned |
 | [R-5707](R-5707.md) | US 15 and NC 50 intersections in Creedmoor. Rea... | NC 56 | 🚧 Under Construction |
 | [U-6020](U-6020.md) | SR 1215 (West Lyon Station Road) intersection i... | NC 56 (East C Street) | 🚧 Under Construction |
@@ -33,4 +33,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-05*  
-*Mirror Updated: 2026-04-09*
+*Mirror Updated: 2026-04-10*

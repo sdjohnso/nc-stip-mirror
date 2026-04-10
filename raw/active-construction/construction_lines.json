@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-09T11:43:12.706762+00:00",
+  "pull_timestamp": "2026-04-10T11:38:54.786287+00:00",
   "feature_count": 163,
   "features": [
     {
@@ -52352,7 +52352,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-85 FROM NC 73 TO THE ROWAN COUNTY LINE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-85 ITS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680098700000
@@ -58119,7 +58119,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-140 FROM US-17 TO NORTH OF US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-140 resurfacing Brunswick",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719235440000
@@ -81797,7 +81797,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 FROM SR-1467/SR-2839 (ALLEN ST) TO SR-1010 (TEN-TEN R D).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-401 from Allen St to Ten-Ten Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742548560000
@@ -96544,7 +96544,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-43 CONNECTOR FROM US-17 BUSINESS TO SOUTH OF US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 43 CONNECTOR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755534240000
@@ -98243,7 +98243,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VAROUS SITES ALONG SR 1605 (MIDDLE FORK ROAD/TOM FALLS RO AD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Middle Fork B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.45,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1605",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757431140000
@@ -98722,7 +98722,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS SITES ALONG SR 1605 (MIDDLE FORK ROAD/TOM FALLS R OAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Middle Fork C",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1605",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757431260000
@@ -109521,7 +109521,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 17 (WILMINGTON HWY.) AT NC 172 (SNEADS FERRY RD.) AND US 17 AT SR 1518 (OLD FOLKSTONE RD.) INTERSECTIONS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "UJ-6065 US 17 @ NC 172 & SR 1518  GDPSig",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1518",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761744240000
