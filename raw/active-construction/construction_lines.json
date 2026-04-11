@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-10T11:38:54.786287+00:00",
+  "pull_timestamp": "2026-04-11T11:20:44.324750+00:00",
   "feature_count": 163,
   "features": [
     {
@@ -7861,7 +7861,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 OVER SR 1101 (HARMON DEN RD / COLD SPRINGS CREEK RD) AND COLD SPRING CREEK,",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 CMGC Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1635413760000
@@ -9625,7 +9625,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-440 FROM WEST OF LAKE BOONE TRAIL TO EAST OF SR-2000 (WAKE  FOREST RD) IN RALEIGH.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-440 from Lake Boone to Wake Forest",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-440",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1663340400000
@@ -13485,7 +13485,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM MILE MARKER 153.20 (NC-148) TO MILE MARKER 167.00.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I95-Rehab-Halifax County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1638369540000
@@ -45965,7 +45965,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TWO INTERCHANGES ON US-421.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "GRMS 421 Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1670404260000
@@ -46298,7 +46298,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-417 (HAMPSTEAD BYPASS) FROM SOUTH OF NC-210 TO NORTH OF SR-1563 (SLOOP POINT LOOP RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R3300B P NC417.NC 210.Hampstead Bypass",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-417",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1645101900000
@@ -55063,7 +55063,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-421 FROM EAST OF NC-16 TO US-421 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-421 Super Street",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.45,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1705056960000
@@ -60690,7 +60690,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2316 (NORTHCROSS DR) FROM NORTH OF NC-73 (SAM FURR RD) TO  SR-2147 (WESTMORELAND RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Northcross Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.35,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2316",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723725120000
@@ -71533,7 +71533,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 (CHIMNEY ROCK RD) FROM SR-1613 (SLICK ROCK RD, MM 22.7 9) TO SR-1701 (ROCK BROAD RIVER RD, MM 25.06).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "The Bat Cave",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740741060000
@@ -82028,7 +82028,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 (FUTURE I-74) FROM 0.11 MILES EAST OF US-701 BUSINESS TO 0.17 MILES WEST OF NC-214.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HI-18 US74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.62,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742566980000
@@ -86564,7 +86564,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 (RAEFORD RD) FROM EAST OF NC-162 (BUNCE RD) TO EAST O F BRIGHTON RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Raeford Rd. B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745931480000
@@ -97356,7 +97356,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1441 (CHALYBEATE SPRINGS RD) BETWEEN NC 55 AND US 401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chalybeate Springs Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1441",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757322840000
@@ -100413,7 +100413,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 74, JAMES HAMILTON RD AND SR 1514 (ROCKY RIVER RD) AT MYERS RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74 @ Rocky River Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757693400000
@@ -111542,7 +111542,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1160 OLIVE CHAPEL RD OVER BEAVER CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "OLIVE CHAPEL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1160",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764661980000
@@ -114270,7 +114270,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1725(UNIVERSITY PARKWAY/CHERRYST) AT WEST 14TH STREET IN WINSTON SALEM",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "University Parkway at W 14th St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1725",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768576260000
