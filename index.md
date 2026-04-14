@@ -10,8 +10,8 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 108 |
-| 🚧 Under Construction | 587 |
+| 🏗️ Active Construction | 109 |
+| 🚧 Under Construction | 586 |
 | 📋 Right-of-Way | 285 |
 | 📅 Planned | 1,234 |
 | ✅ Completed | 136 |
@@ -79,7 +79,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Madison](counties/madison/index.md) | 6 | 0 | 2 |
 | [Martin](counties/martin/index.md) | 9 | 0 | 3 |
 | [McDowell](counties/mcdowell/index.md) | 16 (+1) | 0 | 9 |
-| [Mecklenburg](counties/mecklenburg/index.md) | 147 (+8) | 0 | 85 |
+| [Mecklenburg](counties/mecklenburg/index.md) | 147 (+8) | 1 | 85 |
 | [Mitchell](counties/mitchell/index.md) | 4 | 0 | 1 |
 | [Montgomery](counties/montgomery/index.md) | 10 | 0 | 5 |
 | [Moore](counties/moore/index.md) | 24 (+3) | 0 | 14 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-12*  
-*Mirror Updated: 2026-04-13*
+*Mirror Updated: 2026-04-14*

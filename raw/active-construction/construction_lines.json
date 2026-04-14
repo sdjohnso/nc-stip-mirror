@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-13T11:57:58.733507+00:00",
+  "pull_timestamp": "2026-04-14T11:49:30.475238+00:00",
   "feature_count": 163,
   "features": [
     {
@@ -49298,7 +49298,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1336 FROM N OF SR-1002 TO N OF SR-1337 AND SR-1002 FROM S R-1336 TO SR-1169.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Monteith Gap",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.34,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.77,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1336",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693496700000
@@ -64791,7 +64791,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON SALEM NORTHERN BELTWAY(NC 74 FUTURE I-74) FROM US 42 1 TO US 52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Beltway Landscaping",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728483480000
@@ -65401,7 +65401,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-8 (WINSTON RD) FROM US-29/US-70 TO SR-1846 (ARRINGTON DR) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 8 Widening US-29/70 to Arrington Dr.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-8",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1729697760000
@@ -72084,7 +72084,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NORTH OF SR-1225 (ASHEMONT RD) TO EAST OF SR-124 4 (W PALMER ST)/SR-1311 (MOCKINGBIRD HILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Hoke NC211 Grding,Drainage,Paving",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740987420000
@@ -88393,7 +88393,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CHATHAM PARKWAY FROM NORTH OF PROPOSED GRANT DRIVE TO US-15/ US-501.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chatham Pkwy N (BARNHILL)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2700",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750266060000
@@ -97241,7 +97241,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-17 (HAMPSTEAD BYPASS) FROM US-17 BYPASS SOUTH OF HAMPSTEA D TO NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-3300A Hampstead Bypass",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756916820000
@@ -111601,7 +111601,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROUTE FROM SR-1630 (BALTIMORE RD) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Baltimore Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1630",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764772740000

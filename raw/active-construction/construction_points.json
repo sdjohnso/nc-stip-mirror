@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-13T11:57:58.733507+00:00",
-  "feature_count": 256,
+  "pull_timestamp": "2026-04-14T11:49:30.475238+00:00",
+  "feature_count": 255,
   "features": [
     {
       "attributes": {
@@ -1151,7 +1151,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #530020 OVER NEUSE RIVER AND BRIDGE #530034 OVER NEUS E RIVER OVERFLOW ON NC-55.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 55 Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719939540000
@@ -1313,7 +1313,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GRADE SEPARATION OF SR-2006 (DURANT ROAD) OVER CSX S LINE RA ILROAD IN RALEIGH.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Durant Road GS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2006",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724411340000
@@ -1600,7 +1600,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-56 (EAST C ST) INTERSECTION WITH SR-1215 (WEST LYON STATI ON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-56 at W. Lyon Station Road Butner",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-56",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738159020000
@@ -2319,7 +2319,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #840082 OVER THE DAN RIVER ON SR-1674 (SHEPPARD MILL ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DAN RIVER BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1674",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744208340000
@@ -2519,7 +2519,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #204 OVER WALNUT CREEK ON SR 1533 (WALNUT CREEK RD) I N MACON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Walnut Creek Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1533",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746198480000
@@ -3976,7 +3976,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #500608 OVER NEUSE RIVER ON SR-1923 AND BRIDGE #50004 2 OVER I-95 ON US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #608 and #042 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.55,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1923",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757512920000
@@ -4334,7 +4334,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US HWY 64/74 AT INTERSECTION WITH NC HWY 60",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Spur 60 Bulbouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760009700000
@@ -4394,39 +4394,6 @@
           [
             -80.74914556646851,
             35.54768789978947
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 132451,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00491",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 100,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1395 (BALD MOUNTAIN RD), SR 1158 (COBERTS CREEK RD) AND S R 1164 (STILL FORK CREEK RD)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Yancey Bridge Repairs 123/276/289",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.71,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1158",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760537880000
-      },
-      "geometry": {
-        "points": [
-          [
-            -82.4199376777634,
-            35.987260802241956
-          ],
-          [
-            -82.21508648097698,
-            35.803964330496214
-          ],
-          [
-            -82.18380565561048,
-            35.772492190274
           ]
         ]
       }
@@ -4867,7 +4834,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 16 OVER BENS CREEK ON SR 1509 ODELL LITTLETON ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge No. 16 over Bens Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.29,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1509",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764689040000
@@ -5120,7 +5087,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1116 (JEETER CARSWELL RD) OVER DOUBLE BRANCH",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "JEETER CARSWELL RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1116",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767629880000
@@ -6538,7 +6505,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #000014 OVER CANE CREEK ON NC-87.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #14 Over Cane Creek on NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774357380000
