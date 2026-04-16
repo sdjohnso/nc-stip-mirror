@@ -6,10 +6,10 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 9 |
+| 🏗️ Active Construction | 10 |
 | 🚧 Under Construction | 15 |
 | 📋 Right-of-Way | 6 |
-| 📅 Planned | 16 |
+| 📅 Planned | 15 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -25,7 +25,7 @@
 | [HI-0016](HI-0016.md) | East of NC 41 to east of Columbus County line. ... | US 74 (Future I-74) | 📅 Planned |
 | [HI-0017](HI-0017.md) | Scotland County line to I-74 / US 74 Business. ... | US 74 (Future I-74) | 📅 Planned |
 | [HL-0009](HL-0009.md) | South Vance Street to SR 1555 (South Jones Stre... | NC 711 (Third Street) | 🚧 Under Construction |
-| [HN-0020](HN-0020.md) | SR 1312 (Oxendine School Road / Red Hill Road) ... | NC 71 | 📅 Planned |
+| [HN-0020](HN-0020.md) | SR 1312 (Oxendine School Road / Red Hill Road) ... | NC 71 | 🏗️ Active Construction (0%) |
 | [HN-0022](HN-0022.md) | NC 904 intersection in Fairmont. Construct roun... | NC 130 | 📋 Right-of-Way |
 | [HO-0014](HO-0014.md) | NC 41 to NC 211 in Lumberton. Construct complet... | NC 72 | 📅 Planned |
 | [HO-0021](HO-0021.md) | Bridges 770466 and 770118 over the Lumber River... | US 74 (Future I-74) | 📅 Planned |
@@ -81,4 +81,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-12*  
-*Mirror Updated: 2026-04-15*
+*Mirror Updated: 2026-04-16*

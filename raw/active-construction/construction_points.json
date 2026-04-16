@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-15T11:44:54.576818+00:00",
-  "feature_count": 255,
+  "pull_timestamp": "2026-04-16T11:50:21.492954+00:00",
+  "feature_count": 254,
   "features": [
     {
       "attributes": {
@@ -481,7 +481,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 AT SR-2044 (LIGON MILL RD)/SR-2224 (MITCHELL MILL RD)  AND SR-2006 (PERRY CREEK RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1695643380000
@@ -585,7 +585,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT NC-72 AND NC-130.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 74 Interchange at NC 72/NC 130",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680694080000
@@ -635,7 +635,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TRIANGLE INNOVATION POINT MEGASITE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Moncure Megasite",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-1",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698156360000
@@ -1450,7 +1450,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 153(RICE ST) AT SR 1197(CANNON FARM RD/MOUNT MORIAH CH RD ) IN CHINA GROVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Landis RAB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-153",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1730209260000
@@ -2178,7 +2178,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #560042 OVER IVY CREEK ON SR-1576 (BEND OF IVY RD) AN D BRIDGE #560304 OVER SR-1183 (UPPER SHUTIN RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "KSCC Bridges Bend of Ivy/Upper Shut in",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1183",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743419280000
@@ -2257,7 +2257,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #39 AND BRIDGE #40 OVER BIG MARSH SWAMP ON SR 1436 (B ALFOUR ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Hoke Co Bridge 39&40 Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743177540000
@@ -2544,7 +2544,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #990100 AND BRG #990062 BOTH ON SR-1153, AND BRG #990097  ON SR-1152.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 6",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746698160000
@@ -2767,7 +2767,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE BP-006-2064 ON NC 184 AND STRUCTURE 940738 ON NC 1 05",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Avery/Watauga Culverts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.72,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-105,",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747663680000
@@ -3726,31 +3726,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 121650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DC00483",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 71,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 16 OVER INTERCOASTAL WATERWAY ON NC-50/NC-210",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 16 Repair Lighting -- Surf City",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.42,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754906100000
-      },
-      "geometry": {
-        "points": [
-          [
-            -77.55203421656108,
-            34.42911339161656
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 122050,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00478",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -4234,7 +4209,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON ROAD AT GUY ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Winston and Guy Road Intersection",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1550",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758712440000
@@ -4659,7 +4634,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 150 OVER BUCK CREEK ON SR 1843 (MAGNOLIA CHURCH RO AD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1843",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762421880000
@@ -5341,7 +5316,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2042 (OAKDALE RD), SR-2108 (SUNSET RD), SR-2025 (MIRANDA RD), AND SR-2040 (LAWING RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oakdale Road Duel Round-a-Bout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2042",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768571460000

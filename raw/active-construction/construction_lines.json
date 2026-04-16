@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-15T11:44:54.576818+00:00",
+  "pull_timestamp": "2026-04-16T11:50:21.492954+00:00",
   "feature_count": 162,
   "features": [
     {
@@ -42336,7 +42336,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-143 FROM 0.5 MI NORTH OF APPALACHIAN TRAIL TO NC-28 AND N C-28 FROM 0.2 MI WEST NC-143 TO 0.2 MI WEST OF SR-1228.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION C",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675688880000
@@ -49521,7 +49521,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM MILEMARKER 45.25 TO MILEMARKER 50.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Pavement Rehab MM 45.25 to MM 50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687451220000
@@ -66208,7 +66208,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NC-73 TO WEST OF SR-1241 (HOLLY GROVE SCHOOL RD) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "West End - NC 211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1734438240000
@@ -96544,7 +96544,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-43 CONNECTOR FROM US-17 BUSINESS TO SOUTH OF US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 43 CONNECTOR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755534240000
@@ -107155,7 +107155,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-3174 (IDLEWILD RD) FROM SR-3175 (STALLINGS RD) TO I-485.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Idlewild RAB @ Stallings Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.58,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3174",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758538500000

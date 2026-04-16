@@ -10,10 +10,10 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 109 |
+| 🏗️ Active Construction | 110 |
 | 🚧 Under Construction | 586 |
 | 📋 Right-of-Way | 285 |
-| 📅 Planned | 1,234 |
+| 📅 Planned | 1,233 |
 | ✅ Completed | 136 |
 
 ## Counties
@@ -97,7 +97,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Polk](counties/polk/index.md) | 9 (+2) | 1 | 2 |
 | [Randolph](counties/randolph/index.md) | 29 | 0 | 19 |
 | [Richmond](counties/richmond/index.md) | 14 (+4) | 0 | 6 |
-| [Robeson](counties/robeson/index.md) | 47 (+6) | 9 | 16 |
+| [Robeson](counties/robeson/index.md) | 47 (+6) | 10 | 15 |
 | [Rockingham](counties/rockingham/index.md) | 15 | 1 | 10 |
 | [Rowan](counties/rowan/index.md) | 39 (+1) | 0 | 25 |
 | [Rutherford](counties/rutherford/index.md) | 13 (+3) | 0 | 10 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-12*  
-*Mirror Updated: 2026-04-15*
+*Mirror Updated: 2026-04-16*
