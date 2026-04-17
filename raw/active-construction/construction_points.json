@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-16T11:50:21.492954+00:00",
-  "feature_count": 254,
+  "pull_timestamp": "2026-04-17T11:41:02.006693+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -2090,31 +2090,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 97250,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DH00566",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 63,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1848 (W. PENNSYLVANIA AVE.) OVER US-1",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Over US 1 (W. Pennsylvania Ave)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.91,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1848",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743493080000
-      },
-      "geometry": {
-        "points": [
-          [
-            -79.39691175742513,
-            35.17922966725678
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 97650,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN01069",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -3004,7 +2979,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #600123 OVER CHARLES CRK ON SR-1345, BRG #600154 OVER CA NE CRK ON SR-1188, BRG #990194 OVER N TOE RIVER ON SR-1314.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 7",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569460000
@@ -3556,7 +3531,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "1/2 MILE NORTH OF US421 & NC902. 1/2 MILE SOUTH OF SR2000& S R2109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 421 & NC 902 RCI, Fred Smith",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754579880000
@@ -4130,7 +4105,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 29 OVER SOUTH BRANCH LITTLE WHITE OAK CREEK ON NC 9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758189600000
@@ -6714,6 +6689,106 @@
           [
             -82.32233383499963,
             35.609929118994344
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 163650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205018",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " I-5898    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "I-5898    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "UPGRADE FUTURE I-73/US-220 AT US-311/NC-135 INTERCHANGE AND REPLACE BRIDGE #780074.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-73",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1775812680000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.93825133103613,
+            36.416602120962715
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 164050,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00538",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 29 AT BUCK CREEK ON SR 1850",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1850",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1775813460000
+      },
+      "geometry": {
+        "points": [
+          [
+            -78.6949429564566,
+            35.023904972048534
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 164051,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DL00380",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 262 OVER BROAD RIVER ON SR 1529",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Mt. Zion Church Rd. Bridge",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1529",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776261720000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.67352142682752,
+            35.47560654839553
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 164052,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00541",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HN-0020   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HN-0020   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 71 AT SR 1312 (OXENDINE SCHOOL RD / RED HILL RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DF00541 Roundabout NC 71 At SR1312",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-71",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776262500000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.318365316312,
+            34.77860246620039
           ]
         ]
       }

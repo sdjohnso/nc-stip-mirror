@@ -6,8 +6,7 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
-| 🚧 Under Construction | 30 |
+| 🚧 Under Construction | 31 |
 | 📋 Right-of-Way | 22 |
 | 📅 Planned | 85 |
 | ✅ Completed | 9 |
@@ -159,7 +158,7 @@
 | [U-6086](U-6086.md) | Park Road to Carmel Road. Construct access mana... | NC 51 | 📅 Planned |
 | [U-6092](U-6092.md) | Robert Walker Drive intersection in Davidson. C... | Davidson-Concord Road | 📋 Right-of-Way |
 | [U-6103](U-6103.md) | I-277 to west of Idlewild Road. Widen roadway t... | US 74 (Independence Bo... | 📅 Planned |
-| [U-6105](U-6105.md) | Poole Place Drive to US 21 (Statesville Road). ... | SR 2415 (Bailey Road) | 🏗️ Active Construction (0%) |
+| [U-6105](U-6105.md) | Poole Place Drive to US 21 (Statesville Road). ... | SR 2415 (Bailey Road) | 🚧 Under Construction |
 | [U-6106](U-6106.md) | SR 2120 (McCoy Road) to Wynfield Creek Parkway.... | SR 2136 (Gilead Road) | 📋 Right-of-Way |
 | [U-6109](U-6109.md) | South Carolina State Line to SR 4979 (Ballantyn... | US 521 (Lancaster High... | 📅 Planned |
 | [W-5710X](W-5710X.md) | SR 2108 (Sunset Road) / SR 2025 (Miranda Road) ... | SR 2025 (Oakdale Road) | 📋 Right-of-Way |
@@ -183,4 +182,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-12*  
-*Mirror Updated: 2026-04-16*
+*Mirror Updated: 2026-04-17*

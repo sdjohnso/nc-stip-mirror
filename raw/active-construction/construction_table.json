@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-04-16T11:50:21.492954+00:00",
-  "feature_count": 65,
+  "pull_timestamp": "2026-04-17T11:41:02.006693+00:00",
+  "feature_count": 59,
   "features": [
     {
       "attributes": {
@@ -36,40 +36,6 @@
         "Route": "NONE-",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1723451400000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 175,
-        "ContractNumber": "C205018",
-        "ContractType": "Other",
-        "TipReference": " I-5898    ",
-        "TIP": "I-5898    ",
-        "CountyNumber": 79,
-        "LocationsDescription": "UPGRADE FUTURE I-73/US-220 AT US-311/NC-135 INTERCHANGE AND REPLACE BRIDGE #780074.",
-        "ContractNickname": null,
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "I-73",
-        "PhysicalDivisionNumber": 7,
-        "ContractActiveDate": 1775812680000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 225,
-        "ContractNumber": "C205095",
-        "ContractType": "Other",
-        "TipReference": " U-6105    ",
-        "TIP": "U-6105    ",
-        "CountyNumber": 60,
-        "LocationsDescription": "SR-2415 (BAILEY RD) FROM POOLE PLACE DR TO US-21 (STATESVILL E RD).",
-        "ContractNickname": "Bailey Road Extension",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-2415",
-        "PhysicalDivisionNumber": 10,
-        "ContractActiveDate": 1776096600000
       }
     },
     {
@@ -380,24 +346,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 286,
-        "ContractNumber": "DE00400",
-        "ContractType": "Other",
-        "TipReference": " HL-0031   , HS-2005I  , HS-2005J  ",
-        "TIP": "HL-0031   ",
-        "CountyNumber": 92,
-        "LocationsDescription": "VARIOUS LOCATIONS IN WAKE COUNTY",
-        "ContractNickname": "S.T. Wooten Intersection Widening",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 88.25,
-        "Route": "SR-VARI",
-        "PhysicalDivisionNumber": 5,
-        "ContractActiveDate": 1743517740000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 295,
+        "OBJECTID": 294,
         "ContractNumber": "DF00470",
         "ContractType": "Other",
         "TipReference": " HS-2006H  , HS-2006M  , HS-2006W  , HS-2006Y  , SS-6006BE , SS-6206AH ",
@@ -414,7 +363,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 299,
+        "OBJECTID": 298,
         "ContractNumber": "DF00493",
         "ContractType": "Other",
         "TipReference": " BO-2406A  ",
@@ -431,7 +380,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 301,
+        "OBJECTID": 300,
         "ContractNumber": "DF00501",
         "ContractType": "Other",
         "TipReference": " HS-2046J  , HS-2406A  , HS-2406G  , HS-2406L  ",
@@ -448,7 +397,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 304,
+        "OBJECTID": 303,
         "ContractNumber": "DF00514",
         "ContractType": "Other",
         "TipReference": null,
@@ -465,7 +414,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 309,
+        "OBJECTID": 308,
         "ContractNumber": "DF00524",
         "ContractType": "Other",
         "TipReference": " HS-2406C  , HS-2406D  , HS-2406E  , HS-2406F  , HS-2406O  , HS-2406P  , HS-2406Q  ",
@@ -482,7 +431,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 310,
+        "OBJECTID": 309,
         "ContractNumber": "DF00525",
         "ContractType": "Other",
         "TipReference": " HS-2406I  ",
@@ -499,41 +448,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 311,
-        "ContractNumber": "DF00538",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 26,
-        "LocationsDescription": "STRUCTURE 29 AT BUCK CREEK ON SR 1850",
-        "ContractNickname": null,
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1850",
-        "PhysicalDivisionNumber": 6,
-        "ContractActiveDate": 1775813460000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 312,
-        "ContractNumber": "DF00541",
-        "ContractType": "Other",
-        "TipReference": " HN-0020   ",
-        "TIP": "HN-0020   ",
-        "CountyNumber": 78,
-        "LocationsDescription": "NC 71 AT SR 1312 (OXENDINE SCHOOL RD / RED HILL RD)",
-        "ContractNickname": "DF00541 Roundabout NC 71 At SR1312",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "NC-71",
-        "PhysicalDivisionNumber": 6,
-        "ContractActiveDate": 1776262500000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 324,
+        "OBJECTID": 323,
         "ContractNumber": "DG00677",
         "ContractType": "Other",
         "TipReference": null,
@@ -550,7 +465,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 327,
+        "OBJECTID": 325,
         "ContractNumber": "DH00571",
         "ContractType": "Other",
         "TipReference": " BO-2408A  ",
@@ -567,7 +482,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 328,
+        "OBJECTID": 326,
         "ContractNumber": "DH00572",
         "ContractType": "Other",
         "TipReference": null,
@@ -584,7 +499,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 333,
+        "OBJECTID": 331,
         "ContractNumber": "DH00584",
         "ContractType": "Other",
         "TipReference": " BO-2408D  ",
@@ -601,7 +516,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 334,
+        "OBJECTID": 332,
         "ContractNumber": "DH00585",
         "ContractType": "Other",
         "TipReference": " BO-2408E  ",
@@ -618,7 +533,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 335,
+        "OBJECTID": 333,
         "ContractNumber": "DH00586",
         "ContractType": "Other",
         "TipReference": " BO-2408F  ",
@@ -635,7 +550,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 336,
+        "OBJECTID": 334,
         "ContractNumber": "DH00587",
         "ContractType": "Other",
         "TipReference": null,
@@ -652,7 +567,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 338,
+        "OBJECTID": 336,
         "ContractNumber": "DH00593",
         "ContractType": "Other",
         "TipReference": " BO-2408C  ",
@@ -669,7 +584,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 339,
+        "OBJECTID": 337,
         "ContractNumber": "DH00596",
         "ContractType": "Other",
         "TipReference": null,
@@ -686,7 +601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 340,
+        "OBJECTID": 338,
         "ContractNumber": "DH00597",
         "ContractType": "Other",
         "TipReference": null,
@@ -703,7 +618,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 339,
         "ContractNumber": "DH00598",
         "ContractType": "Other",
         "TipReference": " BO-2408I  ",
@@ -720,7 +635,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 342,
+        "OBJECTID": 340,
         "ContractNumber": "DH00599",
         "ContractType": "Other",
         "TipReference": null,
@@ -737,7 +652,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 354,
+        "OBJECTID": 352,
         "ContractNumber": "DI00376",
         "ContractType": "Other",
         "TipReference": null,
@@ -754,7 +669,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 355,
+        "OBJECTID": 353,
         "ContractNumber": "DI00377",
         "ContractType": "Other",
         "TipReference": null,
@@ -771,7 +686,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 355,
         "ContractNumber": "DI00379",
         "ContractType": "Other",
         "TipReference": null,
@@ -788,7 +703,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 356,
         "ContractNumber": "DI00380",
         "ContractType": "Other",
         "TipReference": null,
@@ -805,7 +720,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 357,
         "ContractNumber": "DI00382",
         "ContractType": "Other",
         "TipReference": " HS-2409D  , HS-2409F  , HS-2409G  , HS-2409H  , HS-2409I  , HS-2409J  ",
@@ -822,7 +737,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 362,
         "ContractNumber": "DJ00556",
         "ContractType": "Other",
         "TipReference": " BO-2410C  ",
@@ -839,7 +754,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 403,
+        "OBJECTID": 401,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -856,24 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 414,
-        "ContractNumber": "DL00380",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 23,
-        "LocationsDescription": "BRIDGE 262 OVER BROAD RIVER ON SR 1529",
-        "ContractNickname": "Mt. Zion Church Rd. Bridge",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1529",
-        "PhysicalDivisionNumber": 12,
-        "ContractActiveDate": 1776261720000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 425,
+        "OBJECTID": 423,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +788,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 441,
+        "OBJECTID": 439,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +805,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 441,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 449,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 453,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 455,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 456,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 458,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -1009,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 462,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -1026,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 466,
+        "OBJECTID": 464,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -1043,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 470,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -1060,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 473,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -1077,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 475,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -1094,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 476,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,

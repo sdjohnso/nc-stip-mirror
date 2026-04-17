@@ -6,9 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 2 |
-| 📋 Right-of-Way | 2 |
+| 📋 Right-of-Way | 3 |
 | 📅 Planned | 10 |
 
 ## All Projects
@@ -24,7 +23,7 @@
 | [EB-5888](EB-5888.md) | SR 1962 (North Pierce Street) to Freedom Park i... | SR 1747 (East Stadium ... | 📅 Planned |
 | [EB-5891](EB-5891.md) | East Jackson Street to Mayo River State Park in... | US 220 Business | 📅 Planned |
 | [HB-0035](HB-0035.md) | Bridge 780177 over Matrimony Creek in Eden. Rep... | SR 1535 (Price Road) | 📅 Planned |
-| [I-5898](I-5898.md) | US 311 / NC 135 interchange near Mayodan. Repla... | Future I-73 / US 220 | 🏗️ Active Construction (0%) |
+| [I-5898](I-5898.md) | US 311 / NC 135 interchange near Mayodan. Repla... | Future I-73 / US 220 | 📋 Right-of-Way |
 | [R-5704](R-5704.md) | SR 1998 (Wentworth Street) / SR 1001 (Sandy Cro... | NC 87 | 🚧 Under Construction |
 | [R-5766](R-5766.md) | West of SR 2371 (Old County Home Road) in Wentw... | NC 65 / NC 87 | 📅 Planned |
 | [R-5823](R-5823.md) | 🗺️ US 158 in Stokesdale in Guilford County to I-73... | NC 65 / NC 68 | 📅 Planned |
@@ -35,4 +34,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-12*  
-*Mirror Updated: 2026-04-16*
+*Mirror Updated: 2026-04-17*

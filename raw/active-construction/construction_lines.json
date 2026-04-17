@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-16T11:50:21.492954+00:00",
-  "feature_count": 162,
+  "pull_timestamp": "2026-04-17T11:41:02.006693+00:00",
+  "feature_count": 163,
   "features": [
     {
       "attributes": {
@@ -57865,7 +57865,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1362 (CHESTNUT LANE CONNECTOR) FROM SR-1367 (MATTHEWS IND IAN TRAIL ROAD) TO SR-1368 (GRIBBLE ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chestnut Lane Connector",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.84,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.75,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1362",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708949520000
@@ -65923,7 +65923,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-601 (STATE ST) FROM SR-1742 (SHARON DR) TO SR-1146 (LEE A VE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-601 Roundabouts in Yadkinville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-601",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1731944940000
@@ -81474,7 +81474,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1112 FROM WEST OF SR-1115 TO NC-59 & SR-1115 FROM SOUTH O F WALLACE ST TO NC-59.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rockfish Rd Widen",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1112",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742380140000
@@ -92195,7 +92195,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74A FROM BEARWALLOW MOUNTAIN RD TO US-64/US-47A/NC-9. (CM GC - GERTON)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74A/Lower NC 9 CMCG",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74A",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753713360000
@@ -96727,7 +96727,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-65 (BETHANIA-RURAL HALL RD) FROM US-52 TO SR-3983 (NORTHR IDGE PARK DR).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BETHANIA RURAL HALL",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.97,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-65",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755702540000
@@ -115199,7 +115199,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE CONNECTOR ROAD (EAST FREDERICK LAW OLMSTEAD WAY) FROM  I-26 INTERCHANGE TO ROUNDABOUT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "E.Frederick Law Omstead Way",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769769180000
@@ -127861,6 +127861,57 @@
             [
               -79.00007748120989,
               34.649920787818964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 105861,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C205095",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-6105    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-6105    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 60,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2415 (BAILEY RD) FROM POOLE PLACE DR TO US-21 (STATESVILL E RD).",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bailey Road Extension",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2415",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776096600000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -80.86127105573863,
+              35.45397446265488
+            ],
+            [
+              -80.8612511276228,
+              35.45396655133019
+            ],
+            [
+              -80.86123334727672,
+              35.45396009210812
+            ],
+            [
+              -80.86121518351732,
+              35.45395454474623
+            ],
+            [
+              -80.86119615711013,
+              35.453949340565444
+            ],
+            [
+              -80.8611849913514,
+              35.453947159577844
+            ],
+            [
+              -80.86734828916539,
+              35.45364575187236
             ]
           ]
         ]
