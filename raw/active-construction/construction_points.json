@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-17T11:41:02.006693+00:00",
+  "pull_timestamp": "2026-04-18T11:25:08.837937+00:00",
   "feature_count": 257,
   "features": [
     {
@@ -427,7 +427,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #164 AND 168 OVER THE NORFOLK SOUTHERN RAILWAY ON US -29/70 I-85 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over Norfolk So. RR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698682380000
@@ -947,7 +947,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS AT NC-115/DAVIDSON ST/POTTS ST AND AT SR-6038/GR IFFITH ST/BEATY ST AND NEW LOCATION FROM SR-6037 TO SR-6038.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Cornelius & Davidson Roundabouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-115",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1712049960000
@@ -997,7 +997,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 21 BUSINESS (NORTH BRIDGE STREET) & NC 26 8 (CC CAMP ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "North Bridge Street",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1713448260000
@@ -1209,7 +1209,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #248 AND #249 OVER SR-1613 (BEAVERDAM RD) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridges 248 / 249 (Beaverdam Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721323560000
@@ -1400,7 +1400,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 BUSINESS AT SHOTWELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-70 Bus & Shotwell Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.89,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1553",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725633480000
@@ -1650,7 +1650,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580115 ON SR-1569 AND BRIDGE #580111 ON SR-1573: BOT H OVER NORTH FORK CATAWBA RIVER.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Helene DB North Fork Catewba River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.29,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1569",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738321620000
@@ -1808,7 +1808,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580044 OVER CURTIS CREEK ON US-70 AND BRIDGE #580090  OVER MILL CREEK ON SR-1407.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER CURTIS CREEK / MILL CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1407",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740404160000
@@ -1833,7 +1833,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580345 OVER ARMSTRONG CREEK ON SR-1546 AND BRIDGE #1 00110 OVER BROAD RIVER ON SR-2802.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER AMRSTRONG CRK / BROAD RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1546",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740404460000
@@ -2850,7 +2850,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #840286 OVER LITTLE YADKIN RIVER ON SR-1236 (NORTH OL D 52).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Litlle Yadkin River Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1236",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748875380000
@@ -3037,7 +3037,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 10",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569520000
@@ -3074,7 +3074,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990173 OVER MIDDLE CREEK ON SR-1159, AND BRIDGE #990 156 OVER COLBERT CREEK ON SR-1158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 14",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.88,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569580000
@@ -4026,7 +4026,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #280067 AND #280068 OVER SR-1192 ON US-29/US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over West 5th Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758099000000
@@ -5574,7 +5574,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #850006 OVER NC-268, SOUTHERN RAILROAD TRACKS, AND TH E YADKIN RIVER ON I-77.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Bridge over Yadkin River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770311640000

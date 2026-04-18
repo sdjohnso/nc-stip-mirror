@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-17T11:41:02.006693+00:00",
+  "pull_timestamp": "2026-04-18T11:25:08.837937+00:00",
   "feature_count": 163,
   "features": [
     {
@@ -32964,7 +32964,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 SHELBY BYPASS FROM EAST OF NC-150 TO WEST OF SR-1001 ( STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 ByPass D/E",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1694518020000
@@ -55374,7 +55374,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROAD WITH BICYCLE/PEDESTRIAN ACCOMMODATIONS FROM SR-1969  (PINEY GROVE ROAD) TO NC-150 (NORTH MAIN STREET).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MACY GROVE EXT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704708900000
@@ -60623,7 +60623,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM EAST OF SR-1224 TO PAVEMENT JOINT WEST OF SR-3412,  AND I-26, I-40 AT I-40/US 19/23 INTERCHANGES IMPROVEMENTS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2513 AA/AB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723653840000
@@ -64364,7 +64364,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 FROM ASHEBORO BYPASS TO EAST OF I-73/I-74/US-220.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64/220 WIDENING & INTERCHANGE IMP",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.89,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725031800000
@@ -96453,7 +96453,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF SOUTH TRYON ST (NC 49) & GENERAL DRIVE & INT ERSECTION OF SOUTH TRYON ST (NC 49) & NEVADA BLVD (SR 1347)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "South Tryon Intersection Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-49",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753962360000
@@ -113434,7 +113434,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS SITES ALONG SR 1594 & SR 1569 BEARWALLOW MOUNTAIN  RD BETWEEN US74A AND OLD CLEAR CREEK RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bearwallow Mtn Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 1.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1594",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768468680000
