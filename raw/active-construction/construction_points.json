@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-20T11:58:46.062174+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-04-21T11:52:04.544597+00:00",
+  "feature_count": 254,
   "features": [
     {
       "attributes": {
@@ -506,7 +506,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-87 AT NC-11 CONSTRUCT INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC87/NC11 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690277280000
@@ -645,31 +645,6 @@
           [
             -79.04587531208439,
             35.616746695030315
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 31650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DE00356",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-6022    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-6022    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 92,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TOWN-WIDE FUQUAY VARINA",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Fuquay Signal Project",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.56,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690557780000
-      },
-      "geometry": {
-        "points": [
-          [
-            -78.79526677541276,
-            35.588214010432836
           ]
         ]
       }
@@ -3547,31 +3522,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 120052,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DI00369",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2009L  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2009L  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 29,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 62 (CLONINGER DRIVE) AT SR 2055 (LIBERTY DRIVE) - IMPROVE  VERTICAL ALIGNMENT",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "LIBERTY AND CLONINGER DRIVE (NC 68)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.17,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-62",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754234460000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.06681284781136,
-            35.86589891999462
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 120450,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DE00404",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -5380,35 +5330,6 @@
           [
             -80.77046376963621,
             35.51939920461579
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 148050,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00496",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 11,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 413 ON SR-2174 (WILLIAMS BRANCH RD) AND BRIDGE 146 ON  SR-2173 (DILLINGHAM RD) IN BUNCOMBE COUNTY",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Permanent Repairs STRs 413 and 146",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.28,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2174",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769092620000
-      },
-      "geometry": {
-        "points": [
-          [
-            -82.40938646989676,
-            35.75348591240002
-          ],
-          [
-            -82.43310544873944,
-            35.76574187704032
           ]
         ]
       }

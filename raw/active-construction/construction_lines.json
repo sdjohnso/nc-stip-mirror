@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-20T11:58:46.062174+00:00",
+  "pull_timestamp": "2026-04-21T11:52:04.544597+00:00",
   "feature_count": 163,
   "features": [
     {
@@ -3792,7 +3792,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE NEUSE RIVER BRIDGE TO EAST OF THURMAN RD IN JAMES CITY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "James City Design Build (INFRA)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.61,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1572016020000
@@ -31487,7 +31487,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-221 SOUTH OF US-74 BUS (CHARLOTTE RD) TO NORTH OF SR-1366 (ROPER LOOP RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-221 WIDENING",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.09,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-221",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1644492300000
@@ -38475,7 +38475,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1672 (HANES MILL ROAD) FROM MUSEUM DRIVE TO SR-4000 (UNIV ERSITY PARKWAY) IN WINSTON-SALEM.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Hanes Mill Road Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1672",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1691137440000
@@ -54388,7 +54388,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-66 (OLD HOLLOW ROAD) FROM HARLEY DRIVE TO US-158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-66 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-66",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704468180000
@@ -84728,7 +84728,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/US-23 BUS (HAYWOOD RD) FROM US-19/US-23/US-74 (PATTON AVE) TO RIDGELAWN RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Haywood Rd - Patton to Ridgelawn",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.65,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743003900000
