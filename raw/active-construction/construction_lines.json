@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-21T11:52:04.544597+00:00",
+  "pull_timestamp": "2026-04-22T11:50:21.208301+00:00",
   "feature_count": 163,
   "features": [
     {
@@ -34729,7 +34729,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE HAVELOCK BYPASS TO EAST OF SR-1116 (THURMAN R D).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "C - Havelock to Thurman",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680003300000
@@ -59153,7 +59153,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1109 (PINEWOOD ROAD) FROM US-321 TO SR-1252 (BERT HUFFMAN  ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "SR-1109 Pinewood Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721659500000
@@ -59288,7 +59288,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-158 FROM MULTI-LANES NORTH OF US-421/I-40 BUSINESS TO SR- 1965 (BELEWS CREEK ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-158 Widening 421 to Belews Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1722588900000
@@ -66711,7 +66711,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-150 FROM SR-1840 (GREENWOOD ROAD) IN CATAWBA COUNTY TO US -21 IN IREDELL COUNTY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R2307B - 150 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1736236680000
@@ -70747,7 +70747,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2048 (GORDON RD) FROM US-17 (MARKET ST) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gordon Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.93,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2048",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1739186460000
@@ -77778,7 +77778,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM TENNESSEE STATE LINE TO WEST OF MM 5.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Gorge Helene CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741772100000
@@ -84437,7 +84437,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GREAT WAGON ROAD FROM SR-1001 (SHALLOWFORD ROAD) TO SR-1308 (LEWISVILLE-VIENNA ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Great Wagon Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1001",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743438960000
@@ -86911,7 +86911,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-77 FROM MILEMARKER 52.6 TO MILEMARKER 56.77.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746206340000
@@ -88635,7 +88635,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SLOPE FAILURE REPAIR ON NC 88 IN ASHE COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 88 Slope Failure",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-88",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1752831120000
@@ -108388,7 +108388,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 BUSINESS FROM US-64 TO SR-1307 (MAIN ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Business 64, Hayesville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761757800000
@@ -112845,7 +112845,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1007(RANDLEMAN RD) FROM ELMSLEY DR TO GLENDALE DR IN GREE NSBORO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Randleman Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1007",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767094140000
@@ -115250,7 +115250,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BIG MILL FARM RD FROM S OF US-421 TO SR-2649, SR-2649 FROM B IG MILL FARM RD TO NC-66, & INT OF US-421 & BIG MILL FARM RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Big Mill Farm Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2649",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770203100000

@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-21T11:52:04.544597+00:00",
+  "pull_timestamp": "2026-04-22T11:50:21.208301+00:00",
   "feature_count": 254,
   "features": [
     {
@@ -739,7 +739,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DUAL ROUNDABOUTS NORTH AND SOUTH OF SR-5544 (CATAWBA AVE) AN D US-21 INTERSECTION IN CORNELIUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DUAL ROUNDABOUTS CORNELIUS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706269200000
@@ -1072,7 +1072,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #122 AND #126 OVER TOMS CREEK ON US-52.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 52 Toms Creek Bridges 122 & 126",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1718120760000
@@ -1350,7 +1350,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430243 OVER NC-215 (CHAMPION DRIVE) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridge 243 (Champion Dr)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725350460000
@@ -1924,7 +1924,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430062 OVER COVE CREEK ON SR-1500 AND BRIDGE #440095  OVER BRANCH BROAD RIVER ON SR-1701.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Cove Creek & Branch Broad River Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.89,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1500",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741864020000
@@ -2746,7 +2746,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #220025 OVER BUFFALO CREEK ON SR-2033 (OAK GROVE ROAD ).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oak Grove Road over Buffalo Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.68,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2033",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748345940000
@@ -2850,7 +2850,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US NORTH AND SOUTHBOUND IN STOKES CO FROM LITTLE YADKIN RIVE R BRIDGES(#29 & 30) TO THE SURRY CO LINE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US  Ultra-thin, N of Little Yadkin River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748872860000
@@ -3173,7 +3173,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-127 FROM 1ST AVENUE SOUTHEAST TO 2ND AVENUE SOUTHEAST.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Hwy 127 1st and 2nd Ave Hickory",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-127",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750850760000
@@ -3331,7 +3331,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE AT I-85 AND I-485 WEST OF CHARLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-6016  I-485 and I-85 CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753344600000
@@ -4109,7 +4109,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #630036 OVER FISHING CREEK ON NC-561.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE 36 FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-561",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758625140000
@@ -4259,7 +4259,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 279 ON SR 1832 (EAGLE MILL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Eagle Mills Rd Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1832",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760115480000
@@ -4509,7 +4509,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 77 ON AVENT RD/ITA RD OVER FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sanford Fishing Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1506",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761749760000
@@ -5012,7 +5012,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 271 OVER MILL CREEK ON SR 1818 (NEILS EDDY ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Neils Eddy Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.23,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1818",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767624600000
@@ -5091,7 +5091,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #770175 OVER LUMBER RIVER ON SR-1600 (W 5TH ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 770175 Over Lumber River W. 5th",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1600",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767779460000
@@ -5582,7 +5582,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT #600050 ON SR-1206, CULVERT #990179 ON SR-1143, AND BRIDGE #990188 ON SR-1337.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Mtn Creek Bridge Replacements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.17,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770897000000
@@ -5615,7 +5615,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780183 OVER US-29 BYP ON US-29 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29 BUS BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770919260000

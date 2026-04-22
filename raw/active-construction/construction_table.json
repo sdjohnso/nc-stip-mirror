@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-04-21T11:52:04.544597+00:00",
+  "pull_timestamp": "2026-04-22T11:50:21.208301+00:00",
   "feature_count": 61,
   "features": [
     {
@@ -423,7 +423,7 @@
         "LocationsDescription": "VARIOUS",
         "ContractNickname": "Rumble Stripes & Pavement Markings",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 75.29,
+        "CompletionPercent": 84.53,
         "Route": "NC-130",
         "PhysicalDivisionNumber": 6,
         "ContractActiveDate": 1744187520000
