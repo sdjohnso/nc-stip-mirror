@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-22T11:50:21.208301+00:00",
-  "feature_count": 163,
+  "pull_timestamp": "2026-04-23T11:51:54.827102+00:00",
+  "feature_count": 165,
   "features": [
     {
       "attributes": {
@@ -52301,7 +52301,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-540 (TRIANGLE EXPRESSWAY SOUTHEAST EXTENSION) FROM I-40 T O SOUTH OF SR-2542 (ROCK QUARRY ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-2829A - Branch/S.T. Wooten JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.58,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-540",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1701099240000
@@ -64639,7 +64639,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM 0.348 MILES WEST OF SR-1550 (INCINERATOR RD) TO 0. 345 MILES EAST OF SR-1550 (INCINERATOR RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridge 239 (Incinerator Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725352320000
@@ -68980,7 +68980,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-276 (JONATHAN CREEK RD) FROM US-19 TO 0.5 MILES SOUTH OF I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-276 Jonathan Creek Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-276",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1737534960000
@@ -107202,7 +107202,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-9 FROM 2700' NORTH OF THE US 74A / NC-9 INTERSECTION TO T HE BUNCOMBE COUNTY LINE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 9 - UPPER SECTION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1759220940000
@@ -127877,7 +127877,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2415 (BAILEY RD) FROM POOLE PLACE DR TO US-21 (STATESVILL E RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bailey Road Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.74,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2415",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776096600000
@@ -127912,6 +127912,588 @@
             [
               -80.86734828916539,
               35.45364575187236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 106261,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DB00630",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2402O  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2402O  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 264 AT NC 43",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "43 Waterline Relocation",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776424260000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -77.43619049665854,
+              35.62992438607998
+            ],
+            [
+              -77.43588663078269,
+              35.62984449174233
+            ],
+            [
+              -77.43470407882471,
+              35.629532486601605
+            ],
+            [
+              -77.43335965639892,
+              35.6291836241832
+            ],
+            [
+              -77.4331292995637,
+              35.62913039994376
+            ],
+            [
+              -77.43180509941294,
+              35.628775202561116
+            ],
+            [
+              -77.43166745443436,
+              35.6287822193646
+            ],
+            [
+              -77.4315304974776,
+              35.62874690059496
+            ],
+            [
+              -77.4312665261839,
+              35.62867957151416
+            ],
+            [
+              -77.43101071451693,
+              35.62861330092405
+            ],
+            [
+              -77.43071118794614,
+              35.62853689534226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 106661,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C205035",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-3609B   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-3609B   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-13 (BERKELEY BLVD) FROM SR-1003 (NEW HOPE RD) TO US-70 BY PASS.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Berkeley Blvd",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-13",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776424020000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -77.92001951432219,
+              35.3887712884599
+            ],
+            [
+              -77.91933691508153,
+              35.389235812427934
+            ],
+            [
+              -77.91898772705471,
+              35.38946313994571
+            ],
+            [
+              -77.91841553586242,
+              35.38983564272974
+            ],
+            [
+              -77.91731729751538,
+              35.390550589242004
+            ],
+            [
+              -77.9162107720894,
+              35.39127526449658
+            ],
+            [
+              -77.91587162118266,
+              35.39149737388631
+            ],
+            [
+              -77.9153285157873,
+              35.39185304987725
+            ],
+            [
+              -77.91433395373946,
+              35.39250325688786
+            ],
+            [
+              -77.9137296642037,
+              35.39289831111875
+            ],
+            [
+              -77.91342697031648,
+              35.39309619278972
+            ],
+            [
+              -77.91165203658866,
+              35.39425215900748
+            ],
+            [
+              -77.91025946156772,
+              35.39516071324389
+            ],
+            [
+              -77.90973710752347,
+              35.39550149958019
+            ],
+            [
+              -77.908418323366,
+              35.396375488682395
+            ],
+            [
+              -77.90793612616092,
+              35.396695042827325
+            ],
+            [
+              -77.90589271493745,
+              35.39803213828993
+            ],
+            [
+              -77.90549773586758,
+              35.39828584512257
+            ],
+            [
+              -77.90510374563486,
+              35.39854058184959
+            ],
+            [
+              -77.90471074657387,
+              35.39879634574518
+            ],
+            [
+              -77.9043265787759,
+              35.39904798736277
+            ],
+            [
+              -77.90409795178077,
+              35.399194447938726
+            ],
+            [
+              -77.90387831129136,
+              35.39933700366528
+            ],
+            [
+              -77.90365198040419,
+              35.39948583433574
+            ],
+            [
+              -77.90343457351749,
+              35.3996306686667
+            ],
+            [
+              -77.90324140009986,
+              35.39976092210674
+            ],
+            [
+              -77.90304911464358,
+              35.39989205767961
+            ],
+            [
+              -77.90287803372402,
+              35.40001939858869
+            ],
+            [
+              -77.90267135758052,
+              35.400175104136075
+            ],
+            [
+              -77.9024675849807,
+              35.40033065455691
+            ],
+            [
+              -77.90226505763064,
+              35.40048729314001
+            ],
+            [
+              -77.90206376436753,
+              35.4006450197904
+            ],
+            [
+              -77.90187690814076,
+              35.40079330050008
+            ],
+            [
+              -77.90169064857736,
+              35.40094291672296
+            ],
+            [
+              -77.90150550769316,
+              35.40109346159622
+            ],
+            [
+              -77.90132855275132,
+              35.40123908783628
+            ],
+            [
+              -77.900103432126,
+              35.40220807402969
+            ],
+            [
+              -77.89967080674253,
+              35.402568408542784
+            ],
+            [
+              -77.89945308736982,
+              35.40274974421295
+            ],
+            [
+              -77.89933005644252,
+              35.40285534398165
+            ],
+            [
+              -77.89920855267432,
+              35.402961975381054
+            ],
+            [
+              -77.89909515522955,
+              35.403063677868616
+            ],
+            [
+              -77.89898306805097,
+              35.4031663493947
+            ],
+            [
+              -77.89894022139427,
+              35.40321112405319
+            ],
+            [
+              -77.89889211772226,
+              35.403262842994046
+            ],
+            [
+              -77.89884494542353,
+              35.40331513198395
+            ],
+            [
+              -77.89880444421934,
+              35.403361344178684
+            ],
+            [
+              -77.89874784780172,
+              35.40342809569227
+            ],
+            [
+              -77.89869275606311,
+              35.40349568490805
+            ],
+            [
+              -77.89863903681604,
+              35.40356428167797
+            ],
+            [
+              -77.89859149285269,
+              35.40362740402904
+            ],
+            [
+              -77.89854019001709,
+              35.403698294531914
+            ],
+            [
+              -77.89849539922591,
+              35.40376275164937
+            ],
+            [
+              -77.89845193234382,
+              35.40382781488561
+            ],
+            [
+              -77.89840520337444,
+              35.40390079514173
+            ],
+            [
+              -77.89835818647877,
+              35.403982839899285
+            ],
+            [
+              -77.89831235810561,
+              35.40406533271223
+            ],
+            [
+              -77.8982637300024,
+              35.404155827695554
+            ],
+            [
+              -77.89822040952606,
+              35.404239224049185
+            ],
+            [
+              -77.89817830318331,
+              35.404323036051586
+            ],
+            [
+              -77.89813740689216,
+              35.40440725133501
+            ],
+            [
+              -77.89812344222175,
+              35.40443703130238
+            ],
+            [
+              -77.8980977351941,
+              35.40449185625006
+            ],
+            [
+              -77.8980592882381,
+              35.40457684006317
+            ],
+            [
+              -77.89803093382035,
+              35.40465573049481
+            ],
+            [
+              -77.89800097198977,
+              35.40474279831461
+            ],
+            [
+              -77.89797484891189,
+              35.404822203013374
+            ],
+            [
+              -77.897949795114,
+              35.404901836497295
+            ],
+            [
+              -77.89792347247315,
+              35.40498969092458
+            ],
+            [
+              -77.89790067193691,
+              35.40506977852539
+            ],
+            [
+              -77.89787894870015,
+              35.405150066114956
+            ],
+            [
+              -77.89785629662845,
+              35.405238603853334
+            ],
+            [
+              -77.89784503311628,
+              35.40532867923905
+            ],
+            [
+              -77.89783452186866,
+              35.40541881572085
+            ],
+            [
+              -77.8978247642052,
+              35.40550900765289
+            ],
+            [
+              -77.89781498025151,
+              35.40560746069655
+            ],
+            [
+              -77.89780679999726,
+              35.40569775894477
+            ],
+            [
+              -77.89779937454352,
+              35.40578810191864
+            ],
+            [
+              -77.89779270380211,
+              35.40587848323387
+            ],
+            [
+              -77.89778678798817,
+              35.405968900281124
+            ],
+            [
+              -77.89779163815297,
+              35.40605229795401
+            ],
+            [
+              -77.89779823115593,
+              35.40616566897099
+            ],
+            [
+              -77.89781024971158,
+              35.40635419690852
+            ],
+            [
+              -77.89782329391983,
+              35.40654267815899
+            ],
+            [
+              -77.89783800515262,
+              35.40673930170457
+            ],
+            [
+              -77.89785315312719,
+              35.406927677724426
+            ],
+            [
+              -77.89787005392672,
+              35.407124182164225
+            ],
+            [
+              -77.89788730236222,
+              35.40731243754287
+            ],
+            [
+              -77.89790639525575,
+              35.40750880867992
+            ],
+            [
+              -77.89791218244795,
+              35.4076071623898
+            ],
+            [
+              -77.89791628650268,
+              35.40769736320337
+            ],
+            [
+              -77.89791945291378,
+              35.407795799431646
+            ],
+            [
+              -77.89792124938158,
+              35.40789425759
+            ],
+            [
+              -77.89792156779924,
+              35.408017344468426
+            ],
+            [
+              -77.89791993631117,
+              35.40813221639761
+            ],
+            [
+              -77.89791790103783,
+              35.40820604979427
+            ],
+            [
+              -77.89791544876523,
+              35.40827166505758
+            ],
+            [
+              -77.8978911009932,
+              35.409278787261435
+            ],
+            [
+              -77.89787605419707,
+              35.40942085509909
+            ],
+            [
+              -77.89786367315213,
+              35.409563093983785
+            ],
+            [
+              -77.89785400036635,
+              35.40970486638159
+            ],
+            [
+              -77.89785395918318,
+              35.409705472590744
+            ],
+            [
+              -77.89785176465462,
+              35.40985299142838
+            ],
+            [
+              -77.89784701064231,
+              35.410000468861185
+            ],
+            [
+              -77.89783969734468,
+              35.410147876164814
+            ],
+            [
+              -77.89782982620441,
+              35.410295184335865
+            ],
+            [
+              -77.89781739869386,
+              35.41044236219481
+            ],
+            [
+              -77.89780241872666,
+              35.410589381485806
+            ],
+            [
+              -77.89779798760142,
+              35.41062649164854
+            ],
+            [
+              -77.89778488653681,
+              35.41073621087261
+            ],
+            [
+              -77.89777588629094,
+              35.41080193153389
+            ],
+            [
+              -77.89776481031065,
+              35.41088282068718
+            ],
+            [
+              -77.8977421891639,
+              35.41102918364512
+            ],
+            [
+              -77.89774189605727,
+              35.41103042417914
+            ],
+            [
+              -77.89758710075839,
+              35.411684149846266
+            ],
+            [
+              -77.89749575241434,
+              35.41202570763558
+            ],
+            [
+              -77.8974407760849,
+              35.412218691563936
+            ],
+            [
+              -77.89731096040992,
+              35.412158249033034
+            ],
+            [
+              -77.89736315612495,
+              35.41196918114103
+            ],
+            [
+              -77.89749575241434,
+              35.41202570763558
+            ],
+            [
+              -77.8974407760849,
+              35.412218691563936
+            ],
+            [
+              -77.89731096040992,
+              35.412158249033034
+            ],
+            [
+              -77.89736315612495,
+              35.41196918114103
             ]
           ]
         ]

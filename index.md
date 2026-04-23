@@ -10,11 +10,11 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 109 |
-| 🚧 Under Construction | 587 |
-| 📋 Right-of-Way | 285 |
-| 📅 Planned | 1,234 |
-| ✅ Completed | 135 |
+| 🏗️ Active Construction | 107 |
+| 🚧 Under Construction | 588 |
+| 📋 Right-of-Way | 286 |
+| 📅 Planned | 1,233 |
+| ✅ Completed | 136 |
 
 ## Counties
 
@@ -115,9 +115,9 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Warren](counties/warren/index.md) | 8 (+1) | 2 | 5 |
 | [Washington](counties/washington/index.md) | 3 (+1) | 0 | 3 |
 | [Watauga](counties/watauga/index.md) | 15 | 0 | 10 |
-| [Wayne](counties/wayne/index.md) | 33 (+2) | 9 | 14 |
+| [Wayne](counties/wayne/index.md) | 33 (+2) | 6 | 14 |
 | [Wilkes](counties/wilkes/index.md) | 21 | 0 | 9 |
-| [Wilson](counties/wilson/index.md) | 19 (+1) | 2 | 9 |
+| [Wilson](counties/wilson/index.md) | 19 (+1) | 3 | 8 |
 | [Yadkin](counties/yadkin/index.md) | 16 | 0 | 5 |
 | [Yancey](counties/yancey/index.md) | 3 | 0 | 2 |
 
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-19*  
-*Mirror Updated: 2026-04-22*
+*Mirror Updated: 2026-04-23*

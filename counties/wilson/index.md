@@ -6,9 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 2 |
+| 🏗️ Active Construction | 3 |
 | 🚧 Under Construction | 8 |
-| 📅 Planned | 9 |
+| 📅 Planned | 8 |
 
 ## All Projects
 
@@ -19,7 +19,7 @@
 | [B-6000](B-6000.md) | Bridge 970096 over tributary of Town Creek. Rep... | SR 1400 (Rock Quarry R... | 🚧 Under Construction |
 | [HI-0006](HI-0006.md) | I-795 to Toisnot Swamp. Rehabilitate pavement. | US 264 (Future I-587) | 🚧 Under Construction |
 | [HI-0007](HI-0007.md) | Toisnot Swamp to the Greene County Line. Rehabi... | US 264 (Future I-587) | 🚧 Under Construction |
-| [HI-0014](HI-0014.md) | Wilson County line to I-95. Rehabilitate pavement. | US 264 (Future I-587) | 📅 Planned |
+| [HI-0014](HI-0014.md) | Wilson County line to I-95. Rehabilitate pavement. | US 264 (Future I-587) | 🏗️ Active Construction (0%) |
 | [HL-0034](HL-0034.md) | Atlantic Christian College Drive to NC 42 / NC ... | SR 1356 (Raleigh Road ... | 🚧 Under Construction |
 | [HS-2004F](HS-2004F.md) | SR 1169 (Radford Road) intersection. Install al... | SR 1103 (Wiggins Mill ... | 🏗️ Active Construction (44%) |
 | [HS-2004O](HS-2004O.md) | Chelsea Drive and Jetstream Drive intersections... | SR 1320 (Airport Boule... | 🏗️ Active Construction (44%) |
@@ -46,4 +46,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-19*  
-*Mirror Updated: 2026-04-22*
+*Mirror Updated: 2026-04-23*

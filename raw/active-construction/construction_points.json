@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-22T11:50:21.208301+00:00",
-  "feature_count": 254,
+  "pull_timestamp": "2026-04-23T11:51:54.827102+00:00",
+  "feature_count": 255,
   "features": [
     {
       "attributes": {
@@ -531,7 +531,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-485 AT NC-16 (BROOKSHIRE BOULEVARD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-485 Ramps @ Highway 16 - Sealand",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-485",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1686845340000
@@ -556,7 +556,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-74/76 AT SR-1740 (OLD LAKE RD) AND SR-17 35 (CHANCEY TOWN RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chancy and Old Lake Road Intersections",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.67,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74/7",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1659454020000
@@ -2182,7 +2182,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE OF I-40/I-85 AND SR-1981 (TOLLINGWOOD-HAWFIELDS RD) IN MEBANE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Trollingwood - Hawfields Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.78,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1981",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743082140000
@@ -2800,7 +2800,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 (SOUTH CHURCH ST) AT SR-1158 (HUFFMAN MILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HUFFMAN MILL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748424660000
@@ -3556,7 +3556,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACEMENT OF BRIDGE 960280 OVER CAMP BRANCH ON SR 1952 (OA K RIDGE CHURCH ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oak Ridge Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1952",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754406000000
@@ -3606,7 +3606,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1010 (TEN TEN ROAD) AT SR 1386 (GRAHAM NEWTON/BELLS LAKE ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ten Ten and Bells Lake Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1010",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754906580000
@@ -3631,7 +3631,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT BRIDGE #430170 SR 1876 (SONOMA RD) & #430169 SR 1105 (MAX  THOMPSON RD) OVER WEST & EAST FORKS OF PIGEON RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sonoma & Max Thompson Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1876",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753974720000
@@ -6710,6 +6710,31 @@
           [
             -79.318365316312,
             34.77860246620039
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 164450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DD00479",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 219 OVER AYCOCK SWAMP",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #219 Over Aycock Swamp",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1505",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776703620000
+      },
+      "geometry": {
+        "points": [
+          [
+            -77.90633144825131,
+            35.56750362678271
           ]
         ]
       }

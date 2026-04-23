@@ -6,10 +6,11 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 9 |
-| 🚧 Under Construction | 9 |
-| 📋 Right-of-Way | 1 |
+| 🏗️ Active Construction | 6 |
+| 🚧 Under Construction | 10 |
+| 📋 Right-of-Way | 2 |
 | 📅 Planned | 14 |
+| ✅ Completed | 1 |
 
 ## All Projects
 
@@ -35,9 +36,9 @@
 | [U-3125D](U-3125D.md) | South of SR 1129 (South Landfill Road) to south... | US 117 (Future I-795) | 📅 Planned |
 | [U-3125E](U-3125E.md) | South of SR 1927 (Genoa Road) to north of NC 58... | US 117 (Future I-795) | 📅 Planned |
 | [U-3125F](U-3125F.md) | North of NC 581 (Arrington Bridge Road) to I-79... | US 117 (Future I-795) | 📅 Planned |
-| [U-3609A](U-3609A.md) | SR 1560 (Royal Avenue) to SR 1003 (New Hope Roa... | US 13 (Berkeley Boulev... | 🏗️ Active Construction (0%) |
-| [U-3609B](U-3609B.md) | SR 1003 (New Hope Road) to US 70 Bypass with in... | US 13 (Berkeley Boulev... | 🏗️ Active Construction (0%) |
-| [U-3609BA](U-3609BA.md) | Hood Swamp Road. Realignment of Hood Swamp Road. | US 13 (Berkeley Boulev... | 🏗️ Active Construction (0%) |
+| [U-3609A](U-3609A.md) | SR 1560 (Royal Avenue) to SR 1003 (New Hope Roa... | US 13 (Berkeley Boulev... | ✅ Completed |
+| [U-3609B](U-3609B.md) | SR 1003 (New Hope Road) to US 70 Bypass with in... | US 13 (Berkeley Boulev... | 📋 Right-of-Way |
+| [U-3609BA](U-3609BA.md) | Hood Swamp Road. Realignment of Hood Swamp Road. | US 13 (Berkeley Boulev... | 🚧 Under Construction |
 | [U-4407](U-4407.md) | SR 1711 (South Oak Forest Road) to US 70. Widen... | US 70 Business (East A... | 📅 Planned |
 | [U-4753](U-4753.md) | SR 1003 (New Hope Road) to I-42 (formerly US 70... | SR 1556 (Wayne Memoria... | 📋 Right-of-Way |
 | [U-5724](U-5724.md) | SR 1709 (Central Heights Road) at Berkeley Boul... | US 13 (Berkeley Boulev... | 🚧 Under Construction |
@@ -62,4 +63,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-19*  
-*Mirror Updated: 2026-04-22*
+*Mirror Updated: 2026-04-23*
