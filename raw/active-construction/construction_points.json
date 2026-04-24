@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-23T11:51:54.827102+00:00",
+  "pull_timestamp": "2026-04-24T11:51:08.812421+00:00",
   "feature_count": 255,
   "features": [
     {
@@ -1974,7 +1974,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 55 ON SR 1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Finger Bridge Road Catawba County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742388420000
@@ -2049,7 +2049,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #290076 OVER I-40 ON SR-1436 (PINEBROOK SCHOOL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pinebrook School Road (Davie Co.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1436",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743510480000
@@ -2622,7 +2622,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 940095, BRIDGE 940178, BRIDGE 940258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Watauga 95, 178, & 258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1214",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747120740000
@@ -2655,7 +2655,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-197",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747662480000
@@ -3951,7 +3951,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WILKES 221 ON SR 1939 (BILLINGS HILL CHURCH ROAD) OVER SPARK S CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Billings Hill Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1939",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757923980000
@@ -4005,7 +4005,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430236 OVER SR-1513 ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Thickety Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.02,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758112740000
@@ -4309,7 +4309,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100295 ON SR-1224 OVER I-40 IN BUNCOMBE COUNTY AND B RIDGE #560528 ON US 25/70 IN MADISON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Rehabilitation and LMC Overlay",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1224",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760521320000
@@ -5520,7 +5520,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT # BP-005-2831 ON SR 1577 (JAKE BLACKBURN ROAD) OVER LITTLE PHOENIX CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Jake Blackburn Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.52,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1577",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770806700000
@@ -6426,7 +6426,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990009 OVER CANE RIVER ON US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #9 Repairs US-19E over Cane River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.88,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774536660000

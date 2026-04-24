@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-23T11:51:54.827102+00:00",
-  "feature_count": 165,
+  "pull_timestamp": "2026-04-24T11:51:08.812421+00:00",
+  "feature_count": 164,
   "features": [
     {
       "attributes": {
@@ -32597,7 +32597,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1339 (ROARING BRANCH ROAD) FROM SR 1340 (WEST MILL CREEK ROAD) TO SR 1332 (JACK JONES ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roaring Branch Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1339",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1692031980000
@@ -34091,7 +34091,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-111 (WILSON ST) FROM US-64 ALT (WESTERN BLVD) TO NC-122 ( MCNAIR RD) IN TARBORO.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "U-4424 Tarboro",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-111",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690970340000
@@ -40413,7 +40413,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-143 FROM SR-1223 (BEECH CREEK RD) TO 0.5 MILES NORTH OF A PPALACHIAN TRAIL.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1668675180000
@@ -108681,7 +108681,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1102 (GILLIS HILL RD) FROM SOUTH OF CELTIC DR TO NORTH OF  SR-1112 (STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gillis B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761731520000
@@ -110836,37 +110836,6 @@
             [
               -80.4239185450472,
               35.250837080984766
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 96661,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DF00503",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 43,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 126 ON SR 1723 (TURLINGTON ROAD)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Structrure #126 Over Stewart Creek",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.79,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1723",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755250860000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -78.65621127589773,
-              35.37552179508534
-            ],
-            [
-              -78.65592901678866,
-              35.37563269396928
             ]
           ]
         ]

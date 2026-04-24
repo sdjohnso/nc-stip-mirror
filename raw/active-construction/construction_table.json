@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-04-23T11:51:54.827102+00:00",
-  "feature_count": 61,
+  "pull_timestamp": "2026-04-24T11:51:08.812421+00:00",
+  "feature_count": 62,
   "features": [
     {
       "attributes": {
@@ -431,7 +431,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 307,
+        "OBJECTID": 306,
         "ContractNumber": "DF00514",
         "ContractType": "Other",
         "TipReference": null,
@@ -448,7 +448,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 312,
+        "OBJECTID": 311,
         "ContractNumber": "DF00524",
         "ContractType": "Other",
         "TipReference": " HS-2406C  , HS-2406D  , HS-2406E  , HS-2406F  , HS-2406O  , HS-2406P  , HS-2406Q  ",
@@ -465,7 +465,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 313,
+        "OBJECTID": 312,
         "ContractNumber": "DF00525",
         "ContractType": "Other",
         "TipReference": " HS-2406I  ",
@@ -482,7 +482,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 327,
+        "OBJECTID": 326,
         "ContractNumber": "DG00677",
         "ContractType": "Other",
         "TipReference": null,
@@ -499,7 +499,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 329,
+        "OBJECTID": 328,
         "ContractNumber": "DH00571",
         "ContractType": "Other",
         "TipReference": " BO-2408A  ",
@@ -516,7 +516,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 330,
+        "OBJECTID": 329,
         "ContractNumber": "DH00572",
         "ContractType": "Other",
         "TipReference": null,
@@ -533,7 +533,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 335,
+        "OBJECTID": 334,
         "ContractNumber": "DH00584",
         "ContractType": "Other",
         "TipReference": " BO-2408D  ",
@@ -550,7 +550,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 336,
+        "OBJECTID": 335,
         "ContractNumber": "DH00585",
         "ContractType": "Other",
         "TipReference": " BO-2408E  ",
@@ -567,7 +567,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 337,
+        "OBJECTID": 336,
         "ContractNumber": "DH00586",
         "ContractType": "Other",
         "TipReference": " BO-2408F  ",
@@ -584,7 +584,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 338,
+        "OBJECTID": 337,
         "ContractNumber": "DH00587",
         "ContractType": "Other",
         "TipReference": null,
@@ -601,7 +601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 340,
+        "OBJECTID": 339,
         "ContractNumber": "DH00593",
         "ContractType": "Other",
         "TipReference": " BO-2408C  ",
@@ -618,7 +618,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 340,
         "ContractNumber": "DH00596",
         "ContractType": "Other",
         "TipReference": null,
@@ -635,7 +635,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 342,
+        "OBJECTID": 341,
         "ContractNumber": "DH00597",
         "ContractType": "Other",
         "TipReference": null,
@@ -652,7 +652,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 343,
+        "OBJECTID": 342,
         "ContractNumber": "DH00598",
         "ContractType": "Other",
         "TipReference": " BO-2408I  ",
@@ -669,7 +669,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 344,
+        "OBJECTID": 343,
         "ContractNumber": "DH00599",
         "ContractType": "Other",
         "TipReference": null,
@@ -686,7 +686,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 355,
+        "OBJECTID": 354,
         "ContractNumber": "DI00376",
         "ContractType": "Other",
         "TipReference": null,
@@ -703,7 +703,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 356,
+        "OBJECTID": 355,
         "ContractNumber": "DI00377",
         "ContractType": "Other",
         "TipReference": null,
@@ -720,7 +720,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 357,
         "ContractNumber": "DI00379",
         "ContractType": "Other",
         "TipReference": null,
@@ -737,7 +737,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 358,
         "ContractNumber": "DI00380",
         "ContractType": "Other",
         "TipReference": null,
@@ -754,7 +754,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 360,
+        "OBJECTID": 359,
         "ContractNumber": "DI00382",
         "ContractType": "Other",
         "TipReference": " HS-2409D  , HS-2409F  , HS-2409G  , HS-2409H  , HS-2409I  , HS-2409J  ",
@@ -771,7 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 365,
+        "OBJECTID": 364,
         "ContractNumber": "DJ00556",
         "ContractType": "Other",
         "TipReference": " BO-2410C  ",
@@ -788,7 +788,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 404,
+        "OBJECTID": 403,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -805,7 +805,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 426,
+        "OBJECTID": 425,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -822,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 441,
+        "OBJECTID": 440,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 442,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 450,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -865,7 +865,7 @@
         "LocationsDescription": "AT VARIOUS LOCATIONS ALONG US-176 IN HENDERSON COUNTY",
         "ContractNickname": "Emergency Repair-Drainage,Erosion,Grade,",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 63.98,
+        "CompletionPercent": 70.17,
         "Route": "US-176",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1744801020000
@@ -873,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 454,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 456,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 457,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 459,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 463,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -958,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 466,
+        "OBJECTID": 465,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 471,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 474,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -1009,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 476,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " BO-2414   , HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -1026,7 +1026,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 477,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,
@@ -1039,6 +1039,23 @@
         "Route": "US-176",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1773650640000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 480,
+        "ContractNumber": "DN01152",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 75,
+        "LocationsDescription": "POLK COUNTY WELCOME CENTER ON I-26",
+        "ContractNickname": "Polk County Welcome Center",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "I-26",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1776957240000
       }
     }
   ]
