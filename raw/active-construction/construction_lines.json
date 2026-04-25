@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-24T11:51:08.812421+00:00",
+  "pull_timestamp": "2026-04-25T11:30:02.854224+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -15,7 +15,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 (ALSTON AVE) FROM NC-147 (BUCK DEAN FREEWAY) TO NORTH OF US-70BUS/NC-98 (HOLLOWAY ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 55 (Alston Avenue) Widening in Durham",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.74,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1472045100000
@@ -1866,7 +1866,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26 FROM NC-280 (EXIT 40) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-4700/Fluor-United JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1568210520000
@@ -11304,7 +11304,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-42/SR-1579 (BROADWAY RD) FROM US-421 IN SANFORD TO SR-153 8 (E HARRINGTON AVE) IN BROADWAY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-42 Broadway Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1663929060000
@@ -48891,7 +48891,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM SOUTH OF NC-20 TO SOUTH OF PROPOSED I-295.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 (From S of NC 20 to I-295 )",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1661511300000
@@ -109156,7 +109156,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1818 (JOHNSON ST)/SR-1850 (SANDY RIDGE RD) FROM SR-1820 ( SKEET CLUB RD) TO SOUTH OF I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sandy Ridge - Johnston St.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1818",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763725140000

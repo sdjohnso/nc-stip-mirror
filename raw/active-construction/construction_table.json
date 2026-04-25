@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-04-24T11:51:08.812421+00:00",
-  "feature_count": 62,
+  "pull_timestamp": "2026-04-25T11:30:02.854224+00:00",
+  "feature_count": 64,
   "features": [
     {
       "attributes": {
@@ -1010,6 +1010,23 @@
     {
       "attributes": {
         "OBJECTID": 476,
+        "ContractNumber": "DN01136",
+        "ContractType": "Other",
+        "TipReference": " BO-2414A  ",
+        "TIP": "BO-2414A  ",
+        "CountyNumber": 87,
+        "LocationsDescription": "2 SECTIONS OF US-19 AND 3 SECTIONS OF SECONDARY ROADS",
+        "ContractNickname": "Swain County Resurfacing",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-19",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1777049940000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 477,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " BO-2414   , HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -1026,7 +1043,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 478,
+        "ContractNumber": "DN01141",
+        "ContractType": "Other",
+        "TipReference": " BO-2414D  ",
+        "TIP": "BO-2414D  ",
+        "CountyNumber": 44,
+        "LocationsDescription": "3 SECTIONS OF US-19",
+        "ContractNickname": "US-19 Resurfacing (Haywood County)",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-19",
+        "PhysicalDivisionNumber": 14,
+        "ContractActiveDate": 1777049340000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 479,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,
@@ -1043,7 +1077,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 480,
+        "OBJECTID": 482,
         "ContractNumber": "DN01152",
         "ContractType": "Other",
         "TipReference": null,

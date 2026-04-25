@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-24T11:51:08.812421+00:00",
+  "pull_timestamp": "2026-04-25T11:30:02.854224+00:00",
   "feature_count": 255,
   "features": [
     {
@@ -298,7 +298,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #57 AND #59 OVER IRISH BUFFALO CREEK ON US-29 AND US -601.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 29/ bridges 57 and 59 over Irish Buff",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1691404440000
@@ -2556,7 +2556,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100716 ON SR-2832, BRG #100394 ON SR-2783, BRG #100396 ON SR-2810, BRG #100118 ON SR-2782, BRG #100464 ON SR-2782.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746698160000
@@ -3356,7 +3356,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #58 OVER US-64 ON NC-109.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC109 & HWY 64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753359120000
@@ -5831,7 +5831,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER THE NORTH FORK OF THE CATAWBA RIVER ON SR-1560 (OLD LIN VILLE RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Replace BRG 108 on Old Linville RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1560",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771325400000
@@ -6168,7 +6168,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-197",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "197S EWP1-Bridges 135, 136, 287",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773318900000
