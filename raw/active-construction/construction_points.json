@@ -1,34 +1,9 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-27T12:14:22.789829+00:00",
-  "feature_count": 255,
+  "pull_timestamp": "2026-04-28T12:18:34.313254+00:00",
+  "feature_count": 256,
   "features": [
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 53,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204130",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " R-5734A   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "R-5734A   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 56,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-23/441 FROM US-64 TO SR-1652 (WIDE HORIZON DR)/SR-1152 (BELDEN CIR) & BRIDGE NO. 314 OVER CARTOOGECHAYE CREEK.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 23-441/BELDEN CIRCLE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.31,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-23",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1546960920000
-      },
-      "geometry": {
-        "points": [
-          [
-            -83.39169191481582,
-            35.15846415826811
-          ]
-        ]
-      }
-    },
     {
       "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 371,
@@ -40,7 +15,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26/US-74 WEST BOUND LANES AND EAST BOUND LANES OVER GREEN RIVER.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Green River Bridge Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1620136260000
@@ -402,7 +377,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #9 ON US-64 IN MANNS HARBOR.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Mann Harbor Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675934220000
@@ -818,7 +793,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #94008 ON SR 1227 (NORTH FORK ROAD) AND CULVERT #9423 07 ON SR 1233 OVER NORTH FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "North Fork Rd Bridge and Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1227",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708528680000
@@ -843,7 +818,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #190009 AND #190010 OVER NOTTELY RIVER AND GRAVEL RD ON US-64 & US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64 Bridge Preservation (Cherokee Co.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.84,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708957860000
@@ -2103,7 +2078,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 (FUTURE I-74) AT INTERCHANGE WITH US-1 (EXIT 311).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 US-74 Interchange w/US-1  Rich. Co.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743080580000
@@ -3223,7 +3198,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "VARIOUS LOCATIONS IN WAKE CO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 and Lake Wheeler Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.88,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750949820000
@@ -3660,7 +3635,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 100086 ON NC 151 OVER STONY FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stony Fork Bridge #100086",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-151",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755006180000
@@ -5141,7 +5116,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "POLK BRIDGE 143 ON SR 1138 (LAKE ADGER ROAD) OVER PANTHER CR EEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768402500000
@@ -5445,7 +5420,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION AT US-321 AND SR-1108 (MISSION RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-321/SR-1108 (MISSION RD) INTERSECTION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-321",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770202560000
@@ -6226,7 +6201,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100079 ON NC-9 OVER BROAD RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-9 Bridge #100079",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773663840000
@@ -6735,6 +6710,56 @@
           [
             -77.90633144825131,
             35.56750362678271
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 165250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205152",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " 15BPR.143 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "15BPR.143 ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 34,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #330078 OVER I-40 ON US-52/US-311/NC-8.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Over I-40",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776870240000
+      },
+      "geometry": {
+        "points": [
+          [
+            -80.2315193387272,
+            36.06263261066419
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 165650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN01152",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "POLK COUNTY WELCOME CENTER ON I-26",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Polk County Welcome Center",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776957240000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.20314943829682,
+            35.234711042541974
           ]
         ]
       }
