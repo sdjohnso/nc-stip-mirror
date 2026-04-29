@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-28T12:18:34.313254+00:00",
+  "pull_timestamp": "2026-04-29T12:09:18.717764+00:00",
   "feature_count": 256,
   "features": [
     {
@@ -4912,7 +4912,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TOWN OF CLAYTON",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Town of Clayton Signals (TCD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767177420000
@@ -4937,7 +4937,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 18 OVER THE HAW RIVER ON SR 1002(SCALESVILLE RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Scalesville Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1002",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767687060000

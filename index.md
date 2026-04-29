@@ -10,10 +10,10 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 106 |
+| 🏗️ Active Construction | 108 |
 | 🚧 Under Construction | 588 |
-| 📋 Right-of-Way | 286 |
-| 📅 Planned | 1,234 |
+| 📋 Right-of-Way | 285 |
+| 📅 Planned | 1,233 |
 | ✅ Completed | 136 |
 
 ## Counties
@@ -84,7 +84,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Montgomery](counties/montgomery/index.md) | 10 | 0 | 5 |
 | [Moore](counties/moore/index.md) | 24 (+3) | 0 | 14 |
 | [Nash](counties/nash/index.md) | 29 (+5) | 7 | 10 |
-| [New Hanover](counties/new hanover/index.md) | 67 (+2) | 0 | 44 |
+| [New Hanover](counties/new hanover/index.md) | 67 (+2) | 1 | 43 |
 | [Northampton](counties/northampton/index.md) | 5 (+1) | 0 | 2 |
 | [Onslow](counties/onslow/index.md) | 43 (+1) | 0 | 20 |
 | [Orange](counties/orange/index.md) | 44 | 0 | 29 |
@@ -105,7 +105,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Scotland](counties/scotland/index.md) | 10 (+3) | 0 | 6 |
 | [Stanly](counties/stanly/index.md) | 11 | 0 | 5 |
 | [Stokes](counties/stokes/index.md) | 2 | 0 | 0 |
-| [Surry](counties/surry/index.md) | 16 (+2) | 0 | 8 |
+| [Surry](counties/surry/index.md) | 16 (+2) | 1 | 8 |
 | [Swain](counties/swain/index.md) | 5 (+1) | 3 | 1 |
 | [Transylvania](counties/transylvania/index.md) | 15 (+1) | 4 | 4 |
 | [Tyrrell](counties/tyrrell/index.md) | 3 (+1) | 0 | 2 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-26*  
-*Mirror Updated: 2026-04-28*
+*Mirror Updated: 2026-04-29*

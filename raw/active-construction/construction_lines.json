@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-28T12:18:34.313254+00:00",
-  "feature_count": 163,
+  "pull_timestamp": "2026-04-29T12:09:18.717764+00:00",
+  "feature_count": 164,
   "features": [
     {
       "attributes": {
@@ -71259,7 +71259,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 (CHIMNEY ROCK RD) FROM SR-1613 (SLICK ROCK RD, MM 22.7 9) TO SR-1701 (ROCK BROAD RIVER RD, MM 25.06).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "The Bat Cave",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740741060000
@@ -96060,7 +96060,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-62 FROM SR-1154 (KERSEY VALLEY RD) TO SR-1162 (WEANT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-62",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-62",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753795200000
@@ -128940,6 +128940,49 @@
             [
               -78.01301765701092,
               35.735729952482885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 107461,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DF00514",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROCK MERRITT AVE FROM NORTH OF BUTNER RD TO NORTH OF BOXCAR ST",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rock Merritt Ft Bragg",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767109080000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -79.0062722173881,
+              35.174070745426775
+            ],
+            [
+              -79.00497088825726,
+              35.16994086897811
+            ],
+            [
+              -79.00406006822077,
+              35.16692212185076
+            ],
+            [
+              -79.00304684758035,
+              35.165083194873624
+            ],
+            [
+              -79.00107897139773,
+              35.15939601081517
             ]
           ]
         ]
