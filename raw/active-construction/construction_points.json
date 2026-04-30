@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-29T12:09:18.717764+00:00",
-  "feature_count": 256,
+  "pull_timestamp": "2026-04-30T12:06:30.425110+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -635,7 +635,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 AND US-70 BUSINESS (MARKET STREET), EXIT 95 INTERCHANGE  FROM OUTLET CENTER DRIVE TO WEST OF YELVERTON GROVE ROAD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95, Exit 95 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703235060000
@@ -2360,31 +2360,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 102450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DJ00558",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 84,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF W MAIN STREET (SR 1274) AND ST MARTIN ROAD ( SR 1963)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "W. Main and St. Martin Intersection",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.3,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1274",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746100080000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.22720291886864,
-            35.33421981038478
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 102850,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN01100",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -3685,7 +3660,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF NC 180 & SR 2202",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 180 and Joe's Lake Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-180",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755506160000
@@ -6326,7 +6301,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #162 OVER BRUSH CREEK ON SR 1005 (LANES MILL ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Lanes Mill Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1005",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774345320000
@@ -6760,6 +6735,68 @@
           [
             -82.20314943829682,
             35.234711042541974
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 166050,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205099",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " R-5901    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "R-5901    ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-89 (WEST PINE ST) AT SR-1397 (ROUND PEAK CHURCH RD) INTER SECTION.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roundabout NC-89/Round Peak Church Road",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-89",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1777364940000
+      },
+      "geometry": {
+        "points": [
+          [
+            -80.75633292143296,
+            36.48391449512166
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 166450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN01153",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERTS 430187, 430188, 430189 AND 430190 OVER MARTINS CREE K ON SR 1341 (MARTINS CREEK RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Martins Creek Culverts",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1341",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1777389480000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.97499916851595,
+            35.68642009753266
+          ],
+          [
+            -82.97618641006989,
+            35.68313109384055
+          ],
+          [
+            -82.97924580996295,
+            35.67982059119684
+          ],
+          [
+            -82.98065600426753,
+            35.679033221064174
           ]
         ]
       }

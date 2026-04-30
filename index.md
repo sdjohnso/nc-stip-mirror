@@ -10,11 +10,11 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 108 |
-| 🚧 Under Construction | 588 |
-| 📋 Right-of-Way | 285 |
-| 📅 Planned | 1,233 |
-| ✅ Completed | 136 |
+| 🏗️ Active Construction | 114 |
+| 🚧 Under Construction | 584 |
+| 📋 Right-of-Way | 286 |
+| 📅 Planned | 1,231 |
+| ✅ Completed | 135 |
 
 ## Counties
 
@@ -45,7 +45,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Cleveland](counties/cleveland/index.md) | 19 (+2) | 0 | 8 |
 | [Columbus](counties/columbus/index.md) | 25 | 1 | 12 |
 | [Craven](counties/craven/index.md) | 19 (+1) | 0 | 10 |
-| [Cumberland](counties/cumberland/index.md) | 70 (+3) | 10 | 33 |
+| [Cumberland](counties/cumberland/index.md) | 70 (+3) | 16 | 31 |
 | [Currituck](counties/currituck/index.md) | 5 (+1) | 0 | 2 |
 | [Dare](counties/dare/index.md) | 11 (+1) | 0 | 2 |
 | [Davidson](counties/davidson/index.md) | 24 (+2) | 0 | 13 |
@@ -97,7 +97,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Polk](counties/polk/index.md) | 9 (+2) | 1 | 2 |
 | [Randolph](counties/randolph/index.md) | 29 | 0 | 19 |
 | [Richmond](counties/richmond/index.md) | 14 (+4) | 0 | 6 |
-| [Robeson](counties/robeson/index.md) | 47 (+6) | 9 | 16 |
+| [Robeson](counties/robeson/index.md) | 47 (+6) | 10 | 16 |
 | [Rockingham](counties/rockingham/index.md) | 15 | 0 | 10 |
 | [Rowan](counties/rowan/index.md) | 39 (+1) | 0 | 25 |
 | [Rutherford](counties/rutherford/index.md) | 13 (+3) | 0 | 10 |
@@ -105,7 +105,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Scotland](counties/scotland/index.md) | 10 (+3) | 0 | 6 |
 | [Stanly](counties/stanly/index.md) | 11 | 0 | 5 |
 | [Stokes](counties/stokes/index.md) | 2 | 0 | 0 |
-| [Surry](counties/surry/index.md) | 16 (+2) | 1 | 8 |
+| [Surry](counties/surry/index.md) | 16 (+2) | 0 | 8 |
 | [Swain](counties/swain/index.md) | 5 (+1) | 3 | 1 |
 | [Transylvania](counties/transylvania/index.md) | 15 (+1) | 4 | 4 |
 | [Tyrrell](counties/tyrrell/index.md) | 3 (+1) | 0 | 2 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-26*  
-*Mirror Updated: 2026-04-29*
+*Mirror Updated: 2026-04-30*

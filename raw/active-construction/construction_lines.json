@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-29T12:09:18.717764+00:00",
+  "pull_timestamp": "2026-04-30T12:06:30.425110+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -58328,7 +58328,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26/I-240 FROM SOUTH OF SR-3548 TO NORTH OF SR-1781 AND SR- 1477 FROM SR-1517 TO SR-1781.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2513BD - Design Build",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1720011960000
@@ -69740,7 +69740,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1556 (GALLIMORE DAIRY RD) FROM NC-68 TO SOUTH OF AIRPARK RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gallimore Dairy Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.52,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1556",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738946280000
@@ -90948,7 +90948,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON-SALEM NORTHERN BELTWAY, EASTERN SECTION (FUTURE I-74 ); FROM US 311 TO SR 2211 (BAUX MOUNTAIN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "( I-74 ) Noise Wall",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753257300000

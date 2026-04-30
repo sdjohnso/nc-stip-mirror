@@ -6,9 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 4 |
-| 📋 Right-of-Way | 2 |
+| 📋 Right-of-Way | 3 |
 | 📅 Planned | 8 |
 | ✅ Completed | 1 |
 
@@ -28,7 +27,7 @@
 | [I-5907](I-5907.md) | I-77 to US 601. Rehabilitate pavement. | I-74 | 🚧 Under Construction |
 | [R-5714](R-5714.md) | US 52 to SR 1365 (Forrest Drive). Upgrade roadway. | US 601 | 📋 Right-of-Way |
 | [R-5836](R-5836.md) | I-74 to SR 1104 (Cody Trail). Widen to four lanes. | US 601 | 📅 Planned |
-| [R-5901](R-5901.md) | SR 1397 (Round Peak Church Road) intersection n... | NC 89 (West Pine Street) | 🏗️ Active Construction (0%) |
+| [R-5901](R-5901.md) | SR 1397 (Round Peak Church Road) intersection n... | NC 89 (West Pine Street) | 📋 Right-of-Way |
 | [R-5905](R-5905.md) | SR 1387 (Toast Road) to SR 1396 (Pine Ridge Roa... | NC 89 (West Pine Street) | 📅 Planned |
 | [R-5910](R-5910.md) | NC 268 (CC Camp Road) intersection in Elkin. Im... | US 21 Business (North ... | 🚧 Under Construction |
 | [RX-2411A](RX-2411A.md) | YVRR Crossing 721996Y in Mount Airy. Construct ... | US 52 Bypass (Andy Gri... | 📅 Planned |
@@ -46,4 +45,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-26*  
-*Mirror Updated: 2026-04-29*
+*Mirror Updated: 2026-04-30*

@@ -6,8 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 9 |
-| 🚧 Under Construction | 15 |
+| 🏗️ Active Construction | 10 |
+| 🚧 Under Construction | 14 |
 | 📋 Right-of-Way | 6 |
 | 📅 Planned | 16 |
 | ✅ Completed | 1 |
@@ -59,7 +59,7 @@
 | [RX-2006B](RX-2006B.md) | CSX Crossing 629606K near Pembroke. Install act... | SR 1154 (Union School ... | 📅 Planned |
 | [RX-2006E](RX-2006E.md) | CSX Crossing 631029P in Lumberton. Construct sa... | NC 41 (Martin Luther K... | 📅 Planned |
 | [RX-2006G](RX-2006G.md) | CSX Crossing 629581S in Rex. Construct safety i... | SR 1748 (Crenshaw Road) | 📅 Planned |
-| [U-2519AA](U-2519AA.md) | 🗺️ I-95 in Robeson County to south of SR 1118 (Par... | I-295 (Fayetteville Ou... | 🚧 Under Construction |
+| [U-2519AA](U-2519AA.md) | 🗺️ I-95 in Robeson County to south of SR 1118 (Par... | I-295 (Fayetteville Ou... | 🏗️ Active Construction (0%) |
 | [U-5797](U-5797.md) | Farrington Street to East 22nd Street. Widen to... | SR 1997 (Fayetteville ... | 📋 Right-of-Way |
 | [W-5706N](W-5706N.md) | SR 1339 (Deep Branch Road) intersection in Pemb... | NC 710 | 📋 Right-of-Way |
 | [W-5806E](W-5806E.md) | NC 72 (West Second Street) and SR 1599 (Martin ... | NC 41 (Martin Luther K... | 🚧 Under Construction |
@@ -81,4 +81,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-26*  
-*Mirror Updated: 2026-04-29*
+*Mirror Updated: 2026-04-30*
