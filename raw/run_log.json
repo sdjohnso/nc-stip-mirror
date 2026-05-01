@@ -1,50 +1,5 @@
 [
   {
-    "start_time": "2026-04-05T12:59:14.692521+00:00",
-    "update_type": "weekly",
-    "scripts_run": [
-      {
-        "name": "STIP",
-        "success": true,
-        "duration": 8.582444906234741
-      },
-      {
-        "name": "Active Construction",
-        "success": true,
-        "duration": 4.636799335479736
-      },
-      {
-        "name": "ProgLoc",
-        "success": true,
-        "duration": 2.5222604274749756
-      },
-      {
-        "name": "Detect Removed",
-        "success": true,
-        "duration": 0.30088305473327637
-      },
-      {
-        "name": "Generate Markdown",
-        "success": true,
-        "duration": 0.6338455677032471
-      },
-      {
-        "name": "Build Indexes",
-        "success": true,
-        "duration": 0.31642794609069824
-      }
-    ],
-    "errors": [],
-    "success": true,
-    "end_time": "2026-04-05T12:59:31.686521+00:00",
-    "total_duration": 16.994,
-    "counts": {
-      "stip_projects": 2356,
-      "construction_contracts": 64,
-      "progloc_contracts": 812
-    }
-  },
-  {
     "start_time": "2026-04-06T11:39:55.857727+00:00",
     "update_type": "daily",
     "scripts_run": [
@@ -957,6 +912,51 @@
       "stip_projects": 2356,
       "construction_contracts": 64,
       "progloc_contracts": 816
+    }
+  },
+  {
+    "start_time": "2026-05-01T14:13:52.682650+00:00",
+    "update_type": "monthly",
+    "scripts_run": [
+      {
+        "name": "STIP",
+        "success": true,
+        "duration": 11.700333595275879
+      },
+      {
+        "name": "Active Construction",
+        "success": true,
+        "duration": 7.0701940059661865
+      },
+      {
+        "name": "ProgLoc",
+        "success": true,
+        "duration": 3.2419652938842773
+      },
+      {
+        "name": "Detect Removed",
+        "success": true,
+        "duration": 0.3091726303100586
+      },
+      {
+        "name": "Generate Markdown",
+        "success": true,
+        "duration": 0.6573290824890137
+      },
+      {
+        "name": "Build Indexes",
+        "success": true,
+        "duration": 0.3156917095184326
+      }
+    ],
+    "errors": [],
+    "success": true,
+    "end_time": "2026-05-01T14:14:15.978614+00:00",
+    "total_duration": 23.295964,
+    "counts": {
+      "stip_projects": 2356,
+      "construction_contracts": 64,
+      "progloc_contracts": 822
     }
   }
 ]
