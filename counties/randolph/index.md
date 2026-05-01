@@ -6,9 +6,10 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 3 |
 | 📋 Right-of-Way | 6 |
-| 📅 Planned | 19 |
+| 📅 Planned | 18 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -24,7 +25,7 @@
 | [HI-0002](HI-0002.md) | 🗺️ NC 109 in Thomasville to SR 1009 (South Main St... | I-85 | 🚧 Under Construction |
 | [HI-0003](HI-0003.md) | SR 1009 (Old US Highway 311) to Guilford County... | I-73 / US 220 | 📅 Planned |
 | [HI-0004](HI-0004.md) | SR 1928 (Cedar Square Road) to I-73 / US 220. R... | I-74 | 📅 Planned |
-| [HS-2008D](HS-2008D.md) | Chatham County line to the Guilford County line... | US 421 (Future I-685) | 📅 Planned |
+| [HS-2008D](HS-2008D.md) | Chatham County line to the Guilford County line... | US 421 (Future I-685) | 🏗️ Active Construction (0%) |
 | [I-5948](I-5948.md) | Montgomery County line to north of SR 1462 (Par... | I-73 / I-74 / US 220 | 📅 Planned |
 | [R-2220DA](R-2220DA.md) | SR 1409 (Lake Park Road) to Asheboro Bypass. Wi... | US 64 | 📅 Planned |
 | [R-2536](R-2536.md) | Asheboro Southern Bypass, US 64 West to US 64 E... | US 64 | ✅ Completed |
@@ -49,4 +50,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-26*  
-*Mirror Updated: 2026-04-30*
+*Mirror Updated: 2026-05-01*

@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-04-30T12:06:30.425110+00:00",
+  "pull_timestamp": "2026-05-01T11:49:29.177419+00:00",
   "feature_count": 257,
   "features": [
     {
@@ -119,7 +119,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-29/US-70/I-85 BUSINESS, SR-1009 (S MAIN ST) IN HIGH POINT AND BRIDGE #147 OVER US-311 ON US-29/US-70/I-85 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Main St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.97,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1649686560000
@@ -1288,7 +1288,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #180007, #180477, #620049, AND #620072 OVER THE DEEP  RIVER ON US-1 SOUTH, SR-1621, AND NC-22.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Freyssinet Inc.-Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-1",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724232840000
@@ -2444,7 +2444,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #990100 AND BRG #990062 BOTH ON SR-1153, AND BRG #990097  ON SR-1152.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 6",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746698160000
@@ -5012,7 +5012,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT #580382 ON SR-1448, CULVERT #800573 ON SR-1312, AND BRIDGE #800572 ON SR-1312.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DB Brg 382,573 and 572",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1312",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767864540000

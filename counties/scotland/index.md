@@ -6,8 +6,8 @@
 
 | Status | Count |
 |--------|-------|
-| 🚧 Under Construction | 3 |
-| 📋 Right-of-Way | 1 |
+| 🏗️ Active Construction | 2 |
+| 🚧 Under Construction | 2 |
 | 📅 Planned | 6 |
 
 ## All Projects
@@ -18,8 +18,8 @@
 | [EB-5872A](EB-5872A.md) | SR 1105 (Turnpike Road) to Glasgow Drive and ea... | SR 1108 (West Boulevard) | 📅 Planned |
 | [EB-6015A](EB-6015A.md) | SR 1674 (Lauchwood Drive) to Plaza Road in Laur... | US 401 Business (South... | 📅 Planned |
 | [EB-6015B](EB-6015B.md) | Plaza Road to Crepe Myrtle Avenue in Laurinburg... | US 401 Business (South... | 📅 Planned |
-| [HS-2008A](HS-2008A.md) | Richmond County line to SR 1363. Upgrade guardr... | US 74 (Future I-74) | 🚧 Under Construction |
-| [HS-2008E](HS-2008E.md) | NC 144 (Morgan Street) / SR 1148 (Saint Johns C... | US 74 (Future I-74) | 📋 Right-of-Way |
+| [HS-2008A](HS-2008A.md) | Richmond County line to SR 1363. Upgrade guardr... | US 74 (Future I-74) | 🏗️ Active Construction (0%) |
+| [HS-2008E](HS-2008E.md) | NC 144 (Morgan Street) / SR 1148 (Saint Johns C... | US 74 (Future I-74) | 🏗️ Active Construction (0%) |
 | [I-6055](I-6055.md) | 🗺️ US 74 Business east of Hamlet to US 74 Business... | US 74 / Future I-74 | 📅 Planned |
 | [P-5724](P-5724.md) | Rail spur for industrial access near end of SR ... | CSX | 🚧 Under Construction |
 | [U-5977](U-5977.md) | South Carolina state line to south of SR 1105 (... | US 15 / US 401 | 📅 Planned |
@@ -39,4 +39,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-04-26*  
-*Mirror Updated: 2026-04-30*
+*Mirror Updated: 2026-05-01*

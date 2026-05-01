@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-04-30T12:06:30.425110+00:00",
+  "pull_timestamp": "2026-05-01T11:49:29.177419+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -12180,7 +12180,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM SR-1500 (MIDWAY RD) TO NC-87.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-211 From SR 1500 to NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1643618340000
@@ -46099,7 +46099,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM I-74 (EXIT 13) TO SOUTH OF US-301 (EXIT 22) AND I-95/SR-1536 (CARTHAGE RD) INTERCHANGE IMPROVEMENTS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 WIDENING FLATIRON 13 to 22",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1636719540000
@@ -47334,7 +47334,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM SOUTH OF US-301 TO SOUTH OF NC-20.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I95 (US301 to S. of NC 20)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1667469600000
@@ -51470,7 +51470,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 FROM SOUTH OF SR-1532 (OAK GROVE CHURCH RD) TO NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Barnhill R-5705A / Angier Bypass A phase",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1697634900000
@@ -56014,7 +56014,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-276 (RUSS AVE) FROM US-23/74 TO US-23 BUS (MAIN ST) IN WA YNESVILLE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-276 Russ Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-276",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706882100000
@@ -83700,7 +83700,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1003 (CAMDEN RD) FROM PROPOSED FAYETTEVILLE OUTER LOOP TO  WEST OF SR-1112 (ROCKFISH RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Camden Road to Rockfish Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.62,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1003",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742894760000
@@ -105894,7 +105894,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1108 (LAKEWOOD DRIVE) AT TOWBRIDGE ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.02,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.23,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1108",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758199260000

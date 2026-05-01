@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-04-30T12:06:30.425110+00:00",
-  "feature_count": 62,
+  "pull_timestamp": "2026-05-01T11:49:29.177419+00:00",
+  "feature_count": 64,
   "features": [
     {
       "attributes": {
@@ -474,7 +474,7 @@
         "LocationsDescription": "SKEET CLUB ROAD (SR 1820)",
         "ContractNickname": "Champion Landscaping",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 28.7,
+        "CompletionPercent": 31.14,
         "Route": "SR-1820",
         "PhysicalDivisionNumber": 7,
         "ContractActiveDate": 1769620920000
@@ -669,7 +669,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 355,
+        "OBJECTID": 345,
+        "ContractNumber": "DH00603",
+        "ContractType": "Other",
+        "TipReference": " HS-2008E  ",
+        "TIP": "HS-2008E  ",
+        "CountyNumber": 83,
+        "LocationsDescription": "US 74 AT NC 144",
+        "ContractNickname": "2026 Scotland Co Intersection",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-74",
+        "PhysicalDivisionNumber": 8,
+        "ContractActiveDate": 1777554660000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 356,
         "ContractNumber": "DI00376",
         "ContractType": "Other",
         "TipReference": null,
@@ -686,7 +703,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 356,
+        "OBJECTID": 357,
         "ContractNumber": "DI00377",
         "ContractType": "Other",
         "TipReference": null,
@@ -703,7 +720,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 359,
         "ContractNumber": "DI00379",
         "ContractType": "Other",
         "TipReference": null,
@@ -720,7 +737,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 360,
         "ContractNumber": "DI00380",
         "ContractType": "Other",
         "TipReference": null,
@@ -737,7 +754,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 360,
+        "OBJECTID": 361,
         "ContractNumber": "DI00382",
         "ContractType": "Other",
         "TipReference": " HS-2409D  , HS-2409F  , HS-2409G  , HS-2409H  , HS-2409I  , HS-2409J  ",
@@ -754,7 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 365,
+        "OBJECTID": 366,
         "ContractNumber": "DJ00556",
         "ContractType": "Other",
         "TipReference": " BO-2410C  ",
@@ -771,7 +788,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 403,
+        "OBJECTID": 399,
+        "ContractNumber": "DK00438",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 6,
+        "LocationsDescription": "REPLACE BRIDGE #050030 ON SR 1321 (CURTIS CREEK ROAD) OVER C URTIS CREEK",
+        "ContractNickname": "Bridge #050030 On SR 1321 (Curtis Creek)",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1321",
+        "PhysicalDivisionNumber": 11,
+        "ContractActiveDate": 1777548300000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 405,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -788,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 425,
+        "OBJECTID": 427,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -805,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 440,
+        "OBJECTID": 442,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -822,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 442,
+        "OBJECTID": 444,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 450,
+        "OBJECTID": 452,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 454,
+        "OBJECTID": 456,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 458,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 459,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 461,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 463,
+        "OBJECTID": 465,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -941,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 467,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 471,
+        "OBJECTID": 473,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -967,7 +1001,7 @@
         "LocationsDescription": "VARIOUS SITES ALONG SR 1710 (BALD ROCK ROAD)",
         "ContractNickname": "BALD ROCK ROAD",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 17.18,
+        "CompletionPercent": 19.46,
         "Route": "SR-1170",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1761039360000
@@ -975,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 474,
+        "OBJECTID": 476,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +1026,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 478,
         "ContractNumber": "DN01136",
         "ContractType": "Other",
         "TipReference": " BO-2414A  ",
@@ -1009,7 +1043,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 479,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " BO-2414   , HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -1026,7 +1060,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 480,
         "ContractNumber": "DN01141",
         "ContractType": "Other",
         "TipReference": " BO-2414D  ",
@@ -1043,7 +1077,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 481,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,
@@ -1052,7 +1086,7 @@
         "LocationsDescription": "AT VARIOUS SITES ALONG US-176 AND SEVERAL SECONDARY ROUTES",
         "ContractNickname": "US76 TOWN",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
+        "CompletionPercent": 23.5,
         "Route": "US-176",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1773650640000
