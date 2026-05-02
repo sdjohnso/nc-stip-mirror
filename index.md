@@ -10,11 +10,11 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 118 |
-| 🚧 Under Construction | 583 |
-| 📋 Right-of-Way | 285 |
-| 📅 Planned | 1,229 |
-| ✅ Completed | 135 |
+| 🏗️ Active Construction | 107 |
+| 🚧 Under Construction | 588 |
+| 📋 Right-of-Way | 286 |
+| 📅 Planned | 1,233 |
+| ✅ Completed | 136 |
 
 ## Counties
 
@@ -45,7 +45,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Cleveland](counties/cleveland/index.md) | 19 (+2) | 0 | 8 |
 | [Columbus](counties/columbus/index.md) | 25 | 1 | 12 |
 | [Craven](counties/craven/index.md) | 19 (+1) | 0 | 10 |
-| [Cumberland](counties/cumberland/index.md) | 70 (+3) | 16 | 31 |
+| [Cumberland](counties/cumberland/index.md) | 70 (+3) | 10 | 33 |
 | [Currituck](counties/currituck/index.md) | 5 (+1) | 0 | 2 |
 | [Dare](counties/dare/index.md) | 11 (+1) | 0 | 2 |
 | [Davidson](counties/davidson/index.md) | 24 (+2) | 0 | 13 |
@@ -82,7 +82,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Mecklenburg](counties/mecklenburg/index.md) | 147 (+8) | 0 | 85 |
 | [Mitchell](counties/mitchell/index.md) | 4 | 0 | 1 |
 | [Montgomery](counties/montgomery/index.md) | 10 | 0 | 5 |
-| [Moore](counties/moore/index.md) | 24 (+3) | 1 | 13 |
+| [Moore](counties/moore/index.md) | 24 (+3) | 0 | 14 |
 | [Nash](counties/nash/index.md) | 29 (+5) | 7 | 10 |
 | [New Hanover](counties/new hanover/index.md) | 67 (+2) | 1 | 43 |
 | [Northampton](counties/northampton/index.md) | 5 (+1) | 0 | 2 |
@@ -95,14 +95,14 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Person](counties/person/index.md) | 6 | 1 | 5 |
 | [Pitt](counties/pitt/index.md) | 36 | 0 | 15 |
 | [Polk](counties/polk/index.md) | 9 (+2) | 1 | 2 |
-| [Randolph](counties/randolph/index.md) | 29 | 1 | 18 |
+| [Randolph](counties/randolph/index.md) | 29 | 0 | 19 |
 | [Richmond](counties/richmond/index.md) | 14 (+4) | 0 | 6 |
-| [Robeson](counties/robeson/index.md) | 47 (+6) | 10 | 16 |
+| [Robeson](counties/robeson/index.md) | 47 (+6) | 9 | 16 |
 | [Rockingham](counties/rockingham/index.md) | 15 | 0 | 10 |
 | [Rowan](counties/rowan/index.md) | 39 (+1) | 0 | 25 |
 | [Rutherford](counties/rutherford/index.md) | 13 (+3) | 0 | 10 |
 | [Sampson](counties/sampson/index.md) | 14 (+2) | 0 | 3 |
-| [Scotland](counties/scotland/index.md) | 10 (+3) | 2 | 6 |
+| [Scotland](counties/scotland/index.md) | 10 (+3) | 0 | 6 |
 | [Stanly](counties/stanly/index.md) | 11 | 0 | 5 |
 | [Stokes](counties/stokes/index.md) | 2 | 0 | 0 |
 | [Surry](counties/surry/index.md) | 16 (+2) | 0 | 8 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-01*  
-*Mirror Updated: 2026-05-01*
+*Mirror Updated: 2026-05-02*

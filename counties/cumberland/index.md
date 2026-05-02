@@ -6,11 +6,11 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 16 |
-| 🚧 Under Construction | 13 |
+| 🏗️ Active Construction | 10 |
+| 🚧 Under Construction | 16 |
 | 📋 Right-of-Way | 4 |
-| 📅 Planned | 31 |
-| ✅ Completed | 6 |
+| 📅 Planned | 33 |
+| ✅ Completed | 7 |
 
 ## All Projects
 
@@ -55,12 +55,12 @@
 | [RX-2406C](RX-2406C.md) | Aberdeen & Rockfish Railroad Crossing 847218L i... | SR 2311 (Gillespie Str... | 📅 Planned |
 | [RX-2406D](RX-2406D.md) | Aberdeen & Rockfish Railroad Crossing 847215R i... | Winslow | 📅 Planned |
 | [TA-6685](TA-6685.md) | Systemwide. Purchase expansion bus. | Fayetteville Area Syst... | 📅 Planned |
-| [U-2519AB](U-2519AB.md) | South of SR 1118 (Parkton Road) to south of SR ... | I-295 (Fayetteville Ou... | 🏗️ Active Construction (0%) |
-| [U-2519BA](U-2519BA.md) | South of SR 1003 (Camden Road) to south of SR 1... | I-295 (Fayetteville Ou... | 🏗️ Active Construction (0%) |
-| [U-2519BB](U-2519BB.md) | South of SR 1104 (Strickland Bridge Road) to so... | I-295 (Fayetteville Ou... | 🏗️ Active Construction (0%) |
-| [U-2519CA](U-2519CA.md) | South of US 401 to south of SR 1400 (Cliffdale ... | I-295 (Fayetteville Ou... | 🏗️ Active Construction (0%) |
-| [U-2519CB](U-2519CB.md) | South of SR 1400 (Cliffdale Road) to east of SR... | I-295 (Fayetteville Ou... | 🏗️ Active Construction (0%) |
-| [U-2519F](U-2519F.md) | 🗺️ Fayetteville outer loop. Install ITS for Fayett... | I-295 (Fayetteville Ou... | 🏗️ Active Construction (0%) |
+| [U-2519AB](U-2519AB.md) | South of SR 1118 (Parkton Road) to south of SR ... | I-295 (Fayetteville Ou... | 📅 Planned |
+| [U-2519BA](U-2519BA.md) | South of SR 1003 (Camden Road) to south of SR 1... | I-295 (Fayetteville Ou... | 🚧 Under Construction |
+| [U-2519BB](U-2519BB.md) | South of SR 1104 (Strickland Bridge Road) to so... | I-295 (Fayetteville Ou... | 🚧 Under Construction |
+| [U-2519CA](U-2519CA.md) | South of US 401 to south of SR 1400 (Cliffdale ... | I-295 (Fayetteville Ou... | 🚧 Under Construction |
+| [U-2519CB](U-2519CB.md) | South of SR 1400 (Cliffdale Road) to east of SR... | I-295 (Fayetteville Ou... | ✅ Completed |
+| [U-2519F](U-2519F.md) | 🗺️ Fayetteville outer loop. Install ITS for Fayett... | I-295 (Fayetteville Ou... | 📅 Planned |
 | [U-3422](U-3422.md) | Fayetteville Outer Loop (U-2519) to SR 1596 (Ho... | SR 1003 (Camden Road) | 📋 Right-of-Way |
 | [U-3422A](U-3422A.md) | Proposed Fayetteville Outer Loop (U-2519) to ju... | SR 1003 (Camden Road) | 🚧 Under Construction |
 | [U-3422B](U-3422B.md) | West of SR 1112 (Rockfish Road) to SR 1596 (Hop... | SR 1003 (Camden Road) | 📅 Planned |
@@ -101,4 +101,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-01*  
-*Mirror Updated: 2026-05-01*
+*Mirror Updated: 2026-05-02*

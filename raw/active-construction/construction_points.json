@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-01T14:14:04.491055+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-05-02T11:35:58.401534+00:00",
+  "feature_count": 259,
   "features": [
     {
       "attributes": {
@@ -327,7 +327,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #19 OVER CUB CREEK ON NC-226.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #19 Over Cub Creek on NC 226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693230840000
@@ -3714,7 +3714,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 410 / NC 131 AT NC 211 BYPASS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bladenboro Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-410",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756398540000
@@ -4409,7 +4409,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACEMENT OF CULVERT ON SR-1524 (N. SCALYBARK TRAIL)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Scalybark",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1524",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761838740000
@@ -6797,6 +6797,56 @@
           [
             -82.98065600426753,
             35.679033221064174
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 166850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00438",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #050030 ON SR 1321 (CURTIS CREEK ROAD) OVER C URTIS CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #050030 On SR 1321 (Curtis Creek)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1321",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1777548300000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.93465229883543,
+            36.15799089541024
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 167250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DH00603",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2008E  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2008E  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 74 AT NC 144",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2026 Scotland Co Intersection",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1777554660000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.54830776481235,
+            34.80857021926965
           ]
         ]
       }
