@@ -1,8 +1,8 @@
 # Mirror Status
 
-**Last Successful Update:** 2026-05-02T11:35:58.156034+00:00
+**Last Successful Update:** 2026-05-03T11:33:54.425917+00:00
 **Update Type:** daily
-**Duration:** 6.9 seconds
+**Duration:** 187.8 seconds
 
 ## Data Counts
 
@@ -14,12 +14,13 @@
 
 ## Errors
 
-None
+- Active Construction pull failed
 
 ## Recent History
 
 | Date | Type | Status |
 |------|------|--------|
+| 2026-05-03 11:33 | daily | Success |
 | 2026-05-02 11:35 | daily | Success |
 | 2026-05-01 14:13 | monthly | Success |
 | 2026-05-01 11:49 | daily | Success |
@@ -29,7 +30,6 @@ None
 | 2026-04-27 12:14 | daily | Success |
 | 2026-04-26 13:08 | weekly | Success |
 | 2026-04-26 11:30 | daily | Success |
-| 2026-04-25 11:30 | daily | Success |
 
 ---
 
