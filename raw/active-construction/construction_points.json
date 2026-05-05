@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-04T12:16:10.137928+00:00",
-  "feature_count": 259,
+  "pull_timestamp": "2026-05-05T11:53:55.408183+00:00",
+  "feature_count": 260,
   "features": [
     {
       "attributes": {
@@ -6847,6 +6847,39 @@
           [
             -79.54830776481235,
             34.80857021926965
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 167650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205151",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Design Build",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " M-0572G   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "M-0572G   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 100,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19W.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US19W North WP1 Bridges 93, 124, 138",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19W",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776867240000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.3270955014716,
+            36.02506973036193
+          ],
+          [
+            -82.3813328995132,
+            36.01290137225757
+          ],
+          [
+            -82.38238971301195,
+            36.012939586047395
           ]
         ]
       }

@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-04T12:16:10.137928+00:00",
-  "feature_count": 60,
+  "pull_timestamp": "2026-05-05T11:53:55.408183+00:00",
+  "feature_count": 59,
   "features": [
     {
       "attributes": {
@@ -19,23 +19,6 @@
         "Route": "SR-1",
         "PhysicalDivisionNumber": 12,
         "ContractActiveDate": 1665575340000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 244,
-        "ContractNumber": "C205151",
-        "ContractType": "Design Build",
-        "TipReference": " M-0572G   ",
-        "TIP": "M-0572G   ",
-        "CountyNumber": 100,
-        "LocationsDescription": "US-19W.",
-        "ContractNickname": "US19W North WP1 Bridges 93, 124, 138",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 7.5,
-        "Route": "US-19W",
-        "PhysicalDivisionNumber": 13,
-        "ContractActiveDate": 1776867240000
       }
     },
     {
