@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-05T11:53:55.408183+00:00",
+  "pull_timestamp": "2026-05-06T12:21:46.327069+00:00",
   "feature_count": 260,
   "features": [
     {
@@ -69,7 +69,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GRADE SEPARATION AT SR-1625 (ROGERS LAKE RD) OVER NS/NCRR AN D CLOSURE OF AT-GRADE CROSSING #724408Y IN KANNAPOLIS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rogers Lake Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.95,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1625",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1674052980000
@@ -660,7 +660,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-64 / US-276 (HENDERSONVILLE HWY), AND US -64 / NC-280 (ASHEVILLE HWY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Transylvania Culvert & Roadway",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703853000000
@@ -685,7 +685,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1615 AT TAMARACK DRICE AND LANDAU ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rosehill Rd at Tamarack and Landau",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1615",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703062380000
@@ -1575,7 +1575,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #030087 OVER RICHARDSON CREEK ON NC-742.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 030087 NC742 over Richardson Ck",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.34,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-742",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738332120000
@@ -1654,7 +1654,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #120109 OVER US-29 (NORTH CANNON BLVD) ON SR-1706 (MA RTIN LUTHER KING JR AVENUE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 120109 over US-29 on MLK Jr Blvd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1706",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738681380000
@@ -2937,7 +2937,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580058 OVER MACKEY CREEK ON US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 16",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569760000
@@ -3281,7 +3281,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE AT I-85 AND I-485 WEST OF CHARLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-6016  I-485 and I-85 CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.95,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753344600000
@@ -4634,7 +4634,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780140 OVER DAN RIVER ON SR-1138.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Lindsey Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.35,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.61,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763738160000
@@ -5295,7 +5295,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 120292 OVER LITTLE MEADOW CREEK ON SR-2625 (MAUNE Y RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge-Little Meadow Creek (Mauney Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2625",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769082000000

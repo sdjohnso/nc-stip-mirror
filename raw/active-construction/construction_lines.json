@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-05T11:53:55.408183+00:00",
+  "pull_timestamp": "2026-05-06T12:21:46.327069+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -51470,7 +51470,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 FROM SOUTH OF SR-1532 (OAK GROVE CHURCH RD) TO NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Barnhill R-5705A / Angier Bypass A phase",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1697634900000
@@ -126959,7 +126959,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-3126 (AIRPORT BLVD) FROM GARDEN SQUARE LANE TO SR-1637 (C HURCH ST) IN MORRISVILLE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "AIRPORT BLVD EXTENSTION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3126",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774617360000
