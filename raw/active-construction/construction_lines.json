@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-06T12:21:46.327069+00:00",
+  "pull_timestamp": "2026-05-07T12:23:18.232735+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -81451,7 +81451,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 (FUTURE I-74) FROM 0.11 MILES EAST OF US-701 BUSINESS TO 0.17 MILES WEST OF NC-214.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HI-18 US74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742566980000
@@ -84662,7 +84662,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "Intersection of NC 150 and SR 2399 Wiggins Rd, U-5780 and In tersection of NC 150 & NC 152, W-5601U",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 150, Wiggins Rd, and NC 152",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744378860000
@@ -96779,7 +96779,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VAROUS SITES ALONG SR 1605 (MIDDLE FORK ROAD/TOM FALLS RO AD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Middle Fork B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.75,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1605",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757431140000
@@ -97258,7 +97258,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS SITES ALONG SR 1605 (MIDDLE FORK ROAD/TOM FALLS R OAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Middle Fork C",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1605",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757431260000
@@ -107556,7 +107556,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-24/NC-27 FROM WEST OF NC-22 (MCNEILL ST) TO US-15/US-501.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Carthage NC 24/27",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-24",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761123720000
@@ -117166,7 +117166,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 WESTBOUND MM 68",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 GRADING MILE MARKER 68",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771326480000
@@ -125961,7 +125961,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1727 (MONTICELLO RD) FROM SR-1882 (NEW STOCK RD) TO NC-25 2 (OLD MARSHALL HWY)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Monticello Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1727",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774621920000
