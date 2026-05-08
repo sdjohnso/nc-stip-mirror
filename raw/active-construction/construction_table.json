@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-07T12:23:18.232735+00:00",
-  "feature_count": 62,
+  "pull_timestamp": "2026-05-08T12:03:02.163013+00:00",
+  "feature_count": 60,
   "features": [
     {
       "attributes": {
@@ -117,7 +117,7 @@
         "LocationsDescription": "SOUTH MILLS, GATESVILLE, ELIZABETH CITY, HERTFORD, MANTEO, W AVES & AVON",
         "ContractNickname": "District 1 Various ADA Ramps",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 77.27,
+        "CompletionPercent": 79.59,
         "Route": "NC-12",
         "PhysicalDivisionNumber": 1,
         "ContractActiveDate": 1732544580000
@@ -474,7 +474,7 @@
         "LocationsDescription": "VARIOUS SECONDARY ROUTES",
         "ContractNickname": "2025 Moore Co. AST",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 87.08,
+        "CompletionPercent": 91.55,
         "Route": "NONE-",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1744817400000
@@ -542,7 +542,7 @@
         "LocationsDescription": "VARIOUS",
         "ContractNickname": "Waugh Chatham and Lee",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 64.42,
+        "CompletionPercent": 65.13,
         "Route": "SR-1380",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1750324440000
@@ -635,7 +635,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 355,
+        "OBJECTID": 354,
         "ContractNumber": "DI00376",
         "ContractType": "Other",
         "TipReference": null,
@@ -652,7 +652,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 356,
+        "OBJECTID": 355,
         "ContractNumber": "DI00377",
         "ContractType": "Other",
         "TipReference": null,
@@ -669,7 +669,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 357,
         "ContractNumber": "DI00379",
         "ContractType": "Other",
         "TipReference": null,
@@ -686,7 +686,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 359,
+        "OBJECTID": 358,
         "ContractNumber": "DI00380",
         "ContractType": "Other",
         "TipReference": null,
@@ -703,7 +703,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 360,
+        "OBJECTID": 359,
         "ContractNumber": "DI00382",
         "ContractType": "Other",
         "TipReference": " HS-2409D  , HS-2409F  , HS-2409G  , HS-2409H  , HS-2409I  , HS-2409J  ",
@@ -720,7 +720,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 364,
+        "OBJECTID": 363,
         "ContractNumber": "DJ00556",
         "ContractType": "Other",
         "TipReference": " BO-2410C  ",
@@ -737,41 +737,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 395,
-        "ContractNumber": "DK00435",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 95,
-        "LocationsDescription": "REPLACE BRIDGE 187 ON SR 1339 (HOPEWELL CHURCH ROAD) OVER ME AT CAMP CREEK",
-        "ContractNickname": "WAT #187 Replacement - Hopewell Ch Rd",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1339",
-        "PhysicalDivisionNumber": 11,
-        "ContractActiveDate": 1777969860000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 400,
-        "ContractNumber": "DK00440",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 95,
-        "LocationsDescription": "BRIDGE 940023 OVER BEAVERDAM CREEK ON SR 1211 (PHILLIPS BRAN CH ROAD)",
-        "ContractNickname": "WAT #23 Bridge - Phillips Branch Rd",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1211",
-        "PhysicalDivisionNumber": 11,
-        "ContractActiveDate": 1777971360000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 405,
+        "OBJECTID": 404,
         "ContractNumber": "DK00459",
         "ContractType": "Other",
         "TipReference": " HS-2411C  ",
@@ -788,7 +754,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 427,
+        "OBJECTID": 426,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -805,7 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 442,
+        "OBJECTID": 441,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -822,7 +788,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 444,
+        "OBJECTID": 443,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +805,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 451,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 455,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 457,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 458,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 461,
+        "OBJECTID": 460,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 464,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -941,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 467,
+        "OBJECTID": 466,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 473,
+        "OBJECTID": 472,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 475,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 477,
         "ContractNumber": "DN01136",
         "ContractType": "Other",
         "TipReference": " BO-2414A  ",
@@ -1009,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 478,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " BO-2414   , HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -1026,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 480,
+        "OBJECTID": 479,
         "ContractNumber": "DN01141",
         "ContractType": "Other",
         "TipReference": " BO-2414D  ",
@@ -1043,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 481,
+        "OBJECTID": 480,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,

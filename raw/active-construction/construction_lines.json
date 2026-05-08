@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-07T12:23:18.232735+00:00",
+  "pull_timestamp": "2026-05-08T12:03:02.163013+00:00",
   "feature_count": 164,
   "features": [
     {
@@ -194,7 +194,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GRADE SEPARATION-BERYL RD AT NORFOLK SOUTHERN/NC RR/CSX & NC-54 AT SR-1664; I-440/US-1-S OF SR-1313 TO N OF SR-1728.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Walnut 2 Wade",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.55,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-440",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1544625420000
@@ -6584,7 +6584,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM SR-1002 (EXIT 71) TO I-40 (EXIT 81).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 - Flatiron",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1632156060000
@@ -8920,7 +8920,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1598 (DICKINSON AVE) FROM NC-11 TO SR-1610 (READE CR).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Dickinson Ave",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1598",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1652716500000
@@ -11841,7 +11841,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FAYETTEVILLE OUTER LOOP FROM SOUTH OF SR-1003 (CAMDEN ROAD) TO SOUTH OF US-401.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "U-2519 BA & BB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.23,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-295",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1660139160000
@@ -15358,7 +15358,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM I-40 TO MOREHEAD CITY PORT, I-95 FROM SC STATE LINE TO VA STATE LINE, US-74 FROM ASHEVILLE TO WILMINGTON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Broadband Fiber  (I95/US70/US74)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1628184000000
@@ -55966,7 +55966,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/129 FROM GEORGIA STATE LINE TO US-64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 129, Cherokee County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.99,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1707132300000
@@ -60113,7 +60113,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2316 (NORTHCROSS DR) FROM NORTH OF NC-73 (SAM FURR RD) TO  SR-2147 (WESTMORELAND RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Northcross Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2316",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723725120000
@@ -87345,7 +87345,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-45 FROM WASHINGTON COUNTY LINE TO US-17.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 45",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-45",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748614980000
@@ -98949,7 +98949,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 74, JAMES HAMILTON RD AND SR 1514 (ROCKY RIVER RD) AT MYERS RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74 @ Rocky River Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.27,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757693400000
@@ -111418,7 +111418,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1203 (ALLEN RD) FROM SR-1467 (STANTONSBURG RD) TO US-13 ( DICKINSON AVE EXT).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Allen Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1203",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765795020000
