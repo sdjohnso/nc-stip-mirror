@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-08T12:03:02.163013+00:00",
-  "feature_count": 164,
+  "pull_timestamp": "2026-05-09T11:39:57.113463+00:00",
+  "feature_count": 163,
   "features": [
     {
       "attributes": {
@@ -1472,7 +1472,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26 FROM 0.05 MILES NORTH OF US-64 TO NC-280 (EXIT 40).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-26 (NC280 to US64)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1571147580000
@@ -2798,7 +2798,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-17 BUS (MARKET ST) FROM SR-1403 TO SR-2734 IN WILMINGTON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Market St Median D Section",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.35,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1553176680000
@@ -3924,7 +3924,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-221 FROM US-221 BYPASS TO US-221 BUSINESS/NC-88 IN JEFFERSON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 221 R-2915E",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-221",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1592822160000
@@ -43789,7 +43789,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-129 FROM SOUTH OF SR-1275 (FIVE POINTS RD) TO NC-143 AND NC-143 FROM US-129 TO SR-1223 (BEECH CREEK RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION A",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.55,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1666869720000
@@ -45981,7 +45981,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE I-74 (WINSTON-SALEM NORTHERN BELTWAY) FROM US-311 TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "AA BELTWAY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1669027080000
@@ -54486,7 +54486,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-421 FROM EAST OF NC-16 TO US-421 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-421 Super Street",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.45,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1705056960000
@@ -56493,7 +56493,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1100 (BRAWLEY SCHOOL RD) FROM I-77 TO US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Brawley School",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.52,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1100",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708964940000
@@ -64353,7 +64353,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-15/501 FROM US-1 TO BRUCEWOOD RD, US-1 FROM KNIGHT ST TO OLD US-1, AND NC-5 FROM US-1 TO TROTTER DR/BLAKE BLVD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2024 CMGC Project US 1-US15/501 NC 5",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.93,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728645180000
@@ -65492,129 +65492,6 @@
             [
               -80.70063198096503,
               35.09207446835223
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 63461,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DN01055",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " A-0009CE  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "A-0009CE  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 38,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ALONG NC 28 FROM SR 1238 (BILL CRISP RD) TO SR 1230 (HYDE TO WN RD) IN GRAHAM COUNTY",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION E",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.36,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-28",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1729086780000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -83.69068205581807,
-              35.37087637316202
-            ],
-            [
-              -83.689727504532,
-              35.37091917576871
-            ],
-            [
-              -83.68856224982265,
-              35.37096854452849
-            ],
-            [
-              -83.68720882299023,
-              35.371029254010004
-            ],
-            [
-              -83.6860917785978,
-              35.37107802894757
-            ],
-            [
-              -83.68502439733943,
-              35.37112672321975
-            ],
-            [
-              -83.68470679304484,
-              35.37114327955717
-            ],
-            [
-              -83.68398217626496,
-              35.37117775414539
-            ],
-            [
-              -83.68295716009133,
-              35.37121990037651
-            ],
-            [
-              -83.68151777789586,
-              35.37128271181384
-            ],
-            [
-              -83.68082751544542,
-              35.37131894282235
-            ],
-            [
-              -83.68072793835864,
-              35.37132568202619
-            ],
-            [
-              -83.68062855010625,
-              35.371334074171344
-            ],
-            [
-              -83.68052939032957,
-              35.3713441180165
-            ],
-            [
-              -83.68043049820919,
-              35.37135580740025
-            ],
-            [
-              -83.68033191569639,
-              35.37136913808756
-            ],
-            [
-              -83.6802553308208,
-              35.37138004918977
-            ],
-            [
-              -83.68017906043634,
-              35.37139234771494
-            ],
-            [
-              -83.68010314205526,
-              35.37140603235909
-            ],
-            [
-              -83.68002761477855,
-              35.37142109246197
-            ],
-            [
-              -83.67995251130976,
-              35.37143752327477
-            ],
-            [
-              -83.67985637629516,
-              35.371462613324105
-            ],
-            [
-              -83.67976098910711,
-              35.37148954981154
-            ],
-            [
-              -83.67966640230921,
-              35.37151831879832
-            ],
-            [
-              -83.6795726683234,
-              35.371548903882285
             ]
           ]
         ]
@@ -85060,7 +84937,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1541  (PAYNE BRANCH ROAD) FROM SR 1547 0.81 MILES",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DK00423: Payne Branch Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1541",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744898340000
@@ -96601,7 +96478,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1568 (OLD SHULLS MILL ROAD) FROM NC 105 TO WEST OF SR 155 7 (SHULLS MILL ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-2566BB _ Old Shulls Mill Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-105",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755874080000
@@ -106578,7 +106455,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-3174 (IDLEWILD RD) FROM SR-3175 (STALLINGS RD) TO I-485.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Idlewild RAB @ Stallings Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3174",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758538500000
@@ -110137,7 +110014,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROUTE FROM SR-1630 (BALTIMORE RD) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Baltimore Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1630",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764772740000
@@ -110275,7 +110152,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-46 FROM THE VIRGINIA STATE LINE TO NC-48.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 46 Fred Smith",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-46",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765785300000
@@ -125926,7 +125803,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE REPLACEMENT OF PIPE NO. 006-2255 ON SR 1370 (AVERY  COUNTY HIGH SCHOOL ROAD) OVER KENTUCKY CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Structure Replacement on SR 1370 (Avery)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1370",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774542300000

@@ -1,12 +1,12 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-08T12:03:02.163013+00:00",
-  "feature_count": 60,
+  "pull_timestamp": "2026-05-09T11:39:57.113463+00:00",
+  "feature_count": 61,
   "features": [
     {
       "attributes": {
-        "OBJECTID": 68,
+        "OBJECTID": 67,
         "ContractNumber": "C204730",
         "ContractType": "Other",
         "TipReference": " C-5606C   , C-5703    ",
@@ -19,6 +19,23 @@
         "Route": "SR-1",
         "PhysicalDivisionNumber": 12,
         "ContractActiveDate": 1665575340000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 208,
+        "ContractNumber": "C205068",
+        "ContractType": "Design Build",
+        "TipReference": " M-0572C   ",
+        "TIP": "M-0572C   ",
+        "CountyNumber": 45,
+        "LocationsDescription": "US-74A/NC-9/US-64 IN CHIMNEY ROCK TO WEST OF US-64 (CHIMNEY ROCK RD)/US-74A/NC-9 (GERTON HIGHWAY) INTERSECTION.",
+        "ContractNickname": "Chimney Rock",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-74A",
+        "PhysicalDivisionNumber": 13,
+        "ContractActiveDate": 1778228400000
       }
     },
     {
@@ -287,7 +304,7 @@
         "LocationsDescription": "2 SECTIONS OF SECONDARY ROUTES AND 2 SECTIONS OF BROGDEN ROA D",
         "ContractNickname": "Milling and Resurfacing",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 7.83,
+        "CompletionPercent": 24.94,
         "Route": "SR-1007",
         "PhysicalDivisionNumber": 4,
         "ContractActiveDate": 1772731200000
@@ -525,7 +542,7 @@
         "LocationsDescription": "VARIOUS",
         "ContractNickname": "ADA Ramps",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 18.93,
+        "CompletionPercent": 89.23,
         "Route": "NONE-",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1753348620000
@@ -780,7 +797,7 @@
         "LocationsDescription": "VARIOUS LOCATIONS THROUGHOUT CHEROKEE COUNTY",
         "ContractNickname": "2022 Cherokee Cty Secondary Resurfing",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 73.1,
+        "CompletionPercent": 73.99,
         "Route": "US-19",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1660232880000
@@ -805,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 451,
+        "OBJECTID": 450,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -822,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 455,
+        "OBJECTID": 454,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 456,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 457,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 459,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 463,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -899,7 +916,7 @@
         "LocationsDescription": "ALONG VARIOUS ROUTES ACROSS JACKSON, SWAIN, MACON, CHEROKEE,  AND CLAY COUNTIES",
         "ContractNickname": "District 2 and 3 End Unit Upgrades",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 29.57,
+        "CompletionPercent": 64.75,
         "Route": "US-19,",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1770738540000
@@ -907,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 466,
+        "OBJECTID": 465,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 471,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 474,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 476,
         "ContractNumber": "DN01136",
         "ContractType": "Other",
         "TipReference": " BO-2414A  ",
@@ -975,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 477,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " BO-2414   , HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -992,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 478,
         "ContractNumber": "DN01141",
         "ContractType": "Other",
         "TipReference": " BO-2414D  ",
@@ -1009,7 +1026,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 480,
+        "OBJECTID": 479,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,
