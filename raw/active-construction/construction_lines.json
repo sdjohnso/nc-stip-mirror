@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-11T13:35:41.623597+00:00",
+  "pull_timestamp": "2026-05-12T12:59:42.089063+00:00",
   "feature_count": 163,
   "features": [
     {
@@ -57542,7 +57542,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-140 FROM US-17 TO NORTH OF US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-140 resurfacing Brunswick",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.62,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.09,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719235440000
@@ -58576,7 +58576,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1109 (PINEWOOD ROAD) FROM US-321 TO SR-1252 (BERT HUFFMAN  ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "SR-1109 Pinewood Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721659500000
@@ -60224,7 +60224,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-77 FROM MILEMARKER 36.5 TO MILEMARKER 48.85.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.97,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724670540000
@@ -68987,7 +68987,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 152 FROM EAST OF I-85/US 601 INTERCHANGE TO 800' WEST OF SR 2648(TIMBERFIELD TRAIL)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC152 Macy's Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-152",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738578720000
@@ -72131,7 +72131,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS LOCATIONS ALONG SR-1836 (POT SHOALS RD) IN HENDER SON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pot Shoals Road - Emergency Repair",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.81,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1836",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741441200000
@@ -81097,7 +81097,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 FROM SR-1467/SR-2839 (ALLEN ST) TO SR-1010 (TEN-TEN R D).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-401 from Allen St to Ten-Ten Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742548560000
@@ -83737,7 +83737,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GREAT WAGON ROAD FROM SR-1001 (SHALLOWFORD ROAD) TO SR-1308 (LEWISVILLE-VIENNA ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Great Wagon Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1001",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743438960000
@@ -86211,7 +86211,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-77 FROM MILEMARKER 52.6 TO MILEMARKER 56.77.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746206340000
@@ -91368,7 +91368,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FORUM PARKWAY CONNECTOR FROM SR-3955 (FORUM PARKWAY) TO NC-6 6 (UNIVERSITY PARKWAY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Forum Parkway Connector",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3955",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753274340000
@@ -96541,7 +96541,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-17 (HAMPSTEAD BYPASS) FROM US-17 BYPASS SOUTH OF HAMPSTEA D TO NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-3300A Hampstead Bypass",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.45,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756916820000
@@ -98857,7 +98857,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-7 (MAIN ST) INTERSECTION WITH US-29/74 (WILKINSON BLVD), AND I-85 FROM NC-7 TO EAST OF NC-273.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-85 Widening Gaston",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.61,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.17,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-5719B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758028080000
@@ -110045,7 +110045,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 200 FROM N. LOVE CHAPEL RD. TO CARMEL RD. IN STANFIELD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stanfield Sidewalks",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.08,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-200",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764773340000
@@ -116054,7 +116054,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-23 BUSINESS AT MILL ST, TO NC-107, ALONG NC-107 (E MAIN S T) TO SOUTH OF SR-1780 (LOVEDALE RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "107",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.68,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-107",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770207420000
@@ -126161,7 +126161,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1002 (OLD LEICSESTER HWY) FROM NC 63 TO SR-1607 (BEAR CRE EK RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Leicester Hwy",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.97,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1002",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774621740000

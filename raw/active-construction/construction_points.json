@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-11T13:35:41.623597+00:00",
-  "feature_count": 259,
+  "pull_timestamp": "2026-05-12T12:59:42.089063+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -94,7 +94,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE OVER WATAUGA RIVER AND LEFT TURN LANE AT SR-1112 (BROADSTONE RD) ON NC-105 WITHIN R-2566B LIMITS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 105 - New Bridge Over Watauga River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.68,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-105",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1642781160000
@@ -194,7 +194,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #370 AND #373 OVER REEMS CREEK ON US-19/23, US-25, A ND US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1667220780000
@@ -882,31 +882,6 @@
           [
             -80.85577591341297,
             35.49283086090717
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 54450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00337",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 100,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER LITTLE CREEK ON SR-1410 (BRADFORD RD)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 274 Over Little Creek",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.56,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1410",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1712328660000
-      },
-      "geometry": {
-        "points": [
-          [
-            -82.39935973637557,
-            36.001597475181605
           ]
         ]
       }
@@ -1604,7 +1579,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #880007 OVER THE ALLIGATOR RIVER ON US-64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Alligator River Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738237800000
@@ -2024,7 +1999,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 63 OVER BLAIR CREEK AND BRIDGE NO. 88 OVER HYATT MILL CREEK ON SR 1140 (MYERS CHAPEL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Myers Chapel Bridges 63 & 88",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743433080000
@@ -2580,7 +2555,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100200 AND BRG #100175 BOTH ON NC-197, BRG #100147 ON S R-2173, AND BRG #100139 ON SR-2171.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-197",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747662480000
@@ -2750,7 +2725,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #840286 OVER LITTLE YADKIN RIVER ON SR-1236 (NORTH OL D 52).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Litlle Yadkin River Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1236",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748875380000
@@ -3306,7 +3281,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 64/90 AT SR 1124",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 64 and Church Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753700040000
@@ -3751,7 +3726,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #500608 OVER NEUSE RIVER ON SR-1923 AND BRIDGE #50004 2 OVER I-95 ON US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #608 and #042 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.94,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1923",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757512920000
@@ -4034,7 +4009,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 960110 OVER NORTH PRONG LEWIS FORK CREEK ON SR 1363 ( WALSH ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Walsh Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1363",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758791280000
@@ -4059,7 +4034,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1006 (OLD STAGE ROAD) AT SR 1010 (TEN TEN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "OLD STAGE ROAD AND TEN TEN ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.17,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1006",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1759161780000
@@ -4194,31 +4169,6 @@
           [
             -82.64814694621124,
             35.55858739530099
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 133650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00451",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 99,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 980147 ON SR 1581 (DAL ROAD) OVER UT OF L OGAN CREEK",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Yadkin Bridge #147 on Dal Rd",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.32,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1581",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760692860000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.54884322210272,
-            36.202772599378
           ]
         ]
       }
@@ -4787,7 +4737,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DARE COUNTY REST AREA ON US-64 IN MANTEO, NC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Dare County Rest Area Renovation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767018180000
@@ -5041,7 +4991,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #040156 OVER W. FORK PINE SWAMP ON SR 1163 (PINE SWAM P ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pine Swamp Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1169",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768299000000
@@ -5457,7 +5407,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT #600050 ON SR-1206, CULVERT #990179 ON SR-1143, AND BRIDGE #990188 ON SR-1337.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Mtn Creek Bridge Replacements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.58,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770897000000
@@ -5490,7 +5440,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780183 OVER US-29 BYP ON US-29 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29 BUS BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770919260000
@@ -5810,7 +5760,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT NO 220043 CARRYING LITTLE PERSIMMON CREEK UNDER SR 2 017",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Little Persimmon Creek Culvert - Lackey",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2017",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772100300000
@@ -5835,7 +5785,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "EXISTING CULVERT ON SR 1785(CHURCH ST)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Culvert Church St. Eden - ACCI",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1785",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754986800000
@@ -5960,7 +5910,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #55009 OVER NORTH PRONG ELLIJAY CREEK ON SR 1001 (ELL IJAY RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ellijay Bridge #009",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1001",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773048900000
@@ -6396,7 +6346,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #060353 OVER US-17 BUS/TAR RIVER ON US-17.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 353 Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774975800000

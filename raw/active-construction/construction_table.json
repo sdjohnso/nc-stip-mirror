@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-11T13:35:41.623597+00:00",
-  "feature_count": 61,
+  "pull_timestamp": "2026-05-12T12:59:42.089063+00:00",
+  "feature_count": 60,
   "features": [
     {
       "attributes": {
@@ -151,7 +151,7 @@
         "LocationsDescription": "28 SECTIONS OF PRIMARY ROADS",
         "ContractNickname": "Division Wide Sinusoidal Rumble Strips",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 31.8,
+        "CompletionPercent": 42.77,
         "Route": "NC-11",
         "PhysicalDivisionNumber": 1,
         "ContractActiveDate": 1752052980000
@@ -754,24 +754,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 404,
-        "ContractNumber": "DK00459",
-        "ContractType": "Other",
-        "TipReference": " HS-2411C  ",
-        "TIP": "HS-2411C  ",
-        "CountyNumber": 95,
-        "LocationsDescription": "US 421 IN WILKES AND WATAUGA COUNTY",
-        "ContractNickname": "US 421 Rumble Strips",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 25.13,
-        "Route": "US-421",
-        "PhysicalDivisionNumber": 11,
-        "ContractActiveDate": 1764843780000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 426,
+        "OBJECTID": 423,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -788,7 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 441,
+        "OBJECTID": 438,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -805,7 +788,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 440,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -822,7 +805,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 450,
+        "OBJECTID": 447,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 454,
+        "OBJECTID": 451,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 453,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 454,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 459,
+        "OBJECTID": 456,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 463,
+        "OBJECTID": 460,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -924,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 465,
+        "OBJECTID": 462,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 471,
+        "OBJECTID": 468,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 474,
+        "OBJECTID": 471,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -975,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 473,
         "ContractNumber": "DN01136",
         "ContractType": "Other",
         "TipReference": " BO-2414A  ",
@@ -992,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 477,
+        "OBJECTID": 474,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " BO-2414   , HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -1009,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 475,
         "ContractNumber": "DN01141",
         "ContractType": "Other",
         "TipReference": " BO-2414D  ",
@@ -1026,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 476,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,
