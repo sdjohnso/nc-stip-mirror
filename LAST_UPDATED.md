@@ -1,8 +1,8 @@
 # Mirror Status
 
-**Last Successful Update:** 2026-05-12T12:59:41.331444+00:00
+**Last Successful Update:** 2026-05-13T13:06:02.191758+00:00
 **Update Type:** daily
-**Duration:** 6.9 seconds
+**Duration:** 8.2 seconds
 
 ## Data Counts
 
@@ -20,6 +20,7 @@ None
 
 | Date | Type | Status |
 |------|------|--------|
+| 2026-05-13 13:06 | daily | Success |
 | 2026-05-12 12:59 | daily | Success |
 | 2026-05-11 13:35 | daily | Success |
 | 2026-05-10 13:19 | weekly | Success |
@@ -29,7 +30,6 @@ None
 | 2026-05-07 12:23 | daily | Success |
 | 2026-05-06 12:21 | daily | Success |
 | 2026-05-05 11:53 | daily | Success |
-| 2026-05-04 12:16 | daily | Success |
 
 ---
 

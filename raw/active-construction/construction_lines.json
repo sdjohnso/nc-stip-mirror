@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-12T12:59:42.089063+00:00",
-  "feature_count": 163,
+  "pull_timestamp": "2026-05-13T13:06:02.526555+00:00",
+  "feature_count": 162,
   "features": [
     {
       "attributes": {
@@ -33817,7 +33817,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-111 (WILSON ST) FROM US-64 ALT (WESTERN BLVD) TO NC-122 ( MCNAIR RD) IN TARBORO.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "U-4424 Tarboro",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-111",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690970340000
@@ -55711,7 +55711,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-276 (RUSS AVE) FROM US-23/74 TO US-23 BUS (MAIN ST) IN WA YNESVILLE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-276 Russ Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-276",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706882100000
@@ -64164,47 +64164,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 58661,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DD00464",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " DU-0014   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "DU-0014   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 42,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 HALIFAX COUNTY NORTHBOUND AND SOUTHBOUND WEIGH STATIONS",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 Weighstations",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.55,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1727252700000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -77.7847120211652,
-              36.14931764614355
-            ],
-            [
-              -77.78577785408767,
-              36.145290809431124
-            ]
-          ],
-          [
-            [
-              -77.78503837269638,
-              36.15073627816548
-            ],
-            [
-              -77.78642034765345,
-              36.14654976520228
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 59461,
         "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DI00352",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -70047,7 +70006,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2048 (GORDON RD) FROM US-17 (MARKET ST) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gordon Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2048",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1739186460000
@@ -71384,7 +71343,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NORTH OF SR-1225 (ASHEMONT RD) TO EAST OF SR-124 4 (W PALMER ST)/SR-1311 (MOCKINGBIRD HILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 Hoke NC211 Grding,Drainage,Paving",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740987420000
@@ -85864,7 +85823,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 (RAEFORD RD) FROM EAST OF NC-162 (BUNCE RD) TO EAST O F BRIGHTON RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Raeford Rd. B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745931480000
@@ -87693,7 +87652,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CHATHAM PARKWAY FROM NORTH OF PROPOSED GRANT DRIVE TO US-15/ US-501.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chatham Pkwy N (BARNHILL)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.99,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.78,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2700",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750266060000
@@ -95844,7 +95803,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-43 CONNECTOR FROM US-17 BUSINESS TO SOUTH OF US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 43 CONNECTOR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.55,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755534240000
@@ -107934,7 +107893,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 17 (WILMINGTON HWY.) AT NC 172 (SNEADS FERRY RD.) AND US 17 AT SR 1518 (OLD FOLKSTONE RD.) INTERSECTIONS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "UJ-6065 US 17 @ NC 172 & SR 1518  GDPSig",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1518",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761744240000
@@ -114468,7 +114427,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE CONNECTOR ROAD (EAST FREDERICK LAW OLMSTEAD WAY) FROM  I-26 INTERCHANGE TO ROUNDABOUT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "E.Frederick Law Omstead Way",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769769180000

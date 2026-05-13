@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-12T12:59:42.089063+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-05-13T13:06:02.526555+00:00",
+  "feature_count": 256,
   "features": [
     {
       "attributes": {
@@ -560,7 +560,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-68 AT SR-2129 (FOGLEMAN RD) TO NC-150 IN OAK RIDGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 68 and NC 150 Roundabouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-68",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1694434140000
@@ -1026,7 +1026,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #69 OVER US-70 ON NC-50 (BENSON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 OVER US 70 (GARNER)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.34,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1718641320000
@@ -1940,31 +1940,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 96450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DJ00530",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-6092    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-6092    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 60,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF DAVIDSON-CONCORD ROAD (SR 2693) AND ROBERT W ALKER ROAD",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Davidson-Concord Rd Roundabout",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.08,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2693",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742883960000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.8196786976132,
-            35.478088108490475
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 96850,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204979",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -2107,7 +2082,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE OF I-40/I-85 AND SR-1981 (TOLLINGWOOD-HAWFIELDS RD) IN MEBANE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Trollingwood - Hawfields Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.58,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1981",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743082140000
@@ -2497,7 +2472,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW HOPE CHURCH ROAD GRADE SEPARATION OVER CSX RAIL LINE (CR OSSING #630607N AT MILE POST S 152.32).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NEW HOPE CHURCH RD GRADE SEPARATION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2215",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747058460000
@@ -2671,7 +2646,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100135 ON SR-2153, AND BRG #100132 ON SR-2150 BOTH OVER  IVY CREEK.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Hobson and Ivy Hill Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2513",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748352180000
@@ -3331,7 +3306,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS ON SR 1711 (SPEER BRIDGE ROAD) AT US 421 INTERCH ANGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roundabouts on Speer Bridge Rd at US 421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1711",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754670060000
@@ -4084,7 +4059,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US HWY 64/74 AT INTERSECTION WITH NC HWY 60",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Spur 60 Bulbouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760009700000
@@ -4609,7 +4584,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER PUZZLE CREEK ON SR-1576 (E. CHURCH ST)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE 76 OVER PUZZLE CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1576",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765377960000
@@ -5041,7 +5016,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #590165 OVER COFFEY CREEK ON SR-5469 (SHOPTON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Shopton Road Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.29,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-5469",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768559700000
@@ -6026,7 +6001,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 199 OVER FORD CREEK ON SR 1629 FLAT ROCK ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Flat Rock Road Bridge No. 199",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1629",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773311400000
