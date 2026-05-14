@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-13T13:06:02.526555+00:00",
+  "pull_timestamp": "2026-05-14T12:20:36.825314+00:00",
   "feature_count": 162,
   "features": [
     {
@@ -8453,7 +8453,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-277 (BROOKSHIRE FRWY) FROM BRIDGE DECK OVER 10TH STREET TO BRIDGE DECK OVER JOHNSON STREET AND BRIDGE DECKS OVER I-77.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-277 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.26,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-277",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1640705040000
@@ -9351,7 +9351,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-440 FROM WEST OF LAKE BOONE TRAIL TO EAST OF SR-2000 (WAKE  FOREST RD) IN RALEIGH.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-440 from Lake Boone to Wake Forest",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-440",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1663340400000
@@ -31213,7 +31213,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-221 SOUTH OF US-74 BUS (CHARLOTTE RD) TO NORTH OF SR-1366 (ROPER LOOP RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-221 WIDENING",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.09,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-221",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1644492300000
@@ -38476,7 +38476,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 FROM NC-210 TO SR-4809 (JICARILA LANE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Angier Bypass Phase B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1670576100000
@@ -46024,7 +46024,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-417 (HAMPSTEAD BYPASS) FROM SOUTH OF NC-210 TO NORTH OF SR-1563 (SLOOP POINT LOOP RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R3300B P NC417.NC 210.Hampstead Bypass",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-417",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1645101900000
@@ -53811,7 +53811,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-66 (OLD HOLLOW ROAD) FROM HARLEY DRIVE TO US-158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-66 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-66",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704468180000
@@ -64783,7 +64783,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-8 (WINSTON RD) FROM US-29/US-70 TO SR-1846 (ARRINGTON DR) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 8 Widening US-29/70 to Arrington Dr.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.17,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-8",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1729697760000
@@ -65428,7 +65428,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-3440 (MCKEE RD EXT) FROM SR-3448 (PLEASANT PLAINS RD) TO SR-1010 (E JOHN ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "McKee Road Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3440",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1732284360000
@@ -91454,7 +91454,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74A FROM BEARWALLOW MOUNTAIN RD TO US-64/US-47A/NC-9. (CM GC - GERTON)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74A/Lower NC 9 CMCG",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74A",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753713360000

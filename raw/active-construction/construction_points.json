@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-13T13:06:02.526555+00:00",
-  "feature_count": 256,
+  "pull_timestamp": "2026-05-14T12:20:36.825314+00:00",
+  "feature_count": 255,
   "features": [
     {
       "attributes": {
@@ -872,7 +872,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS AT NC-115/DAVIDSON ST/POTTS ST AND AT SR-6038/GR IFFITH ST/BEATY ST AND NEW LOCATION FROM SR-6037 TO SR-6038.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Cornelius & Davidson Roundabouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-115",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1712049960000
@@ -2621,7 +2621,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #220025 OVER BUFFALO CREEK ON SR-2033 (OAK GROVE ROAD ).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oak Grove Road over Buffalo Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.68,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2033",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748345940000
@@ -3156,7 +3156,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #400224 OVER SOUTH BUFFALO CREEK ON SR-3000 (MCCONNEL L RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MCCONNELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3000",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1752141780000
@@ -3406,7 +3406,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 552 OVER BIG LAUREL CREEK ON SR-1460 (ACCESS RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "SR-1460 (ACCESS RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1460",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754315520000
@@ -3855,7 +3855,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 46 ON SR 1364 (COLEMAN MOUNTAIN ROAD) OVER JONATHAN C REEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Coleman Mountain Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.27,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1364",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758200940000
@@ -4094,31 +4094,6 @@
           [
             -80.80218964531313,
             36.02686068931275
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 132450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DL00355",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 49,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 32 ON SR 1150",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Linwood Bridge",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.3,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1150",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760347920000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.74914556646851,
-            35.54768789978947
           ]
         ]
       }
@@ -4434,7 +4409,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #108 ON SR 1004 (STOKES FERRY RD) OVER TUCKER TOWN RESERVOIR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stokes Ferry",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1004",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763377860000
@@ -4787,7 +4762,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1116 (JEETER CARSWELL RD) OVER DOUBLE BRANCH",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "JEETER CARSWELL RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.88,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1116",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767629880000
