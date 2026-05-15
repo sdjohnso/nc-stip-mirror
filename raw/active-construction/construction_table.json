@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-14T12:20:36.825314+00:00",
+  "pull_timestamp": "2026-05-15T12:26:43.636539+00:00",
   "feature_count": 59,
   "features": [
     {
@@ -814,7 +814,7 @@
         "LocationsDescription": "ALONG VARIOUS SECONDARY ROUTES THROUGHOUT TRANSYLVANIA COUNT Y",
         "ContractNickname": "Emergency:Everett Rd,Hart Rd,Cascade Lak",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 72.88,
+        "CompletionPercent": 73.04,
         "Route": "SR-VARI",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1743440460000

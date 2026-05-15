@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-14T12:20:36.825314+00:00",
+  "pull_timestamp": "2026-05-15T12:26:43.636539+00:00",
   "feature_count": 255,
   "features": [
     {
@@ -352,7 +352,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #9 ON US-64 IN MANNS HARBOR.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Mann Harbor Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.72,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.53,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675934220000
@@ -377,7 +377,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #164 AND 168 OVER THE NORFOLK SOUTHERN RAILWAY ON US -29/70 I-85 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over Norfolk So. RR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698682380000
@@ -689,7 +689,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DUAL ROUNDABOUTS NORTH AND SOUTH OF SR-5544 (CATAWBA AVE) AN D US-21 INTERSECTION IN CORNELIUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DUAL ROUNDABOUTS CORNELIUS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.67,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706269200000
@@ -1051,7 +1051,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #530020 OVER NEUSE RIVER AND BRIDGE #530034 OVER NEUS E RIVER OVERFLOW ON NC-55.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 55 Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719939540000
@@ -1500,7 +1500,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-56 (EAST C ST) INTERSECTION WITH SR-1215 (WEST LYON STATI ON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-56 at W. Lyon Station Road Butner",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-56",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738159020000
@@ -1550,7 +1550,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580115 ON SR-1569 AND BRIDGE #580111 ON SR-1573: BOT H OVER NORTH FORK CATAWBA RIVER.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Helene DB North Fork Catewba River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1569",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738321620000
@@ -1824,7 +1824,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #440109 OVER CLEAR CREEK ON SR-1578 (TOWNSEND RD) AND  BRIDGE #440198 OVER CLEAR CREEK ON SR-1614 (WATERS RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Townsend & Waters Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1578",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741349700000
@@ -3880,7 +3880,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 29 OVER SOUTH BRANCH LITTLE WHITE OAK CREEK ON NC 9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758189600000
@@ -5016,7 +5016,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2042 (OAKDALE RD), SR-2108 (SUNSET RD), SR-2025 (MIRANDA RD), AND SR-2040 (LAWING RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oakdale Road Duel Round-a-Bout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2042",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768571460000

@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-14T12:20:36.825314+00:00",
+  "pull_timestamp": "2026-05-15T12:26:43.636539+00:00",
   "feature_count": 162,
   "features": [
     {
@@ -38201,7 +38201,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1672 (HANES MILL ROAD) FROM MUSEUM DRIVE TO SR-4000 (UNIV ERSITY PARKWAY) IN WINSTON-SALEM.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Hanes Mill Road Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1672",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1691137440000
@@ -42062,7 +42062,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-143 FROM 0.5 MI NORTH OF APPALACHIAN TRAIL TO NC-28 AND N C-28 FROM 0.2 MI WEST NC-143 TO 0.2 MI WEST OF SR-1228.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION C",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.95,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675688880000
@@ -49024,7 +49024,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1336 FROM N OF SR-1002 TO N OF SR-1337 AND SR-1002 FROM S R-1336 TO SR-1169.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Monteith Gap",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1336",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693496700000
@@ -60046,7 +60046,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM EAST OF SR-1224 TO PAVEMENT JOINT WEST OF SR-3412,  AND I-26, I-40 AT I-40/US 19/23 INTERCHANGES IMPROVEMENTS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2513 AA/AB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.34,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723653840000
@@ -65305,7 +65305,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-601 (STATE ST) FROM SR-1742 (SHARON DR) TO SR-1146 (LEE A VE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-601 Roundabouts in Yadkinville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-601",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1731944940000
@@ -112073,7 +112073,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1007(RANDLEMAN RD) FROM ELMSLEY DR TO GLENDALE DR IN GREE NSBORO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Randleman Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.29,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1007",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767094140000
@@ -114478,7 +114478,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BIG MILL FARM RD FROM S OF US-421 TO SR-2649, SR-2649 FROM B IG MILL FARM RD TO NC-66, & INT OF US-421 & BIG MILL FARM RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Big Mill Farm Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.74,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2649",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770203100000
