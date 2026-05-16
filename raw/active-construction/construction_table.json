@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-15T12:26:43.636539+00:00",
-  "feature_count": 59,
+  "pull_timestamp": "2026-05-16T11:41:32.185478+00:00",
+  "feature_count": 60,
   "features": [
     {
       "attributes": {
@@ -737,7 +737,24 @@
     },
     {
       "attributes": {
-        "OBJECTID": 419,
+        "OBJECTID": 400,
+        "ContractNumber": "DK00475",
+        "ContractType": "Other",
+        "TipReference": " HS-2411D  ",
+        "TIP": "HS-2411D  ",
+        "CountyNumber": 14,
+        "LocationsDescription": "3 SECTIONS OF US 321 IN CALDWELL COUNTY",
+        "ContractNickname": "US 321 Rumble Strips & Pvmt Markings",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-321",
+        "PhysicalDivisionNumber": 11,
+        "ContractActiveDate": 1778868600000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 420,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -754,7 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 434,
+        "OBJECTID": 435,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -771,7 +788,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 436,
+        "OBJECTID": 437,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -788,7 +805,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 444,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -805,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 447,
+        "OBJECTID": 448,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -822,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 449,
+        "OBJECTID": 450,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -839,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 450,
+        "OBJECTID": 451,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -848,7 +865,7 @@
         "LocationsDescription": "ALONG VARIOUS ROUTES THROUGHOUT TRANSYLVANIA COUNTY",
         "ContractNickname": "Emergency: Grading,Drainage,Paving,Patch",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 81.49,
+        "CompletionPercent": 85.25,
         "Route": "US-276",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1747228620000
@@ -856,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 453,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -865,7 +882,7 @@
         "LocationsDescription": "AT VARIOUS LOCATIONS ALONG SR-1602 (GRANT MOUNTAIN RD)",
         "ContractNickname": "Grant Mountain",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 74.34,
+        "CompletionPercent": 61.57,
         "Route": "SR-1602",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1748425080000
@@ -873,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 457,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -890,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 459,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 465,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 467,
+        "OBJECTID": 468,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 469,
+        "OBJECTID": 470,
         "ContractNumber": "DN01136",
         "ContractType": "Other",
         "TipReference": " BO-2414A  ",
@@ -958,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 470,
+        "OBJECTID": 471,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " BO-2414   , HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -975,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 471,
+        "OBJECTID": 472,
         "ContractNumber": "DN01141",
         "ContractType": "Other",
         "TipReference": " BO-2414D  ",
@@ -992,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 472,
+        "OBJECTID": 473,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,

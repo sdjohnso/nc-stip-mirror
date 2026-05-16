@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-15T12:26:43.636539+00:00",
+  "pull_timestamp": "2026-05-16T11:41:32.185478+00:00",
   "feature_count": 255,
   "features": [
     {
@@ -431,7 +431,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 AT SR-2044 (LIGON MILL RD)/SR-2224 (MITCHELL MILL RD)  AND SR-2006 (PERRY CREEK RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1695643380000
@@ -1350,7 +1350,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 153(RICE ST) AT SR 1197(CANNON FARM RD/MOUNT MORIAH CH RD ) IN CHINA GROVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Landis RAB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.52,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.53,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-153",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1730209260000
@@ -1733,7 +1733,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580345 OVER ARMSTRONG CREEK ON SR-1546 AND BRIDGE #1 00110 OVER BROAD RIVER ON SR-2802.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER AMRSTRONG CRK / BROAD RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.75,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1546",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740404460000
@@ -2344,7 +2344,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #204 OVER WALNUT CREEK ON SR 1533 (WALNUT CREEK RD) I N MACON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Walnut Creek Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1533",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746198480000
@@ -3726,7 +3726,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 169 OVER BUFFALO CREEK ON SR 1701 (WENDELL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #169 over Buffalo Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1701",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757612700000
@@ -4509,7 +4509,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 16 OVER BENS CREEK ON SR 1509 ODELL LITTLETON ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge No. 16 over Bens Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1509",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764689040000
@@ -5045,7 +5045,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 550055 ON SR 1679 (PEEKS CREEK RD) OVER CULLASAJA  RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Peeks Creek Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1679",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768909800000
@@ -5415,7 +5415,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE ON CANE CRK ON SR-1207, BRIDGE OVER BIG ROCK CRK ON S R-1330, AND BRIDGE OVER BEANS CRK ON SR-1325.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Smith Rowe Bridges 87, 152, 156",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1207",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770896460000
@@ -6251,7 +6251,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TOWN OF CLAYTON",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Town of Clayton Signals (Fulcher)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774865520000

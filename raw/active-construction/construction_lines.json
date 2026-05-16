@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-15T12:26:43.636539+00:00",
+  "pull_timestamp": "2026-05-16T11:41:32.185478+00:00",
   "feature_count": 162,
   "features": [
     {
@@ -13211,7 +13211,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM MILE MARKER 153.20 (NC-148) TO MILE MARKER 167.00.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I95-Rehab-Halifax County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 92.59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1638369540000
@@ -45691,7 +45691,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TWO INTERCHANGES ON US-421.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "GRMS 421 Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1670404260000
@@ -65467,7 +65467,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NC-73 TO WEST OF SR-1241 (HOLLY GROVE SCHOOL RD) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "West End - NC 211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1734438240000
@@ -65970,7 +65970,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-150 FROM SR-1840 (GREENWOOD ROAD) IN CATAWBA COUNTY TO US -21 IN IREDELL COUNTY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R2307B - 150 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1736236680000
@@ -95712,7 +95712,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF SOUTH TRYON ST (NC 49) & GENERAL DRIVE & INT ERSECTION OF SOUTH TRYON ST (NC 49) & NEVADA BLVD (SR 1347)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "South Tryon Intersection Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-49",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753962360000
@@ -128489,7 +128489,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROCK MERRITT AVE FROM NORTH OF BUTNER RD TO NORTH OF BOXCAR ST",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rock Merritt Ft Bragg",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.01,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767109080000
