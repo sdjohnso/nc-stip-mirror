@@ -10,10 +10,10 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 107 |
-| 🚧 Under Construction | 588 |
-| 📋 Right-of-Way | 286 |
-| 📅 Planned | 1,233 |
+| 🏗️ Active Construction | 119 |
+| 🚧 Under Construction | 586 |
+| 📋 Right-of-Way | 278 |
+| 📅 Planned | 1,231 |
 | ✅ Completed | 136 |
 
 ## Counties
@@ -111,7 +111,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Tyrrell](counties/tyrrell/index.md) | 3 (+1) | 0 | 2 |
 | [Union](counties/union/index.md) | 51 (+3) | 0 | 34 |
 | [Vance](counties/vance/index.md) | 14 (+1) | 0 | 13 |
-| [Wake](counties/wake/index.md) | 216 (+4) | 5 | 125 |
+| [Wake](counties/wake/index.md) | 216 (+4) | 17 | 123 |
 | [Warren](counties/warren/index.md) | 8 (+1) | 2 | 5 |
 | [Washington](counties/washington/index.md) | 3 (+1) | 0 | 3 |
 | [Watauga](counties/watauga/index.md) | 15 | 0 | 10 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-17*  
-*Mirror Updated: 2026-05-18*
+*Mirror Updated: 2026-05-19*

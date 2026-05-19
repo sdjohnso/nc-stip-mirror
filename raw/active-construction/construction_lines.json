@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-18T14:23:08.085456+00:00",
+  "pull_timestamp": "2026-05-19T13:47:21.248505+00:00",
   "feature_count": 162,
   "features": [
     {
@@ -32690,7 +32690,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 SHELBY BYPASS FROM EAST OF NC-150 TO WEST OF SR-1001 ( STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 ByPass D/E",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.03,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1694518020000
@@ -58711,7 +58711,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-158 FROM MULTI-LANES NORTH OF US-421/I-40 BUSINESS TO SR- 1965 (BELEWS CREEK ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-158 Widening 421 to Belews Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1722588900000
@@ -69759,7 +69759,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 FROM SR-1180 (BLYTHE ST) TO SR-1173 (WHITE PINE DR)/SR -1186 (DANIEL DR).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Blythe Street To White Pine Dr.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.84,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1739184240000
@@ -91260,7 +91260,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ACCESS ROAD INTO BURKE INDUSTRIAL PARK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Burke Industrial Park Access Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753109340000
@@ -95986,7 +95986,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-65 (BETHANIA-RURAL HALL RD) FROM US-52 TO SR-3983 (NORTHR IDGE PARK DR).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BETHANIA RURAL HALL",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.99,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-65",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755702540000
@@ -127156,7 +127156,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 264 AT NC 43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "43 Waterline Relocation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776424260000

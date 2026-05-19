@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-18T14:23:08.085456+00:00",
+  "pull_timestamp": "2026-05-19T13:47:21.248505+00:00",
   "feature_count": 255,
   "features": [
     {
@@ -535,7 +535,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT NC-72 AND NC-130.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 74 Interchange at NC 72/NC 130",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.98,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680694080000
@@ -1708,7 +1708,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580044 OVER CURTIS CREEK ON US-70 AND BRIDGE #580090  OVER MILL CREEK ON SR-1407.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER CURTIS CREEK / MILL CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1407",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740404160000
@@ -1762,7 +1762,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT BRIDGES # 440245 & # 440186 IN HENDERSON, & # 870066 IN T RANSYLVANIA",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Replace Bridges 440186, 440245, 870066",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.93,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.44,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1528",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741016880000
@@ -1949,7 +1949,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #290076 OVER I-40 ON SR-1436 (PINEBROOK SCHOOL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pinebrook School Road (Davie Co.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.72,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1436",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743510480000
@@ -2887,7 +2887,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100428 ON SR-2429, BRG #100203 ON SR-2416, BRG #100307 ON SR-2426, AND BRG #100424 ON SR-2786.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 10",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569520000
@@ -3801,7 +3801,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #280067 AND #280068 OVER SR-1192 ON US-29/US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over West 5th Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758099000000
@@ -3905,7 +3905,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #170091 OVER THE CATAWBA RIVER ON NC-127 AND BRIDGE # 170139 OVER THE CATAWBA RIVER ON NC-16.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC127/NC16 Bridge Rehabilitation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-127",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758271140000
@@ -4109,7 +4109,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100295 ON SR-1224 OVER I-40 IN BUNCOMBE COUNTY AND B RIDGE #560528 ON US 25/70 IN MADISON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Rehabilitation and LMC Overlay",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1224",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760521320000
@@ -4409,7 +4409,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #108 ON SR 1004 (STOKES FERRY RD) OVER TUCKER TOWN RESERVOIR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stokes Ferry",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.45,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1004",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763377860000
@@ -4916,7 +4916,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "POLK BRIDGE 143 ON SR 1138 (LAKE ADGER ROAD) OVER PANTHER CR EEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768402500000
@@ -6051,7 +6051,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 790254 OVER KERR CREEK ON SR 1547 (CALDWELL ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Caldwell Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1547",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774012620000
