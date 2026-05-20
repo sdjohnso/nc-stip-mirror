@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-19T13:47:21.248505+00:00",
+  "pull_timestamp": "2026-05-20T13:27:53.620224+00:00",
   "feature_count": 162,
   "features": [
     {
@@ -3717,7 +3717,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE NEUSE RIVER BRIDGE TO EAST OF THURMAN RD IN JAMES CITY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "James City Design Build (INFRA)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1572016020000
@@ -4982,7 +4982,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM I-85 IN ORANGE COUNTY TO THE DURHAM COUNTY LINE AND I-40 WESTBOUND IN DURHAM COUNTY NEAR US-15/501.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Hillsborough",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1634222280000
@@ -54797,7 +54797,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROAD WITH BICYCLE/PEDESTRIAN ACCOMMODATIONS FROM SR-1969  (PINEY GROVE ROAD) TO NC-150 (NORTH MAIN STREET).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MACY GROVE EXT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704708900000
@@ -77037,7 +77037,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM TENNESSEE STATE LINE TO WEST OF MM 5.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Gorge Helene CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.67,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741772100000
@@ -114204,7 +114204,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 54 FROM WESTBROOK DR IN CARRBORO TO W OF US15/501/NC 86 I NTCHG IN CHAPEL HILL",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-54",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769682720000

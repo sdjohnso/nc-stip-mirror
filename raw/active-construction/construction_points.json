@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-19T13:47:21.248505+00:00",
-  "feature_count": 255,
+  "pull_timestamp": "2026-05-20T13:27:53.620224+00:00",
+  "feature_count": 254,
   "features": [
     {
       "attributes": {
@@ -119,7 +119,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-29/US-70/I-85 BUSINESS, SR-1009 (S MAIN ST) IN HIGH POINT AND BRIDGE #147 OVER US-311 ON US-29/US-70/I-85 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Main St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.08,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1649686560000
@@ -472,31 +472,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 20851,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204805",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " I-5973    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "I-5973    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 60,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-485 AT NC-16 (BROOKSHIRE BOULEVARD).",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-485 Ramps @ Highway 16 - Sealand",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.56,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-485",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1686845340000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.94052486901262,
-            35.32201972937239
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 27250,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204722",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -822,7 +797,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE 940089 ON SR 1351 (CASTLE FORD ROAD) OVER SOU TH FORK NEW RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Watauga Bridge 89 on Castle Ford Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.09,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1351",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1709280000000
@@ -997,7 +972,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #122 AND #126 OVER TOMS CREEK ON US-52.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 52 Toms Creek Bridges 122 & 126",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1718120760000
@@ -1275,7 +1250,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430243 OVER NC-215 (CHAMPION DRIVE) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridge 243 (Champion Dr)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725350460000
@@ -1300,7 +1275,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 BUSINESS AT SHOTWELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-70 Bus & Shotwell Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1553",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725633480000
@@ -2192,7 +2167,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BP2-R027  ",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "LENOIR BRIDGE 168 OVER BRIERY RUN ON SR 1578",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Replacent Over Briery Run",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Replacement Over Briery Run",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.65,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1578",
@@ -2592,7 +2567,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE BP-006-2064 ON NC 184 AND STRUCTURE 940738 ON NC 1 05",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Avery/Watauga Culverts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.81,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-105,",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747663680000
@@ -2675,7 +2650,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 (SOUTH CHURCH ST) AT SR-1158 (HUFFMAN MILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HUFFMAN MILL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748424660000
@@ -5270,7 +5245,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #850006 OVER NC-268, SOUTHERN RAILROAD TRACKS, AND TH E YADKIN RIVER ON I-77.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Bridge over Yadkin River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770311640000
