@@ -54,4 +54,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-17*  
-*Mirror Updated: 2026-05-20*
+*Mirror Updated: 2026-05-21*

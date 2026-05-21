@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-20T13:27:53.620224+00:00",
-  "feature_count": 254,
+  "pull_timestamp": "2026-05-21T13:51:40.134440+00:00",
+  "feature_count": 256,
   "features": [
     {
       "attributes": {
@@ -813,31 +813,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 50850,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00464",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 24,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1002 (OLD LUMBERTON ROAD) AT STRUCTURE 201 OVER WESTERN P RONG SWAMP",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 201 Old Lumberton Road",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.59,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1002",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1711096500000
-      },
-      "geometry": {
-        "points": [
-          [
-            -78.78826207836993,
-            34.405117513642374
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 53250,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204431",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -1188,7 +1163,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GRADE SEPARATION OF SR-2006 (DURANT ROAD) OVER CSX S LINE RA ILROAD IN RALEIGH.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Durant Road GS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2006",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724411340000
@@ -2003,7 +1978,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #560042 OVER IVY CREEK ON SR-1576 (BEND OF IVY RD) AN D BRIDGE #560304 OVER SR-1183 (UPPER SHUTIN RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "KSCC Bridges Bend of Ivy/Upper Shut in",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1183",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743419280000
@@ -3073,7 +3048,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "VARIOUS LOCATIONS IN WAKE CO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 and Lake Wheeler Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.88,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750949820000
@@ -3934,7 +3909,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON ROAD AT GUY ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Winston and Guy Road Intersection",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1550",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758712440000
@@ -4592,7 +4567,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES ON SR-2109, SR-2115, SR-2173, AND CULVERT ON SR-1390 .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 18",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.77,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1390",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765538280000
@@ -4687,7 +4662,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TOWN OF CLAYTON",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Town of Clayton Signals (TCD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767177420000
@@ -4841,7 +4816,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #770175 OVER LUMBER RIVER ON SR-1600 (W 5TH ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 770175 Over Lumber River W. 5th",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.53,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1600",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767779460000
@@ -6730,6 +6705,81 @@
           [
             -81.83269095777192,
             36.291390614363486
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 168850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DE00396",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HL-0008Q  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HL-0008Q  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1390 (OPTIMIST FARM RD) AND SR 1386 (BELLS LAKE RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "OPTIMIST FARM AND BELLS LAKE ROAD",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1386",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1779111240000
+      },
+      "geometry": {
+        "points": [
+          [
+            -78.74509112411602,
+            35.65973145610547
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 169250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DA00674",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 360007 ON SR 1116 (HARRELLS CHURCH RD) OVER COLE CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #7 over Cole Creek Gates",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1116",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1779116400000
+      },
+      "geometry": {
+        "points": [
+          [
+            -76.78233733435964,
+            36.421771597323065
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 169650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DB00627",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 240043 OVER SWIFT CREEK ON SR 1465 (BEAVER DAM ROAD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Replacement (Craven 43)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1465",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1779209580000
+      },
+      "geometry": {
+        "points": [
+          [
+            -77.26093574818698,
+            35.351659531353285
           ]
         ]
       }

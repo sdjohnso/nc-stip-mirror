@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-20T13:27:53.620224+00:00",
+  "pull_timestamp": "2026-05-21T13:51:40.134440+00:00",
   "feature_count": 162,
   "features": [
     {
@@ -34455,7 +34455,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE HAVELOCK BYPASS TO EAST OF SR-1116 (THURMAN R D).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "C - Havelock to Thurman",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680003300000
@@ -63787,7 +63787,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 FROM ASHEBORO BYPASS TO EAST OF I-73/I-74/US-220.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64/220 WIDENING & INTERCHANGE IMP",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725031800000
@@ -83987,7 +83987,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/US-23 BUS (HAYWOOD RD) FROM US-19/US-23/US-74 (PATTON AVE) TO RIDGELAWN RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Haywood Rd - Patton to Ridgelawn",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.65,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743003900000
@@ -112611,7 +112611,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1725(UNIVERSITY PARKWAY/CHERRYST) AT WEST 14TH STREET IN WINSTON SALEM",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "University Parkway at W 14th St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1725",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768576260000
