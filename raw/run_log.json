@@ -1,50 +1,5 @@
 [
   {
-    "start_time": "2026-04-26T13:08:28.494698+00:00",
-    "update_type": "weekly",
-    "scripts_run": [
-      {
-        "name": "STIP",
-        "success": true,
-        "duration": 9.043210744857788
-      },
-      {
-        "name": "Active Construction",
-        "success": true,
-        "duration": 4.680092811584473
-      },
-      {
-        "name": "ProgLoc",
-        "success": true,
-        "duration": 2.7732274532318115
-      },
-      {
-        "name": "Detect Removed",
-        "success": true,
-        "duration": 0.29923129081726074
-      },
-      {
-        "name": "Generate Markdown",
-        "success": true,
-        "duration": 0.6515910625457764
-      },
-      {
-        "name": "Build Indexes",
-        "success": true,
-        "duration": 0.3201906681060791
-      }
-    ],
-    "errors": [],
-    "success": true,
-    "end_time": "2026-04-26T13:08:46.263633+00:00",
-    "total_duration": 17.768935,
-    "counts": {
-      "stip_projects": 2356,
-      "construction_contracts": 64,
-      "progloc_contracts": 816
-    }
-  },
-  {
     "start_time": "2026-04-27T12:14:22.078194+00:00",
     "update_type": "daily",
     "scripts_run": [
@@ -980,6 +935,36 @@
     "success": true,
     "end_time": "2026-05-21T13:51:46.916334+00:00",
     "total_duration": 7.040155,
+    "counts": {
+      "stip_projects": 2356,
+      "construction_contracts": 61,
+      "progloc_contracts": 828
+    }
+  },
+  {
+    "start_time": "2026-05-22T13:19:32.499578+00:00",
+    "update_type": "daily",
+    "scripts_run": [
+      {
+        "name": "Active Construction",
+        "success": true,
+        "duration": 5.1700966358184814
+      },
+      {
+        "name": "Generate Markdown",
+        "success": true,
+        "duration": 0.6451840400695801
+      },
+      {
+        "name": "Build Indexes",
+        "success": true,
+        "duration": 0.3119187355041504
+      }
+    ],
+    "errors": [],
+    "success": true,
+    "end_time": "2026-05-22T13:19:38.627600+00:00",
+    "total_duration": 6.128022,
     "counts": {
       "stip_projects": 2356,
       "construction_contracts": 61,

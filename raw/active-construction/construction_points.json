@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-21T13:51:40.134440+00:00",
+  "pull_timestamp": "2026-05-22T13:19:33.361314+00:00",
   "feature_count": 256,
   "features": [
     {
@@ -456,7 +456,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-87 AT NC-11 CONSTRUCT INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC87/NC11 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690277280000
@@ -1059,7 +1059,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #248 AND #249 OVER SR-1613 (BEAVERDAM RD) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridges 248 / 249 (Beaverdam Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721323560000
@@ -2675,7 +2675,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US NORTH AND SOUTHBOUND IN STOKES CO FROM LITTLE YADKIN RIVE R BRIDGES(#29 & 30) TO THE SURRY CO LINE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US  Ultra-thin, N of Little Yadkin River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.72,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748872860000
@@ -2874,7 +2874,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990173 OVER MIDDLE CREEK ON SR-1159, AND BRIDGE #990 156 OVER COLBERT CREEK ON SR-1158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 14",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569580000
@@ -2903,7 +2903,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990157 OVER ELK SHOAL CREEK ON SR-1388 AND BRIDGES # 990233, #990192, AND #990193 OVER PIGPEN CREEK ON SR-1333.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 17",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.02,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569880000
@@ -2940,7 +2940,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100115 ON SR-2789, BRIDGE #100308 ON SR-2419, AND BR IDGE #100380 ON SR-2432.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 15",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569700000
@@ -3780,7 +3780,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430236 OVER SR-1513 ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Thickety Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758112740000
@@ -3884,7 +3884,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #630036 OVER FISHING CREEK ON NC-561.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE 36 FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-561",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758625140000
@@ -4034,7 +4034,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 279 ON SR 1832 (EAGLE MILL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Eagle Mills Rd Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1832",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760115480000
@@ -4084,7 +4084,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #860008 OVER LITTLE TENNESSEE RIVER ON US-19/74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Fontana Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761041760000
@@ -5245,7 +5245,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT # BP-005-2831 ON SR 1577 (JAKE BLACKBURN ROAD) OVER LITTLE PHOENIX CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Jake Blackburn Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.93,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1577",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770806700000

@@ -20,12 +20,12 @@
 | [B-6051](B-6051.md) | BRIDGE 350091 OVER CATAWBA RIVER. REPLACE BRIDGE. | US 29 / US 74 | 📋 Right-of-Way |
 | [BL-0033](BL-0033.md) | SR 1534 (Pine Springs Drive) to Tryon Elementar... | NC 274 (Tryon Courthou... | 📅 Planned |
 | [C-4934](C-4934.md) | Burtonwood Drive to SR 2466 (Garrison Boulevard... | NC 279 (New Hope Road) | 🚧 Under Construction |
-| [C-5606B](C-5606B.md) | South 13th Street to South 14th Street in Besse... | NC 161 | 🏗️ Active Construction (59%) |
-| [C-5606D](C-5606D.md) | Locations along US 321 Business and NC 275 / NC... | Various | 🏗️ Active Construction (59%) |
-| [C-5606E](C-5606E.md) | Technology Park to Gaston College near Gastonia... | New Route | 🏗️ Active Construction (59%) |
-| [C-5606J](C-5606J.md) | George Poston Parkway to end of park limits nea... | SR 2201 (Lowell Spence... | 🏗️ Active Construction (59%) |
-| [C-5606K](C-5606K.md) | Rankin Lake to Tech Park Greenway near Gastonia... | New Route | 🏗️ Active Construction (59%) |
-| [C-5606M](C-5606M.md) | Existing sidewalk at Marth Rivers Park to exist... | SR 2400 (Neal Hawkins ... | 🏗️ Active Construction (59%) |
+| [C-5606B](C-5606B.md) | South 13th Street to South 14th Street in Besse... | NC 161 | 🏗️ Active Construction (61%) |
+| [C-5606D](C-5606D.md) | Locations along US 321 Business and NC 275 / NC... | Various | 🏗️ Active Construction (61%) |
+| [C-5606E](C-5606E.md) | Technology Park to Gaston College near Gastonia... | New Route | 🏗️ Active Construction (61%) |
+| [C-5606J](C-5606J.md) | George Poston Parkway to end of park limits nea... | SR 2201 (Lowell Spence... | 🏗️ Active Construction (61%) |
+| [C-5606K](C-5606K.md) | Rankin Lake to Tech Park Greenway near Gastonia... | New Route | 🏗️ Active Construction (61%) |
+| [C-5606M](C-5606M.md) | Existing sidewalk at Marth Rivers Park to exist... | SR 2400 (Neal Hawkins ... | 🏗️ Active Construction (61%) |
 | [C-5622](C-5622.md) | Sims Legion Park to Bulb Avenue in Gastonia. Co... | Highland Branch Greenway | 🚧 Under Construction |
 | [C-5704](C-5704.md) | Paved trail at South Fork Village in Cramerton ... | Cramerton-McAdenville ... | 📅 Planned |
 | [EB-5531](EB-5531.md) | Chadwick Court to Kaiser Road; 12th Street to 1... | 12th Street; Yellow Ja... | 📅 Planned |
@@ -79,4 +79,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-17*  
-*Mirror Updated: 2026-05-21*
+*Mirror Updated: 2026-05-22*

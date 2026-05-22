@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-21T13:51:40.134440+00:00",
+  "pull_timestamp": "2026-05-22T13:19:33.361314+00:00",
   "feature_count": 61,
   "features": [
     {
@@ -15,7 +15,7 @@
         "LocationsDescription": "GASTONIA CITYWIDE SIGNAL SYSTEM UPGRADE AND CCTV CAMERAS.",
         "ContractNickname": "Gastonia Signal System - MB Haynes",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 59.12,
+        "CompletionPercent": 60.99,
         "Route": "SR-1",
         "PhysicalDivisionNumber": 12,
         "ContractActiveDate": 1665575340000
@@ -780,7 +780,7 @@
         "LocationsDescription": "VARIOUS PRIMARY AND SECONDARY ROUTES",
         "ContractNickname": "LONG LIFE PAVEMENT MARKINGS 2024",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 25.17,
+        "CompletionPercent": 47.54,
         "Route": "NC-108",
         "PhysicalDivisionNumber": 13,
         "ContractActiveDate": 1737562260000
