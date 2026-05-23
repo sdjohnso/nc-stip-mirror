@@ -6,10 +6,10 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 5 |
-| 🚧 Under Construction | 54 |
-| 📋 Right-of-Way | 31 |
-| 📅 Planned | 125 |
+| 🏗️ Active Construction | 17 |
+| 🚧 Under Construction | 52 |
+| 📋 Right-of-Way | 23 |
+| 📅 Planned | 123 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -61,18 +61,18 @@
 | [HE-0010](HE-0010.md) | SR 1127 (New Hill - Holleman Road) interchange;... | US 1; SR 1127 (New Hil... | 📅 Planned |
 | [HL-0006](HL-0006.md) | SR 1393 (Hilltop-Needmore Road) / SR 2751 (Hill... | US 401 | 📋 Right-of-Way |
 | [HL-0007](HL-0007.md) | SR 1191 (Technology Drive) / SR 6107 (East Will... | NC 55 | 📅 Planned |
-| [HL-0008C](HL-0008C.md) | SR 2812 (Timber Drive) intersection in Garner. ... | NC 50 (Benson Road) | 🚧 Under Construction |
-| [HL-0008D](HL-0008D.md) | SR 1301 (Sunset Lake Road) intersection in Holl... | SR 1152 (Holly Springs... | 📋 Right-of-Way |
-| [HL-0008F](HL-0008F.md) | SR 1006 (Old Stage Road) intersection in Garner... | SR 1010 (Ten Ten Road) | 📅 Planned |
-| [HL-0008G](HL-0008G.md) | SR 1393 (Hilltop-Needmore Road) intersection in... | SR 1375 (Lake Wheeler ... | 📋 Right-of-Way |
-| [HL-0008H](HL-0008H.md) | SR 1375 (Simpkins Road) / Simpkins Farm Lane in... | SR 1371 (Lake Wheeler ... | 🚧 Under Construction |
-| [HL-0008I](HL-0008I.md) | SR 2736 (Rock Service Station Road) intersectio... | SR 1006 (Old Stage Road) | 📋 Right-of-Way |
-| [HL-0008J](HL-0008J.md) | SR 2728 (Rand Road) intersection in Garner. Con... | NC 50 | 📋 Right-of-Way |
-| [HL-0008L](HL-0008L.md) | SR 1386 (Bells Lake Road) / SR 1386 (Graham New... | SR 1010 (Ten Ten Road) | 📋 Right-of-Way |
-| [HL-0008O](HL-0008O.md) | SR 2735 (Johnston Road) intersection in Raleigh... | NC 42 | 📋 Right-of-Way |
-| [HL-0008P](HL-0008P.md) | NC 50 (Benson Road) intersection in Garner. Con... | SR 1010 (Ten Ten Road) | 📋 Right-of-Way |
-| [HL-0008Q](HL-0008Q.md) | SR 1386 (Bells Lake Road) intersection in Apex.... | SR 1390 (Optimist Farm... | 📋 Right-of-Way |
-| [HL-0008S](HL-0008S.md) | SR 1382 (Olde South Road) intersection in Ralei... | SR 1379 (Penny Road) | 📅 Planned |
+| [HL-0008C](HL-0008C.md) | SR 2812 (Timber Drive) intersection in Garner. ... | NC 50 (Benson Road) | 🏗️ Active Construction (0%) |
+| [HL-0008D](HL-0008D.md) | SR 1301 (Sunset Lake Road) intersection in Holl... | SR 1152 (Holly Springs... | 🏗️ Active Construction (0%) |
+| [HL-0008F](HL-0008F.md) | SR 1006 (Old Stage Road) intersection in Garner... | SR 1010 (Ten Ten Road) | 🏗️ Active Construction (0%) |
+| [HL-0008G](HL-0008G.md) | SR 1393 (Hilltop-Needmore Road) intersection in... | SR 1375 (Lake Wheeler ... | 🏗️ Active Construction (0%) |
+| [HL-0008H](HL-0008H.md) | SR 1375 (Simpkins Road) / Simpkins Farm Lane in... | SR 1371 (Lake Wheeler ... | 🏗️ Active Construction (0%) |
+| [HL-0008I](HL-0008I.md) | SR 2736 (Rock Service Station Road) intersectio... | SR 1006 (Old Stage Road) | 🏗️ Active Construction (0%) |
+| [HL-0008J](HL-0008J.md) | SR 2728 (Rand Road) intersection in Garner. Con... | NC 50 | 🏗️ Active Construction (0%) |
+| [HL-0008L](HL-0008L.md) | SR 1386 (Bells Lake Road) / SR 1386 (Graham New... | SR 1010 (Ten Ten Road) | 🏗️ Active Construction (0%) |
+| [HL-0008O](HL-0008O.md) | SR 2735 (Johnston Road) intersection in Raleigh... | NC 42 | 🏗️ Active Construction (0%) |
+| [HL-0008P](HL-0008P.md) | NC 50 (Benson Road) intersection in Garner. Con... | SR 1010 (Ten Ten Road) | 🏗️ Active Construction (0%) |
+| [HL-0008Q](HL-0008Q.md) | SR 1386 (Bells Lake Road) intersection in Apex.... | SR 1390 (Optimist Farm... | 🏗️ Active Construction (0%) |
+| [HL-0008S](HL-0008S.md) | SR 1382 (Olde South Road) intersection in Ralei... | SR 1379 (Penny Road) | 🏗️ Active Construction (0%) |
 | [HL-0027](HL-0027.md) | US 401 to SR 1431 (Products Road) in Fuquay-Var... | SR 1301 (Sunset Lake R... | 📋 Right-of-Way |
 | [HL-0028](HL-0028.md) | SR 1404 (Mill Creek Drive) / Ideal Lane interse... | US 401 | 🚧 Under Construction |
 | [HL-0029](HL-0029.md) | SR 1115 (Avent Ferry Road) to South Main Street... | NC 55 | 🚧 Under Construction |
@@ -248,4 +248,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-17*  
-*Mirror Updated: 2026-05-22*
+*Mirror Updated: 2026-05-23*

@@ -6,9 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 2 |
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 13 |
-| 📋 Right-of-Way | 8 |
+| 📋 Right-of-Way | 9 |
 | 📅 Planned | 43 |
 | ✅ Completed | 1 |
 
@@ -81,7 +81,7 @@
 | [U-6202](U-6202.md) | US 17 Business (Market Street) to I-40. Widen t... | SR 2048 (Gordon Road) | 🚧 Under Construction |
 | [U-6233](U-6233.md) | Hamlet Avenue intersection in Carolina Beach. C... | US 421 (Lake Park Boul... | 📋 Right-of-Way |
 | [U-6235](U-6235.md) | Routes in Wilmington. Traffic signal pre-emptio... | Various | 📅 Planned |
-| [W-5703C](W-5703C.md) | US 117 / NC 132 (College Road) to 200 feet nort... | US 421 (Carolina Beach... | 🏗️ Active Construction (0%) |
+| [W-5703C](W-5703C.md) | US 117 / NC 132 (College Road) to 200 feet nort... | US 421 (Carolina Beach... | 📋 Right-of-Way |
 | [W-5803A](W-5803A.md) | US 17 (Military Cutoff Road) and Cavalier Drive... | US 74 (Eastwood Road) | 🚧 Under Construction |
 
 ## Projects Spanning This County
@@ -97,4 +97,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-17*  
-*Mirror Updated: 2026-05-22*
+*Mirror Updated: 2026-05-23*
