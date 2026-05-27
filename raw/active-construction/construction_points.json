@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-26T13:43:54.273557+00:00",
-  "feature_count": 256,
+  "pull_timestamp": "2026-05-27T14:15:37.190226+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -585,7 +585,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 AND US-70 BUSINESS (MARKET STREET), EXIT 95 INTERCHANGE  FROM OUTLET CENTER DRIVE TO WEST OF YELVERTON GROVE ROAD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95, Exit 95 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703235060000
@@ -1849,7 +1849,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 55 ON SR 1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Finger Bridge Road Catawba County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742388420000
@@ -2119,7 +2119,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #840082 OVER THE DAN RIVER ON SR-1674 (SHEPPARD MILL ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DAN RIVER BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1674",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744208340000
@@ -2447,7 +2447,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 940095, BRIDGE 940178, BRIDGE 940258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Watauga 95, 178, & 258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1214",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747120740000
@@ -3331,7 +3331,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACEMENT OF BRIDGE 960280 OVER CAMP BRANCH ON SR 1952 (OA K RIDGE CHURCH ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oak Ridge Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.15,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1952",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754406000000
@@ -3726,7 +3726,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WILKES 221 ON SR 1939 (BILLINGS HILL CHURCH ROAD) OVER SPARK S CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Billings Hill Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1939",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757923980000
@@ -4234,7 +4234,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 77 ON AVENT RD/ITA RD OVER FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sanford Fishing Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 62.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1506",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761749760000
@@ -5610,7 +5610,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 87 AT NC 131",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Flasher Signal Tarheel",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772450760000
@@ -5951,7 +5951,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #220075 ON NC-226 (POLKVILLE ROAD) OVER HINTON CREEK.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HINTON CREEK BRIDGE #75",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773996480000
@@ -6780,6 +6780,31 @@
           [
             -78.15710051000411,
             35.209194866239486
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 170450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205038",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HL-0008I  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HL-0008I  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF SR-1006 (OLD STAGE RD) AND SR-2736 (ROCK SER VICE STATION RD).",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Stage",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1006",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1779464400000
+      },
+      "geometry": {
+        "points": [
+          [
+            -78.67149021660951,
+            35.634407765330636
           ]
         ]
       }

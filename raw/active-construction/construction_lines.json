@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-26T13:43:54.273557+00:00",
-  "feature_count": 161,
+  "pull_timestamp": "2026-05-27T14:15:37.190226+00:00",
+  "feature_count": 160,
   "features": [
     {
       "attributes": {
@@ -11793,7 +11793,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM SR-1500 (MIDWAY RD) TO NC-87.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-211 From SR 1500 to NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1643618340000
@@ -31936,7 +31936,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1339 (ROARING BRANCH ROAD) FROM SR 1340 (WEST MILL CREEK ROAD) TO SR 1332 (JACK JONES ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roaring Branch Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1339",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1692031980000
@@ -39752,7 +39752,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-143 FROM SR-1223 (BEECH CREEK RD) TO 0.5 MILES NORTH OF A PPALACHIAN TRAIL.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1668675180000
@@ -48230,7 +48230,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM SOUTH OF NC-20 TO SOUTH OF PROPOSED I-295.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 (From S of NC 20 to I-295 )",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1661511300000
@@ -48860,7 +48860,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM MILEMARKER 45.25 TO MILEMARKER 50.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Pavement Rehab MM 45.25 to MM 50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.94,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687451220000
@@ -52809,7 +52809,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ALONG US 25 BUS S. FROM APPROXIMATELY 220 FEET SOUTH OF 9TH AVENUE WEST TO US 25 (S. MAIN ST.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Resurfacing,Curb & Gutter,Sidewalk",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.93,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 84.41,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-25 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1702548180000
@@ -56106,7 +56106,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1100 (BRAWLEY SCHOOL RD) FROM I-77 TO US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Brawley School",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1100",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708964940000
@@ -67852,7 +67852,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-276 (JONATHAN CREEK RD) FROM US-19 TO 0.5 MILES SOUTH OF I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-276 Jonathan Creek Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.62,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-276",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1737534960000
@@ -87507,7 +87507,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON-SALEM NORTHERN BELTWAY, EASTERN SECTION (FUTURE I-74 ); FROM US 311 TO SR 2211 (BAUX MOUNTAIN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "( I-74 ) Noise Wall",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753257300000
@@ -103487,7 +103487,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-9 FROM 2700' NORTH OF THE US 74A / NC-9 INTERSECTION TO T HE BUNCOMBE COUNTY LINE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 9 - UPPER SECTION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.94,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1759220940000
@@ -104875,41 +104875,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 93062,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DE00412",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 73,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1176 NEWTON PLEASANT LOOP RD",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Newton Pleasant Loop Pipe Replacement",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.89,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1176",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760346360000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -79.1193293244054,
-              36.353262442121576
-            ],
-            [
-              -79.11919724357153,
-              36.35333958917025
-            ],
-            [
-              -79.1190591175695,
-              36.35342026802832
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 93461,
         "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DC00482",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -104966,7 +104931,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1102 (GILLIS HILL RD) FROM SOUTH OF CELTIC DR TO NORTH OF  SR-1112 (STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gillis B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761731520000
@@ -105441,7 +105406,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1818 (JOHNSON ST)/SR-1850 (SANDY RIDGE RD) FROM SR-1820 ( SKEET CLUB RD) TO SOUTH OF I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sandy Ridge - Johnston St.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1818",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763725140000
@@ -109688,7 +109653,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS SITES ALONG SR 1594 & SR 1569 BEARWALLOW MOUNTAIN  RD BETWEEN US74A AND OLD CLEAR CREEK RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bearwallow Mtn Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1594",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768468680000
@@ -124131,7 +124096,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2415 (BAILEY RD) FROM POOLE PLACE DR TO US-21 (STATESVILL E RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bailey Road Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2415",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776096600000

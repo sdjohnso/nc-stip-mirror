@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-26T13:43:54.273557+00:00",
+  "pull_timestamp": "2026-05-27T14:15:37.190226+00:00",
   "feature_count": 60,
   "features": [
     {
@@ -19,23 +19,6 @@
         "Route": "SR-1",
         "PhysicalDivisionNumber": 12,
         "ContractActiveDate": 1665575340000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 190,
-        "ContractNumber": "C205038",
-        "ContractType": "Other",
-        "TipReference": " HL-0008I  ",
-        "TIP": "HL-0008I  ",
-        "CountyNumber": 92,
-        "LocationsDescription": "INTERSECTION OF SR-1006 (OLD STAGE RD) AND SR-2736 (ROCK SER VICE STATION RD).",
-        "ContractNickname": "Old Stage",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1006",
-        "PhysicalDivisionNumber": 5,
-        "ContractActiveDate": 1779464400000
       }
     },
     {
@@ -363,7 +346,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 298,
+        "OBJECTID": 297,
         "ContractNumber": "DF00470",
         "ContractType": "Other",
         "TipReference": " HS-2006H  , HS-2006M  , HS-2006W  , HS-2006Y  , SS-6006BE , SS-6206AH ",
@@ -380,7 +363,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 302,
+        "OBJECTID": 301,
         "ContractNumber": "DF00493",
         "ContractType": "Other",
         "TipReference": " BO-2406A  ",
@@ -397,7 +380,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 304,
+        "OBJECTID": 303,
         "ContractNumber": "DF00501",
         "ContractType": "Other",
         "TipReference": " HS-2046J  , HS-2406A  , HS-2406G  , HS-2406L  ",
@@ -414,7 +397,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 311,
+        "OBJECTID": 310,
         "ContractNumber": "DF00524",
         "ContractType": "Other",
         "TipReference": " HS-2406C  , HS-2406D  , HS-2406E  , HS-2406F  , HS-2406O  , HS-2406P  , HS-2406Q  ",
@@ -431,7 +414,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 312,
+        "OBJECTID": 311,
         "ContractNumber": "DF00525",
         "ContractType": "Other",
         "TipReference": " HS-2406I  ",
@@ -448,7 +431,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 326,
+        "OBJECTID": 325,
         "ContractNumber": "DG00677",
         "ContractType": "Other",
         "TipReference": null,
@@ -465,7 +448,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 328,
+        "OBJECTID": 327,
         "ContractNumber": "DH00571",
         "ContractType": "Other",
         "TipReference": " BO-2408A  ",
@@ -482,7 +465,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 333,
+        "OBJECTID": 332,
         "ContractNumber": "DH00584",
         "ContractType": "Other",
         "TipReference": " BO-2408D  ",
@@ -499,7 +482,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 334,
+        "OBJECTID": 333,
         "ContractNumber": "DH00585",
         "ContractType": "Other",
         "TipReference": " BO-2408E  ",
@@ -516,7 +499,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 335,
+        "OBJECTID": 334,
         "ContractNumber": "DH00586",
         "ContractType": "Other",
         "TipReference": " BO-2408F  ",
@@ -533,7 +516,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 336,
+        "OBJECTID": 335,
         "ContractNumber": "DH00587",
         "ContractType": "Other",
         "TipReference": null,
@@ -550,7 +533,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 338,
+        "OBJECTID": 337,
         "ContractNumber": "DH00593",
         "ContractType": "Other",
         "TipReference": " BO-2408C  ",
@@ -567,7 +550,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 339,
+        "OBJECTID": 338,
         "ContractNumber": "DH00596",
         "ContractType": "Other",
         "TipReference": null,
@@ -584,7 +567,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 340,
+        "OBJECTID": 339,
         "ContractNumber": "DH00597",
         "ContractType": "Other",
         "TipReference": null,
@@ -593,7 +576,7 @@
         "LocationsDescription": "VARIOUS",
         "ContractNickname": "Fred Smith-Chatham AST 2026",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 8.94,
+        "CompletionPercent": 15.15,
         "Route": "NC-751",
         "PhysicalDivisionNumber": 8,
         "ContractActiveDate": 1768465860000
@@ -601,7 +584,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 341,
+        "OBJECTID": 340,
         "ContractNumber": "DH00598",
         "ContractType": "Other",
         "TipReference": " BO-2408I  ",
@@ -618,7 +601,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 342,
+        "OBJECTID": 341,
         "ContractNumber": "DH00599",
         "ContractType": "Other",
         "TipReference": null,
@@ -635,7 +618,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 353,
+        "OBJECTID": 352,
         "ContractNumber": "DI00376",
         "ContractType": "Other",
         "TipReference": null,
@@ -652,7 +635,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 354,
+        "OBJECTID": 353,
         "ContractNumber": "DI00377",
         "ContractType": "Other",
         "TipReference": null,
@@ -669,7 +652,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 356,
+        "OBJECTID": 355,
         "ContractNumber": "DI00379",
         "ContractType": "Other",
         "TipReference": null,
@@ -686,7 +669,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 357,
+        "OBJECTID": 356,
         "ContractNumber": "DI00380",
         "ContractType": "Other",
         "TipReference": null,
@@ -703,7 +686,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 358,
+        "OBJECTID": 357,
         "ContractNumber": "DI00382",
         "ContractType": "Other",
         "TipReference": " HS-2409D  , HS-2409F  , HS-2409G  , HS-2409H  , HS-2409I  , HS-2409J  ",
@@ -720,7 +703,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 361,
+        "OBJECTID": 360,
         "ContractNumber": "DJ00556",
         "ContractType": "Other",
         "TipReference": " BO-2410C  ",
@@ -733,6 +716,23 @@
         "Route": "US-52",
         "PhysicalDivisionNumber": 10,
         "ContractActiveDate": 1744639080000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 399,
+        "ContractNumber": "DK00474",
+        "ContractType": "Other",
+        "TipReference": " HS-2411G  ",
+        "TIP": "HS-2411G  ",
+        "CountyNumber": 97,
+        "LocationsDescription": "2 SECTIONS OF US 421 IN WILKES COUNTY",
+        "ContractNickname": "US 421 Open Graded Friction Course",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "US-421",
+        "PhysicalDivisionNumber": 11,
+        "ContractActiveDate": 1779807540000
       }
     },
     {
@@ -797,7 +797,7 @@
         "LocationsDescription": "ALONG VARIOUS ROUTES THROUGHOUT TRANSYLVANIA COUNTY",
         "ContractNickname": "Transylvania-Resurfacing, Curb Ramps",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 90.87,
+        "CompletionPercent": 91.13,
         "Route": "US-VARI",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1702552140000
@@ -814,7 +814,7 @@
         "LocationsDescription": "AT VARIOUS LOCATIONS ALONG US-176 IN HENDERSON COUNTY",
         "ContractNickname": "Emergency Repair-Drainage,Erosion,Grade,",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 70.17,
+        "CompletionPercent": 71.0,
         "Route": "US-176",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1744801020000
@@ -1018,7 +1018,7 @@
         "LocationsDescription": "AT VARIOUS SITES ALONG US-176 AND SEVERAL SECONDARY ROUTES",
         "ContractNickname": "US76 TOWN",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 23.5,
+        "CompletionPercent": 38.14,
         "Route": "US-176",
         "PhysicalDivisionNumber": 14,
         "ContractActiveDate": 1773650640000
