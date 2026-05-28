@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-27T14:15:37.190226+00:00",
-  "feature_count": 160,
+  "pull_timestamp": "2026-05-28T14:25:21.313065+00:00",
+  "feature_count": 159,
   "features": [
     {
       "attributes": {
@@ -68886,7 +68886,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1556 (GALLIMORE DAIRY RD) FROM NC-68 TO SOUTH OF AIRPARK RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Gallimore Dairy Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.67,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1556",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738946280000
@@ -84254,245 +84254,6 @@
             [
               -80.7675385643708,
               35.59920589315783
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 78661,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DN01090",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 88,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ALONG SR-1538 (BECKY MOUNTAIN RD) FROM MP 0.7 TO MP 0.76 IN TRANSYLVANIA CO.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Emergency Repair-Becky Mtn. Rd.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.26,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1538",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744902480000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -82.71398831017105,
-              35.19912824276881
-            ],
-            [
-              -82.71399165792833,
-              35.19912430573017
-            ],
-            [
-              -82.71401830637716,
-              35.199090054246966
-            ],
-            [
-              -82.71404322401375,
-              35.19905493491874
-            ],
-            [
-              -82.71406188177399,
-              35.19902625497753
-            ],
-            [
-              -82.71408357850989,
-              35.1989897218336
-            ],
-            [
-              -82.71410343232513,
-              35.19895249197409
-            ],
-            [
-              -82.71411796548948,
-              35.19892224538087
-            ],
-            [
-              -82.71413442025954,
-              35.19888391481884
-            ],
-            [
-              -82.71414620147895,
-              35.19885287240909
-            ],
-            [
-              -82.71415916823504,
-              35.19881365032567
-            ],
-            [
-              -82.7141701699793,
-              35.19877402491423
-            ],
-            [
-              -82.71417754150268,
-              35.198742078798276
-            ],
-            [
-              -82.71418362991955,
-              35.19870995201444
-            ],
-            [
-              -82.71418843555526,
-              35.19867767881514
-            ],
-            [
-              -82.71419194601198,
-              35.1986452936987
-            ],
-            [
-              -82.71419514735811,
-              35.198604997828745
-            ],
-            [
-              -82.71419938124916,
-              35.19857319951006
-            ],
-            [
-              -82.71420547410055,
-              35.19854160481432
-            ],
-            [
-              -82.71420921339843,
-              35.198525904352785
-            ],
-            [
-              -82.71421568011446,
-              35.19850250805233
-            ],
-            [
-              -82.71422317055001,
-              35.19847931766426
-            ],
-            [
-              -82.71422872908393,
-              35.19846398537198
-            ],
-            [
-              -82.71423473472203,
-              35.19844876913163
-            ],
-            [
-              -82.7142445757858,
-              35.198426177678904
-            ],
-            [
-              -82.71425540003753,
-              35.198403892395426
-            ],
-            [
-              -82.71427134526446,
-              35.19837470313749
-            ],
-            [
-              -82.71428338868543,
-              35.19835486208317
-            ],
-            [
-              -82.7142999475941,
-              35.19832999656455
-            ],
-            [
-              -82.71429984290398,
-              35.19832182140114
-            ],
-            [
-              -82.71429818469237,
-              35.19830553446573
-            ],
-            [
-              -82.71429460492944,
-              35.19828945538223
-            ],
-            [
-              -82.71429210560363,
-              35.19828154311219
-            ],
-            [
-              -82.71428571877318,
-              35.19826606087614
-            ],
-            [
-              -82.71427753097211,
-              35.19825116170429
-            ],
-            [
-              -82.71426762114716,
-              35.19823698660751
-            ],
-            [
-              -82.71425607979883,
-              35.19822366622433
-            ],
-            [
-              -82.71424301718211,
-              35.19821133000558
-            ],
-            [
-              -82.71422855731406,
-              35.19820009115458
-            ],
-            [
-              -82.71422084487612,
-              35.19819491744587
-            ],
-            [
-              -82.7142045504183,
-              35.198185525602675
-            ],
-            [
-              -82.71418722146316,
-              35.19817747549536
-            ],
-            [
-              -82.71416902193891,
-              35.19817084411288
-            ],
-            [
-              -82.71415012496345,
-              35.198165692772896
-            ],
-            [
-              -82.71413070550749,
-              35.19816207300918
-            ],
-            [
-              -82.71412085868558,
-              35.19816084827308
-            ],
-            [
-              -82.7141010059916,
-              35.198159584572934
-            ],
-            [
-              -82.7140754383166,
-              35.19814730416327
-            ],
-            [
-              -82.71405903804327,
-              35.19813826746678
-            ],
-            [
-              -82.71404320051225,
-              35.19812858194847
-            ],
-            [
-              -82.7140279619996,
-              35.19811826739974
-            ],
-            [
-              -82.71400631011304,
-              35.19810167272786
-            ],
-            [
-              -82.71399273022408,
-              35.19808989897627
-            ],
-            [
-              -82.71398928664166,
-              35.198086602213685
             ]
           ]
         ]
@@ -113950,7 +113711,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "1-40 WESTBOUND AT MILE MARKER 67.4",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "TRENCHLESS PIPE INSTALLATION I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.68,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770996600000
@@ -114060,7 +113821,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "APPROXIMATELY 0.07 MILES NORTH OF SR 1153 MP 6.25 TO MP 32.8 2 ON US 221 IN MCDOWELL COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Guardrail End Units McDowell",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-221",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771327080000

@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-27T14:15:37.190226+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-05-28T14:25:21.313065+00:00",
+  "feature_count": 256,
   "features": [
     {
       "attributes": {
@@ -743,7 +743,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #94008 ON SR 1227 (NORTH FORK ROAD) AND CULVERT #9423 07 ON SR 1233 OVER NORTH FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "North Fork Rd Bridge and Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1227",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708528680000
@@ -753,35 +753,6 @@
           [
             -81.77016480325322,
             36.31978546126638
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 48050,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204488",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 20,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #190009 AND #190010 OVER NOTTELY RIVER AND GRAVEL RD ON US-64 & US-74.",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64 Bridge Preservation (Cherokee Co.)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.84,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708957860000
-      },
-      "geometry": {
-        "points": [
-          [
-            -84.11454503281242,
-            35.02751214458296
-          ],
-          [
-            -84.11467070608339,
-            35.027360265444855
           ]
         ]
       }
@@ -1953,7 +1924,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 (FUTURE I-74) AT INTERCHANGE WITH US-1 (EXIT 311).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2025 US-74 Interchange w/US-1  Rich. Co.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743080580000
@@ -3106,7 +3077,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #400224 OVER SOUTH BUFFALO CREEK ON SR-3000 (MCCONNEL L RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "MCCONNELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3000",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1752141780000
@@ -3156,7 +3127,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #58 OVER US-64 ON NC-109.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC109 & HWY 64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753359120000
@@ -3805,7 +3776,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 46 ON SR 1364 (COLEMAN MOUNTAIN ROAD) OVER JONATHAN C REEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Coleman Mountain Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.62,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1364",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758200940000
@@ -5406,7 +5377,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US-64/US-74A (WEST MOUNTAIN ST) AND NORTH WA SHINGTON ST.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Corner BBQ",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771252020000
@@ -5868,7 +5839,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-197",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "197S EWP1-Bridges 135, 136, 287",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.78,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773318900000
