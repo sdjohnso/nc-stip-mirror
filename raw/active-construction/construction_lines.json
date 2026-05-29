@@ -1,188 +1,9 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-05-28T14:25:21.313065+00:00",
-  "feature_count": 159,
+  "pull_timestamp": "2026-05-29T13:52:24.559075+00:00",
+  "feature_count": 158,
   "features": [
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 11,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C203567",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-3308    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-3308    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 32,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 (ALSTON AVE) FROM NC-147 (BUCK DEAN FREEWAY) TO NORTH OF US-70BUS/NC-98 (HOLLOWAY ST).",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 55 (Alston Avenue) Widening in Durham",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.74,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1472045100000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -78.89045862701958,
-              35.98213339802522
-            ],
-            [
-              -78.89040952445495,
-              35.98222881670719
-            ],
-            [
-              -78.89036630865141,
-              35.98231805729381
-            ],
-            [
-              -78.89026293869777,
-              35.982524354823454
-            ],
-            [
-              -78.88988466376512,
-              35.98326229796399
-            ],
-            [
-              -78.88958101580808,
-              35.9839348605699
-            ],
-            [
-              -78.88958101401786,
-              35.983934864629624
-            ],
-            [
-              -78.88957526970123,
-              35.98394758614799
-            ],
-            [
-              -78.8894685227318,
-              35.98414992294377
-            ],
-            [
-              -78.88926943243787,
-              35.98452502549385
-            ],
-            [
-              -78.88881007031347,
-              35.98551820565016
-            ],
-            [
-              -78.88855031935071,
-              35.98607549427366
-            ],
-            [
-              -78.8882311948791,
-              35.98674238910928
-            ],
-            [
-              -78.88790632918202,
-              35.987359094388545
-            ],
-            [
-              -78.88790632631905,
-              35.987359099752645
-            ],
-            [
-              -78.88779319369604,
-              35.98757386425706
-            ],
-            [
-              -78.88732401833258,
-              35.988410494239936
-            ],
-            [
-              -78.88732401457554,
-              35.9884105007636
-            ],
-            [
-              -78.88725572649979,
-              35.988532270469946
-            ],
-            [
-              -78.88703114196024,
-              35.98892684079585
-            ],
-            [
-              -78.88696004351331,
-              35.98905174884505
-            ],
-            [
-              -78.88677482449978,
-              35.989375492640875
-            ],
-            [
-              -78.88650134982032,
-              35.98985349247906
-            ],
-            [
-              -78.88650134677886,
-              35.989853497697865
-            ],
-            [
-              -78.88643481946602,
-              35.989969779805044
-            ],
-            [
-              -78.88621742982218,
-              35.99040567903393
-            ],
-            [
-              -78.88621393544956,
-              35.990418170094046
-            ],
-            [
-              -78.88613585703857,
-              35.990697317850874
-            ],
-            [
-              -78.8861011884352,
-              35.99104685360169
-            ],
-            [
-              -78.88606953464293,
-              35.991882685295096
-            ],
-            [
-              -78.88606953445831,
-              35.99188268964626
-            ],
-            [
-              -78.88606126584287,
-              35.99210101321042
-            ],
-            [
-              -78.88601618887425,
-              35.99274622790409
-            ],
-            [
-              -78.88601618832851,
-              35.99274623515591
-            ],
-            [
-              -78.88600820443385,
-              35.99286053448164
-            ],
-            [
-              -78.88597985083732,
-              35.99352962181209
-            ],
-            [
-              -78.88597985065064,
-              35.993529627613796
-            ],
-            [
-              -78.88597148462881,
-              35.99372704394878
-            ],
-            [
-              -78.88595983173482,
-              35.9945095685541
-            ]
-          ]
-        ]
-      }
-    },
     {
       "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 84,
@@ -10643,7 +10464,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-42/SR-1579 (BROADWAY RD) FROM US-421 IN SANFORD TO SR-153 8 (E HARRINGTON AVE) IN BROADWAY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-42 Broadway Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1663929060000
@@ -63675,7 +63496,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM 0.348 MILES WEST OF SR-1550 (INCINERATOR RD) TO 0. 345 MILES EAST OF SR-1550 (INCINERATOR RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridge 239 (Incinerator Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725352320000
@@ -63786,7 +63607,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON SALEM NORTHERN BELTWAY(NC 74 FUTURE I-74) FROM US 42 1 TO US 52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Beltway Landscaping",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728483480000
@@ -67645,7 +67466,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 64 APPROXIMATELY 0.8 MILE EAST OF SR 1119 (SAPPHIRE POST OFFICE RD.) AT \"CHRYSLER CURVE\" NEAR SAPPHIRE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chrysler Curve",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1736410620000
@@ -104434,7 +104255,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 BUSINESS FROM US-64 TO SR-1307 (MAIN ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Business 64, Hayesville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.72,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761757800000

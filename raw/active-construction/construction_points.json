@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-28T14:25:21.313065+00:00",
+  "pull_timestamp": "2026-05-29T13:52:24.559075+00:00",
   "feature_count": 256,
   "features": [
     {
@@ -1159,7 +1159,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #180007, #180477, #620049, AND #620072 OVER THE DEEP  RIVER ON US-1 SOUTH, SR-1621, AND NC-22.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Freyssinet Inc.-Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-1",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724232840000
@@ -2290,7 +2290,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #990100 AND BRG #990062 BOTH ON SR-1153, AND BRG #990097  ON SR-1152.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 6",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746698160000
@@ -2783,7 +2783,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580058 OVER MACKEY CREEK ON US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 16",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569760000
@@ -3352,7 +3352,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1010 (TEN TEN ROAD) AT SR 1386 (GRAHAM NEWTON/BELLS LAKE ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ten Ten and Bells Lake Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.34,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1010",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754906580000
