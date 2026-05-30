@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-05-29T13:52:24.559075+00:00",
-  "feature_count": 63,
+  "pull_timestamp": "2026-05-30T11:59:32.482715+00:00",
+  "feature_count": 60,
   "features": [
     {
       "attributes": {
@@ -53,23 +53,6 @@
         "Route": "NC-111",
         "PhysicalDivisionNumber": 3,
         "ContractActiveDate": 1777376760000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 245,
-        "ContractNumber": "C205180",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 45,
-        "LocationsDescription": "SITES 821, 925, 670, 641-644: SR-1188(DAVIS MOUNTAIN) FROM S R-1171(HEBRON RD) TO 3.3 M N OF SR-1171(HEBRON). W03294",
-        "ContractNickname": "Davis Mountain/Hebron Rd - Helene Repair",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "SR-1188",
-        "PhysicalDivisionNumber": 14,
-        "ContractActiveDate": 1779979800000
       }
     },
     {
@@ -448,23 +431,6 @@
     },
     {
       "attributes": {
-        "OBJECTID": 312,
-        "ContractNumber": "DF00540",
-        "ContractType": "Other",
-        "TipReference": " HN-0023   ",
-        "TIP": "HN-0023   ",
-        "CountyNumber": 24,
-        "LocationsDescription": "US 701 BUSINESS (MADISON ST) AT SR 1916 (LEE ST) & SR 1953 ( FRANKLIN ST)",
-        "ContractNickname": "Madison Street Roundabout",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "US-701",
-        "PhysicalDivisionNumber": 6,
-        "ContractActiveDate": 1779980280000
-      }
-    },
-    {
-      "attributes": {
         "OBJECTID": 325,
         "ContractNumber": "DG00677",
         "ContractType": "Other",
@@ -474,7 +440,7 @@
         "LocationsDescription": "SKEET CLUB ROAD (SR 1820)",
         "ContractNickname": "Champion Landscaping",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 31.14,
+        "CompletionPercent": 42.66,
         "Route": "SR-1820",
         "PhysicalDivisionNumber": 7,
         "ContractActiveDate": 1769620920000
@@ -750,23 +716,6 @@
         "Route": "US-52",
         "PhysicalDivisionNumber": 10,
         "ContractActiveDate": 1744639080000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 372,
-        "ContractNumber": "DJ00592",
-        "ContractType": "Other",
-        "TipReference": null,
-        "TIP": null,
-        "CountyNumber": 90,
-        "LocationsDescription": "INTERSECTION OF US 74 AND US 601 SOUTH",
-        "ContractNickname": "Intersection @ US-74 & US-601S",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "US-601",
-        "PhysicalDivisionNumber": 10,
-        "ContractActiveDate": 1779885660000
       }
     },
     {

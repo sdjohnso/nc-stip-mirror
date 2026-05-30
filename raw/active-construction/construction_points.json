@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-05-29T13:52:24.559075+00:00",
-  "feature_count": 256,
+  "pull_timestamp": "2026-05-30T11:59:32.482715+00:00",
+  "feature_count": 258,
   "features": [
     {
       "attributes": {
@@ -15,7 +15,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26/US-74 WEST BOUND LANES AND EAST BOUND LANES OVER GREEN RIVER.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Green River Bridge Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.39,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1620136260000
@@ -3456,7 +3456,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF NC 180 & SR 2202",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 180 and Joe's Lake Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-180",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755506160000
@@ -4683,7 +4683,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 271 OVER MILL CREEK ON SR 1818 (NEILS EDDY ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Neils Eddy Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.23,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1818",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767624600000
@@ -6022,7 +6022,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #162 OVER BRUSH CREEK ON SR 1005 (LANES MILL ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Lanes Mill Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1005",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774345320000
@@ -6776,6 +6776,56 @@
           [
             -78.67149021660951,
             35.634407765330636
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 170850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DJ00592",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 90,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 74 AND US 601 SOUTH",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Intersection @ US-74 & US-601S",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-601",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1779885660000
+      },
+      "geometry": {
+        "points": [
+          [
+            -80.5485925541638,
+            34.99814110531146
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 171250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00540",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HN-0023   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HN-0023   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 701 BUSINESS (MADISON ST) AT SR 1916 (LEE ST) & SR 1953 ( FRANKLIN ST)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Madison Street Roundabout",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-701",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1779980280000
+      },
+      "geometry": {
+        "points": [
+          [
+            -78.70571994788936,
+            34.31781094400818
           ]
         ]
       }

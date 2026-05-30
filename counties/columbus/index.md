@@ -6,9 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 2 |
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 9 |
-| 📋 Right-of-Way | 2 |
+| 📋 Right-of-Way | 3 |
 | 📅 Planned | 12 |
 
 ## All Projects
@@ -23,7 +23,7 @@
 | [HI-0018](HI-0018.md) | West of US 701 Business to west of NC 214. Reha... | US 74 (Future I-74) | 🚧 Under Construction |
 | [HI-0019](HI-0019.md) | West of SR 1585 (Union Valley Road) to west of ... | US 74 (Future I-74) | 📅 Planned |
 | [HI-0020](HI-0020.md) | Robeson County line to west of SR 1585 (Union V... | US 74 (Future I-74) | 📅 Planned |
-| [HN-0023](HN-0023.md) | SR 1916 (Lee Street) and SR 1953 (Franklin Stre... | US 701 Business (Madis... | 🏗️ Active Construction (0%) |
+| [HN-0023](HN-0023.md) | SR 1916 (Lee Street) and SR 1953 (Franklin Stre... | US 701 Business (Madis... | 📋 Right-of-Way |
 | [HO-0002](HO-0002.md) | 🗺️ I-40 in Asheville to I-140 in Wilmington. Imple... | US 74 | 📅 Planned |
 | [HO-0002C](HO-0002C.md) | 🗺️ I-95 in Lumberton to I-140 in Wilmington. Insta... | US 74 | 🚧 Under Construction |
 | [HO-0002D](HO-0002D.md) | 🗺️ Eastern end of Monroe Bypass to I-140 in Wilmin... | US 74 | 📅 Planned |
@@ -45,4 +45,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-24*  
-*Mirror Updated: 2026-05-29*
+*Mirror Updated: 2026-05-30*

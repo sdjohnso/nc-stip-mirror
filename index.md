@@ -10,9 +10,9 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 108 |
+| 🏗️ Active Construction | 107 |
 | 🚧 Under Construction | 588 |
-| 📋 Right-of-Way | 285 |
+| 📋 Right-of-Way | 286 |
 | 📅 Planned | 1,233 |
 | ✅ Completed | 136 |
 
@@ -43,7 +43,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Chowan](counties/chowan/index.md) | 1 (+1) | 0 | 1 |
 | [Clay](counties/clay/index.md) | 7 | 2 | 1 |
 | [Cleveland](counties/cleveland/index.md) | 19 (+2) | 0 | 8 |
-| [Columbus](counties/columbus/index.md) | 25 | 2 | 12 |
+| [Columbus](counties/columbus/index.md) | 25 | 1 | 12 |
 | [Craven](counties/craven/index.md) | 19 (+1) | 0 | 10 |
 | [Cumberland](counties/cumberland/index.md) | 70 (+3) | 10 | 33 |
 | [Currituck](counties/currituck/index.md) | 5 (+1) | 0 | 2 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-05-24*  
-*Mirror Updated: 2026-05-29*
+*Mirror Updated: 2026-05-30*
