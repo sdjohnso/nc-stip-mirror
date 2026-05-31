@@ -1,35 +1,5 @@
 [
   {
-    "start_time": "2026-05-05T11:53:55.164045+00:00",
-    "update_type": "daily",
-    "scripts_run": [
-      {
-        "name": "Active Construction",
-        "success": true,
-        "duration": 4.6331093311309814
-      },
-      {
-        "name": "Generate Markdown",
-        "success": true,
-        "duration": 0.6712892055511475
-      },
-      {
-        "name": "Build Indexes",
-        "success": true,
-        "duration": 0.3171379566192627
-      }
-    ],
-    "errors": [],
-    "success": true,
-    "end_time": "2026-05-05T11:54:00.786438+00:00",
-    "total_duration": 5.622393,
-    "counts": {
-      "stip_projects": 2356,
-      "construction_contracts": 59,
-      "progloc_contracts": 822
-    }
-  },
-  {
     "start_time": "2026-05-06T12:21:45.701752+00:00",
     "update_type": "daily",
     "scripts_run": [
@@ -946,6 +916,55 @@
     "success": true,
     "end_time": "2026-05-31T12:08:50.735721+00:00",
     "total_duration": 187.93907,
+    "counts": {
+      "stip_projects": 2356,
+      "construction_contracts": 60,
+      "progloc_contracts": 822
+    }
+  },
+  {
+    "start_time": "2026-05-31T13:45:38.739868+00:00",
+    "update_type": "weekly",
+    "scripts_run": [
+      {
+        "name": "STIP",
+        "success": false,
+        "duration": 186.92808365821838
+      },
+      {
+        "name": "Active Construction",
+        "success": false,
+        "duration": 186.30572986602783
+      },
+      {
+        "name": "ProgLoc",
+        "success": false,
+        "duration": 366.79105710983276
+      },
+      {
+        "name": "Detect Removed",
+        "success": true,
+        "duration": 0.2955131530761719
+      },
+      {
+        "name": "Generate Markdown",
+        "success": true,
+        "duration": 0.5748987197875977
+      },
+      {
+        "name": "Build Indexes",
+        "success": true,
+        "duration": 0.3085050582885742
+      }
+    ],
+    "errors": [
+      "STIP pull failed",
+      "Active Construction pull failed",
+      "ProgLoc pull failed"
+    ],
+    "success": true,
+    "end_time": "2026-05-31T13:57:59.944928+00:00",
+    "total_duration": 741.20506,
     "counts": {
       "stip_projects": 2356,
       "construction_contracts": 60,
