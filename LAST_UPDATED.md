@@ -1,8 +1,8 @@
 # Mirror Status
 
-**Last Successful Update:** 2026-05-31T13:45:38.739868+00:00
-**Update Type:** weekly
-**Duration:** 741.2 seconds
+**Last Successful Update:** 2026-06-01T16:30:32.323172+00:00
+**Update Type:** daily
+**Duration:** 5.7 seconds
 
 ## Data Counts
 
@@ -14,14 +14,13 @@
 
 ## Errors
 
-- STIP pull failed
-- Active Construction pull failed
-- ProgLoc pull failed
+None
 
 ## Recent History
 
 | Date | Type | Status |
 |------|------|--------|
+| 2026-06-01 16:30 | daily | Success |
 | 2026-05-31 13:45 | weekly | Success |
 | 2026-05-31 12:05 | daily | Success |
 | 2026-05-30 11:59 | daily | Success |
@@ -31,7 +30,6 @@
 | 2026-05-26 13:43 | daily | Success |
 | 2026-05-25 13:53 | daily | Success |
 | 2026-05-24 13:26 | weekly | Success |
-| 2026-05-24 11:56 | daily | Success |
 
 ---
 
