@@ -1,35 +1,5 @@
 [
   {
-    "start_time": "2026-05-07T12:23:17.399035+00:00",
-    "update_type": "daily",
-    "scripts_run": [
-      {
-        "name": "Active Construction",
-        "success": true,
-        "duration": 6.206826686859131
-      },
-      {
-        "name": "Generate Markdown",
-        "success": true,
-        "duration": 0.5431129932403564
-      },
-      {
-        "name": "Build Indexes",
-        "success": true,
-        "duration": 0.30054378509521484
-      }
-    ],
-    "errors": [],
-    "success": true,
-    "end_time": "2026-05-07T12:23:24.450175+00:00",
-    "total_duration": 7.05114,
-    "counts": {
-      "stip_projects": 2356,
-      "construction_contracts": 62,
-      "progloc_contracts": 822
-    }
-  },
-  {
     "start_time": "2026-05-08T12:03:01.956039+00:00",
     "update_type": "daily",
     "scripts_run": [
@@ -969,6 +939,51 @@
       "stip_projects": 2356,
       "construction_contracts": 60,
       "progloc_contracts": 822
+    }
+  },
+  {
+    "start_time": "2026-06-01T18:33:10.087421+00:00",
+    "update_type": "monthly",
+    "scripts_run": [
+      {
+        "name": "STIP",
+        "success": true,
+        "duration": 9.12408995628357
+      },
+      {
+        "name": "Active Construction",
+        "success": true,
+        "duration": 4.776601076126099
+      },
+      {
+        "name": "ProgLoc",
+        "success": true,
+        "duration": 2.9195194244384766
+      },
+      {
+        "name": "Detect Removed",
+        "success": true,
+        "duration": 0.3038969039916992
+      },
+      {
+        "name": "Generate Markdown",
+        "success": true,
+        "duration": 0.6273648738861084
+      },
+      {
+        "name": "Build Indexes",
+        "success": true,
+        "duration": 0.32155895233154297
+      }
+    ],
+    "errors": [],
+    "success": true,
+    "end_time": "2026-06-01T18:33:28.161780+00:00",
+    "total_duration": 18.074359,
+    "counts": {
+      "stip_projects": 2356,
+      "construction_contracts": 60,
+      "progloc_contracts": 824
     }
   }
 ]
