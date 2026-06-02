@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-01T18:33:19.323609+00:00",
+  "pull_timestamp": "2026-06-02T14:40:31.183942+00:00",
   "feature_count": 258,
   "features": [
     {
@@ -144,7 +144,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #26 OVER MIDDLE CREEK ON NC-106.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-106 Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-106",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1674472920000
@@ -169,7 +169,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-29/70 & I-85 BUSINESS AT SR-1798 (OLD GREENSBORO ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 at DDCC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1798",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1639733040000
@@ -2190,7 +2190,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #560067 OVER THE FRENCH BROAD RIVER ON US-25/70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 67 over the French Broad River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.09,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.49,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-25",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1745929200000
@@ -4105,7 +4105,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "OVER MIDDLEFORK CREEK ON SR-1515 (BUCKNER BRANCH RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Replacement Madison #036",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1515",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761231120000
@@ -5706,7 +5706,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 430041 ON SR 1357 (CRABTREE CHURCH RD) OVER CRABTREE CREEK IN HAYWOOD COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Crabtree Church Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1357",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772613360000

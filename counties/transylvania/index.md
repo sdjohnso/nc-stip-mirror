@@ -21,10 +21,10 @@
 | [HB-0026](HB-0026.md) | Bridge 870030 over French Broad River. Replace ... | SR 1533 (Everett Road) | 📅 Planned |
 | [HF-0002](HF-0002.md) | West of US 276 to end of pavement. Install guar... | SR 1408 (Fish Hatchery... | 🚧 Under Construction |
 | [HF-0004](HF-0004.md) | US 64 to Avery Creek Trailhead. Install guardra... | US 276 | 📅 Planned |
-| [HS-2014AC](HS-2014AC.md) | SR 1118 (Gallimore Road) intersection in Brevar... | US 276 (Greenville Hig... | 🏗️ Active Construction (61%) |
-| [HS-2014M](HS-2014M.md) | SR 1592 (Hospital Drive) / Straus Parkway inter... | US 64 (Asheville Highway) | 🏗️ Active Construction (61%) |
-| [HS-2414G](HS-2414G.md) | Ecusta Bypass intersection in Brevard. Install ... | SR 1512 (Ecusta Road) | 🏗️ Active Construction (65%) |
-| [HS-2414H](HS-2414H.md) | Mile marker 5.0 to mile marker 13.0 and mile ma... | US 64 | 🏗️ Active Construction (65%) |
+| [HS-2014AC](HS-2014AC.md) | SR 1118 (Gallimore Road) intersection in Brevar... | US 276 (Greenville Hig... | 🏗️ Active Construction (58%) |
+| [HS-2014M](HS-2014M.md) | SR 1592 (Hospital Drive) / Straus Parkway inter... | US 64 (Asheville Highway) | 🏗️ Active Construction (58%) |
+| [HS-2414G](HS-2414G.md) | Ecusta Bypass intersection in Brevard. Install ... | SR 1512 (Ecusta Road) | 🏗️ Active Construction (87%) |
+| [HS-2414H](HS-2414H.md) | Mile marker 5.0 to mile marker 13.0 and mile ma... | US 64 | 🏗️ Active Construction (87%) |
 | [R-5605](R-5605.md) | US 64 to US 276 / US 64 in Pisgah Forest. Const... | Davidson River Village... | 🚧 Under Construction |
 | [R-5763](R-5763.md) | SR 1504 (Old US 64) to US 276 in Brevard. Upgra... | SR 1540 (Wilson Road) | 📋 Right-of-Way |
 | [R-5799](R-5799.md) | US 276 / NC 280 intersection in Pisgah Forest. ... | US 64 | 🚧 Under Construction |
@@ -43,4 +43,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-01*  
-*Mirror Updated: 2026-06-01*
+*Mirror Updated: 2026-06-02*

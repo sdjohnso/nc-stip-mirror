@@ -1,15 +1,15 @@
 # Mirror Status
 
-**Last Successful Update:** 2026-06-01T18:33:10.087421+00:00
-**Update Type:** monthly
-**Duration:** 18.1 seconds
+**Last Successful Update:** 2026-06-02T14:40:30.962756+00:00
+**Update Type:** daily
+**Duration:** 5.8 seconds
 
 ## Data Counts
 
 | Source | Records |
 |--------|---------|
 | STIP Projects | 2356 |
-| Active Construction | 60 |
+| Active Construction | 63 |
 | ProgLoc Contracts | 824 |
 
 ## Errors
@@ -20,6 +20,7 @@ None
 
 | Date | Type | Status |
 |------|------|--------|
+| 2026-06-02 14:40 | daily | Success |
 | 2026-06-01 18:33 | monthly | Success |
 | 2026-06-01 16:30 | daily | Success |
 | 2026-05-31 13:45 | weekly | Success |
@@ -29,7 +30,6 @@ None
 | 2026-05-28 14:25 | daily | Success |
 | 2026-05-27 14:15 | daily | Success |
 | 2026-05-26 13:43 | daily | Success |
-| 2026-05-25 13:53 | daily | Success |
 
 ---
 
