@@ -64,7 +64,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Halifax](counties/halifax/index.md) | 11 (+4) | 2 | 2 |
 | [Harnett](counties/harnett/index.md) | 29 (+4) | 3 | 11 |
 | [Haywood](counties/haywood/index.md) | 36 | 4 | 18 |
-| [Henderson](counties/henderson/index.md) | 33 (+3) | 6 | 16 |
+| [Henderson](counties/henderson/index.md) | 33 (+3) | 5 | 17 |
 | [Hertford](counties/hertford/index.md) | 6 (+1) | 0 | 2 |
 | [Hoke](counties/hoke/index.md) | 7 (+1) | 0 | 3 |
 | [Hyde](counties/hyde/index.md) | 2 (+3) | 0 | 0 |
@@ -111,7 +111,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Tyrrell](counties/tyrrell/index.md) | 3 (+1) | 0 | 2 |
 | [Union](counties/union/index.md) | 51 (+3) | 0 | 34 |
 | [Vance](counties/vance/index.md) | 14 (+1) | 0 | 13 |
-| [Wake](counties/wake/index.md) | 216 (+4) | 5 | 125 |
+| [Wake](counties/wake/index.md) | 216 (+4) | 6 | 124 |
 | [Warren](counties/warren/index.md) | 8 (+1) | 2 | 5 |
 | [Washington](counties/washington/index.md) | 3 (+1) | 0 | 3 |
 | [Watauga](counties/watauga/index.md) | 15 | 0 | 10 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-01*  
-*Mirror Updated: 2026-06-02*
+*Mirror Updated: 2026-06-03*

@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-02T14:40:31.183942+00:00",
-  "feature_count": 258,
+  "pull_timestamp": "2026-06-03T15:23:13.278841+00:00",
+  "feature_count": 260,
   "features": [
     {
       "attributes": {
@@ -481,7 +481,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-74/76 AT SR-1740 (OLD LAKE RD) AND SR-17 35 (CHANCEY TOWN RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chancy and Old Lake Road Intersections",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74/7",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1659454020000
@@ -689,7 +689,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #155 AND 158 OVER RICHLAND CREEK ON US-23/74 AND BRI DGE #168 OVER US-19 AND US-23 ON US-23/74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 Bridges 155, 158, 168 (US19 Split)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.99,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-2374",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1707216840000
@@ -1745,7 +1745,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #440109 OVER CLEAR CREEK ON SR-1578 (TOWNSEND RD) AND  BRIDGE #440198 OVER CLEAR CREEK ON SR-1614 (WATERS RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Townsend & Waters Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.51,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1578",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741349700000
@@ -1770,7 +1770,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430062 OVER COVE CREEK ON SR-1500 AND BRIDGE #440095  OVER BRANCH BROAD RIVER ON SR-1701.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Cove Creek & Branch Broad River Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1500",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741864020000
@@ -6826,6 +6826,56 @@
           [
             -78.70571994788936,
             34.31781094400818
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 171650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DL00381",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1419 AND ROCKY FACE BRANCH",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rocky Springs Rd Culvert",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1419",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1780304640000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.09469185472484,
+            35.95698989956271
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 172050,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00507",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " TN-6128   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "TN-6128   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 25/70 AND US 25/70 BUS (IVY RIVER RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Madison County Ivy River Rd Park & Ride",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-25/7",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1780326900000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.64758432151748,
+            35.77707671411603
           ]
         ]
       }

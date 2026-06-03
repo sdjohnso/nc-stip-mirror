@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-02T14:40:31.183942+00:00",
-  "feature_count": 157,
+  "pull_timestamp": "2026-06-03T15:23:13.278841+00:00",
+  "feature_count": 158,
   "features": [
     {
       "attributes": {
@@ -45490,7 +45490,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM I-74 (EXIT 13) TO SOUTH OF US-301 (EXIT 22) AND I-95/SR-1536 (CARTHAGE RD) INTERCHANGE IMPROVEMENTS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-95 WIDENING FLATIRON 13 to 22",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.45,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1636719540000
@@ -46725,7 +46725,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-95 FROM SOUTH OF US-301 TO SOUTH OF NC-20.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I95 (US301 to S. of NC 20)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.56,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.57,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-95",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1667469600000
@@ -95381,7 +95381,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-7 (MAIN ST) INTERSECTION WITH US-29/74 (WILKINSON BLVD), AND I-85 FROM NC-7 TO EAST OF NC-273.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-85 Widening Gaston",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-5719B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758028080000
@@ -127872,6 +127872,117 @@
             [
               -82.49984664034824,
               35.31722197165693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 109061,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DN01127",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " BL-0008   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "BL-0008   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 45,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CLEAR CREEK GREENWAY FROM OKLAWAHA GREENWAY AT SR -1508 (BAL FOUR RD) TO SR-1518 (LAKEWOOD RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Clear Creek Greenway",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1508",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1780311060000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -82.465441725084,
+              35.34775848153826
+            ],
+            [
+              -82.46107505964095,
+              35.34850384447718
+            ],
+            [
+              -82.46004766420752,
+              35.348318411722126
+            ],
+            [
+              -82.45938054788637,
+              35.34838519919297
+            ],
+            [
+              -82.45796480648269,
+              35.34797218875002
+            ],
+            [
+              -82.45694780779002,
+              35.34834500013335
+            ],
+            [
+              -82.45612919079187,
+              35.34864508058005
+            ],
+            [
+              -82.45356795652194,
+              35.348694274730626
+            ],
+            [
+              -82.45274080289738,
+              35.349165149858635
+            ],
+            [
+              -82.45228810366957,
+              35.34942285466052
+            ],
+            [
+              -82.45155064137415,
+              35.34920522068995
+            ],
+            [
+              -82.4510350500565,
+              35.34941083437621
+            ],
+            [
+              -82.45020929783779,
+              35.34917184244209
+            ],
+            [
+              -82.44943971530678,
+              35.348883515463754
+            ],
+            [
+              -82.44807714801593,
+              35.34834955026057
+            ],
+            [
+              -82.44747405391072,
+              35.347865549881135
+            ],
+            [
+              -82.4469954246293,
+              35.34756892566438
+            ],
+            [
+              -82.44634830362709,
+              35.34742028506791
+            ],
+            [
+              -82.44542722531338,
+              35.34699305358153
+            ],
+            [
+              -82.44495284546721,
+              35.34748385133648
+            ],
+            [
+              -82.44450957355996,
+              35.348021491908796
+            ],
+            [
+              -82.44403537204391,
+              35.349204369625866
             ]
           ]
         ]

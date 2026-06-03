@@ -6,10 +6,10 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 5 |
+| 🏗️ Active Construction | 6 |
 | 🚧 Under Construction | 54 |
 | 📋 Right-of-Way | 31 |
-| 📅 Planned | 125 |
+| 📅 Planned | 124 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -145,7 +145,7 @@
 | [I-5998](I-5998.md) | 🗺️ I-40 in Durham to US 70 in Raleigh. Rehabilitat... | I-540 | 📅 Planned |
 | [I-5999](I-5999.md) | US 70 (Glenwood Avenue) to east of Triangle Tow... | I-540 | 📅 Planned |
 | [I-6000](I-6000.md) | 🗺️ I-40 in Durham to US 1 in Raleigh. Rehabilitate... | I-540 | 📅 Planned |
-| [I-6001](I-6001.md) | 🗺️ SR 1003 (Rolesville Road) to Nash County line. ... | I-87 / US 64 (Future I... | 📅 Planned |
+| [I-6001](I-6001.md) | 🗺️ SR 1003 (Rolesville Road) to Nash County line. ... | I-87 / US 64 (Future I... | 🏗️ Active Construction (0%) |
 | [P-2918H](P-2918H.md) | Capital Yard Phase 1 Improvements. Extend Track... | Piedmont Corridor | 📅 Planned |
 | [P-5500B](P-5500B.md) | Raleigh Union Station. Station site work. | NC Railroad | 🚧 Under Construction |
 | [P-5500C](P-5500C.md) | Raleigh Union Station. Improve track. | NC Railroad | 🚧 Under Construction |
@@ -248,4 +248,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-01*  
-*Mirror Updated: 2026-06-02*
+*Mirror Updated: 2026-06-03*
