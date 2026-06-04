@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-03T15:23:13.278841+00:00",
+  "pull_timestamp": "2026-06-04T13:51:15.300264+00:00",
   "feature_count": 260,
   "features": [
     {
@@ -302,7 +302,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #19 OVER CUB CREEK ON NC-226.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #19 Over Cub Creek on NC 226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-226",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693230840000
@@ -1716,7 +1716,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430175 AND BRIDGE #430174 OVER BIG CREEK ON SR-1332 (WATERVILLE ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Waterville Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.83,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1332",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741084620000
@@ -2057,7 +2057,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430002 ON SR-1101, BRIDGE #430034 ON SR-1505, AND BR IDGE #430219 ON SR-1306.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Haywood County Design Build Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.8,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.78,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1101",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744019400000
@@ -2323,7 +2323,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #990047 OVER MINE FORK CREEK ON SR-1416 AND BRG #990014 OVER BANKS CREEK ON SR-1136.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 5",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746697680000
@@ -2352,7 +2352,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #100716 ON SR-2832, BRG #100394 ON SR-2783, BRG #100396 ON SR-2810, BRG #100118 ON SR-2782, BRG #100464 ON SR-2782.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746698160000
@@ -3406,7 +3406,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 100086 ON NC 151 OVER STONY FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Stony Fork Bridge #100086",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.23,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-151",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755006180000
@@ -4130,7 +4130,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #940058 OVER BEECH CREEK ON SR 1139 (KELLERSVILLE ROA D)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Kellersville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.43,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761567540000
@@ -4480,7 +4480,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #76 OVER SR-3556 ON US-25, AND BRIDGES #53 & #278 OVE R FRENCH BROAD RIVER ON NC-146 & SR-1348.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Freyssinet Buncombe Rehab 2025-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-146",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765386780000
@@ -4633,7 +4633,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 18 OVER THE HAW RIVER ON SR 1002(SCALESVILLE RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Scalesville Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.27,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1002",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767687060000
@@ -4941,7 +4941,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 550055 ON SR 1679 (PEEKS CREEK RD) OVER CULLASAJA  RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Peeks Creek Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.53,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1679",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768909800000
@@ -4966,7 +4966,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2195 (TORRENCE CHAPEL RD) AND SR-5544 (WEST CATAWBA AVE) IN CORNELIUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Torrence",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2195",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768921740000
@@ -5427,7 +5427,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 161 ON SR 1358 (EDGEMONT CHURCH PL) OVER WILSON CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Edgemont Church PL",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1358",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771239780000
@@ -5452,7 +5452,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE #940322 ON SR 1113 (BAIRDS CREEK ROAD) OVER UPPER LAUREL FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bairds Creek Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1113",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771498080000
@@ -5806,7 +5806,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT ON SR-2776, BRIDGE ON SR-2427, AND BRIDGE ON SR-2788 .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-0199",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773066420000
@@ -6371,7 +6371,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 71 AT SR 1312 (OXENDINE SCHOOL RD / RED HILL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DF00541 Roundabout NC 71 At SR1312",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.25,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-71",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776262500000

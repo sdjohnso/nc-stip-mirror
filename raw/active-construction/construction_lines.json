@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-03T15:23:13.278841+00:00",
+  "pull_timestamp": "2026-06-04T13:51:15.300264+00:00",
   "feature_count": 158,
   "features": [
     {
@@ -86333,7 +86333,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-45 FROM WASHINGTON COUNTY LINE TO US-17.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 45",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.41,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-45",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748614980000
@@ -88019,7 +88019,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74A FROM BEARWALLOW MOUNTAIN RD TO US-64/US-47A/NC-9. (CM GC - GERTON)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74A/Lower NC 9 CMCG",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74A",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753713360000
@@ -92158,7 +92158,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-62 FROM SR-1154 (KERSEY VALLEY RD) TO SR-1162 (WEANT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-62",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.34,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-62",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753795200000
@@ -117971,7 +117971,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-85 FROM US-74 TO THE SOUTH CAROLINA LINE AND I-85 FROM US- 74 TO US-321.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-85 ITS - BBH",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.58,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765208040000
