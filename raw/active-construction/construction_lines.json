@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-04T13:51:15.300264+00:00",
+  "pull_timestamp": "2026-06-05T13:46:07.294612+00:00",
   "feature_count": 158,
   "features": [
     {
@@ -34628,7 +34628,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM MILEMARKER 67 TO MILEMARKER 73 (OLD FORT MOUNTAIN) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "OLD FORT MTN I-40 REHAB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.97,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1693413660000
@@ -80678,7 +80678,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 (FUTURE I-74) FROM 0.11 MILES EAST OF US-701 BUSINESS TO 0.17 MILES WEST OF NC-214.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HI-18 US74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742566980000
@@ -86975,7 +86975,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2700 (CHATHAM PARK WAY) FROM US-15/US-501 SOUTH OF PITTSB ORO TO US-64 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Chatham Parkway South",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2700",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750846620000
@@ -107784,7 +107784,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1203 (ALLEN RD) FROM SR-1467 (STANTONSBURG RD) TO US-13 ( DICKINSON AVE EXT).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Allen Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.79,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1203",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765795020000
@@ -110230,7 +110230,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FUTURE CONNECTOR ROAD (EAST FREDERICK LAW OLMSTEAD WAY) FROM  I-26 INTERCHANGE TO ROUNDABOUT.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "E.Frederick Law Omstead Way",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.71,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769769180000
@@ -112805,7 +112805,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 WESTBOUND MM 68",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 GRADING MILE MARKER 68",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.67,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771326480000
@@ -121565,7 +121565,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE REPLACEMENT OF PIPE NO. 006-2255 ON SR 1370 (AVERY  COUNTY HIGH SCHOOL ROAD) OVER KENTUCKY CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Structure Replacement on SR 1370 (Avery)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.78,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1370",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774542300000

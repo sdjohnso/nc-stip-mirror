@@ -6,9 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 6 |
+| 🏗️ Active Construction | 7 |
 | 🚧 Under Construction | 10 |
-| 📋 Right-of-Way | 2 |
+| 📋 Right-of-Way | 1 |
 | 📅 Planned | 14 |
 | ✅ Completed | 1 |
 
@@ -40,7 +40,7 @@
 | [U-3609B](U-3609B.md) | SR 1003 (New Hope Road) to US 70 Bypass with in... | US 13 (Berkeley Boulev... | 📋 Right-of-Way |
 | [U-3609BA](U-3609BA.md) | Hood Swamp Road. Realignment of Hood Swamp Road. | US 13 (Berkeley Boulev... | 🚧 Under Construction |
 | [U-4407](U-4407.md) | SR 1711 (South Oak Forest Road) to US 70. Widen... | US 70 Business (East A... | 📅 Planned |
-| [U-4753](U-4753.md) | SR 1003 (New Hope Road) to I-42 (formerly US 70... | SR 1556 (Wayne Memoria... | 📋 Right-of-Way |
+| [U-4753](U-4753.md) | SR 1003 (New Hope Road) to I-42 (formerly US 70... | SR 1556 (Wayne Memoria... | 🏗️ Active Construction (0%) |
 | [U-5724](U-5724.md) | SR 1709 (Central Heights Road) at Berkeley Boul... | US 13 (Berkeley Boulev... | 🚧 Under Construction |
 | [U-5994](U-5994.md) | Lockhaven Drive to Country Day Road. Construct ... | SR 1556 (Wayne Memoria... | 🚧 Under Construction |
 | [U-6110](U-6110.md) | SR 1711 (North Oak Forest Road) intersection in... | US 70 | 📅 Planned |
@@ -63,4 +63,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-01*  
-*Mirror Updated: 2026-06-04*
+*Mirror Updated: 2026-06-05*

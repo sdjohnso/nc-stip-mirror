@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-04T13:51:15.300264+00:00",
+  "pull_timestamp": "2026-06-05T13:46:07.294612+00:00",
   "feature_count": 260,
   "features": [
     {
@@ -3102,7 +3102,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE AT I-85 AND I-485 WEST OF CHARLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-6016  I-485 and I-85 CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.95,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753344600000
@@ -3560,7 +3560,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-101 FROM S OF SR-1170 (W BEAUFORT RD) TO N OF US-70 AND S R-1493 (LIVE OAK STREET) AT NC-101.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Beaufort Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-101",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756305600000
@@ -3585,7 +3585,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #040032 ON NC-194, #040507 ON SR-1644, #040478 ON SR -1514, AND #040019 ON NC-194.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ashe Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.97,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-194",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757070720000
@@ -4180,7 +4180,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #070024 OVER CASHIE RIVER ON NC-11.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bertie Bridge 11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762175340000
@@ -4787,7 +4787,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40/US-311 AT NC-109 INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-109 at I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768218360000
@@ -4862,7 +4862,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE NO. 262 ON SR 1317 (RICH HILL ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "REPLACE BRIDGE #262 RICH HILL RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1317",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768494360000
@@ -5041,7 +5041,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100007 OVER FRENCH BROAD RIVER/NSRR ON SR-1620 (FLET CHER MARTIN RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Fletcher Martin Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 3.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1620",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770031620000
@@ -5216,7 +5216,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE REHABILITATION, BRIDGES 070155, 070156, 070158, AND 0 70159",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bertie Bridge Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-13 /",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770711900000
@@ -5581,7 +5581,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 87 AT NC 131",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Flasher Signal Tarheel",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.72,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772450760000
@@ -5656,7 +5656,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-29 FROM 0.6 MILES WEST OF SR-1414 (ROCK HILL CHURCH RD) T O JUST EAST OF SR-1414 (ROCK HILL CHURCH RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Union Cemetery Realignment",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1414",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772707500000
