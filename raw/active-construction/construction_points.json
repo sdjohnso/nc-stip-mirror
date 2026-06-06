@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-05T13:46:07.294612+00:00",
-  "feature_count": 260,
+  "pull_timestamp": "2026-06-06T12:02:47.906289+00:00",
+  "feature_count": 262,
   "features": [
     {
       "attributes": {
@@ -718,7 +718,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #32 OVER SAVANNAH CREEK ON NC-116.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 116 Rhinehart Straight",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-116",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708602240000
@@ -1246,7 +1246,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #430095 OVER SOUTHERN RAILROAD ON US-74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 Bridge 095 (Southern Railroad)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1728654000000
@@ -1446,7 +1446,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #030087 OVER RICHARDSON CREEK ON NC-742.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 030087 NC742 over Richardson Ck",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-742",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738332120000
@@ -3510,7 +3510,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 410 / NC 131 AT NC 211 BYPASS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bladenboro Roundabout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-410",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756398540000
@@ -3905,7 +3905,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 960110 OVER NORTH PRONG LEWIS FORK CREEK ON SR 1363 ( WALSH ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Walsh Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1363",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758791280000
@@ -4708,7 +4708,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 280 OVER LITTLE TROUBLESOME CREEK ON SR 2670(SOUTH  SCALES STR)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 47.59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2670",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767610200000
@@ -4837,7 +4837,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #040156 OVER W. FORK PINE SWAMP ON SR 1163 (PINE SWAM P ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pine Swamp Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1169",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768299000000
@@ -5781,7 +5781,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 2526(SUMMIT AVE) AT US 70(WENDOVER AVE) EAST EXIT AND ON RAMP; I-40/I85 BUS/SOUTH ELM EUGENGE INTERCHANGE IMPROVEMENT",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Summit and Elm Eugene",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.29,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2526",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773056220000
@@ -6876,6 +6876,72 @@
           [
             -82.64758432151748,
             35.77707671411603
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 172450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00504",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " 1         , 2         , 3         , 4         ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "1         ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 100,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES 990043, 990328, AND 990056 OVER THE SOUTH TOE RIVER",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "19E and NC 80 Bridge Repairs",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-80",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1780395240000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.18821000153595,
+            35.90612177948928
+          ],
+          [
+            -82.18827519331964,
+            35.90601116070992
+          ],
+          [
+            -82.19127007368067,
+            35.90865604968383
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 172850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C205164",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Design Build",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " 1         , 2         , 3         ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "1         ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 100,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990165, BRIDGE #990116 & BRIDGE #990234.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 23",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1317",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1780570140000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.22737595706917,
+            35.98504342354652
+          ],
+          [
+            -82.42666290899209,
+            35.98086471412776
+          ],
+          [
+            -82.4531387009934,
+            35.98424723897242
           ]
         ]
       }
