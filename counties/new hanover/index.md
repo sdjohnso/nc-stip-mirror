@@ -51,7 +51,7 @@
 | [HS-2003V](HS-2003V.md) | SR 1209 (Independence Boulevard) intersection i... | US 17 / US 76 (Oleande... | 📋 Right-of-Way |
 | [HS-2003Y](HS-2003Y.md) | SR 2313 (Wilshire Boulevard) intersection in Wi... | US 117 / NC 132 (Colle... | 📅 Planned |
 | [HS-2003Z](HS-2003Z.md) | SR 1217 (17th Street) intersection in Wilmingto... | US 17 / US 76 (Wooster... | 📅 Planned |
-| [HS-2403A](HS-2403A.md) | Queen Street and Castle Street intersections; Q... | SR 1216 (16th Street);... | 🏗️ Active Construction (0%) |
+| [HS-2403A](HS-2403A.md) | Queen Street and Castle Street intersections; Q... | SR 1216 (16th Street);... | 🏗️ Active Construction (5%) |
 | [I-6037](I-6037.md) | US 421 to I-40. Rehabilitate bridge and pavement. | I-140 | 📅 Planned |
 | [I-6039](I-6039.md) | 🗺️ End I-40 (mile marker 420) to NC 210 (mile mark... | I-40 | 🚧 Under Construction |
 | [P-5740](P-5740.md) | 🗺️ Wilmington. Construct Wilmington Beltline Speed... | CSX Southeast Line | 📅 Planned |
@@ -97,4 +97,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-08*
+*Mirror Updated: 2026-06-09*

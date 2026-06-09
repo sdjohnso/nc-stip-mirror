@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-08T14:40:18.437907+00:00",
+  "pull_timestamp": "2026-06-09T13:34:45.430384+00:00",
   "feature_count": 161,
   "features": [
     {
@@ -1293,7 +1293,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26 FROM 0.05 MILES NORTH OF US-64 TO NC-280 (EXIT 40).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-26 (NC280 to US64)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.29,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1571147580000
@@ -50948,7 +50948,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-540 (TRIANGLE EXPRESSWAY SOUTHEAST EXTENSION) FROM SOUTH OF SR-2542 (ROCK QUARRY ROAD) TO I-87/US-64/US-264.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R-2829B - Flatiron/Fred Smith Co JV",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.45,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-540",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1699019400000
@@ -59615,7 +59615,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-77 FROM MILEMARKER 36.5 TO MILEMARKER 48.85.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Rehab",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.97,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724670540000
@@ -87892,7 +87892,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "FORUM PARKWAY CONNECTOR FROM SR-3955 (FORUM PARKWAY) TO NC-6 6 (UNIVERSITY PARKWAY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Forum Parkway Connector",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3955",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753274340000
@@ -93180,7 +93180,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VAROUS SITES ALONG SR 1605 (MIDDLE FORK ROAD/TOM FALLS RO AD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Middle Fork B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.88,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1605",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757431140000
@@ -93659,7 +93659,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS SITES ALONG SR 1605 (MIDDLE FORK ROAD/TOM FALLS R OAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Middle Fork C",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.99,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.86,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1605",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757431260000

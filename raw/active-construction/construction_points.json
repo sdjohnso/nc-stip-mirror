@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-08T14:40:18.437907+00:00",
-  "feature_count": 262,
+  "pull_timestamp": "2026-06-09T13:34:45.430384+00:00",
+  "feature_count": 261,
   "features": [
     {
       "attributes": {
@@ -277,7 +277,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #99 OVER NORFOLK SOUTHERN RAILROAD ON US-64/US-70 IN MORGANTON.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 99 over NS RR Burke Co",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687787160000
@@ -327,7 +327,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 780001 OVER US-29 ON SR-2817 AND BRIDGE 780151 OVER U S-29 ON US-158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER US-29 & 158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1684838100000
@@ -610,7 +610,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS OF US-64 / US-276 (HENDERSONVILLE HWY), AND US -64 / NC-280 (ASHEVILLE HWY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Transylvania Culvert & Roadway",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.85,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1703853000000
@@ -793,7 +793,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS AT NC-115/DAVIDSON ST/POTTS ST AND AT SR-6038/GR IFFITH ST/BEATY ST AND NEW LOCATION FROM SR-6037 TO SR-6038.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Cornelius & Davidson Roundabouts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.9,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.97,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-115",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1712049960000
@@ -828,31 +828,6 @@
           [
             -80.85372259229247,
             36.26976162685198
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 58850,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DG00613",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " U-6017    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "U-6017    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 1,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION IMPROVEMENTS AT NC 54 (EAST HARDEN ST) & NC 49 (EAST ELM ST) IN GRAHAM",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "GRAHAM ROUNDABOUT",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.37,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-54",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1715864520000
-      },
-      "geometry": {
-        "points": [
-          [
-            -79.39394574362564,
-            36.070659570340496
           ]
         ]
       }
@@ -1109,7 +1084,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #030014 OVER S FORK JONES CREEK ON US-52.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Brdge #030014 Over S.Fork Jones Crk-US52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1723646460000
@@ -1271,7 +1246,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 153(RICE ST) AT SR 1197(CANNON FARM RD/MOUNT MORIAH CH RD ) IN CHINA GROVE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Landis RAB",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.89,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-153",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1730209260000
@@ -1525,7 +1500,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #120109 OVER US-29 (NORTH CANNON BLVD) ON SR-1706 (MA RTIN LUTHER KING JR AVENUE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 120109 over US-29 on MLK Jr Blvd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1706",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738681380000
@@ -1895,7 +1870,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 63 OVER BLAIR CREEK AND BRIDGE NO. 88 OVER HYATT MILL CREEK ON SR 1140 (MYERS CHAPEL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Myers Chapel Bridges 63 & 88",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 77.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 80.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1140",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743433080000
@@ -3481,7 +3456,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTIONS AT US-17 AND US-17 BUSINESS NORTH AND SOUTH OF  SHALLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Shallotte RCI",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-17 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1756214880000
@@ -4355,7 +4330,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780140 OVER DAN RIVER ON SR-1138.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Lindsey Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.55,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763738160000
@@ -4380,7 +4355,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #060009 OVER BLOUNTS CREEK ON SR-1112 (MOUTH OF THE C REEK ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Blounts Creek Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.09,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1112",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1763742480000
@@ -4887,7 +4862,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #590165 OVER COFFEY CREEK ON SR-5469 (SHOPTON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Shopton Road Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.49,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-5469",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768559700000
@@ -5016,7 +4991,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 120292 OVER LITTLE MEADOW CREEK ON SR-2625 (MAUNE Y RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge-Little Meadow Creek (Mauney Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.91,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2625",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769082000000
@@ -5947,7 +5922,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 790254 OVER KERR CREEK ON SR 1547 (CALDWELL ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Caldwell Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1547",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774012620000
@@ -5972,7 +5947,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF BRIDGE ST (OLD STATE HWY 87) AND BOONE RD/WA SHINGTON ST (OLD STATE HWY 770) IN EDEN",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-87",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774259280000
