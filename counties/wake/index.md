@@ -6,9 +6,9 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 5 |
+| 🏗️ Active Construction | 6 |
 | 🚧 Under Construction | 54 |
-| 📋 Right-of-Way | 31 |
+| 📋 Right-of-Way | 30 |
 | 📅 Planned | 125 |
 | ✅ Completed | 1 |
 
@@ -186,7 +186,7 @@
 | [U-4437](U-4437.md) | SR 1664 / SR 3074 (Blue Ridge Road) in vicinity... | NC 54 (Hillsborough St... | 🚧 Under Construction |
 | [U-5301](U-5301.md) | West of SR 1308 (Laura Duncan Road) to US 1 in ... | US 64 | 📅 Planned |
 | [U-5301A](U-5301A.md) | CSX Railroad bridge over US 64. Replace railroa... | US 64 | 📅 Planned |
-| [U-5302](U-5302.md) | South of SR 1006 (Old Stage Road) to south of S... | US 401 | 📋 Right-of-Way |
+| [U-5302](U-5302.md) | South of SR 1006 (Old Stage Road) to south of S... | US 401 | 🏗️ Active Construction (0%) |
 | [U-5307A](U-5307A.md) | I-540 to north of SR 2006 (Durant Road). Upgrad... | US 1 | 📅 Planned |
 | [U-5307B](U-5307B.md) | North of SR 2006 (Durant Road) in Raleigh to no... | US 1 | 📅 Planned |
 | [U-5307C](U-5307C.md) | North of SR 2045 (Burlington Mills Road) to sou... | US 1 | 📅 Planned |
@@ -248,4 +248,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-10*
+*Mirror Updated: 2026-06-11*

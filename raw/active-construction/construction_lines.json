@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-10T14:14:39.403886+00:00",
-  "feature_count": 160,
+  "pull_timestamp": "2026-06-11T14:26:44.883925+00:00",
+  "feature_count": 158,
   "features": [
     {
       "attributes": {
@@ -31104,7 +31104,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-111 (WILSON ST) FROM US-64 ALT (WESTERN BLVD) TO NC-122 ( MCNAIR RD) IN TARBORO.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "U-4424 Tarboro",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-111",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690970340000
@@ -41076,7 +41076,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-129 FROM SOUTH OF SR-1275 (FIVE POINTS RD) TO NC-143 AND NC-143 FROM US-129 TO SR-1223 (BEECH CREEK RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "A9 SECTION A",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.55,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.56,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1666869720000
@@ -42978,7 +42978,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TWO INTERCHANGES ON US-421.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "GRMS 421 Improvements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1670404260000
@@ -53210,7 +53210,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/129 FROM GEORGIA STATE LINE TO US-64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 129, Cherokee County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.69,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1707132300000
@@ -53737,7 +53737,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1100 (BRAWLEY SCHOOL RD) FROM I-77 TO US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Brawley School",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1100",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708964940000
@@ -68036,7 +68036,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 (CHIMNEY ROCK RD) FROM SR-1613 (SLICK ROCK RD, MM 22.7 9) TO SR-1701 (ROCK BROAD RIVER RD, MM 25.06).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "The Bat Cave",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 49.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.09,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740741060000
@@ -80940,7 +80940,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GREAT WAGON ROAD FROM SR-1001 (SHALLOWFORD ROAD) TO SR-1308 (LEWISVILLE-VIENNA ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Great Wagon Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.87,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 51.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1001",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743438960000
@@ -81231,7 +81231,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/US-23 BUS (HAYWOOD RD) FROM US-19/US-23/US-74 (PATTON AVE) TO RIDGELAWN RD.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Haywood Rd - Patton to Ridgelawn",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743003900000
@@ -90121,97 +90121,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 85061,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DJ00570",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2010E  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2010E  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 60,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF SOUTH TRYON ST (NC 49) & GENERAL DRIVE & INT ERSECTION OF SOUTH TRYON ST (NC 49) & NEVADA BLVD (SR 1347)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "South Tryon Intersection Improvements",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.73,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-49",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753962360000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -80.95036185395212,
-              35.1207594899708
-            ],
-            [
-              -80.94917578705925,
-              35.12133346707388
-            ],
-            [
-              -80.94916630329983,
-              35.121338057176274
-            ],
-            [
-              -80.947560989705,
-              35.122122379100844
-            ],
-            [
-              -80.94703276476275,
-              35.1223817798308
-            ],
-            [
-              -80.94670371783295,
-              35.12255244360108
-            ],
-            [
-              -80.94642986579747,
-              35.122710841079844
-            ],
-            [
-              -80.94609440434557,
-              35.122904417308604
-            ],
-            [
-              -80.9457530778985,
-              35.123143708959866
-            ],
-            [
-              -80.94548712970254,
-              35.12334187945694
-            ],
-            [
-              -80.94526908540797,
-              35.12351075157684
-            ],
-            [
-              -80.94503794704453,
-              35.12371404988153
-            ],
-            [
-              -80.94500749106905,
-              35.12374147438798
-            ],
-            [
-              -80.94495357607234,
-              35.123790793453665
-            ],
-            [
-              -80.94471866495165,
-              35.12400429366675
-            ],
-            [
-              -80.94444046856904,
-              35.12427108973871
-            ],
-            [
-              -80.94440467245172,
-              35.12431100667468
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 86261,
         "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C204421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -93203,7 +93112,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US 74, JAMES HAMILTON RD AND SR 1514 (ROCKY RIVER RD) AT MYERS RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US74 @ Rocky River Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.28,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757693400000
@@ -110606,49 +110515,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 101861,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DM00484",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 59,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "1-40 WESTBOUND AT MILE MARKER 67.4",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "TRENCHLESS PIPE INSTALLATION I-40",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.68,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770996600000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -82.26243879791856,
-              35.618202178078555
-            ],
-            [
-              -82.26191635999893,
-              35.6178578624729
-            ],
-            [
-              -82.26156044103797,
-              35.61767652395109
-            ],
-            [
-              -82.26122131541928,
-              35.61750478071655
-            ],
-            [
-              -82.26032787323756,
-              35.617113481300215
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 102661,
         "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DM00499",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -119444,329 +119310,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 104261,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DM00503",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2413J  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2413J  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 11,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-1727 (MONTICELLO RD) FROM SR-1882 (NEW STOCK RD) TO NC-25 2 (OLD MARSHALL HWY)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Monticello Rd",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.43,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1727",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774621920000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -82.59303768791683,
-              35.7020949973043
-            ],
-            [
-              -82.59352386100346,
-              35.702127410654626
-            ],
-            [
-              -82.59395528328193,
-              35.70215762054575
-            ],
-            [
-              -82.59424114328063,
-              35.7022040625865
-            ],
-            [
-              -82.59446994364109,
-              35.70225716982039
-            ],
-            [
-              -82.59474646788007,
-              35.702373562680876
-            ],
-            [
-              -82.5951142615507,
-              35.702639344991645
-            ],
-            [
-              -82.59547890436177,
-              35.70290934485124
-            ],
-            [
-              -82.59602562219658,
-              35.70330431880178
-            ],
-            [
-              -82.59630019176515,
-              35.703486582063896
-            ],
-            [
-              -82.59663032616723,
-              35.703619480127436
-            ],
-            [
-              -82.59673652155513,
-              35.70366373207246
-            ],
-            [
-              -82.59738222503762,
-              35.70375785700436
-            ],
-            [
-              -82.59779352258687,
-              35.70379580938376
-            ],
-            [
-              -82.5987140496375,
-              35.70390284930358
-            ],
-            [
-              -82.59924141093713,
-              35.70394253154952
-            ],
-            [
-              -82.59944392704797,
-              35.70393313115571
-            ],
-            [
-              -82.59971443300807,
-              35.70390090696867
-            ],
-            [
-              -82.60009863801046,
-              35.70377888368031
-            ],
-            [
-              -82.60024532279824,
-              35.70370553113661
-            ],
-            [
-              -82.60071072314948,
-              35.70347279207036
-            ],
-            [
-              -82.60073165302931,
-              35.70346382491968
-            ],
-            [
-              -82.60158391966715,
-              35.703098623370856
-            ],
-            [
-              -82.60200723440516,
-              35.70288388889893
-            ],
-            [
-              -82.60235650453293,
-              35.70271574718207
-            ],
-            [
-              -82.6026038150486,
-              35.70255330539371
-            ],
-            [
-              -82.6027841541953,
-              35.70237411287193
-            ],
-            [
-              -82.60289521492909,
-              35.70217579642381
-            ],
-            [
-              -82.60297874509068,
-              35.701923146884006
-            ],
-            [
-              -82.60301810505098,
-              35.70163832191319
-            ],
-            [
-              -82.60307576066813,
-              35.701059615959686
-            ],
-            [
-              -82.60307979910175,
-              35.70085657873145
-            ],
-            [
-              -82.60309428880839,
-              35.700094104002304
-            ],
-            [
-              -82.60311127943315,
-              35.699780028768714
-            ],
-            [
-              -82.60320666392812,
-              35.6994020537806
-            ],
-            [
-              -82.60332557562182,
-              35.69905010946149
-            ],
-            [
-              -82.60341937562964,
-              35.69884151525013
-            ],
-            [
-              -82.60357146664084,
-              35.69860965157521
-            ],
-            [
-              -82.60369874445306,
-              35.69849494712017
-            ],
-            [
-              -82.60386549634572,
-              35.69836297211067
-            ],
-            [
-              -82.60412186665833,
-              35.698268970465776
-            ],
-            [
-              -82.60438747721432,
-              35.69828325818375
-            ],
-            [
-              -82.60476292804628,
-              35.69834155669181
-            ],
-            [
-              -82.6048659761504,
-              35.69835451550884
-            ],
-            [
-              -82.60536286961323,
-              35.69841699902076
-            ],
-            [
-              -82.60566196613519,
-              35.698466905743835
-            ],
-            [
-              -82.60593085739174,
-              35.69842641413192
-            ],
-            [
-              -82.60620082861786,
-              35.698313407209106
-            ],
-            [
-              -82.60659974766321,
-              35.697982439197744
-            ],
-            [
-              -82.60698709098163,
-              35.697665465888
-            ],
-            [
-              -82.60705956789594,
-              35.69760523942437
-            ],
-            [
-              -82.60723451048572,
-              35.697459864275395
-            ],
-            [
-              -82.60737803596808,
-              35.69728812810711
-            ],
-            [
-              -82.6077112293598,
-              35.6967755773487
-            ],
-            [
-              -82.60817170303692,
-              35.69623270069919
-            ],
-            [
-              -82.60827106862783,
-              35.696074946561865
-            ],
-            [
-              -82.60835526517648,
-              35.69584636473828
-            ],
-            [
-              -82.60842325883152,
-              35.695665364826056
-            ],
-            [
-              -82.60850327680592,
-              35.69552459832383
-            ],
-            [
-              -82.60873815815306,
-              35.69524793951747
-            ],
-            [
-              -82.60886405292688,
-              35.69505328941343
-            ],
-            [
-              -82.60897325767968,
-              35.69479842229897
-            ],
-            [
-              -82.60908603660631,
-              35.69458611726434
-            ],
-            [
-              -82.60919013585273,
-              35.694475143693595
-            ],
-            [
-              -82.60954464154229,
-              35.69418266603872
-            ],
-            [
-              -82.60984128806199,
-              35.69395307541612
-            ],
-            [
-              -82.61003032932719,
-              35.69385586249237
-            ],
-            [
-              -82.6102567545513,
-              35.693808783881416
-            ],
-            [
-              -82.61047903904857,
-              35.69380975001772
-            ],
-            [
-              -82.6106176284476,
-              35.69383427453111
-            ],
-            [
-              -82.61115419612027,
-              35.69399255699936
-            ],
-            [
-              -82.61158426226667,
-              35.69418979665643
-            ],
-            [
-              -82.61203993588092,
-              35.69443639019662
-            ],
-            [
-              -82.61282230869652,
-              35.694792601070944
-            ],
-            [
-              -82.61348643961247,
-              35.69512129663948
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 104661,
         "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DM00502",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -128385,6 +127928,125 @@
             [
               -77.94381137701275,
               35.409381505261535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 110261,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DB00628",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2402AA ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2402AA ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 11 FROM SOUTH OF SR 1143 TO NORTH OF SR 1144",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "RCI - NC 11 @ Liddell Rd",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1780907460000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -77.70898433842461,
+              35.13950672468102
+            ],
+            [
+              -77.70896112030283,
+              35.1395941994112
+            ],
+            [
+              -77.70893935468924,
+              35.13967360097313
+            ],
+            [
+              -77.70891695979232,
+              35.139752884958
+            ],
+            [
+              -77.70889160006294,
+              35.13983995737944
+            ],
+            [
+              -77.70886548634364,
+              35.13992687824419
+            ],
+            [
+              -77.70877306220412,
+              35.14022149081729
+            ],
+            [
+              -77.70869695097844,
+              35.1404601153525
+            ],
+            [
+              -77.70861719631564,
+              35.1407064534069
+            ],
+            [
+              -77.70857461847483,
+              35.14083206771893
+            ],
+            [
+              -77.70853004461372,
+              35.140965684653835
+            ],
+            [
+              -77.70848615528237,
+              35.14109945499398
+            ],
+            [
+              -77.70844547794756,
+              35.141225494518814
+            ],
+            [
+              -77.70839835251296,
+              35.14137411019562
+            ],
+            [
+              -77.7083520931714,
+              35.14152283435247
+            ],
+            [
+              -77.70828757299545,
+              35.14172017961682
+            ],
+            [
+              -77.70822427858131,
+              35.14191778953558
+            ],
+            [
+              -77.7081695899864,
+              35.142091904981534
+            ],
+            [
+              -77.70811827456835,
+              35.142258294091434
+            ],
+            [
+              -77.70809541326021,
+              35.142329918795085
+            ],
+            [
+              -77.70787118966877,
+              35.14303010726567
+            ],
+            [
+              -77.70765086558559,
+              35.14371412626948
+            ],
+            [
+              -77.70743910971112,
+              35.14438675442508
+            ],
+            [
+              -77.70754145853253,
+              35.1444102679441
             ]
           ]
         ]

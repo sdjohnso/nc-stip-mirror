@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-10T14:14:39.403886+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-06-11T14:26:44.883925+00:00",
+  "feature_count": 256,
   "features": [
     {
       "attributes": {
@@ -160,31 +160,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 5650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204399",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " R-5737    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "R-5737    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 29,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-29/70 & I-85 BUSINESS AT SR-1798 (OLD GREENSBORO ROAD).",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 at DDCC",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.27,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1798",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1639733040000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.18548300635587,
-            35.86107786527458
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 8450,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "C204740",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -194,7 +169,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #370 AND #373 OVER REEMS CREEK ON US-19/23, US-25, A ND US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1667220780000
@@ -377,7 +352,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #164 AND 168 OVER THE NORFOLK SOUTHERN RAILWAY ON US -29/70 I-85 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over Norfolk So. RR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 67.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698682380000
@@ -560,7 +535,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TRIANGLE INNOVATION POINT MEGASITE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Moncure Megasite",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.35,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-1",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1698156360000
@@ -664,7 +639,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "DUAL ROUNDABOUTS NORTH AND SOUTH OF SR-5544 (CATAWBA AVE) AN D US-21 INTERSECTION IN CORNELIUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DUAL ROUNDABOUTS CORNELIUS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.88,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-21",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706269200000
@@ -3322,31 +3297,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 122450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DL00353",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 49,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 254 ON SR 1512",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Wood Bridge Rd. Bridge Replacement",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 89.11,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1512",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755167700000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.9748677003703,
-            35.80235730777985
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 122850,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DL00354",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -3805,7 +3755,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1006 (OLD STAGE ROAD) AT SR 1010 (TEN TEN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "OLD STAGE ROAD AND TEN TEN ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1006",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1759161780000
@@ -4030,7 +3980,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACEMENT OF CULVERT ON SR-1524 (N. SCALYBARK TRAIL)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Scalybark",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.37,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1524",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761838740000
@@ -4130,7 +4080,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 150 OVER BUCK CREEK ON SR 1843 (MAGNOLIA CHURCH RO AD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1843",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762421880000
@@ -4155,7 +4105,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF NC-53 (WESTERN BLVD) AND SR-2714 (JACKSONVIL LE PARKWAY).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Onslow Jax Parkway U-5789",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-53",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1762946160000
@@ -4787,7 +4737,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR-2042 (OAKDALE RD), SR-2108 (SUNSET RD), SR-2025 (MIRANDA RD), AND SR-2040 (LAWING RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oakdale Road Duel Round-a-Bout",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2042",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768571460000
@@ -5161,7 +5111,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #780183 OVER US-29 BYP ON US-29 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29 BUS BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770919260000
@@ -5481,7 +5431,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT NO 220043 CARRYING LITTLE PERSIMMON CREEK UNDER SR 2 017",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Little Persimmon Creek Culvert - Lackey",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.4,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2017",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772100300000
@@ -5681,7 +5631,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT ON SR-2776, BRIDGE ON SR-2427, AND BRIDGE ON SR-2788 .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.82,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.96,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-0199",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773066420000
@@ -6458,7 +6408,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19W.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US19W North WP1 Bridges 93, 124, 138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.0,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19W",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1776867240000
@@ -6817,6 +6767,31 @@
           [
             -82.4531387009934,
             35.98424723897242
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 173250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DG00683",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 68,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 011 OVER ENO RIVER ON SR 1336 (HALLS MILL RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Halls Mill Road Bridge",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1336",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1780911240000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.15506705551469,
+            36.12361606666712
           ]
         ]
       }

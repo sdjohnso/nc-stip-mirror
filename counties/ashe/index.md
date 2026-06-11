@@ -6,15 +6,16 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 2 |
-| 📅 Planned | 15 |
+| 📅 Planned | 14 |
 
 ## All Projects
 
 | TIP | Description | Route | Status |
 |-----|-------------|-------|--------|
 | [AV-5848](AV-5848.md) | Ashe County Airport. Expand aprons. | GEV | 🚧 Under Construction |
-| [HA-0006](HA-0006.md) | NC 88 to Benfield Drive; Northwest Drive to Ame... | Northwest Drive; AEV Lane | 📅 Planned |
+| [HA-0006](HA-0006.md) | NC 88 to Benfield Drive; Northwest Drive to Ame... | Northwest Drive; AEV Lane | 🏗️ Active Construction (0%) |
 | [HB-0043](HB-0043.md) | Bridge 040047 over Helton Creek. Replace bridge. | SR 1523 (Silas Creek R... | 📅 Planned |
 | [HB-0044](HB-0044.md) | Bridge 040093 over North Fork New River. Replac... | SR 1644 (McNeil Road) | 📅 Planned |
 | [HB-0045](HB-0045.md) | Bridge 040183 over Cranberry Creek. Replace bri... | SR 1609 (Upper Cranber... | 📅 Planned |
@@ -35,4 +36,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-10*
+*Mirror Updated: 2026-06-11*
