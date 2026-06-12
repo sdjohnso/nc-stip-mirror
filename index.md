@@ -10,10 +10,10 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 109 |
+| 🏗️ Active Construction | 107 |
 | 🚧 Under Construction | 588 |
-| 📋 Right-of-Way | 285 |
-| 📅 Planned | 1,232 |
+| 📋 Right-of-Way | 286 |
+| 📅 Planned | 1,233 |
 | ✅ Completed | 136 |
 
 ## Counties
@@ -24,7 +24,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Alexander](counties/alexander/index.md) | 5 | 0 | 1 |
 | [Alleghany](counties/alleghany/index.md) | 3 | 0 | 1 |
 | [Anson](counties/anson/index.md) | 8 (+3) | 0 | 5 |
-| [Ashe](counties/ashe/index.md) | 17 | 1 | 14 |
+| [Ashe](counties/ashe/index.md) | 17 | 0 | 15 |
 | [Avery](counties/avery/index.md) | 3 | 0 | 1 |
 | [Beaufort](counties/beaufort/index.md) | 4 (+1) | 0 | 2 |
 | [Bertie](counties/bertie/index.md) | 7 | 0 | 4 |
@@ -111,7 +111,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Tyrrell](counties/tyrrell/index.md) | 3 (+1) | 0 | 2 |
 | [Union](counties/union/index.md) | 51 (+3) | 0 | 34 |
 | [Vance](counties/vance/index.md) | 14 (+1) | 0 | 13 |
-| [Wake](counties/wake/index.md) | 216 (+4) | 6 | 125 |
+| [Wake](counties/wake/index.md) | 216 (+4) | 5 | 125 |
 | [Warren](counties/warren/index.md) | 8 (+1) | 2 | 5 |
 | [Washington](counties/washington/index.md) | 3 (+1) | 0 | 3 |
 | [Watauga](counties/watauga/index.md) | 15 | 0 | 10 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-11*
+*Mirror Updated: 2026-06-12*

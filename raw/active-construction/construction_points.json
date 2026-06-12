@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-11T14:26:44.883925+00:00",
-  "feature_count": 256,
+  "pull_timestamp": "2026-06-12T13:56:36.903999+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -302,7 +302,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 780001 OVER US-29 ON SR-2817 AND BRIDGE 780151 OVER U S-29 ON US-158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER US-29 & 158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.46,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1684838100000
@@ -377,7 +377,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT SR-1168 (N ACADEMY ST/LATTIMORE RD) AND BRIDGES 220 048 AND 220049 ON US-74 OVER SANDY RUN CREEK.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 over Sandy Run Creek -Design Build",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 59.88,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1699359780000
@@ -922,7 +922,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #530020 OVER NEUSE RIVER AND BRIDGE #530034 OVER NEUS E RIVER OVERFLOW ON NC-55.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 55 Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1719939540000
@@ -1450,7 +1450,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #880007 OVER THE ALLIGATOR RIVER ON US-64.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Alligator River Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.43,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1738237800000
@@ -2165,7 +2165,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #204 OVER WALNUT CREEK ON SR 1533 (WALNUT CREEK RD) I N MACON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Walnut Creek Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1533",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746198480000
@@ -2442,7 +2442,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #220025 OVER BUFFALO CREEK ON SR-2033 (OAK GROVE ROAD ).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Oak Grove Road over Buffalo Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2033",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748345940000
@@ -3127,7 +3127,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "1/2 MILE NORTH OF US421 & NC902. 1/2 MILE SOUTH OF SR2000& S R2109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 421 & NC 902 RCI, Fred Smith",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.26,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-421",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754579880000
@@ -4991,7 +4991,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #850006 OVER NC-268, SOUTHERN RAILROAD TRACKS, AND TH E YADKIN RIVER ON I-77.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-77 Bridge over Yadkin River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.73,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-77",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770311640000
@@ -5136,7 +5136,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE ON CANE CRK ON SR-1207, BRIDGE OVER BIG ROCK CRK ON S R-1330, AND BRIDGE OVER BEANS CRK ON SR-1325.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Smith Rowe Bridges 87, 152, 156",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.95,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1207",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770896460000
@@ -6296,7 +6296,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-89 (WEST PINE ST) AT SR-1397 (ROUND PEAK CHURCH RD) INTER SECTION.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roundabout NC-89/Round Peak Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-89",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1777364940000
@@ -6792,6 +6792,31 @@
           [
             -79.15506705551469,
             36.12361606666712
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 173650,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DN01140",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 45,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE #440336 OVER CLEAR CREEK ON SR 1636 (BOBS RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BOB'S RD - BRIDGE 336",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1636",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1781101680000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.32202986419483,
+            35.43633779814278
           ]
         ]
       }
