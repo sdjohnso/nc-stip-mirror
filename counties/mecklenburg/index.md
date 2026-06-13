@@ -6,8 +6,9 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 31 |
-| 📋 Right-of-Way | 22 |
+| 📋 Right-of-Way | 21 |
 | 📅 Planned | 85 |
 | ✅ Completed | 9 |
 
@@ -46,7 +47,7 @@
 | [EB-6052](EB-6052.md) | SR 2940 (North Tryon Street) to JW Clay Bouleva... | NC 24 (W.T. Harris Bou... | 📅 Planned |
 | [HL-0023](HL-0023.md) | I-485 Outer Loop to Williams Pond Lane. Widen t... | Rea Road | 📋 Right-of-Way |
 | [HL-0024](HL-0024.md) | SR 3440 (McKee Road) intersection in Matthews. ... | SR 3468 (Weddington Road) | 📋 Right-of-Way |
-| [HL-0025](HL-0025.md) | East John Street to Tank Town Road. Construct r... | Greylock Ridge Road | 📋 Right-of-Way |
+| [HL-0025](HL-0025.md) | East John Street to Tank Town Road. Construct r... | Greylock Ridge Road | 🏗️ Active Construction (0%) |
 | [HL-0038A](HL-0038A.md) | Gaston County line to Field Ridge Road; West Su... | US 29 / US 74 (Wilkins... | ✅ Completed |
 | [HL-0053](HL-0053.md) | NC 24 to Plott Road. Widen to three lanes. | SR 2822 (Robinson Chur... | 📅 Planned |
 | [HL-0056](HL-0056.md) | Harvest Point Drive to Sam Furr Road. Improve c... | NC 115 | 📅 Planned |
@@ -182,4 +183,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-12*
+*Mirror Updated: 2026-06-13*

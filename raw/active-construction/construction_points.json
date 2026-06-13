@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-12T13:56:36.903999+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-06-13T12:18:59.787742+00:00",
+  "feature_count": 258,
   "features": [
     {
       "attributes": {
@@ -406,7 +406,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 AT SR-2044 (LIGON MILL RD)/SR-2224 (MITCHELL MILL RD)  AND SR-2006 (PERRY CREEK RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.09,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1695643380000
@@ -897,7 +897,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #69 OVER US-70 ON NC-50 (BENSON RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 OVER US 70 (GARNER)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.61,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1718641320000
@@ -1084,7 +1084,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GRADE SEPARATION OF SR-2006 (DURANT ROAD) OVER CSX S LINE RA ILROAD IN RALEIGH.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Durant Road GS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2006",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1724411340000
@@ -1579,7 +1579,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580044 OVER CURTIS CREEK ON US-70 AND BRIDGE #580090  OVER MILL CREEK ON SR-1407.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER CURTIS CREEK / MILL CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.67,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1407",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740404160000
@@ -1604,7 +1604,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580345 OVER ARMSTRONG CREEK ON SR-1546 AND BRIDGE #1 00110 OVER BROAD RIVER ON SR-2802.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE OVER AMRSTRONG CRK / BROAD RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.75,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.89,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1546",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1740404460000
@@ -1745,7 +1745,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #500070 OVER NEUSE RIVER ON US-301.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 500070 Over The Neuse River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.62,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-301",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742219820000
@@ -1928,7 +1928,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #890146 OVER LITTLE RICHARDSON CREEK ON SR 2102 (MEDL IN ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Medlin Rd Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743166620000
@@ -1953,7 +1953,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE OF I-40/I-85 AND SR-1981 (TOLLINGWOOD-HAWFIELDS RD) IN MEBANE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Trollingwood - Hawfields Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.31,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1981",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743082140000
@@ -2413,7 +2413,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE BP-006-2064 ON NC 184 AND STRUCTURE 940738 ON NC 1 05",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Avery/Watauga Culverts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.16,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-105,",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747663680000
@@ -3087,31 +3087,6 @@
           [
             -80.9934543330916,
             35.4787037438305
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 119650,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00442",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HN-0028   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HN-0028   ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 99,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROUNDABOUTS ON SR 1711 (SPEER BRIDGE ROAD) AT US 421 INTERCH ANGE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roundabouts on Speer Bridge Rd at US 421",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.72,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1711",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1754670060000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.54507408212098,
-            36.11742756036645
           ]
         ]
       }
@@ -4230,7 +4205,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 16 OVER BENS CREEK ON SR 1509 ODELL LITTLETON ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge No. 16 over Bens Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.64,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1509",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764689040000
@@ -4637,7 +4612,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "POLK BRIDGE 143 ON SR 1138 (LAKE ADGER ROAD) OVER PANTHER CR EEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.35,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1138",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768402500000
@@ -5078,7 +5053,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT #600050 ON SR-1206, CULVERT #990179 ON SR-1143, AND BRIDGE #990188 ON SR-1337.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Mtn Creek Bridge Replacements",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.18,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1143",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770897000000
@@ -6749,7 +6724,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990165, BRIDGE #990116 & BRIDGE #990234.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 23",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1317",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1780570140000
@@ -6817,6 +6792,56 @@
           [
             -82.32202986419483,
             35.43633779814278
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 174050,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00501",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #580141 OVER MILL CREEK ON SR-1409 (PARIS CREEK RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Paris Creek Bridge",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1409",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1781170560000
+      },
+      "geometry": {
+        "points": [
+          [
+            -82.24774313968265,
+            35.65644643859906
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 174450,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DE00405",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 92,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 911473 OVER CRABTREE CREEK ON S. TURKEY CREEK TRAI L WILLIAM B. UMSTEAD STATE PARK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Umstead Bridge",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1649",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1781183640000
+      },
+      "geometry": {
+        "points": [
+          [
+            -78.72451152429896,
+            35.84541933350991
           ]
         ]
       }

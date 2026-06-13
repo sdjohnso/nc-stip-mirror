@@ -10,10 +10,10 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 107 |
-| 🚧 Under Construction | 588 |
-| 📋 Right-of-Way | 286 |
-| 📅 Planned | 1,233 |
+| 🏗️ Active Construction | 123 |
+| 🚧 Under Construction | 585 |
+| 📋 Right-of-Way | 283 |
+| 📅 Planned | 1,223 |
 | ✅ Completed | 136 |
 
 ## Counties
@@ -24,7 +24,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Alexander](counties/alexander/index.md) | 5 | 0 | 1 |
 | [Alleghany](counties/alleghany/index.md) | 3 | 0 | 1 |
 | [Anson](counties/anson/index.md) | 8 (+3) | 0 | 5 |
-| [Ashe](counties/ashe/index.md) | 17 | 0 | 15 |
+| [Ashe](counties/ashe/index.md) | 17 | 1 | 14 |
 | [Avery](counties/avery/index.md) | 3 | 0 | 1 |
 | [Beaufort](counties/beaufort/index.md) | 4 (+1) | 0 | 2 |
 | [Bertie](counties/bertie/index.md) | 7 | 0 | 4 |
@@ -51,14 +51,14 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Davidson](counties/davidson/index.md) | 24 (+2) | 0 | 13 |
 | [Davie](counties/davie/index.md) | 9 | 0 | 3 |
 | [Duplin](counties/duplin/index.md) | 13 (+2) | 0 | 6 |
-| [Durham](counties/durham/index.md) | 52 (+10) | 7 | 27 |
+| [Durham](counties/durham/index.md) | 52 (+10) | 9 | 25 |
 | [Edgecombe](counties/edgecombe/index.md) | 25 (+2) | 2 | 6 |
 | [Forsyth](counties/forsyth/index.md) | 85 (+3) | 1 | 49 |
 | [Franklin](counties/franklin/index.md) | 16 (+2) | 0 | 14 |
 | [Gaston](counties/gaston/index.md) | 48 (+3) | 6 | 28 |
 | [Gates](counties/gates/index.md) | 2 (+1) | 0 | 1 |
 | [Graham](counties/graham/index.md) | 12 | 1 | 6 |
-| [Granville](counties/granville/index.md) | 13 | 1 | 5 |
+| [Granville](counties/granville/index.md) | 13 | 2 | 4 |
 | [Greene](counties/greene/index.md) | 3 (+2) | 0 | 1 |
 | [Guilford](counties/guilford/index.md) | 120 (+5) | 0 | 69 |
 | [Halifax](counties/halifax/index.md) | 11 (+4) | 2 | 2 |
@@ -79,7 +79,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Madison](counties/madison/index.md) | 6 | 0 | 2 |
 | [Martin](counties/martin/index.md) | 9 | 0 | 3 |
 | [McDowell](counties/mcdowell/index.md) | 16 (+1) | 0 | 9 |
-| [Mecklenburg](counties/mecklenburg/index.md) | 147 (+8) | 0 | 85 |
+| [Mecklenburg](counties/mecklenburg/index.md) | 147 (+8) | 1 | 85 |
 | [Mitchell](counties/mitchell/index.md) | 4 | 0 | 1 |
 | [Montgomery](counties/montgomery/index.md) | 10 | 0 | 5 |
 | [Moore](counties/moore/index.md) | 24 (+3) | 0 | 14 |
@@ -110,8 +110,8 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Transylvania](counties/transylvania/index.md) | 15 (+1) | 4 | 4 |
 | [Tyrrell](counties/tyrrell/index.md) | 3 (+1) | 0 | 2 |
 | [Union](counties/union/index.md) | 51 (+3) | 0 | 34 |
-| [Vance](counties/vance/index.md) | 14 (+1) | 0 | 13 |
-| [Wake](counties/wake/index.md) | 216 (+4) | 5 | 125 |
+| [Vance](counties/vance/index.md) | 14 (+1) | 1 | 12 |
+| [Wake](counties/wake/index.md) | 216 (+4) | 15 | 120 |
 | [Warren](counties/warren/index.md) | 8 (+1) | 2 | 5 |
 | [Washington](counties/washington/index.md) | 3 (+1) | 0 | 3 |
 | [Watauga](counties/watauga/index.md) | 15 | 0 | 10 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-12*
+*Mirror Updated: 2026-06-13*

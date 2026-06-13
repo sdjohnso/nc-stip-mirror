@@ -6,8 +6,9 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 2 |
-| 📅 Planned | 15 |
+| 📅 Planned | 14 |
 
 ## All Projects
 
@@ -20,7 +21,7 @@
 | [HB-0045](HB-0045.md) | Bridge 040183 over Cranberry Creek. Replace bri... | SR 1609 (Upper Cranber... | 📅 Planned |
 | [HB-0046](HB-0046.md) | Bridge 040226 over South Fork New River. Replac... | SR 1105 (New River Bri... | 📅 Planned |
 | [HB-0047](HB-0047.md) | Bridge 040304 over Helton Creek. Replace bridge. | SR 1528 (Jim Duvall Road) | 📅 Planned |
-| [HB-0048](HB-0048.md) | Bridge 040343 over Cranberry Creek. Replace bri... | SR 1606 (Double Spring... | 📅 Planned |
+| [HB-0048](HB-0048.md) | Bridge 040343 over Cranberry Creek. Replace bri... | SR 1606 (Double Spring... | 🏗️ Active Construction (0%) |
 | [HB-0049](HB-0049.md) | Bridge 040351 over South Fork New River. Replac... | SR 1602 (North Fulton ... | 📅 Planned |
 | [HB-0050](HB-0050.md) | Bridge 040463 over North Fork New River. Replac... | SR 1563 (Clifton Road) | 📅 Planned |
 | [HB-0051](HB-0051.md) | Bridge 040466 over South Fork New River. Replac... | SR 1159 (Boggs Road) | 📅 Planned |
@@ -35,4 +36,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-12*
+*Mirror Updated: 2026-06-13*

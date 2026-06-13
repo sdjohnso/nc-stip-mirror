@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-12T13:56:36.903999+00:00",
+  "pull_timestamp": "2026-06-13T12:18:59.787742+00:00",
   "feature_count": 160,
   "features": [
     {
@@ -52955,7 +52955,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-276 (RUSS AVE) FROM US-23/74 TO US-23 BUS (MAIN ST) IN WA YNESVILLE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-276 Russ Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 55.64,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-276",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1706882100000
@@ -62027,7 +62027,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-8 (WINSTON RD) FROM US-29/US-70 TO SR-1846 (ARRINGTON DR) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 8 Widening US-29/70 to Arrington Dr.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.17,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-8",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1729697760000
@@ -62711,7 +62711,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-211 FROM NC-73 TO WEST OF SR-1241 (HOLLY GROVE SCHOOL RD) .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "West End - NC 211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.69,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-211",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1734438240000
@@ -63214,7 +63214,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-150 FROM SR-1840 (GREENWOOD ROAD) IN CATAWBA COUNTY TO US -21 IN IREDELL COUNTY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "R2307B - 150 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.25,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.36,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-150",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1736236680000
@@ -106954,7 +106954,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT VARIOUS SITES ALONG SR 1594 & SR 1569 BEARWALLOW MOUNTAIN  RD BETWEEN US74A AND OLD CLEAR CREEK RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bearwallow Mtn Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.34,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1594",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768468680000

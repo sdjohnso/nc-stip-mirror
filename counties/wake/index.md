@@ -6,10 +6,10 @@
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 5 |
-| 🚧 Under Construction | 54 |
-| 📋 Right-of-Way | 31 |
-| 📅 Planned | 125 |
+| 🏗️ Active Construction | 15 |
+| 🚧 Under Construction | 51 |
+| 📋 Right-of-Way | 29 |
+| 📅 Planned | 120 |
 | ✅ Completed | 1 |
 
 ## All Projects
@@ -87,7 +87,7 @@
 | [HL-0051](HL-0051.md) | Athens Drive intersection in Raleigh. Install l... | SR 1319 (Jones Frankli... | 📅 Planned |
 | [HL-0052](HL-0052.md) | Homewood Banks Drive to Crabtree Valley Avenue ... | Blue Ridge Road | 📅 Planned |
 | [HL-0119](HL-0119.md) | Rowan Street to SR 1827 (Lynn Road) in Raleigh.... | SR 1005 (Six Forks Road) | 📅 Planned |
-| [HL-0121](HL-0121.md) | SR 1901 (Old Weaver Trail) intersection in Cree... | NC 50 | 📋 Right-of-Way |
+| [HL-0121](HL-0121.md) | SR 1901 (Old Weaver Trail) intersection in Cree... | NC 50 | 🏗️ Active Construction (0%) |
 | [HL-0122](HL-0122.md) | Mount Vernon Church Road intersection in Raleig... | NC 50 | 📅 Planned |
 | [HL-0128](HL-0128.md) | SR 2320 (Riley Hill Road) intersection in Wende... | SR 1003 (Rolesville Road) | 📅 Planned |
 | [HL-0140](HL-0140.md) | SR 1004 (East Garner Road) to Southern Boundary... | SR 5220 (Jones Sausage... | 📅 Planned |
@@ -122,11 +122,11 @@
 | [HS-2005J](HS-2005J.md) | Mingo Creek Trail crossing. Relocate crosswalk. | SR 2516 (Hodge Road) | 🏗️ Active Construction (90%) |
 | [HS-2005K](HS-2005K.md) | SR 2108 / SR 2036 (New Hope Road) intersection ... | US 401 | 🏗️ Active Construction (90%) |
 | [HS-2005Q](HS-2005Q.md) | Blazing Trail Drive / Driveway access to Apex F... | SR 1142 (Humie Olive R... | 🏗️ Active Construction (90%) |
-| [HS-2405G](HS-2405G.md) | Dillard Drive Middle School driveway; Orabelle ... | SR 1349 (Dillard Drive) | 📅 Planned |
-| [HS-2405H](HS-2405H.md) | Cashew Drive intersection. Install traffic sign... | SR 2049 (Forestville R... | 📅 Planned |
-| [HS-2405J](HS-2405J.md) | I-40 / I-440 ramp terminals. Uprade ramp traffi... | US 70 / US 401 (South ... | 📅 Planned |
-| [HS-2405K](HS-2405K.md) | Polk street intersection. Install traffic signa... | SR 2026 (North Person ... | 📅 Planned |
-| [HS-2405O](HS-2405O.md) | SR 2763 (Maude Stewart Road) intersection. Cons... | SR 2754 (Kennebec Road) | 📅 Planned |
+| [HS-2405G](HS-2405G.md) | Dillard Drive Middle School driveway; Orabelle ... | SR 1349 (Dillard Drive) | 🏗️ Active Construction (0%) |
+| [HS-2405H](HS-2405H.md) | Cashew Drive intersection. Install traffic sign... | SR 2049 (Forestville R... | 🏗️ Active Construction (0%) |
+| [HS-2405J](HS-2405J.md) | I-40 / I-440 ramp terminals. Uprade ramp traffi... | US 70 / US 401 (South ... | 🏗️ Active Construction (0%) |
+| [HS-2405K](HS-2405K.md) | Polk street intersection. Install traffic signa... | SR 2026 (North Person ... | 🏗️ Active Construction (0%) |
+| [HS-2405O](HS-2405O.md) | SR 2763 (Maude Stewart Road) intersection. Cons... | SR 2754 (Kennebec Road) | 🏗️ Active Construction (0%) |
 | [I-5111](I-5111.md) | 🗺️ I-440 / US 64 (Exit 301) to NC 42 (Exit 312). A... | I-40 | 🚧 Under Construction |
 | [I-5111SW](I-5111SW.md) | I-440 / US 64 (Exit 301) to Johnston County lin... | I-40 | 📅 Planned |
 | [I-5506](I-5506.md) | SR 1002 (Aviation Parkway) interchange in Cary.... | I-40 | ✅ Completed |
@@ -227,10 +227,10 @@
 | [U-6242](U-6242.md) | SR 2015 / SR 2041 (Spring Forest Road) to US 1 ... | SR 2015 (Dixie Forest ... | 📋 Right-of-Way |
 | [U-6243](U-6243.md) | Flint Point Lane to SR 1301 (Sunset Lake Road) ... | SR 1152 (Holly Springs... | 🚧 Under Construction |
 | [U-6244](U-6244.md) | SR 1007 (Wendell Falls Parkway) in Wendell. Con... | US 64 Business (Wendel... | 🚧 Under Construction |
-| [W-5805C](W-5805C.md) | SR 1827 (Lynn Road) intersection in Raleigh. Co... | SR 1820 (Lead Mine Road) | 🚧 Under Construction |
-| [W-5805D](W-5805D.md) | Bridge 910023 over Middle Creek. Install guardr... | NC 42 | 🚧 Under Construction |
-| [W-5805E](W-5805E.md) | SR 2057 / SR 4465 (Moores Pond Road). Construct... | NC 98 | 📋 Right-of-Way |
-| [W-5805H](W-5805H.md) | SR 2539 (Yeargan Road) intersection, SR 2564 (C... | SR 1004 (Garner Road);... | 🚧 Under Construction |
+| [W-5805C](W-5805C.md) | SR 1827 (Lynn Road) intersection in Raleigh. Co... | SR 1820 (Lead Mine Road) | 🏗️ Active Construction (0%) |
+| [W-5805D](W-5805D.md) | Bridge 910023 over Middle Creek. Install guardr... | NC 42 | 🏗️ Active Construction (0%) |
+| [W-5805E](W-5805E.md) | SR 2057 / SR 4465 (Moores Pond Road). Construct... | NC 98 | 🏗️ Active Construction (0%) |
+| [W-5805H](W-5805H.md) | SR 2539 (Yeargan Road) intersection, SR 2564 (C... | SR 1004 (Garner Road);... | 🏗️ Active Construction (0%) |
 | [Y-4805F](Y-4805F.md) | SR 2513 (Fayetteville Street) intersection in K... | Carolina Coastal Railway | 📅 Planned |
 
 ## Projects Spanning This County
@@ -248,4 +248,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-12*
+*Mirror Updated: 2026-06-13*

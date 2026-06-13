@@ -6,8 +6,9 @@
 
 | Status | Count |
 |--------|-------|
+| 🏗️ Active Construction | 1 |
 | 🚧 Under Construction | 1 |
-| 📅 Planned | 13 |
+| 📅 Planned | 12 |
 
 ## All Projects
 
@@ -26,7 +27,7 @@
 | [P-5753CI](P-5753CI.md) | Various. Construct grade separation at SR 1507 ... | CXS S Line | 📅 Planned |
 | [U-5890](U-5890.md) | South Cooper Drive to US 158 Business in Hender... | SR 1162 (Dabney Drive) | 📅 Planned |
 | [W-5705G](W-5705G.md) | SR 1507 (Brookston Road) intersection. Construc... | SR 1001 (Warrenton Road) | 📅 Planned |
-| [W-5805G](W-5805G.md) | SR 1113 (Lake Lodge Road) intersection. Constru... | US 1 | 📅 Planned |
+| [W-5805G](W-5805G.md) | SR 1113 (Lake Lodge Road) intersection. Constru... | US 1 | 🏗️ Active Construction (0%) |
 
 ## Projects Spanning This County
 
@@ -40,4 +41,4 @@
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-12*
+*Mirror Updated: 2026-06-13*
