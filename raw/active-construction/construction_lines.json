@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-15T16:10:27.536995+00:00",
+  "pull_timestamp": "2026-06-16T15:46:58.386988+00:00",
   "feature_count": 160,
   "features": [
     {
@@ -4416,7 +4416,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM I-85 IN ORANGE COUNTY TO THE DURHAM COUNTY LINE AND I-40 WESTBOUND IN DURHAM COUNTY NEAR US-15/501.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Hillsborough",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.55,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1634222280000
@@ -28500,7 +28500,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-221 SOUTH OF US-74 BUS (CHARLOTTE RD) TO NORTH OF SR-1366 (ROPER LOOP RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-221 WIDENING",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.74,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-221",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1644492300000
@@ -29977,7 +29977,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 SHELBY BYPASS FROM EAST OF NC-150 TO WEST OF SR-1001 ( STONEY POINT RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-74 ByPass D/E",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 39.03,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1694518020000
@@ -61031,7 +61031,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 FROM ASHEBORO BYPASS TO EAST OF I-73/I-74/US-220.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-64/220 WIDENING & INTERCHANGE IMP",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 41.2,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.02,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 8,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725031800000
@@ -62549,7 +62549,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-601 (STATE ST) FROM SR-1742 (SHARON DR) TO SR-1146 (LEE A VE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-601 Roundabouts in Yadkinville",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-601",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1731944940000
@@ -90130,7 +90130,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-43 CONNECTOR FROM US-17 BUSINESS TO SOUTH OF US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 43 CONNECTOR",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.55,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-43",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1755534240000
@@ -102185,7 +102185,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US 17 (WILMINGTON HWY.) AT NC 172 (SNEADS FERRY RD.) AND US 17 AT SR 1518 (OLD FOLKSTONE RD.) INTERSECTIONS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "UJ-6065 US 17 @ NC 172 & SR 1518  GDPSig",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 35.21,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1518",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761744240000
@@ -104265,7 +104265,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NEW ROUTE FROM SR-1630 (BALTIMORE RD) TO I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Baltimore Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 23.15,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1630",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1764772740000
@@ -108043,7 +108043,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BIG MILL FARM RD FROM S OF US-421 TO SR-2649, SR-2649 FROM B IG MILL FARM RD TO NC-66, & INT OF US-421 & BIG MILL FARM RD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Big Mill Farm Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.74,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-2649",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770203100000

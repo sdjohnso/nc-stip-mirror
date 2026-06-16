@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-15T16:10:27.536995+00:00",
-  "feature_count": 258,
+  "pull_timestamp": "2026-06-16T15:46:58.386988+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -3576,7 +3576,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 46 ON SR 1364 (COLEMAN MOUNTAIN ROAD) OVER JONATHAN C REEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Coleman Mountain Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1364",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758200940000
@@ -3626,7 +3626,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #170091 OVER THE CATAWBA RIVER ON NC-127 AND BRIDGE # 170139 OVER THE CATAWBA RIVER ON NC-16.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC127/NC16 Bridge Rehabilitation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-127",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758271140000
@@ -4408,7 +4408,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "TOWN OF CLAYTON",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Town of Clayton Signals (TCD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 24.22,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767177420000
@@ -5372,31 +5372,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 154450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00543",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2406N  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2406N  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 9,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 87 AT NC 131",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Flasher Signal Tarheel",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.51,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-87",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772450760000
-      },
-      "geometry": {
-        "points": [
-          [
-            -78.78580678798106,
-            34.731091948353956
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 154850,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DL00377",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -5672,7 +5647,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO 199 OVER FORD CREEK ON SR 1629 FLAT ROCK ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Flat Rock Road Bridge No. 199",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1629",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773311400000
@@ -6296,7 +6271,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERTS 430187, 430188, 430189 AND 430190 OVER MARTINS CREE K ON SR 1341 (MARTINS CREEK RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Martins Creek Culverts",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.85,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1341",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1777389480000
@@ -6333,7 +6308,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #050030 ON SR 1321 (CURTIS CREEK ROAD) OVER C URTIS CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge #050030 On SR 1321 (Curtis Creek)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.71,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1321",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1777548300000
@@ -6416,7 +6391,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE 187 ON SR 1339 (HOPEWELL CHURCH ROAD) OVER ME AT CAMP CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "WAT #187 Replacement - Hopewell Ch Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1339",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1777969860000

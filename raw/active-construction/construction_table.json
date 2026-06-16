@@ -1,8 +1,8 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-06-15T16:10:27.536995+00:00",
-  "feature_count": 65,
+  "pull_timestamp": "2026-06-16T15:46:58.386988+00:00",
+  "feature_count": 66,
   "features": [
     {
       "attributes": {
@@ -179,7 +179,7 @@
         "OBJECTID": 256,
         "ContractNumber": "DA00641",
         "ContractType": "Other",
-        "TipReference": " HS-2401   , HS-2401L  ",
+        "TipReference": " HS-2401   , HS-2401L  , HS-2401M  ",
         "TIP": "HS-2401   ",
         "CountyNumber": 27,
         "LocationsDescription": "DIVISION 1 COUNTIES",
@@ -465,7 +465,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 329,
+        "OBJECTID": 328,
         "ContractNumber": "DG00677",
         "ContractType": "Other",
         "TipReference": null,
@@ -478,6 +478,23 @@
         "Route": "SR-1820",
         "PhysicalDivisionNumber": 7,
         "ContractActiveDate": 1769620920000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 331,
+        "ContractNumber": "DG00695",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 41,
+        "LocationsDescription": "CULVERT 40-2179 OVER UT TO BIG ALAMANCE CREEK ON SR 3098 (AB ERNATHY RD)",
+        "ContractNickname": "Abernathy Rd.",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-3098",
+        "PhysicalDivisionNumber": 7,
+        "ContractActiveDate": 1781534760000
       }
     },
     {
