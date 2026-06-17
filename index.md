@@ -10,10 +10,10 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 
 | Status | Count |
 |--------|-------|
-| 🏗️ Active Construction | 123 |
+| 🏗️ Active Construction | 121 |
 | 🚧 Under Construction | 585 |
-| 📋 Right-of-Way | 283 |
-| 📅 Planned | 1,223 |
+| 📋 Right-of-Way | 284 |
+| 📅 Planned | 1,224 |
 | ✅ Completed | 136 |
 
 ## Counties
@@ -24,7 +24,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Alexander](counties/alexander/index.md) | 5 | 0 | 1 |
 | [Alleghany](counties/alleghany/index.md) | 3 | 0 | 1 |
 | [Anson](counties/anson/index.md) | 8 (+3) | 0 | 5 |
-| [Ashe](counties/ashe/index.md) | 17 | 1 | 14 |
+| [Ashe](counties/ashe/index.md) | 17 | 0 | 15 |
 | [Avery](counties/avery/index.md) | 3 | 0 | 1 |
 | [Beaufort](counties/beaufort/index.md) | 4 (+1) | 0 | 2 |
 | [Bertie](counties/bertie/index.md) | 7 | 0 | 4 |
@@ -79,7 +79,7 @@ This mirror contains **2,350 transportation projects** across all 100 North Caro
 | [Madison](counties/madison/index.md) | 6 | 0 | 2 |
 | [Martin](counties/martin/index.md) | 9 | 0 | 3 |
 | [McDowell](counties/mcdowell/index.md) | 16 (+1) | 0 | 9 |
-| [Mecklenburg](counties/mecklenburg/index.md) | 147 (+8) | 1 | 85 |
+| [Mecklenburg](counties/mecklenburg/index.md) | 147 (+8) | 0 | 85 |
 | [Mitchell](counties/mitchell/index.md) | 4 | 0 | 1 |
 | [Montgomery](counties/montgomery/index.md) | 10 | 0 | 5 |
 | [Moore](counties/moore/index.md) | 24 (+3) | 0 | 14 |
@@ -139,4 +139,4 @@ researchers, and AI assistants.
 
 *Data Source: [NCDOT STIP](https://connect.ncdot.gov/projects/planning/Pages/STIP.aspx)*  
 *Last NCDOT Update: 2026-06-07*  
-*Mirror Updated: 2026-06-16*
+*Mirror Updated: 2026-06-17*

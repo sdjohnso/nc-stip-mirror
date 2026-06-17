@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-16T15:46:58.386988+00:00",
-  "feature_count": 160,
+  "pull_timestamp": "2026-06-17T14:21:19.101948+00:00",
+  "feature_count": 162,
   "features": [
     {
       "attributes": {
@@ -51055,7 +51055,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-66 (OLD HOLLOW ROAD) FROM HARLEY DRIVE TO US-158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-66 Widening",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.83,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.28,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-66",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1704468180000
@@ -67003,7 +67003,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-64 FROM SR-1180 (BLYTHE ST) TO SR-1173 (WHITE PINE DR)/SR -1186 (DANIEL DR).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Blythe Street To White Pine Dr.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.29,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 8.95,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1739184240000
@@ -93143,7 +93143,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-7 (MAIN ST) INTERSECTION WITH US-29/74 (WILKINSON BLVD), AND I-85 FROM NC-7 TO EAST OF NC-273.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-85 Widening Gaston",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 7.93,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-5719B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758028080000
@@ -121688,7 +121688,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "ROCK MERRITT AVE FROM NORTH OF BUTNER RD TO NORTH OF BOXCAR ST",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Rock Merritt Ft Bragg",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.42,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 54.32,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767109080000
@@ -128425,6 +128425,80 @@
             [
               -78.65555900288612,
               35.716700943035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 111461,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "DG00695",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 41,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT 40-2179 OVER UT TO BIG ALAMANCE CREEK ON SR 3098 (AB ERNATHY RD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Abernathy Rd.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-3098",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1781534760000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -79.60303907182939,
+              36.037505434404224
+            ],
+            [
+              -79.60298027583528,
+              36.03746984564752
+            ],
+            [
+              -79.60287831650665,
+              36.0374081299203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 111462,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C205013",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HL-0025   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HL-0025   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 60,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "GREYLOCK RIDGE RD FROM EAST JOHN ST TO TANK TOWN RD.",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Greylock Ridge Road",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1781265900000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -80.71294023159331,
+              35.107129517712735
+            ],
+            [
+              -80.71294621095859,
+              35.107136821604776
+            ],
+            [
+              -80.71058783108764,
+              35.10863841570894
+            ],
+            [
+              -80.70967715065947,
+              35.109510097288855
             ]
           ]
         ]

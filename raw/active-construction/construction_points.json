@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-16T15:46:58.386988+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-06-17T14:21:19.101948+00:00",
+  "feature_count": 259,
   "features": [
     {
       "attributes": {
@@ -119,7 +119,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-29/US-70/I-85 BUSINESS, SR-1009 (S MAIN ST) IN HIGH POINT AND BRIDGE #147 OVER US-311 ON US-29/US-70/I-85 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Main St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.31,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.48,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1649686560000
@@ -485,7 +485,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-74 AT NC-72 AND NC-130.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 74 Interchange at NC 72/NC 130",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.67,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680694080000
@@ -743,7 +743,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE 940089 ON SR 1351 (CASTLE FORD ROAD) OVER SOU TH FORK NEW RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Watauga Bridge 89 on Castle Ford Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 56.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.24,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1351",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1709280000000
@@ -980,7 +980,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #248 AND #249 OVER SR-1613 (BEAVERDAM RD) ON I-40.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Bridges 248 / 249 (Beaverdam Rd)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1721323560000
@@ -1899,7 +1899,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #560042 OVER IVY CREEK ON SR-1576 (BEND OF IVY RD) AN D BRIDGE #560304 OVER SR-1183 (UPPER SHUTIN RD.)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "KSCC Bridges Bend of Ivy/Upper Shut in",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.59,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 27.12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1183",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1743419280000
@@ -2521,7 +2521,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #840286 OVER LITTLE YADKIN RIVER ON SR-1236 (NORTH OL D 52).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Litlle Yadkin River Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1236",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748875380000
@@ -2811,7 +2811,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100115 ON SR-2789, BRIDGE #100308 ON SR-2419, AND BR IDGE #100380 ON SR-2432.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 15",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 26.3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569700000
@@ -3601,7 +3601,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 29 OVER SOUTH BRANCH LITTLE WHITE OAK CREEK ON NC 9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "POLK Bridge 29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.32,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 69.39,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758189600000
@@ -3830,7 +3830,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100295 ON SR-1224 OVER I-40 IN BUNCOMBE COUNTY AND B RIDGE #560528 ON US 25/70 IN MADISON COUNTY",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Rehabilitation and LMC Overlay",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 34.46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1224",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760521320000
@@ -4005,7 +4005,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 77 ON AVENT RD/ITA RD OVER FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sanford Fishing Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 78.47,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.66,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1506",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761749760000
@@ -6817,6 +6817,56 @@
           [
             -78.72451152429896,
             35.84541933350991
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 174850,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00430",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HB-0048   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HB-0048   ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 5,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 343 ON SR 1606 (DOUBLE SPRINGS CHURCH ROAD) OVER CRAN BERRY CREEK",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Ashe County Bridge 343",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1606",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1781257500000
+      },
+      "geometry": {
+        "points": [
+          [
+            -81.30049981099606,
+            36.452983417053765
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 175250,
+        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00527",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 770369 OVER RICHLAND SWAMP ON SR 1515 (UNION CHAPEL R OAD)",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DF00527 Union chapel rd",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1515",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1781254320000
+      },
+      "geometry": {
+        "points": [
+          [
+            -79.11069227929357,
+            34.721577210767904
           ]
         ]
       }
