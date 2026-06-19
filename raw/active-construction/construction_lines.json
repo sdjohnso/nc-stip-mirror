@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-18T13:54:27.028058+00:00",
+  "pull_timestamp": "2026-06-19T13:57:23.464159+00:00",
   "feature_count": 162,
   "features": [
     {
@@ -3538,7 +3538,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE NEUSE RIVER BRIDGE TO EAST OF THURMAN RD IN JAMES CITY.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "James City Design Build (INFRA)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 65.7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1572016020000
@@ -74281,7 +74281,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM TENNESSEE STATE LINE TO WEST OF MM 5.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Gorge Helene CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 58.67,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.75,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1741772100000
@@ -106903,7 +106903,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1725(UNIVERSITY PARKWAY/CHERRYST) AT WEST 14TH STREET IN WINSTON SALEM",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "University Parkway at W 14th St",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 61.06,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.77,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1725",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1768576260000
@@ -110591,7 +110591,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-85 FROM US-74 TO THE SOUTH CAROLINA LINE AND I-85 FROM US- 74 TO US-321.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-85 ITS - BBH",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.58,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.74,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765208040000

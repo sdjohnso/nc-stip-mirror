@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-18T13:54:27.028058+00:00",
-  "feature_count": 258,
+  "pull_timestamp": "2026-06-19T13:57:23.464159+00:00",
+  "feature_count": 257,
   "features": [
     {
       "attributes": {
@@ -327,7 +327,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #9 ON US-64 IN MANNS HARBOR.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Mann Harbor Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 73.23,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1675934220000
@@ -693,7 +693,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #32 OVER SAVANNAH CREEK ON NC-116.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 116 Rhinehart Straight",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-116",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708602240000
@@ -1256,31 +1256,6 @@
           [
             -78.00511386581752,
             33.93722451523548
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 82450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00469",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 78,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 40 OVER RICHLAND SWAMP",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Red Springs Road Culvert & Bridge",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 93.24,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1303",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1732187580000
-      },
-      "geometry": {
-        "points": [
-          [
-            -79.20421586406769,
-            34.79047843914837
           ]
         ]
       }
@@ -2040,7 +2015,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #840082 OVER THE DAN RIVER ON SR-1674 (SHEPPARD MILL ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DAN RIVER BRIDGE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 48.7,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1674",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744208340000
@@ -2546,7 +2521,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US NORTH AND SOUTHBOUND IN STOKES CO FROM LITTLE YADKIN RIVE R BRIDGES(#29 & 30) TO THE SURRY CO LINE",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US  Ultra-thin, N of Little Yadkin River",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.22,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 68.82,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-52",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748872860000
@@ -2745,7 +2720,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #990173 OVER MIDDLE CREEK ON SR-1159, AND BRIDGE #990 156 OVER COLBERT CREEK ON SR-1158.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 14",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.01,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1749569580000
@@ -2977,7 +2952,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "REPLACE BRIDGE #58 OVER US-64 ON NC-109.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC109 & HWY 64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 36.11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.51,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-109",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753359120000
@@ -4288,7 +4263,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES ON SR-2109, SR-2115, SR-2173, AND CULVERT ON SR-1390 .",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 18",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.38,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 18.45,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1390",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1765538280000
@@ -4508,7 +4483,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT #580382 ON SR-1448, CULVERT #800573 ON SR-1312, AND BRIDGE #800572 ON SR-1312.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "DB Brg 382,573 and 572",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 12.84,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1312",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767864540000
@@ -5152,7 +5127,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US-64/US-74A (WEST MOUNTAIN ST) AND NORTH WA SHINGTON ST.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Corner BBQ",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 2.18,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 6.59,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-64",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771252020000
@@ -5822,7 +5797,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 100692 OVER ADKINS BRANCH ON SR-1768 (OLD BURNSVILLE RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Buncombe Bridge 692 RE Burns",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 21.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1768",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1774535880000
