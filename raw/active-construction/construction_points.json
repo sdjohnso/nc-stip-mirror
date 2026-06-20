@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-19T13:57:23.464159+00:00",
+  "pull_timestamp": "2026-06-20T12:22:03.513576+00:00",
   "feature_count": 257,
   "features": [
     {
@@ -718,7 +718,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #94008 ON SR 1227 (NORTH FORK ROAD) AND CULVERT #9423 07 ON SR 1233 OVER NORTH FORK CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "North Fork Rd Bridge and Culvert",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 50.87,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1227",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1708528680000
@@ -1171,7 +1171,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 BUSINESS AT SHOTWELL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-70 Bus & Shotwell Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 87.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 88.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1553",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1725633480000
@@ -3472,7 +3472,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #280067 AND #280068 OVER SR-1192 ON US-29/US-70.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-29/70 over West 5th Avenue",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758099000000
@@ -3605,7 +3605,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #630036 OVER FISHING CREEK ON NC-561.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRIDGE 36 FISHING CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 25.33,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 29.98,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-561",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758625140000
@@ -3805,7 +3805,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #860008 OVER LITTLE TENNESSEE RIVER ON US-19/74.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Fontana Bridge Preservation",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 19.66,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 28.91,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1761041760000
@@ -4512,7 +4512,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #770175 OVER LUMBER RIVER ON SR-1600 (W 5TH ST).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge 770175 Over Lumber River W. 5th",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.53,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.09,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1600",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767779460000
@@ -4941,7 +4941,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "CULVERT # BP-005-2831 ON SR 1577 (JAKE BLACKBURN ROAD) OVER LITTLE PHOENIX CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Jake Blackburn Rd.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 57.54,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1577",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770806700000

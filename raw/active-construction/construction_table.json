@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-06-19T13:57:23.464159+00:00",
+  "pull_timestamp": "2026-06-20T12:22:03.513576+00:00",
   "feature_count": 64,
   "features": [
     {
@@ -36,23 +36,6 @@
         "Route": "US-74A",
         "PhysicalDivisionNumber": 13,
         "ContractActiveDate": 1778228400000
-      }
-    },
-    {
-      "attributes": {
-        "OBJECTID": 244,
-        "ContractNumber": "C205153",
-        "ContractType": "Other",
-        "TipReference": " HS-2401P  ",
-        "TIP": "HS-2401P  ",
-        "CountyNumber": 46,
-        "LocationsDescription": "US-158/US-258 FROM 0.56 MILES WEST OF SR-1157 (POWELL RD) TO  0.60 MILES EAST OF SR-1160 (BENTHALL BRIDGE RD).",
-        "ContractNickname": "Roudabouts Murfreesboro US 158",
-        "ContractStatus": "ACTIVE",
-        "CompletionPercent": 0.0,
-        "Route": "US-158",
-        "PhysicalDivisionNumber": 1,
-        "ContractActiveDate": 1781690940000
       }
     },
     {
@@ -755,6 +738,23 @@
     {
       "attributes": {
         "OBJECTID": 364,
+        "ContractNumber": "DI00381",
+        "ContractType": "Other",
+        "TipReference": null,
+        "TIP": null,
+        "CountyNumber": 85,
+        "LocationsDescription": "5 SECTIONS OF SECONDARY ROUTES IN STOKES COUNTY",
+        "ContractNickname": "Stokes AST 2026",
+        "ContractStatus": "ACTIVE",
+        "CompletionPercent": 0.0,
+        "Route": "SR-1649",
+        "PhysicalDivisionNumber": 9,
+        "ContractActiveDate": 1781858880000
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 365,
         "ContractNumber": "DI00382",
         "ContractType": "Other",
         "TipReference": " HS-2409D  , HS-2409F  , HS-2409G  , HS-2409H  , HS-2409I  , HS-2409J  ",
@@ -771,7 +771,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 368,
+        "OBJECTID": 369,
         "ContractNumber": "DJ00556",
         "ContractType": "Other",
         "TipReference": " BO-2410C  ",
@@ -788,7 +788,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 406,
+        "OBJECTID": 407,
         "ContractNumber": "DK00474",
         "ContractType": "Other",
         "TipReference": " HS-2411G  ",
@@ -805,7 +805,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 407,
+        "OBJECTID": 408,
         "ContractNumber": "DK00475",
         "ContractType": "Other",
         "TipReference": " HS-2411D  ",
@@ -822,7 +822,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 428,
+        "OBJECTID": 429,
         "ContractNumber": "DM00455",
         "ContractType": "Other",
         "TipReference": null,
@@ -831,7 +831,7 @@
         "LocationsDescription": "VARIOUS PRIMARY AND SECONDARY ROUTES",
         "ContractNickname": "LONG LIFE PAVEMENT MARKINGS 2024",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 47.54,
+        "CompletionPercent": 76.15,
         "Route": "NC-108",
         "PhysicalDivisionNumber": 13,
         "ContractActiveDate": 1737562260000
@@ -839,7 +839,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 443,
+        "OBJECTID": 444,
         "ContractNumber": "DN00780",
         "ContractType": "Other",
         "TipReference": null,
@@ -856,7 +856,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 445,
+        "OBJECTID": 446,
         "ContractNumber": "DN01034",
         "ContractType": "Other",
         "TipReference": null,
@@ -873,7 +873,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 452,
+        "OBJECTID": 453,
         "ContractNumber": "DN01075",
         "ContractType": "Other",
         "TipReference": null,
@@ -890,7 +890,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 456,
+        "OBJECTID": 457,
         "ContractNumber": "DN01089",
         "ContractType": "Other",
         "TipReference": null,
@@ -907,7 +907,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 457,
+        "OBJECTID": 458,
         "ContractNumber": "DN01091",
         "ContractType": "Other",
         "TipReference": null,
@@ -924,7 +924,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 458,
+        "OBJECTID": 459,
         "ContractNumber": "DN01092",
         "ContractType": "Other",
         "TipReference": null,
@@ -941,7 +941,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 460,
+        "OBJECTID": 461,
         "ContractNumber": "DN01096",
         "ContractType": "Other",
         "TipReference": null,
@@ -958,7 +958,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 462,
+        "OBJECTID": 463,
         "ContractNumber": "DN01102",
         "ContractType": "Other",
         "TipReference": " HS-2414J  , HS-2414K  , HS-2414L  , HS-2414M  ",
@@ -975,7 +975,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 464,
+        "OBJECTID": 465,
         "ContractNumber": "DN01116",
         "ContractType": "Other",
         "TipReference": null,
@@ -992,7 +992,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 470,
+        "OBJECTID": 471,
         "ContractNumber": "DN01128",
         "ContractType": "Other",
         "TipReference": null,
@@ -1009,7 +1009,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 473,
+        "OBJECTID": 474,
         "ContractNumber": "DN01132",
         "ContractType": "Other",
         "TipReference": null,
@@ -1026,7 +1026,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 475,
+        "OBJECTID": 476,
         "ContractNumber": "DN01136",
         "ContractType": "Other",
         "TipReference": " BO-2414A  ",
@@ -1043,7 +1043,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 476,
+        "OBJECTID": 477,
         "ContractNumber": "DN01138",
         "ContractType": "Other",
         "TipReference": " BO-2414   , HS-2014   , HS-2014AD , HS-2014Z  ",
@@ -1060,7 +1060,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 478,
+        "OBJECTID": 479,
         "ContractNumber": "DN01141",
         "ContractType": "Other",
         "TipReference": " BO-2414D  ",
@@ -1077,7 +1077,7 @@
     },
     {
       "attributes": {
-        "OBJECTID": 479,
+        "OBJECTID": 480,
         "ContractNumber": "DN01143",
         "ContractType": "Other",
         "TipReference": null,

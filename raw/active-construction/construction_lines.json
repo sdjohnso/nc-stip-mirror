@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-19T13:57:23.464159+00:00",
-  "feature_count": 162,
+  "pull_timestamp": "2026-06-20T12:22:03.513576+00:00",
+  "feature_count": 163,
   "features": [
     {
       "attributes": {
@@ -123493,6 +123493,157 @@
             [
               -82.5255134805822,
               35.48491882764429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "attributes": {
+        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 112261,
+        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C205153",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2401P  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2401P  ",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 46,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-158/US-258 FROM 0.56 MILES WEST OF SR-1157 (POWELL RD) TO  0.60 MILES EAST OF SR-1160 (BENTHALL BRIDGE RD).",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roudabouts Murfreesboro US 158",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-158",
+        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 1,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1781690940000
+      },
+      "geometry": {
+        "paths": [
+          [
+            [
+              -77.13303297376262,
+              36.433661404422054
+            ],
+            [
+              -77.13166695036529,
+              36.43284734090386
+            ],
+            [
+              -77.13040779765333,
+              36.43217540769142
+            ],
+            [
+              -77.12923113918374,
+              36.43153823147569
+            ],
+            [
+              -77.12795566377835,
+              36.43083907591674
+            ],
+            [
+              -77.126688232866,
+              36.430160302012034
+            ],
+            [
+              -77.12604719609178,
+              36.42980714614047
+            ],
+            [
+              -77.12475381518333,
+              36.429112845922866
+            ],
+            [
+              -77.12381530050688,
+              36.42868937132263
+            ],
+            [
+              -77.12270431842808,
+              36.42826427004667
+            ],
+            [
+              -77.12157395955373,
+              36.42786858453736
+            ],
+            [
+              -77.12056479675724,
+              36.427596326982304
+            ],
+            [
+              -77.11919862710904,
+              36.42729159130548
+            ],
+            [
+              -77.11860664450597,
+              36.4271668199325
+            ],
+            [
+              -77.11771794441066,
+              36.42697824469924
+            ],
+            [
+              -77.11576623851289,
+              36.426602522676625
+            ],
+            [
+              -77.11435723897425,
+              36.42634981863598
+            ],
+            [
+              -77.11276911242793,
+              36.42601742835858
+            ],
+            [
+              -77.11108779007665,
+              36.425673586333794
+            ],
+            [
+              -77.10981156040133,
+              36.42541361293027
+            ],
+            [
+              -77.10770637269721,
+              36.42499092473375
+            ],
+            [
+              -77.1061409724262,
+              36.42466995170891
+            ],
+            [
+              -77.10463166397311,
+              36.4243134250086
+            ],
+            [
+              -77.10361562321972,
+              36.42401273472583
+            ],
+            [
+              -77.10228066700763,
+              36.42361354442702
+            ],
+            [
+              -77.10078328263027,
+              36.42315103576411
+            ],
+            [
+              -77.09949233845596,
+              36.4227619176331
+            ],
+            [
+              -77.09848762660529,
+              36.42252267327467
+            ],
+            [
+              -77.09771198168863,
+              36.42240676903874
+            ],
+            [
+              -77.0968391529153,
+              36.422268256229565
+            ],
+            [
+              -77.09572141169171,
+              36.42217316174484
+            ],
+            [
+              -77.09500091770985,
+              36.422096911875094
             ]
           ]
         ]
