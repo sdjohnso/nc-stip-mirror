@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-22T15:46:13.140003+00:00",
-  "feature_count": 257,
+  "pull_timestamp": "2026-06-23T13:33:16.073721+00:00",
+  "feature_count": 255,
   "features": [
     {
       "attributes": {
@@ -431,7 +431,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-87 AT NC-11 CONSTRUCT INTERCHANGE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC87/NC11 Interchange",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 75.05,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 76.73,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-11",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1690277280000
@@ -843,7 +843,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #28 OVER LONG CREEK ON NC-210.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Pender Bridge #28 - NC 210 on Long Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.89,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.06,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-210",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 3,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1717066620000
@@ -2040,7 +2040,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "LENOIR BRIDGE 168 OVER BRIERY RUN ON SR 1578",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bridge Replacement Over Briery Run",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.65,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 81.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1578",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1744300980000
@@ -2293,7 +2293,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE 940095, BRIDGE 940178, BRIDGE 940258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Watauga 95, 178, & 258",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.86,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 66.79,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1214",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1747120740000
@@ -2927,7 +2927,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERCHANGE AT I-85 AND I-485 WEST OF CHARLOTTE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-6016  I-485 and I-85 CMGC",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 43.02,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 46.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-85",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753344600000
@@ -3413,31 +3413,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 126450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DJ00577",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " SM-6110F  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "SM-6110F  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 90,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF US HWY 74 AND HAYES ROAD (SR 1379)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Xover@ US74/Hayes Rd",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.42,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757951100000
-      },
-      "geometry": {
-        "points": [
-          [
-            -80.62191230799472,
-            35.0524803657423
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 126451,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DK00432",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -3447,7 +3422,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WILKES 221 ON SR 1939 (BILLINGS HILL CHURCH ROAD) OVER SPARK S CREEK",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Billings Hill Church Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 44.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.72,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1939",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1757923980000
@@ -3630,7 +3605,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "WINSTON ROAD AT GUY ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Winston and Guy Road Intersection",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 63.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 79.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1550",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1758712440000
@@ -4433,7 +4408,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "STRUCTURE 271 OVER MILL CREEK ON SR 1818 (NEILS EDDY ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Neils Eddy Rd Bridge",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 31.19,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.38,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1818",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1767624600000
@@ -5152,7 +5127,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #800036 OVER SECOND BROAD RIVER ON US-74 BUSINESS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "BRG 36 OVER 2ND BROAD RIVER ON US-74 BUS",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.3,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-74 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1771252440000
@@ -5607,31 +5582,6 @@
           [
             -78.54228034771123,
             36.146414388081546
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 158450,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DM00494",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": null,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 11,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #100079 ON NC-9 OVER BROAD RIVER",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-9 Bridge #100079",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 20.18,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773663840000
-      },
-      "geometry": {
-        "points": [
-          [
-            -82.18329810033536,
-            35.83327087378757
           ]
         ]
       }
