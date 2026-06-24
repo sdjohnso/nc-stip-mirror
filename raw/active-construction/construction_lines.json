@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-23T13:33:16.073721+00:00",
-  "feature_count": 162,
+  "pull_timestamp": "2026-06-24T13:08:56.610998+00:00",
+  "feature_count": 161,
   "features": [
     {
       "attributes": {
@@ -1234,49 +1234,6 @@
             [
               -78.69363563955926,
               35.80361311450945
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectLine.OBJECTID": 98,
-        "GdbGisuPub.HICAMS.ActiveProjectLine.ContractNumber": "C204248",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " R-5735    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "R-5735    ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 20,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-19/74/64/129 FROM END OF 4 LANE DIVIDED SECTION TO US-19 BUSINESS (HIWASSEE ST).",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 19/74/64/129 MURPHY",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 86.35,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-19",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1566561780000
-      },
-      "geometry": {
-        "paths": [
-          [
-            [
-              -84.03569715361445,
-              35.080182926597
-            ],
-            [
-              -84.03538799714562,
-              35.0801692510696
-            ],
-            [
-              -84.03504923850399,
-              35.08019871368826
-            ],
-            [
-              -84.03479819663143,
-              35.08023188739575
-            ],
-            [
-              -84.0344868891479,
-              35.08029395853041
             ]
           ]
         ]
@@ -29610,7 +29567,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1339 (ROARING BRANCH ROAD) FROM SR 1340 (WEST MILL CREEK ROAD) TO SR 1332 (JACK JONES ROAD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roaring Branch Road",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.04,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 74.4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1339",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1692031980000
@@ -35763,7 +35720,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-55 FROM NC-210 TO SR-4809 (JICARILA LANE).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Angier Bypass Phase B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 52.07,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 53.1,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-55",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1670576100000
@@ -55269,7 +55226,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-26/I-240 FROM SOUTH OF SR-3548 TO NORTH OF SR-1781 AND SR- 1477 FROM SR-1517 TO SR-1781.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "2513BD - Design Build",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.99,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 22.21,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-26",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1720011960000
@@ -55955,7 +55912,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-158 FROM MULTI-LANES NORTH OF US-421/I-40 BUSINESS TO SR- 1965 (BELEWS CREEK ROAD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-158 Widening 421 to Belews Creek",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.57,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 40.27,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 9,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1722588900000
@@ -65217,7 +65174,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-42 FROM WEST OF SR-2734 (MARY HOBBY ROAD) TO EAST OF SR-5 367 (WINTERTON DRIVE) AND A TURN LANE ON NC 42 FOR SR-2727.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC-42 Culvert Extension",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.34,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 70.99,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-42",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1736356680000
@@ -100788,7 +100745,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-9 FROM 2700' NORTH OF THE US 74A / NC-9 INTERSECTION TO T HE BUNCOMBE COUNTY LINE.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 9 - UPPER SECTION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.54,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 10.42,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-9",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1759220940000

@@ -1,8 +1,8 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-23T13:33:16.073721+00:00",
-  "feature_count": 255,
+  "pull_timestamp": "2026-06-24T13:08:56.610998+00:00",
+  "feature_count": 254,
   "features": [
     {
       "attributes": {
@@ -1745,7 +1745,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 55 ON SR 1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Finger Bridge Road Catawba County",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 71.48,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 94.09,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1139",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742388420000
@@ -2165,7 +2165,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRG #990100 AND BRG #990062 BOTH ON SR-1153, AND BRG #990097  ON SR-1152.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "EEDB Group 6",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 14.36,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 16.07,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NONE-",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1746698160000
@@ -2471,7 +2471,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 (SOUTH CHURCH ST) AT SR-1158 (HUFFMAN MILL RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "HUFFMAN MILL ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 60.76,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 64.19,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1158",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1748424660000
@@ -2835,31 +2835,6 @@
     },
     {
       "attributes": {
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 114050,
-        "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DF00500",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TipReference": " HS-2006I  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.TIP": "HS-2006I  ",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CountyNumber": 78,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 710 AT SR 1340 (PROSPECT ROAD)",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Roundabout @ NC710 & Prospect Road",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.69,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-710",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 6,
-        "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750926420000
-      },
-      "geometry": {
-        "points": [
-          [
-            -79.21297759764695,
-            34.721017141308316
-          ]
-        ]
-      }
-    },
-    {
-      "attributes": {
         "GdbGisuPub.HICAMS.ActiveProjectPoint.OBJECTID": 114450,
         "GdbGisuPub.HICAMS.ActiveProjectPoint.ContractNumber": "DE00353",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractType": "Other",
@@ -2869,7 +2844,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "VARIOUS LOCATIONS IN WAKE CO",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "NC 50 and Lake Wheeler Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 72.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 85.33,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1750949820000
@@ -3177,7 +3152,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "AT BRIDGE #430170 SR 1876 (SONOMA RD) & #430169 SR 1105 (MAX  THOMPSON RD) OVER WEST & EAST FORKS OF PIGEON RIVER",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Sonoma & Max Thompson Bridges",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 37.44,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 42.2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1876",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 14,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1753974720000
@@ -3730,7 +3705,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE NO. 279 ON SR 1832 (EAGLE MILL RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Eagle Mills Rd Bridge Replacement",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 30.29,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.76,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1832",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 12,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1760115480000
@@ -5431,7 +5406,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGE #950020 OVER CSX TRANSPORTATION RAILROAD TRACKS ON US -70 BUS.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Bakery Bridge Goldsboro",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.84,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70 B",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 4,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1772549160000
@@ -5539,7 +5514,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC-197",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "197S EWP1-Bridges 135, 136, 287",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 13.78,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 17.37,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1102",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1773318900000
@@ -6441,7 +6416,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION OF SR-1006 (OLD STAGE RD) AND SR-2736 (ROCK SER VICE STATION RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "Old Stage",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 4.63,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1006",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1779464400000
