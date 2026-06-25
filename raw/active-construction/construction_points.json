@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Points (Layer 0)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/0",
-  "pull_timestamp": "2026-06-24T13:08:56.610998+00:00",
+  "pull_timestamp": "2026-06-25T13:08:18.795414+00:00",
   "feature_count": 254,
   "features": [
     {
@@ -223,7 +223,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "BRIDGES #57 AND #59 OVER IRISH BUFFALO CREEK ON US-29 AND US -601.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US 29/ bridges 57 and 59 over Irish Buff",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 82.13,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 83.04,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-29",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 10,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1691404440000
@@ -4816,7 +4816,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "INTERSECTION AT US-321 AND SR-1108 (MISSION RD).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-321/SR-1108 (MISSION RD) INTERSECTION",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 11.24,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.94,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-321",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 11,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1770202560000
@@ -6316,7 +6316,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "SR 1390 (OPTIMIST FARM RD) AND SR 1386 (BELLS LAKE RD)",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "OPTIMIST FARM AND BELLS LAKE ROAD",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 0.0,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 15.52,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "SR-1386",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1779111240000

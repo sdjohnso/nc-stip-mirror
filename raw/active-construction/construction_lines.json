@@ -1,7 +1,7 @@
 {
   "layer": "Active Construction Lines (Layer 1)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/1",
-  "pull_timestamp": "2026-06-24T13:08:56.610998+00:00",
+  "pull_timestamp": "2026-06-25T13:08:18.795414+00:00",
   "feature_count": 161,
   "features": [
     {
@@ -31699,7 +31699,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-70 FROM THE HAVELOCK BYPASS TO EAST OF SR-1116 (THURMAN R D).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "C - Havelock to Thurman",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 32.16,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 33.35,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-70",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 2,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1680003300000
@@ -46448,7 +46448,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "I-40 FROM MILEMARKER 45.25 TO MILEMARKER 50.",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "I-40 Pavement Rehab MM 45.25 to MM 50",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 90.96,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 91.05,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "I-40",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 13,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1687451220000
@@ -78257,7 +78257,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "US-401 FROM SR-1467/SR-2839 (ALLEN ST) TO SR-1010 (TEN-TEN R D).",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": "US-401 from Allen St to Ten-Ten Rd",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 38.11,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 45.47,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "US-401",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 5,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1742548560000
@@ -107726,7 +107726,7 @@
         "GdbGisuPub.HICAMS.ActiveContractsMap.LocationsDescription": "NC 54 FROM WESTBROOK DR IN CARRBORO TO W OF US15/501/NC 86 I NTCHG IN CHAPEL HILL",
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractNickname": null,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractStatus": "ACTIVE",
-        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 5.63,
+        "GdbGisuPub.HICAMS.ActiveContractsMap.CompletionPercent": 9.92,
         "GdbGisuPub.HICAMS.ActiveContractsMap.Route": "NC-54",
         "GdbGisuPub.HICAMS.ActiveContractsMap.PhysicalDivisionNumber": 7,
         "GdbGisuPub.HICAMS.ActiveContractsMap.ContractActiveDate": 1769682720000

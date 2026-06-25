@@ -1,7 +1,7 @@
 {
   "layer": "HiCAMS Attributes Table (Layer 3)",
   "source_url": "https://gis11.services.ncdot.gov/arcgis/rest/services/NCDOT_RoadProjects/NCDOT_ActiveConstructionProjects/MapServer/3",
-  "pull_timestamp": "2026-06-24T13:08:56.610998+00:00",
+  "pull_timestamp": "2026-06-25T13:08:18.795414+00:00",
   "feature_count": 64,
   "features": [
     {
@@ -287,7 +287,7 @@
         "LocationsDescription": "DIVISION WIDE PRIMARY AND INTERSTATE RAMPS",
         "ContractNickname": "WRONG WAY PVMT MARKINGS",
         "ContractStatus": "ACTIVE",
-        "CompletionPercent": 44.41,
+        "CompletionPercent": 57.44,
         "Route": "I-587",
         "PhysicalDivisionNumber": 4,
         "ContractActiveDate": 1736426340000
