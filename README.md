@@ -1,3 +1,12 @@
+> ## ⚠️ DEPRECATED — 2026-06-26
+>
+> This mirror is **retired and superseded** by the `county-data-pipeline`
+> `_nc-statewide` STIP loop. NCDOT STIP data is now delivered to Reilize via a
+> private R2 seed/delta pipeline that Reilize loads into D1 (all 100 counties,
+> weekly full re-seed + daily HiCAMS-only deltas). Reilize prod reads R2 as of
+> 2026-06-26; the legacy `sync-ncdot-to-d1.py` mirror sync has been decommissioned.
+> This repository is archived (read-only) and no longer updates.
+
 # NC STIP Mirror
 
 A public mirror of North Carolina Department of Transportation (NCDOT) transportation project data.
